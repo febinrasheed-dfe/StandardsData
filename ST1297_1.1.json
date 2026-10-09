@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-06-18T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "To prepare, build, set up, and operate functioning systems for creative productions.",
   "level": 3,
@@ -405,7 +405,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0689",
-  "tbMainContact": "John.McEvoy@whitelight.ltd.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "4Wall Entertainment, Adlib, Albany Theatre, London, Ambassador Theatre Group, Association of British Theatre Technicians (ABTT), BECTU Certified Branch representative, Belgrade Theatre, Coventry, Birmingham Repertory Theatre, Britannia Row Productions, Encore, Entec Sound & Light, Factory Grips, Fairfield Halls, Fineline Lighting, Glyndebourne, John Young Creative Industries (JYCI), LW Theatres, MBSE UK, National Theatre, Neg Earth Lights, Oldham Coliseum, Panalux, Panaz, PixiPixel, PKE Lighting, PRG UK, Production Services Association (PSA), Quartermaster Studios, Roundhouse, Royal Albert Hall, Royal Opera House  London, Sadlers Wells Theatre, Screenskills industry body, SFL, Skan PA Hire, South Bank Centre, Stage Electrics, Tait Stage Technologies, The North Wall, Oxford, The Old Rep Theatre, White Light",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -436,7 +436,7 @@
   "clusterId": "60",
   "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
   "createdDate": "2025-12-08T09:39:45 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-06-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1297",
@@ -881,5 +881,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2026-12-09T00:00:00"
 }
