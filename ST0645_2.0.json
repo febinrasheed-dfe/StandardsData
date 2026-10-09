@@ -1,0 +1,471 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 285,
+  "referenceNumber": "ST0645",
+  "learningAimClassCode": "",
+  "title": "Train driver",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0645",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-30T00:00:00",
+  "earliestStartDate": "2027-01-14T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Train Drivers are responsible for driving trains in a safe, punctual, economic manner over various routes.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "minimumHoursForCompliance": "466",
+  "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Transport and logistics",
+  "keywords": [
+    "Train driver",
+    "driving trains",
+    "train",
+    "transport"
+  ],
+  "jobRoles": [
+    "Train driver"
+  ],
+  "entryRequirements": "&lt;p&gt;Individual employers must meet minimum requirements set by the Train Driving Licences and Certificates Regulations 2010; due to the nature of the role candidates must meet medical standards of physical health these are set out within the above regulations. To enter into an apprenticeship scheme the minimum age of a train driver is 17 years 6 months.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0645-in-revision?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.3 Transportation operations and maintenance",
+  "version": "2.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the transport sector. Rail is a vital component of the United Kingdoms infrastructure with train companies providing crucial rail services needed by passengers. Trains are also key to the delivery of freight across the nation, and specialist trains provide important rail network maintenance functions. Train companies operate both local, regional, national and international train services. Employers are therefore mainly large-sized commercial organisations. &amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to drive trains in a safe, punctual, economic manner in accordance with rail rules, regulations and procedures.&lt;/p&gt;\n&lt;p&gt;A Train Driver could work in a number of rail environments, such as high speed, passenger, freight, underground, metro, suburban, cross border, depots, sidings or maintenance sheds; moving passengers, goods, empty coaching stock or driving on-track machines to perform infrastructure maintenance work.&lt;/p&gt;\n&lt;p&gt;A Train Driver will work shifts that include weekends, evenings and nights. On freight or engineering trains, train drivers usually tend to be rostered more night shifts. On long-distance routes, there may be a need for overnight stays. Train Drivers can be required to work for long periods of time on their own, they must maintain a high level of concentration and make instant complex decisions during normal and degraded conditions e.g. severe weather conditions, infrastructure failures and emergency working.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with passengers, on-board staff, emergency services, the signaller, crossing attendant, operations control, other rail industry personnel or the British Transport and the civilian police. They must communicate clearly and accurately with stakeholders to provide a safe and effective rail operation that is also compliant with regulations.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will typically be responsible for passengers and/or goods on the train. Main duties typically include responsibility for ensuring the train enters and finishes service correctly and driving the train safely and to time. &amp;nbsp;It is crucial that Train Drivers know the features of the route they will be following and how to react to these features and also react to changing conditions. Train Drivers must ensure the correct protocol is followed consistently throughout the duration of the journey, for instance they must provide vital reports on train functions. They have a key role in keeping any passengers and other stakeholders up to date.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;There are strict rules about who can be in the train drivers cab and so a train driver can expect to be physically apart from others onboard for much of the time. They hold a high degree of accountability for the safety and security of the train and those on board. They will typically work to a train scheduler who allocates their workload and a senior line manager whom they report into.&lt;/p&gt;\n&lt;p&gt;Before completing the apprenticeship, all apprentices must attain their two-part train drivers licence, regulated by the Office of Rail and Road.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "b29e2403-91fc-4898-8587-c7caefa1f94c",
+      "detail": "Health and safety legislation and statutory operating regulations relevant to own role and organisation: industry procedures, safety requirements and instructions. Where and how to access information about changes to legislation and regulations."
+    },
+    {
+      "knowledgeId": "6c792e6d-0fba-4eeb-9f1a-b6bdbe677165",
+      "detail": "Requirements and processes for ensuring rail safety and security on or near the line, trains and at stations and depots both locally, methods to report unsafe practice and including PREVENT protocol."
+    },
+    {
+      "knowledgeId": "d82e67b8-7206-488c-a26e-c312131dc725",
+      "detail": "Regulation applicable to rail operation, licensing and certification of train drivers."
+    },
+    {
+      "knowledgeId": "c9e6e627-78f7-485f-8587-945e2ef6af7e",
+      "detail": "Procedures and methods for transfer of information across both internal and external stakeholders: report forms, radio protocol and communications equipment identification including emergency, lineside, level crossing and signal post telephones. Global System Mobile Communications – Railways (GSM-R) operating principles."
+    },
+    {
+      "knowledgeId": "9ffa5c6a-b5d8-46a0-8562-3863a43cbbc7",
+      "detail": "Impact of non-technical skills on safe, efficient rail services."
+    },
+    {
+      "knowledgeId": "f9bbb58a-e165-4846-a93f-c7832f28352a",
+      "detail": "Organisational procedures for the response and management of operational incidents and emergencies during degraded and emergency working, within limits of own responsibility."
+    },
+    {
+      "knowledgeId": "dc605b4f-6e83-415d-8299-a475c8e39dd6",
+      "detail": "Specific professional and personal demands of the role, including fatigue management, shift work and personal wellbeing."
+    },
+    {
+      "knowledgeId": "996c6c1d-3dfd-427f-9846-b2bca4cf998e",
+      "detail": "The range of traction types within own area of responsibility, the procedures for bringing trains in and out of service and shunting operations."
+    },
+    {
+      "knowledgeId": "e287ba9b-59aa-4ac4-907f-2ad705f5f4e1",
+      "detail": "Procedures following identification of faults or hazards."
+    },
+    {
+      "knowledgeId": "d93ba375-8287-4f13-9307-948a96aeb225",
+      "detail": "Train dispatch procedures."
+    },
+    {
+      "knowledgeId": "b691527c-7640-4173-b8c7-bed308b8afa4",
+      "detail": "Introduction to and the importance of route learning."
+    },
+    {
+      "knowledgeId": "7520ad06-348f-47a9-a5a4-83ef046db329",
+      "detail": "Dangerous goods relevant to own role and organisation. Organisational procedures for action and reporting of dangerous goods in an emergency."
+    },
+    {
+      "knowledgeId": "94bb1673-a432-4b17-88c3-937c707aa869",
+      "detail": "Special operational conditions and requirements relevant to your role."
+    },
+    {
+      "knowledgeId": "6f31c420-c61e-49a8-8d05-a39d3a7ae2d3",
+      "detail": "The rail industry passenger and freight organisations, i.e. rail transport undertakings and other organisations, for example, regulatory body."
+    },
+    {
+      "knowledgeId": "b8eb95a2-71c6-4844-bba8-e90f34392424",
+      "detail": "Techniques for maintaining personal competencies and supporting continuous professional development."
+    },
+    {
+      "knowledgeId": "fc5f6648-114b-4c24-b7b1-9c91d694c865",
+      "detail": "Environmental and sustainability regulations and guidance; environmental hazards that can arise from train operations. Equity, diversity and inclusion (EDI) policies. "
+    },
+    {
+      "knowledgeId": "dd2b4581-6af0-4126-b673-032e91a17f42",
+      "detail": "Verbal and written communication techniques; giving and receiving information; adapting style to audience."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "12081b5b-f3bf-496b-bac6-d9c899e7624b",
+      "detail": "Acts professionally, shows commitment and demonstrates robust ethics."
+    },
+    {
+      "behaviourId": "6ef335c4-b048-4896-b739-23c79eeba4ac",
+      "detail": "Demonstrates resilience and manages pressure well."
+    },
+    {
+      "behaviourId": "944209a1-c941-4e1b-92fb-ce087474c44d",
+      "detail": "Accountable for own actions"
+    },
+    {
+      "behaviourId": "3a8a250e-b42c-41f2-b415-df9bd2b750b3",
+      "detail": "Safety first mindset, confident to challenge poor practice."
+    },
+    {
+      "behaviourId": "a2744f9e-3e53-472b-af81-dbfddd3eb8e3",
+      "detail": "Demonstrates the ability to reflect and consistently self appraise their own performance to improve."
+    },
+    {
+      "behaviourId": "61940a5e-3bf2-4521-9f68-0766edec6ce9",
+      "detail": "Supports environmental sustainability in the railway environment."
+    },
+    {
+      "behaviourId": "13be9500-4e9a-49a2-90b7-2568ff1d6a12",
+      "detail": "Seeks to support business goals and maintain an awareness of economic challenges "
+    },
+    {
+      "behaviourId": "c81e023e-c753-4621-9606-079f5d6fac69",
+      "detail": "Collaborate with others to support colleagues and deliver train services. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "9eb1f441-dfdb-4a2e-a02e-c03548e095b6",
+      "detail": "Monitor own area of responsibility to ensure compliance with rail legislation, regulation and organisation procedures."
+    },
+    {
+      "skillId": "1a6619d8-742f-44cc-9501-c1387f06ca3c",
+      "detail": "Demonstrate safe working, recognise and challenge unsafe practice according to organisational procedures."
+    },
+    {
+      "skillId": "62e34914-2326-498c-80b8-69e1ac3ef8ea",
+      "detail": "Maintain a secure environment and respond to security issues in line with organisational procedures"
+    },
+    {
+      "skillId": "e70b2968-9504-42ad-bca8-aee4c71a47c0",
+      "detail": "Communicate information about the train or journey to internal or external audiences using the appropriate method during normal, degraded and emergency situations."
+    },
+    {
+      "skillId": "14787779-5e97-4cd2-b445-f7f564561f09",
+      "detail": "Apply critical thinking to assess situations and make informed, timely decisions that support safe operations."
+    },
+    {
+      "skillId": "08a0f68a-4afa-4103-b2b2-eb1ecae093c1",
+      "detail": "Follow degraded working and emergency working procedures in the event of an incident."
+    },
+    {
+      "skillId": "eaa1f555-0614-4fd6-8be9-c75c4c249e18",
+      "detail": "Manage demands of the role including fatigue and personal wellbeing to sustain safe, efficient rail services."
+    },
+    {
+      "skillId": "1f15df74-8283-46f8-87a5-d646fbc7f508",
+      "detail": "Demonstrate practical handling of your traction types within your own responsibility to the standard required including on mainline and or depots and sidings."
+    },
+    {
+      "skillId": "a1aebdf2-a625-497f-876b-18a575e5204f",
+      "detail": "Diagnose and resolve problems within own area of responsibility."
+    },
+    {
+      "skillId": "e34dc9e1-b5e6-4c0f-a627-ae421df2b997",
+      "detail": "Start trains from different locations and under different circumstances e.g. Driver only operated services and guard operated services from stations and yards."
+    },
+    {
+      "skillId": "5f51aaca-8710-4195-90d1-d8573770a24c",
+      "detail": "Learn and memorise route features within timescales including stations, signal types, junctions, tunnels, line speed."
+    },
+    {
+      "skillId": "5e904497-757f-460b-80a7-0cc171f77d16",
+      "detail": "Manage dangerous goods situations in own area of competency; report and protect other lines in a dangerous goods emergency."
+    },
+    {
+      "skillId": "d68f7b0a-fdfd-4494-b3d8-3b2806b23f52",
+      "detail": "Identify, adapt and comply with operational conditions: traction types and formation, speed restrictions, route availability, heavy axle weight, low adhesion."
+    },
+    {
+      "skillId": "dc9a50c1-4ccf-494a-909f-510a5dd4a3e4",
+      "detail": "Manage speed, braking and handling to optimise fuel economy, maintenance intervention and timetable adherence."
+    },
+    {
+      "skillId": "2d0f190f-e890-4284-a717-48acd6b9c660",
+      "detail": "Carry out and record planned and unplanned CPD activities, evaluating against planned personal and professional development goals."
+    },
+    {
+      "skillId": "f96b759f-d68e-4371-bd83-a9e8aaaba19f",
+      "detail": "Follow procedures in line with environmental and sustainability regulations, standards and guidance; apply equity, diversity and inclusion (EDI) policies."
+    },
+    {
+      "skillId": "e8cc83b4-1235-4ace-b485-6436cb6ce73f",
+      "detail": "Communicate with others using appropriate methods for the audience."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification with apprenticeship assessment",
+  "integratedDegree": "",
+  "tbReference": "TB0356",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Alstom Transport UK Limited, ASLEF, Avanti West Coast, Cross Country Trains, Direct Rail Services Ltd, East Midlands Railway, First Rail, Freightliner, Great Western Railway (GWR), GT Railway, LNER, National Skills Academy for Rail (NSAR), Network Rail, Northern Rail, Rail Delivery Group, South Western Trains, Southeastern, Transpennine Express",
+  "otherInvolvedStakeholders": "",
+  "regulated": true,
+  "regulatedBody": "Office of Rail and Road (ORR)",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Train driver"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Transport",
+  "cluster": "Driver or crewmember",
+  "clusterId": "82",
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
+  "createdDate": "2026-09-30T09:31:04 +00:00",
+  "lastUpdated": "2026-09-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-06-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0645",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0645-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0645-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "e574707c-9fa8-404d-9440-9cb46533f2b0",
+      "title": "UK Train Driving licence",
+      "level": "2",
+      "anyAdditionalInformation": "https://www.orr.gov.uk/sites/default/files/2026-04/tdl-guide-for-train-operators.pdf",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "add25e58-0d73-4632-994e-aa0459482389",
+      "dutyDetail": "Comply with legislation and statutory operating regulations throughout the turn of duty. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12081b5b-f3bf-496b-bac6-d9c899e7624b",
+        "944209a1-c941-4e1b-92fb-ce087474c44d",
+        "3a8a250e-b42c-41f2-b415-df9bd2b750b3"
+      ],
+      "mappedKnowledge": [
+        "b29e2403-91fc-4898-8587-c7caefa1f94c",
+        "6c792e6d-0fba-4eeb-9f1a-b6bdbe677165",
+        "d82e67b8-7206-488c-a26e-c312131dc725",
+        "c9e6e627-78f7-485f-8587-945e2ef6af7e",
+        "fc5f6648-114b-4c24-b7b1-9c91d694c865"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1a6619d8-742f-44cc-9501-c1387f06ca3c",
+        "a1aebdf2-a625-497f-876b-18a575e5204f",
+        "f96b759f-d68e-4371-bd83-a9e8aaaba19f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a78d6303-5009-4b42-9f02-72f265cbca00",
+      "dutyDetail": "Continuously monitor own area of responsibility to ensure compliance with rail legislation and organisational procedures, taking responsibility for maintaining personal competency. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3a8a250e-b42c-41f2-b415-df9bd2b750b3"
+      ],
+      "mappedKnowledge": [
+        "9ffa5c6a-b5d8-46a0-8562-3863a43cbbc7",
+        "94bb1673-a432-4b17-88c3-937c707aa869"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9eb1f441-dfdb-4a2e-a02e-c03548e095b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7089602-3445-4976-981e-f189951cb551",
+      "dutyDetail": "Drive the train in line with organisational requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12081b5b-f3bf-496b-bac6-d9c899e7624b",
+        "6ef335c4-b048-4896-b739-23c79eeba4ac",
+        "944209a1-c941-4e1b-92fb-ce087474c44d",
+        "3a8a250e-b42c-41f2-b415-df9bd2b750b3",
+        "61940a5e-3bf2-4521-9f68-0766edec6ce9",
+        "c81e023e-c753-4621-9606-079f5d6fac69"
+      ],
+      "mappedKnowledge": [
+        "f9bbb58a-e165-4846-a93f-c7832f28352a",
+        "d93ba375-8287-4f13-9307-948a96aeb225",
+        "b691527c-7640-4173-b8c7-bed308b8afa4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "62e34914-2326-498c-80b8-69e1ac3ef8ea",
+        "1f15df74-8283-46f8-87a5-d646fbc7f508",
+        "e34dc9e1-b5e6-4c0f-a627-ae421df2b997",
+        "5f51aaca-8710-4195-90d1-d8573770a24c",
+        "d68f7b0a-fdfd-4494-b3d8-3b2806b23f52",
+        "dc9a50c1-4ccf-494a-909f-510a5dd4a3e4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "29245842-489e-4414-9b61-ad9fbe032d7d",
+      "dutyDetail": "Liaise with customers and/or other stakeholders to ensure an efficient train service. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12081b5b-f3bf-496b-bac6-d9c899e7624b",
+        "944209a1-c941-4e1b-92fb-ce087474c44d",
+        "3a8a250e-b42c-41f2-b415-df9bd2b750b3",
+        "c81e023e-c753-4621-9606-079f5d6fac69"
+      ],
+      "mappedKnowledge": [
+        "dd2b4581-6af0-4126-b673-032e91a17f42"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e70b2968-9504-42ad-bca8-aee4c71a47c0",
+        "e8cc83b4-1235-4ace-b485-6436cb6ce73f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "37c51af5-3313-4d7a-9474-4c5ba2e77bfe",
+      "dutyDetail": "Recognise and adapt to planned/degraded working conditions, mitigating risk.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6ef335c4-b048-4896-b739-23c79eeba4ac",
+        "944209a1-c941-4e1b-92fb-ce087474c44d",
+        "3a8a250e-b42c-41f2-b415-df9bd2b750b3",
+        "c81e023e-c753-4621-9606-079f5d6fac69"
+      ],
+      "mappedKnowledge": [
+        "e287ba9b-59aa-4ac4-907f-2ad705f5f4e1",
+        "7520ad06-348f-47a9-a5a4-83ef046db329"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "14787779-5e97-4cd2-b445-f7f564561f09",
+        "08a0f68a-4afa-4103-b2b2-eb1ecae093c1",
+        "5e904497-757f-460b-80a7-0cc171f77d16"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a956eca1-7182-41f8-ad3e-096f9e93dcf7",
+      "dutyDetail": "Respond to emergencies/incidents in accordance with appropriate procedures. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6ef335c4-b048-4896-b739-23c79eeba4ac",
+        "944209a1-c941-4e1b-92fb-ce087474c44d",
+        "3a8a250e-b42c-41f2-b415-df9bd2b750b3",
+        "c81e023e-c753-4621-9606-079f5d6fac69"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "14787779-5e97-4cd2-b445-f7f564561f09"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ba985ada-f366-4b1f-abf1-7f401106ee2b",
+      "dutyDetail": "Contribute to the commercial success of own organisation through meeting key performance indicators.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12081b5b-f3bf-496b-bac6-d9c899e7624b",
+        "6ef335c4-b048-4896-b739-23c79eeba4ac",
+        "13be9500-4e9a-49a2-90b7-2568ff1d6a12",
+        "c81e023e-c753-4621-9606-079f5d6fac69"
+      ],
+      "mappedKnowledge": [
+        "996c6c1d-3dfd-427f-9846-b2bca4cf998e",
+        "6f31c420-c61e-49a8-8d05-a39d3a7ae2d3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8c339941-89f3-4d37-b954-a536f564e4d7",
+      "dutyDetail": "Complete all necessary reporting (in normal, degraded and emergency circumstances).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "944209a1-c941-4e1b-92fb-ce087474c44d",
+        "c81e023e-c753-4621-9606-079f5d6fac69"
+      ],
+      "mappedKnowledge": [
+        "dd2b4581-6af0-4126-b673-032e91a17f42"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e8cc83b4-1235-4ace-b485-6436cb6ce73f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a7dae89f-f4a8-41c8-8529-eb6194b99c55",
+      "dutyDetail": "Manage own health and well-being to ensure compliance with train driver requirements. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "944209a1-c941-4e1b-92fb-ce087474c44d",
+        "3a8a250e-b42c-41f2-b415-df9bd2b750b3",
+        "a2744f9e-3e53-472b-af81-dbfddd3eb8e3"
+      ],
+      "mappedKnowledge": [
+        "dc605b4f-6e83-415d-8299-a475c8e39dd6",
+        "b8eb95a2-71c6-4844-bba8-e90f34392424"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "eaa1f555-0614-4fd6-8be9-c75c4c249e18",
+        "2d0f190f-e890-4284-a717-48acd6b9c660"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [
+    {
+      "name": "Training provider",
+      "webLink": "",
+      "approved": false
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": false
+    }
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-01-14T00:00:00"
+}
