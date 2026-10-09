@@ -1,0 +1,875 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 0,
+  "referenceNumber": "ST1508",
+  "learningAimClassCode": "",
+  "title": "Veterinary nurse (RCVS)",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1508",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "2026-09-29T00:00:00",
+  "earliestStartDate": "2027-03-25T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Provides individualised care for animals in a vet practice or animal hospital working collaboratively as part of a team and with vet surgeons.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 33,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Agriculture, environmental and animal care",
+  "keywords": [
+    "Veterinary Nurse",
+    "animals",
+    "animal care",
+    "veterinary team",
+    "veterinary practice"
+  ],
+  "jobRoles": [
+    "Registered Veterinary Nurse"
+  ],
+  "entryRequirements": "&lt;p&gt;Learners must evidence capability in numeracy, literacy and science, written and spoken English and mathematics. This would typically include GCSEs at grades 9 to 4 (or A* to C), including English, mathematics and a science subject or equivalent.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1508?view=epa",
+  "ssa1": "3 Agriculture, Horticulture and Animal Care",
+  "ssa2": "3.3 Animal care and veterinary science",
+  "version": "0.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupation&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Veterinary nursing is the supportive care of animals receiving treatment within a veterinary practice. A veterinary nurse works as a member of the veterinary team, providing expert nursing care for sick animals. Veterinary nurses also play a significant role in educating owners on maintaining the health of their pets. They carry out technical work and are skilled in undertaking a range of diagnostic tests, medical treatments and minor surgical procedures, under veterinary direction. Veterinary Nurses are registered professionals and work within the standards and scope of practice defined by the Royal College of Veterinary Surgeons (RCVS) &lt;a href=&quot;http://www.rcvs.org.uk/about-us/the-role-of-the-rcvs/&quot;&gt;http://www.rcvs.org.uk/about-us/the-role-of-the-rcvs/&lt;/a&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Entry Requirements&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Statutory requirement - 5 GCSEs to include Maths, English and Science of grade C and above or equivalent.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements: Knowledge, Skills and Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;226&quot; style=&quot;width: 226px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;529&quot; style=&quot;width: 529px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;The veterinary nurse will require a comprehensive understanding of:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Legislative compliance and regulatory requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;The RCVS Day One Competences for Veterinary Nurses&lt;/p&gt;\n&lt;p&gt;The &lt;a href=&quot;https://www.rcvs.org.uk/setting-standards/advice-and-guidance/code-of-professional-conduct-for-veterinary-nurses/pdf/&quot;&gt;RCVS Code of Professional Conduct&lt;/a&gt; and its associated guidance&lt;/p&gt;\n&lt;p&gt;Organisational requirements and legislation related to a veterinary business and animal welfare&lt;/p&gt;\n&lt;p&gt;The aims of effective health and safety within a veterinary practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Comparative functional anatomy for veterinary nursing practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;Anatomy and physiology in relation to veterinary nursing practice&lt;/p&gt;\n&lt;p&gt;Normal form and function of body systems in a range of species&lt;/p&gt;\n&lt;p&gt;The relationship between normal form and function and the effects of disorder in disease processes and the consequent nursing requirements of sick animals&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Infection control in veterinary practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;The role of infection in animal and human health&lt;/p&gt;\n&lt;p&gt;The principles of disease transmission in veterinary practice&lt;/p&gt;\n&lt;p&gt;The principles of disinfection and sterilisation&lt;/p&gt;\n&lt;p&gt;How to maintain personal hygiene especially in relation to cross-infection&lt;/p&gt;\n&lt;p&gt;The principles of infection monitoring and control&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Materials, equipment and resources&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;Correct usage, handling, storage, maintenance and disposal materials, equipment, instruments and veterinary pharmaceuticals&lt;/p&gt;\n&lt;p&gt;The principles of record keeping&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Veterinary Nursing Care&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;The principles of medical veterinary nursing and support&lt;/p&gt;\n&lt;p&gt;The principles of surgical veterinary nursing and support including anaesthesia&lt;/p&gt;\n&lt;p&gt;The principles of pharmacology and administration of medication&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Emergency and critical care&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;The principles of first aid&lt;/p&gt;\n&lt;p&gt;The principles of nursing support and the triage, stabilisation and treatment of emergency patients&lt;/p&gt;\n&lt;p&gt;Nursing requirements of critically ill or injured animals&lt;/p&gt;\n&lt;p&gt;Intensive nursing care techniques and requirements for a range of species&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Diagnostic techniques for veterinary nurses&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;The principles of radiography and imaging techniques&lt;/p&gt;\n&lt;p&gt;How to take and process radiographs&lt;/p&gt;\n&lt;p&gt;How to handle and store diagnostic images&lt;/p&gt;\n&lt;p&gt;The function and use of laboratory equipment&lt;/p&gt;\n&lt;p&gt;How to collect, prepare and test pathological samples&lt;/p&gt;\n&lt;p&gt;How to prepare specimens for transportation&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;The principles and methods of effective communication and their effect on client care&lt;/p&gt;\n&lt;p&gt;Factors affecting working relationships with clients and within the veterinary team&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Self-Management&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;529&quot;&gt;\n&lt;p&gt;The principles relating to evidence based approaches to learning&lt;/p&gt;\n&lt;p&gt;Personal and professional limitations&lt;/p&gt;\n&lt;p&gt;How to seek and use feedback and advice&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;226&quot; style=&quot;width: 226px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skill&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;530&quot; style=&quot;width: 530px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;The veterinary nurse will comply with &lt;/strong&gt;&lt;strong&gt;RCVS Day One Skills&lt;/strong&gt;&lt;strong&gt; for veterinary nurses and be able to:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Legislation affecting practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;530&quot;&gt;\n&lt;p&gt;Work within the requirements of the health and safety legislation&lt;/p&gt;\n&lt;p&gt;Work within the requirements of the data protection legislation&lt;/p&gt;\n&lt;p&gt;Follow relevant&amp;nbsp; operating procedures and manufacturers guidelines when using equipment, materials and pharmaceutical products&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;530&quot;&gt;\n&lt;p&gt;Communicate effectively, appropriately and accurately using a variety of methods&lt;/p&gt;\n&lt;p&gt;Conduct nursing clinics&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Clinical skills&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;530&quot;&gt;\n&lt;p&gt;Prepare and maintain all areas of the veterinary practice at all times&lt;/p&gt;\n&lt;p&gt;Prepare records, equipment and resources&lt;/p&gt;\n&lt;p&gt;Work in a safe and effective manner&lt;/p&gt;\n&lt;p&gt;Manage and perform effective infection control procedures&lt;/p&gt;\n&lt;p&gt;Provide nursing support as required&lt;/p&gt;\n&lt;p&gt;Prepare, use, maintain, store and dispose equipment, pharmaceuticals and materials appropriately&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Self-Management&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;530&quot;&gt;\n&lt;p&gt;Manage own performance and development&lt;/p&gt;\n&lt;p&gt;Take measures to improve performance and competence&lt;/p&gt;\n&lt;p&gt;Engage in continued professional and personal development&lt;/p&gt;\n&lt;p&gt;Use professional standards of practice to self-assess performance&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Professionalism&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;530&quot;&gt;\n&lt;p&gt;Practise in accordance with the RCVS Code of Professional Conduct&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;226&quot; style=&quot;width: 226px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviour&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;531&quot; style=&quot;width: 531px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;The veterinary nurse will abide by the RCVS Code of Professional Conduct for veterinary nurses and&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Work within legal and ethical limits&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;531&quot;&gt;\n&lt;p&gt;Conform to approved procedures&lt;/p&gt;\n&lt;p&gt;Work ethically in veterinary practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Accountability&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;531&quot;&gt;\n&lt;p&gt;Work reliably to high standards&lt;/p&gt;\n&lt;p&gt;Adjust to change&lt;/p&gt;\n&lt;p&gt;Take responsibility for personal and professional behaviours and decisions&lt;/p&gt;\n&lt;p&gt;Develop and maintain effective working relationships&lt;/p&gt;\n&lt;p&gt;Communicate effectively including the use of empathy and sympathy where appropriate&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Responsibility&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;531&quot;&gt;\n&lt;p&gt;Maintain a professional appearance and follow Personal Protective Equipment (PPE) protocols&lt;/p&gt;\n&lt;p&gt;Take responsibility for own development&lt;/p&gt;\n&lt;p&gt;Apply knowledge and skills effectively&lt;/p&gt;\n&lt;p&gt;Prioritise and plan work&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;226&quot;&gt;\n&lt;p&gt;Self-improvement&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;531&quot;&gt;\n&lt;p&gt;Commit to learning and professional development&lt;/p&gt;\n&lt;p&gt;Identify and implement measures to improve performance and competence&lt;/p&gt;\n&lt;p&gt;Accept and act on constructive advice and guidance, seeking clarification to recognise own limitations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Typically 30 – 36 months&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;On successful completion of the End Point Assessment the learner will be awarded the RCVS – accredited Licence to Practise Veterinary Nursing qualification at Level 3&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Link to professional registration &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Students achieving this apprenticeship standard will be eligible to apply for professional registration with the RCVS&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;3&lt;strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review date&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;After 3 years&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in veterinary practices, which can include primary care, referral, private, corporate-owned, and animal charities. These practices provide essential care for sick and injured animals.&lt;/p&gt;\n&lt;p&gt;Additionally, some Registered Veterinary Nurses work in settings, such as emergency care centres or referral hospitals.&lt;/p&gt;\n&lt;p&gt;Rescue centres, wildlife organisations and animal charities also employ Registered Veterinary Nurses, contributing to the welfare of animals in need.&lt;/p&gt;\n&lt;p&gt;Registered Veterinary Nurses can work in a range of settings ranging from independently owned practices through to large group organisations.&lt;/p&gt;\n&lt;p&gt;They may progress into non-clinical roles in education, research and pharmaceutical settings and business support roles.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Registered Veterinary Nurses can work with a wide range of animals, from domestic pets to exotic species, wildlife, equine and livestock.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide essential care for animals.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;A Registered Veterinary Nurse works as a member of the veterinary team, providing expert nursing care in line with the Veterinary Surgeons Act to ensure animal health and welfare.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Registered Veterinary Nurses perform hands-on nursing care, administer treatments, and assist with surgical procedures. They carry out technical work and are skilled in undertaking a range of diagnostic tests, monitoring anaesthesia, medical treatments and minor surgical procedures.&lt;/p&gt;\n&lt;p&gt;They also play a significant role educating animal owners on animal health and build strong client relationships.&lt;/p&gt;\n&lt;p&gt;Depending on the practice, they may focus on areas like emergency care or referrals.&lt;/p&gt;\n&lt;p&gt;Their working hours can include weekends and unsociable hours due to the 24/7 nature of animal care.&lt;/p&gt;\n&lt;p&gt;A Registered Veterinary Nurse interacts with internal and external stakeholders including animal owners.&lt;/p&gt;\n&lt;p&gt;They prioritise the delivery of animal health and welfare as part of a multi-disciplinary team.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Registered Veterinary Nurses collaborate with all members of the veterinary team as well as paraprofessionals.&lt;/p&gt;\n&lt;p&gt;Typical external stakeholders can include suppliers, other veterinary practices and charities.&lt;/p&gt;\n&lt;p&gt;The level of interaction varies based on the practice size and role within the organisation.&lt;/p&gt;\n&lt;p&gt;A Registered Veterinary Nurse will be responsible for practising in accordance with the Royal College of Veterinary Surgeons (RCVS) Code of Professional Conduct for veterinary nurses.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Registered Veterinary Nurses are registered professionals and work within the standards and scope of practice defined by the RCVS http://www.rcvs.org.uk/about-us/the-role-of-the-rcvs/&lt;/p&gt;\n&lt;p&gt;Registered Veterinary Nurses work with moderate autonomy, displaying leadership qualities and completing tasks independently whilst working within legal and ethical limits. They may manage, support and develop team members along with maintaining their own health and wellbeing, professional development, accountability and fitness to practice.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They are responsible for patient safety and apply evidence based techniques to implement clinical governance and quality improvement processes.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They are responsible for working safely, considering the environment, sustainability, and providing contextualised care.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They are required to comply with legislation relevant to the industry.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "bea99560-7972-4634-a374-33c4683e3254",
+      "detail": "The RCVS Day One Competences for Veterinary Nurses."
+    },
+    {
+      "knowledgeId": "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+      "detail": "The RCVS Code of Professional Conduct and its associated guidance."
+    },
+    {
+      "knowledgeId": "dab5dca5-35bf-445e-9fc8-b6990b8c56ef",
+      "detail": "Organisational requirements and legislation related to a veterinary business and animal welfare."
+    },
+    {
+      "knowledgeId": "18530658-f2ca-49e0-8c0f-e655e28961f3",
+      "detail": "Effective health and safety within a veterinary practice. "
+    },
+    {
+      "knowledgeId": "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+      "detail": "Anatomy and physiology in relation to veterinary nursing practice."
+    },
+    {
+      "knowledgeId": "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+      "detail": "Normal form and function of body systems."
+    },
+    {
+      "knowledgeId": "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+      "detail": "The relationship between normal form and function and the effect of disease processes and the consequent nursing requirements of sick animals."
+    },
+    {
+      "knowledgeId": "83241569-8521-4e38-b27c-558594d2eec2",
+      "detail": "The role of infection in animal and human health."
+    },
+    {
+      "knowledgeId": "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+      "detail": "The principles of disease transmission. "
+    },
+    {
+      "knowledgeId": "a3f32374-2743-4c2d-8f99-09b7ccc78713",
+      "detail": "The principles of disinfection and sterilisation."
+    },
+    {
+      "knowledgeId": "219f6342-090a-4555-aec1-e4c3061479fc",
+      "detail": "How to maintain personal hygiene especially in relation to cross-infection."
+    },
+    {
+      "knowledgeId": "78aa2240-8e21-4e7d-a1ef-9d80c8327f98",
+      "detail": "The principles of infection monitoring and control. "
+    },
+    {
+      "knowledgeId": "cc02de48-efb9-4d4a-9a04-ba249f08be15",
+      "detail": "Correct usage, handling, storage, maintenance and disposal materials, equipment and instruments."
+    },
+    {
+      "knowledgeId": "824f6698-0436-4f54-852c-523494d54162",
+      "detail": "The principles of record keeping."
+    },
+    {
+      "knowledgeId": "cb99d4b3-b0fe-4d33-9901-98fa6f5afd77",
+      "detail": "The principles of medical veterinary nursing and support."
+    },
+    {
+      "knowledgeId": "e90254da-7b76-4e35-83b9-ed66e43a9171",
+      "detail": "The principles of surgical veterinary nursing and support including anaesthesia."
+    },
+    {
+      "knowledgeId": "054338f9-7410-4ffa-ae2b-a41acdf8f381",
+      "detail": "The principles of safe and responsible pharmacology to include administration of medication and usage, handling and disposal of veterinary pharmaceuticals. "
+    },
+    {
+      "knowledgeId": "b615f69b-61c7-439d-a6ad-dead8449558c",
+      "detail": "The principles of first aid."
+    },
+    {
+      "knowledgeId": "e322189e-a106-4bb2-b2c2-ae6e887db08b",
+      "detail": "The principles of nursing support and the triage, stabilisation and treatment of emergency patients."
+    },
+    {
+      "knowledgeId": "7195e5da-0962-4224-988a-037b5b96cd6b",
+      "detail": "Nursing requirements of critically ill or injured animals."
+    },
+    {
+      "knowledgeId": "e9288701-611d-4b4d-bd9e-6571c2a36089",
+      "detail": "Intensive nursing care techniques and requirements for veterinary patients."
+    },
+    {
+      "knowledgeId": "d752a1e1-873c-4801-94c2-f13d4cc46adc",
+      "detail": "The principles of radiography and imaging techniques."
+    },
+    {
+      "knowledgeId": "976684b4-e825-4e85-9869-eeb7d7672ebc",
+      "detail": "The principles of how to take and process radiographs."
+    },
+    {
+      "knowledgeId": "aca00e07-bbd2-4b38-8e1a-ab7a31f60680",
+      "detail": "The principles of how to manage and store diagnostic images."
+    },
+    {
+      "knowledgeId": "9c4c4c7f-61b9-446c-accb-b204a05c5569",
+      "detail": "The function and use of a range of laboratory equipment."
+    },
+    {
+      "knowledgeId": "d2602878-ebd9-46a1-9415-243ecc2ab006",
+      "detail": "The principles of how to prepare specimens for transportation."
+    },
+    {
+      "knowledgeId": "467306a3-520c-4021-8c0f-beaec4da04a2",
+      "detail": "The principles of how to collect, prepare, test pathological samples."
+    },
+    {
+      "knowledgeId": "370f6c0c-a877-4bfa-8558-799fb39de1c9",
+      "detail": "The principles and methods of effective communication and their impact on clients and patient care."
+    },
+    {
+      "knowledgeId": "52b9dcb8-cf93-43a4-807e-8d96149e1b95",
+      "detail": "Factors affecting working relationships with clients and within the veterinary team."
+    },
+    {
+      "knowledgeId": "6401875c-bc75-4c8f-8d20-aa1b965f16e4",
+      "detail": "The principles relating to evidence based approaches to personal development and practice."
+    },
+    {
+      "knowledgeId": "848c2f37-8ba9-420f-b8e3-a8591bd34e10",
+      "detail": "Personal and professional limitations."
+    },
+    {
+      "knowledgeId": "8115e0f8-be7e-4a66-ac90-b26c8eb54f7b",
+      "detail": "How to seek and use feedback and advice."
+    },
+    {
+      "knowledgeId": "a858d6dd-8a01-484b-b2c4-48b32ff6ff52",
+      "detail": "The principles of efficient workflow and time management."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+      "detail": "Complies with RCVS professional behaviours. "
+    },
+    {
+      "behaviourId": "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+      "detail": "Commits to ensuring sustainability."
+    },
+    {
+      "behaviourId": "2d6cf8e7-5933-452b-8dc2-034013765447",
+      "detail": "Works co-operatively and collaboratively, promoting equity, diversity, belonging, civility and inclusion."
+    },
+    {
+      "behaviourId": "8895f450-0a6c-41ca-87e7-e433bc41f438",
+      "detail": "Commits to the process of reflection, and continuous learning and professional development."
+    },
+    {
+      "behaviourId": "fc303907-a174-42c4-b0d3-350f4c7142d4",
+      "detail": "Acts in a professional, ethical manner, recognising professional and personal requirements and limitations."
+    },
+    {
+      "behaviourId": "1344407c-534a-4af0-b178-5f4948a7d122",
+      "detail": "Demonstrates compliance with the RCVS regulatory requirements to prioritise animal welfare and wellbeing of people."
+    },
+    {
+      "behaviourId": "f8f76585-e85c-46be-b422-819a7b20d0f2",
+      "detail": "Upholds and contributes positively to the reputation of the profession."
+    },
+    {
+      "behaviourId": "e1411de9-8a57-4415-ab90-7b30a559d837",
+      "detail": "Practises in line with best available evidence with a commitment to evidence-based improvement and enhancement."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "12331a8f-c92a-4b29-959b-bb2f52550f40",
+      "detail": "Demonstrates RCVS day one skills."
+    },
+    {
+      "skillId": "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+      "detail": "Prepare and maintain a sustainable working environment in accordance with current legislation, regulations, wellbeing policies, manufacturers guidelines and standard operating procedures."
+    },
+    {
+      "skillId": "08061036-c447-4ba9-9eef-d13a273db321",
+      "detail": "Critically assess hazards and minimise risks in the working environment."
+    },
+    {
+      "skillId": "45a6ab21-3894-4a7f-8a26-6c1c8e4b99a5",
+      "detail": "Create, maintain, and store clinical records and manage the use of personal data in accordance with current legislation and practice policy."
+    },
+    {
+      "skillId": "19ab62e8-5a9e-4f70-825a-bf875506d788",
+      "detail": "Communicate with internal and external stakeholders, maintaining civility and empathy using a variety of methods and styles."
+    },
+    {
+      "skillId": "45d4e7fc-6426-4ff4-a503-cc866acb139e",
+      "detail": "Communicate patient status and care requirements to veterinary care team and clients."
+    },
+    {
+      "skillId": "33f42250-bee7-47e4-8de1-42fdcf2c2f80",
+      "detail": "Handle and restrain animals ethically and safely."
+    },
+    {
+      "skillId": "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+      "detail": "Practise evidence based nursing care in accordance with practice policy and standard operating procedures. "
+    },
+    {
+      "skillId": "eed53b4c-bb21-4495-90f8-437eb121bb35",
+      "detail": "Devise, implement and critically evaluate nursing care strategies in collaboration with the veterinary care team and clients."
+    },
+    {
+      "skillId": "98108134-afc9-46a4-b96c-8cb08c108517",
+      "detail": "Plan diagnostic procedure strategies in collaboration with the veterinary team."
+    },
+    {
+      "skillId": "ba64c14a-53c7-47d6-9a21-2c1ca1c8af57",
+      "detail": "Obtain and process laboratory samples and diagnostic images in accordance with current legislation, regulation, practice policy and standard operating procedures. "
+    },
+    {
+      "skillId": "7a03d307-57c0-4c12-849f-a6dc0552af14",
+      "detail": "Handle, manage, dispense, store and dispose of pharmaceuticals sustainably in accordance with current legislation, regulation and practice policy and procedures. "
+    },
+    {
+      "skillId": "66f916e3-d333-4a58-9962-7ee03d0a30e4",
+      "detail": "Administer medicines prescribed by the veterinary surgeon and in accordance with manufacturer’s instructions. "
+    },
+    {
+      "skillId": "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+      "detail": "Formulate and implement sustainable biosecurity strategies."
+    },
+    {
+      "skillId": "dd47c1ef-4f5a-45d8-97e9-36217341ce62",
+      "detail": "Plan sustainable surgical and non-surgical procedure strategies in collaboration with the veterinary team."
+    },
+    {
+      "skillId": "d40fc57a-9140-4643-812c-213666cfb320",
+      "detail": "Prepare and position patients for surgical and non-surgical procedures in accordance with the strategic plan."
+    },
+    {
+      "skillId": "82f62891-02e2-47f0-9af3-f8fbe8941596",
+      "detail": "Assist the veterinary team with surgical and non-surgical procedures in accordance with the strategic plan."
+    },
+    {
+      "skillId": "edc68691-b8c6-4cee-9e5e-cb9ac2f044c8",
+      "detail": "Utilise checklists to maximise patient safety and minimise risk."
+    },
+    {
+      "skillId": "40faaf04-0dcd-42ef-9637-1b19cb252029",
+      "detail": "Plan sustainable anaesthesia strategies in collaboration with the veterinary team."
+    },
+    {
+      "skillId": "2998f3f9-9be7-47ac-a03c-10e2bb02db6f",
+      "detail": "Prepare, position, monitor and maintain patients for anaesthesia in accordance with the strategic plan."
+    },
+    {
+      "skillId": "19e529fa-27ef-4507-9372-e12b934071d8",
+      "detail": "Formulate, reflect on and implement auditing and quality improvement strategies. "
+    },
+    {
+      "skillId": "6c7b2a41-f620-49da-8efd-5fc037cbf1f3",
+      "detail": "Formulate, reflect on and implement practice protocols which consider the health, safety and wellbeing of both the individual and wider team."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": null,
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Statutory integration",
+  "integratedDegree": "",
+  "tbReference": "TB0361",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Abbeydale Vetlink Veterinary Training Limited, Bottle Green Training Ltd, Central Qualifications , Chester Veterinary Training Centre, CVS Ltd, Dick White Academy, IVC Evidensia, Lantra, Lite Limited, Lynwood School of Veterinary Nursing, MYF Training Ltd, Plumpton College, Redwings Horse Sanctuary, South Staffordshire College, Vet Partners, Vet Skill Limited, Warwickshire College Veterinary Nursing",
+  "otherInvolvedStakeholders": "",
+  "regulated": true,
+  "regulatedBody": "Royal College of Veterinary Surgeons (RCVS)",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Registered Veterinary Nurse"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Animal Care and Management",
+  "cluster": "Animal care and welfare assistant",
+  "clusterId": "148",
+  "clusterDescription": "Routine and detailed care, handling and training of animals",
+  "createdDate": "2026-09-29T11:17:16 +00:00",
+  "lastUpdated": "2026-09-29T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
+  "banners": "As a result of the 2025/2026 apprenticeship assessment reform, the following statement/s are no longer relevant:• Training provider does not require approval by a regulator body• EPAO does not require approval by a regulator bodySkills England will remove these statements from the occupational standard in due course.",
+  "occupationCode": "OCC0343",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1508?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1508",
+  "qualifications": [
+    {
+      "qualificationId": "2e96c72c-0c0f-4b93-9f3d-73409767fe77",
+      "title": "A level 3 diploma in veterinary nursing that is accredited by the RCVS as a “licence to practise” in veterinary nursing, and which entitle holders to apply to enter the RCVS Register of Veterinary Nurses.",
+      "level": "3",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Royal College of Veterinary Surgeons (RCVS)",
+      "level": "Professional registration ",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "2f5d6da7-8e86-4171-9363-e8c183c164a2",
+      "dutyDetail": "Keep up to date with legislation affecting practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "dab5dca5-35bf-445e-9fc8-b6990b8c56ef",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "83241569-8521-4e38-b27c-558594d2eec2",
+        "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+        "a3f32374-2743-4c2d-8f99-09b7ccc78713",
+        "78aa2240-8e21-4e7d-a1ef-9d80c8327f98",
+        "cc02de48-efb9-4d4a-9a04-ba249f08be15",
+        "824f6698-0436-4f54-852c-523494d54162",
+        "cb99d4b3-b0fe-4d33-9901-98fa6f5afd77",
+        "e90254da-7b76-4e35-83b9-ed66e43a9171",
+        "054338f9-7410-4ffa-ae2b-a41acdf8f381",
+        "b615f69b-61c7-439d-a6ad-dead8449558c",
+        "d752a1e1-873c-4801-94c2-f13d4cc46adc",
+        "976684b4-e825-4e85-9869-eeb7d7672ebc",
+        "aca00e07-bbd2-4b38-8e1a-ab7a31f60680",
+        "9c4c4c7f-61b9-446c-accb-b204a05c5569",
+        "d2602878-ebd9-46a1-9415-243ecc2ab006",
+        "467306a3-520c-4021-8c0f-beaec4da04a2",
+        "370f6c0c-a877-4bfa-8558-799fb39de1c9",
+        "52b9dcb8-cf93-43a4-807e-8d96149e1b95",
+        "6401875c-bc75-4c8f-8d20-aa1b965f16e4",
+        "848c2f37-8ba9-420f-b8e3-a8591bd34e10"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "45a6ab21-3894-4a7f-8a26-6c1c8e4b99a5",
+        "ba64c14a-53c7-47d6-9a21-2c1ca1c8af57",
+        "7a03d307-57c0-4c12-849f-a6dc0552af14",
+        "66f916e3-d333-4a58-9962-7ee03d0a30e4",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "edc68691-b8c6-4cee-9e5e-cb9ac2f044c8",
+        "40faaf04-0dcd-42ef-9637-1b19cb252029",
+        "2998f3f9-9be7-47ac-a03c-10e2bb02db6f",
+        "19e529fa-27ef-4507-9372-e12b934071d8",
+        "6c7b2a41-f620-49da-8efd-5fc037cbf1f3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "65d693ad-0b3e-4baa-800f-68beb715bc5c",
+      "dutyDetail": "Communicate effectively with internal and external stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "dab5dca5-35bf-445e-9fc8-b6990b8c56ef",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "83241569-8521-4e38-b27c-558594d2eec2",
+        "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+        "a3f32374-2743-4c2d-8f99-09b7ccc78713",
+        "219f6342-090a-4555-aec1-e4c3061479fc",
+        "78aa2240-8e21-4e7d-a1ef-9d80c8327f98",
+        "cc02de48-efb9-4d4a-9a04-ba249f08be15",
+        "824f6698-0436-4f54-852c-523494d54162",
+        "cb99d4b3-b0fe-4d33-9901-98fa6f5afd77",
+        "e90254da-7b76-4e35-83b9-ed66e43a9171",
+        "054338f9-7410-4ffa-ae2b-a41acdf8f381",
+        "b615f69b-61c7-439d-a6ad-dead8449558c",
+        "e322189e-a106-4bb2-b2c2-ae6e887db08b",
+        "7195e5da-0962-4224-988a-037b5b96cd6b",
+        "e9288701-611d-4b4d-bd9e-6571c2a36089",
+        "d752a1e1-873c-4801-94c2-f13d4cc46adc",
+        "976684b4-e825-4e85-9869-eeb7d7672ebc",
+        "aca00e07-bbd2-4b38-8e1a-ab7a31f60680",
+        "9c4c4c7f-61b9-446c-accb-b204a05c5569",
+        "467306a3-520c-4021-8c0f-beaec4da04a2",
+        "370f6c0c-a877-4bfa-8558-799fb39de1c9",
+        "52b9dcb8-cf93-43a4-807e-8d96149e1b95",
+        "6401875c-bc75-4c8f-8d20-aa1b965f16e4",
+        "848c2f37-8ba9-420f-b8e3-a8591bd34e10",
+        "8115e0f8-be7e-4a66-ac90-b26c8eb54f7b",
+        "a858d6dd-8a01-484b-b2c4-48b32ff6ff52"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "45a6ab21-3894-4a7f-8a26-6c1c8e4b99a5",
+        "19ab62e8-5a9e-4f70-825a-bf875506d788",
+        "45d4e7fc-6426-4ff4-a503-cc866acb139e",
+        "eed53b4c-bb21-4495-90f8-437eb121bb35",
+        "98108134-afc9-46a4-b96c-8cb08c108517",
+        "66f916e3-d333-4a58-9962-7ee03d0a30e4",
+        "dd47c1ef-4f5a-45d8-97e9-36217341ce62",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "40faaf04-0dcd-42ef-9637-1b19cb252029",
+        "2998f3f9-9be7-47ac-a03c-10e2bb02db6f",
+        "19e529fa-27ef-4507-9372-e12b934071d8",
+        "6c7b2a41-f620-49da-8efd-5fc037cbf1f3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0da3f84a-916f-4e39-8783-6436c70bb18f",
+      "dutyDetail": "Handle and restrain animals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+        "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "83241569-8521-4e38-b27c-558594d2eec2",
+        "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+        "219f6342-090a-4555-aec1-e4c3061479fc",
+        "cb99d4b3-b0fe-4d33-9901-98fa6f5afd77",
+        "e90254da-7b76-4e35-83b9-ed66e43a9171",
+        "054338f9-7410-4ffa-ae2b-a41acdf8f381",
+        "b615f69b-61c7-439d-a6ad-dead8449558c",
+        "e322189e-a106-4bb2-b2c2-ae6e887db08b",
+        "7195e5da-0962-4224-988a-037b5b96cd6b",
+        "e9288701-611d-4b4d-bd9e-6571c2a36089",
+        "d752a1e1-873c-4801-94c2-f13d4cc46adc",
+        "d2602878-ebd9-46a1-9415-243ecc2ab006"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "33f42250-bee7-47e4-8de1-42fdcf2c2f80",
+        "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+        "eed53b4c-bb21-4495-90f8-437eb121bb35",
+        "66f916e3-d333-4a58-9962-7ee03d0a30e4",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "dd47c1ef-4f5a-45d8-97e9-36217341ce62",
+        "d40fc57a-9140-4643-812c-213666cfb320",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "40faaf04-0dcd-42ef-9637-1b19cb252029",
+        "2998f3f9-9be7-47ac-a03c-10e2bb02db6f",
+        "19e529fa-27ef-4507-9372-e12b934071d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4e0f6cd6-ac9d-46cf-a0d3-b1b2c6385831",
+      "dutyDetail": "Provide nursing care. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+        "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+        "219f6342-090a-4555-aec1-e4c3061479fc",
+        "cb99d4b3-b0fe-4d33-9901-98fa6f5afd77",
+        "e90254da-7b76-4e35-83b9-ed66e43a9171",
+        "054338f9-7410-4ffa-ae2b-a41acdf8f381",
+        "b615f69b-61c7-439d-a6ad-dead8449558c",
+        "e322189e-a106-4bb2-b2c2-ae6e887db08b",
+        "7195e5da-0962-4224-988a-037b5b96cd6b",
+        "e9288701-611d-4b4d-bd9e-6571c2a36089",
+        "a858d6dd-8a01-484b-b2c4-48b32ff6ff52"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+        "eed53b4c-bb21-4495-90f8-437eb121bb35",
+        "66f916e3-d333-4a58-9962-7ee03d0a30e4",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "dd47c1ef-4f5a-45d8-97e9-36217341ce62",
+        "d40fc57a-9140-4643-812c-213666cfb320",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "40faaf04-0dcd-42ef-9637-1b19cb252029",
+        "2998f3f9-9be7-47ac-a03c-10e2bb02db6f",
+        "19e529fa-27ef-4507-9372-e12b934071d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0177e1d4-7d34-4f33-840f-52fcc081e59e",
+      "dutyDetail": "Take samples and perform laboratory tests and procedures. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+        "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "83241569-8521-4e38-b27c-558594d2eec2",
+        "219f6342-090a-4555-aec1-e4c3061479fc",
+        "78aa2240-8e21-4e7d-a1ef-9d80c8327f98",
+        "cc02de48-efb9-4d4a-9a04-ba249f08be15",
+        "824f6698-0436-4f54-852c-523494d54162",
+        "cb99d4b3-b0fe-4d33-9901-98fa6f5afd77",
+        "7195e5da-0962-4224-988a-037b5b96cd6b",
+        "e9288701-611d-4b4d-bd9e-6571c2a36089",
+        "9c4c4c7f-61b9-446c-accb-b204a05c5569",
+        "d2602878-ebd9-46a1-9415-243ecc2ab006",
+        "467306a3-520c-4021-8c0f-beaec4da04a2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "45a6ab21-3894-4a7f-8a26-6c1c8e4b99a5",
+        "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+        "98108134-afc9-46a4-b96c-8cb08c108517",
+        "ba64c14a-53c7-47d6-9a21-2c1ca1c8af57",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "dd47c1ef-4f5a-45d8-97e9-36217341ce62",
+        "d40fc57a-9140-4643-812c-213666cfb320",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "19e529fa-27ef-4507-9372-e12b934071d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5eca21a9-92f5-4a3b-9c31-24d92db4c245",
+      "dutyDetail": "Conduct diagnostic imaging and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+        "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+        "cc02de48-efb9-4d4a-9a04-ba249f08be15",
+        "824f6698-0436-4f54-852c-523494d54162",
+        "cb99d4b3-b0fe-4d33-9901-98fa6f5afd77",
+        "e90254da-7b76-4e35-83b9-ed66e43a9171",
+        "7195e5da-0962-4224-988a-037b5b96cd6b",
+        "e9288701-611d-4b4d-bd9e-6571c2a36089",
+        "d752a1e1-873c-4801-94c2-f13d4cc46adc",
+        "976684b4-e825-4e85-9869-eeb7d7672ebc",
+        "aca00e07-bbd2-4b38-8e1a-ab7a31f60680"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+        "98108134-afc9-46a4-b96c-8cb08c108517",
+        "ba64c14a-53c7-47d6-9a21-2c1ca1c8af57",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "dd47c1ef-4f5a-45d8-97e9-36217341ce62",
+        "d40fc57a-9140-4643-812c-213666cfb320",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "19e529fa-27ef-4507-9372-e12b934071d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5d4757f0-4e29-4a80-bac3-bf64abbac1be",
+      "dutyDetail": "Dispense medication.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+        "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "83241569-8521-4e38-b27c-558594d2eec2",
+        "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+        "cb99d4b3-b0fe-4d33-9901-98fa6f5afd77",
+        "e90254da-7b76-4e35-83b9-ed66e43a9171",
+        "054338f9-7410-4ffa-ae2b-a41acdf8f381"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "45a6ab21-3894-4a7f-8a26-6c1c8e4b99a5",
+        "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+        "7a03d307-57c0-4c12-849f-a6dc0552af14",
+        "66f916e3-d333-4a58-9962-7ee03d0a30e4",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "2998f3f9-9be7-47ac-a03c-10e2bb02db6f",
+        "19e529fa-27ef-4507-9372-e12b934071d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1ac50ee6-cffa-4fc6-a0e1-d9d409df0fcf",
+      "dutyDetail": "Implement appropriate infection control strategies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "dab5dca5-35bf-445e-9fc8-b6990b8c56ef",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+        "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "83241569-8521-4e38-b27c-558594d2eec2",
+        "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+        "a3f32374-2743-4c2d-8f99-09b7ccc78713",
+        "219f6342-090a-4555-aec1-e4c3061479fc",
+        "78aa2240-8e21-4e7d-a1ef-9d80c8327f98",
+        "9c4c4c7f-61b9-446c-accb-b204a05c5569",
+        "d2602878-ebd9-46a1-9415-243ecc2ab006",
+        "467306a3-520c-4021-8c0f-beaec4da04a2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "dd47c1ef-4f5a-45d8-97e9-36217341ce62",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "40faaf04-0dcd-42ef-9637-1b19cb252029",
+        "2998f3f9-9be7-47ac-a03c-10e2bb02db6f",
+        "19e529fa-27ef-4507-9372-e12b934071d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3d0df2aa-b1b9-4c9f-a50c-89ec06e93024",
+      "dutyDetail": "Prepare, maintain and assist theatre practices.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+        "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "83241569-8521-4e38-b27c-558594d2eec2",
+        "6a8d4c2e-f3b7-4d89-b990-62ce942682eb",
+        "a3f32374-2743-4c2d-8f99-09b7ccc78713",
+        "219f6342-090a-4555-aec1-e4c3061479fc",
+        "78aa2240-8e21-4e7d-a1ef-9d80c8327f98",
+        "824f6698-0436-4f54-852c-523494d54162",
+        "e90254da-7b76-4e35-83b9-ed66e43a9171",
+        "a858d6dd-8a01-484b-b2c4-48b32ff6ff52"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "dd47c1ef-4f5a-45d8-97e9-36217341ce62",
+        "d40fc57a-9140-4643-812c-213666cfb320",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "edc68691-b8c6-4cee-9e5e-cb9ac2f044c8",
+        "40faaf04-0dcd-42ef-9637-1b19cb252029",
+        "19e529fa-27ef-4507-9372-e12b934071d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "23434619-a43b-4c71-a98f-2d5a752a321d",
+      "dutyDetail": "Prepare, support, maintain and monitor anaesthesia. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "40b459ae-4d4d-47d2-bd4e-f0f4ffc9b76f",
+        "16ec2e02-a44b-44f6-9dbe-bf6d55b9d61c",
+        "2d6cf8e7-5933-452b-8dc2-034013765447",
+        "8895f450-0a6c-41ca-87e7-e433bc41f438",
+        "fc303907-a174-42c4-b0d3-350f4c7142d4",
+        "1344407c-534a-4af0-b178-5f4948a7d122",
+        "f8f76585-e85c-46be-b422-819a7b20d0f2",
+        "e1411de9-8a57-4415-ab90-7b30a559d837"
+      ],
+      "mappedKnowledge": [
+        "bea99560-7972-4634-a374-33c4683e3254",
+        "b3a1fe3a-9bd0-4df6-99a1-67b2f62eae0e",
+        "18530658-f2ca-49e0-8c0f-e655e28961f3",
+        "d3ba9ca3-833d-41e2-b4e9-caa6c948b474",
+        "5a4766db-ea47-4782-8a5d-a3fa4f65fdd1",
+        "15cfc7d0-7101-4ea6-8bd2-54bdf6a15df9",
+        "cc02de48-efb9-4d4a-9a04-ba249f08be15",
+        "824f6698-0436-4f54-852c-523494d54162",
+        "e90254da-7b76-4e35-83b9-ed66e43a9171",
+        "054338f9-7410-4ffa-ae2b-a41acdf8f381"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "12331a8f-c92a-4b29-959b-bb2f52550f40",
+        "ed3949b8-5b33-437a-8613-f19dc3f5c119",
+        "08061036-c447-4ba9-9eef-d13a273db321",
+        "3f084f68-b25f-41fb-8809-95ef9bde2da3",
+        "66f916e3-d333-4a58-9962-7ee03d0a30e4",
+        "1184a3cf-35f3-45a4-9f5f-232eb1ecfddd",
+        "d40fc57a-9140-4643-812c-213666cfb320",
+        "82f62891-02e2-47f0-9af3-f8fbe8941596",
+        "edc68691-b8c6-4cee-9e5e-cb9ac2f044c8",
+        "40faaf04-0dcd-42ef-9637-1b19cb252029",
+        "2998f3f9-9be7-47ac-a03c-10e2bb02db6f",
+        "19e529fa-27ef-4507-9372-e12b934071d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [
+    {
+      "name": "Training provider",
+      "webLink": "",
+      "approved": false
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": false
+    }
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-03-25T00:00:00"
+}
