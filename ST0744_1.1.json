@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2024-11-06T00:00:00",
+  "changedDate": "2026-09-16T00:00:00",
   "earliestStartDate": "2024-11-06T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-10-13T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manufacturing fenestration products such as windows, doors, shop fronts and walls.",
   "level": 2,
@@ -299,7 +299,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0036",
-  "tbMainContact": "katie@thewinco.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Cambridge Regional College,  Cambridgeshire Fire and Rescue Service: Fire and Rescue, Anglian Home Improvements, BDC Architectural Aluminium , CERTASS, Comar Architectural Aluminium Systems (Parkside Group), Continental Installations, Corgi, Cornwall Glass & Glazing, Council for Aluminium in Building, Emplas Window Systems Ltd, Eurocell, Everest, FENSA, GGF, GQA Qualifications, Independent Network (Veka), Ixion, Nationwide Windows, Northern Skills Group, Rehau, Safestyle, Saint Gobain, SAS (Senior Architectural Systems), Senior Architectural Systems, Synseal/Global Glass, The Vocational College, The Window Company Ltd, Total Support Training, UK Glass Force, VPS Evander",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -320,7 +320,7 @@
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
   "createdDate": "2024-09-16T12:47:19 +00:00",
-  "lastUpdated": "2024-11-06T00:00:00 +00:00",
+  "lastUpdated": "2026-09-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0744",
@@ -679,5 +679,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-11-06T00:00:00"
+  "publishDate": "2027-10-13T00:00:00"
 }
