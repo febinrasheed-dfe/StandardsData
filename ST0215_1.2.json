@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard and end-point assessment plan revised. Flexibility for length of Professional Discussion & correction of errors within grading descriptions",
-  "changedDate": "2025-12-18T00:00:00",
+  "changedDate": "2026-09-30T00:00:00",
   "earliestStartDate": "2025-12-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing, supervising and coordinating high-quality and compassionate health and social care for a wide range of people.",
   "level": 5,
@@ -357,7 +357,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0052",
-  "tbMainContact": "n.morgan@nhs.net",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Skills for Health, South Warwickshire NHS Foundation Trust, Royal Devon & Exeter NHS FT, Sussex Community NHS Foundation Trust,",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -374,7 +374,7 @@
   "clusterId": "10",
   "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2025-12-18T11:45:52 +00:00",
-  "lastUpdated": "2025-12-18T00:00:00 +00:00",
+  "lastUpdated": "2026-09-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-05-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0215",
@@ -627,5 +627,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-18T00:00:00"
+  "publishDate": "2027-09-12T00:00:00"
 }
