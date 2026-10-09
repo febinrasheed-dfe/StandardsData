@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-05T00:00:00",
+  "changedDate": "2026-09-22T00:00:00",
   "earliestStartDate": "2020-02-25T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-21T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Develop new recipes, products and product lines.",
   "level": 4,
@@ -243,7 +243,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0458",
-  "tbMainContact": "catering.hospitality@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Royal Automobile Club, Unilever, Compass Group, Handpicked Hotels, Stoke Park Hotel, Chewton Glen Hotel, Splendid Hospitality, Exclusive Hotels, IHG Hotels, Royal Garden Hotel, Sodexo, Boodles, Hogarth’s, Sainsbury’s",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -265,7 +265,7 @@
   "clusterId": "110",
   "clusterDescription": "Management of a whole kitchen along with staff, menus and waste",
   "createdDate": "2019-08-02T08:23:03 +00:00",
-  "lastUpdated": "2023-01-05T00:00:00 +00:00",
+  "lastUpdated": "2026-09-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-02-25T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0864",
@@ -746,5 +746,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-01-05T00:00:00"
+  "publishDate": "2027-03-21T00:00:00"
 }
