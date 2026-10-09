@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Updated SSA",
-  "changedDate": "2025-12-08T00:00:00",
+  "changedDate": "2026-09-16T00:00:00",
   "earliestStartDate": "2025-12-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -261,7 +261,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0236",
-  "tbMainContact": "robert.ramsaygosling-kennedy@labcorp.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Applebee Advisory,  Mary Lyon Centre, UKRI MRC Harwell, The Francis Crick Institute, Venture Forward, Labcorp, Babraham Institute, Bristol Myers Squibb, Cancer Research UK, IAT Education, Imperial College London, Kings College London, Sanger Institute, S3 Life Sciences",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -281,9 +281,9 @@
   "clusterId": "102",
   "clusterDescription": "Provide routine and non-routine laboratory testing, experimenting and support to a research brief",
   "createdDate": "2025-12-08T09:38:03 +00:00",
-  "lastUpdated": "2025-12-08T00:00:00 +00:00",
+  "lastUpdated": "2026-09-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-09T00:00:00 +00:00",
-  "banners": "",
+  "banners": "We are proposing to retire this apprenticeship for new starts due to ​no/very low starts. If you would like to feed in any views on this intention, please email ​healthsciencecare.skillsengland@dwp.gov.uk&nbsp;by ​19th October 2026. Please note that retirement of this standard has not yet been authorised.",
   "occupationCode": "OCC0058",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0058-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0058-v1-2",
@@ -672,5 +672,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-08T00:00:00"
+  "publishDate": "2026-09-16T00:00:00"
 }
