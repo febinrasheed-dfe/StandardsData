@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-11-28T00:00:00",
+  "changedDate": "2026-09-09T00:00:00",
   "earliestStartDate": "2022-07-20T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Work alongside other professionals in hospital, justice and community settings.",
   "level": 3,
@@ -524,7 +524,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0482",
-  "tbMainContact": "health-sciencecare.skillsengland@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Barnet Enfield and Haringey Mental Health NHS Trust;\r\nAnawim; \r\nBirmingham and Solihull Mental Health Foundation NHS Trust;\r\nCambridgeshire and Peterborough NHS Foundation Trust;\r\nCamden & Islington NHS Foundation Trust; \r\nEmerging Futures;\r\nGreater Manchester Mental Health NHS Foundation Trust (GMMH);\r\nHertfordshire Mind Network;\r\nKent & Medway Partnership NHS Trust;\r\nLeicestershire Partnership NHS Trust;\r\nNorfolk and Suffolk NHS Foundation Trust;\r\nNorth West Boroughs Healthcare NHS Foundation Trust;\r\nNottinghamshire Healthcare NHS Foundation Trust;\r\nMountain Healthcare Ltd;\r\nShelter - Birmingham Hub; \r\nSolent Mind;\r\nSussex Partnership NHS Foundation Trust;\r\nWorcestershire Health and Care NHS Trust;\r\n",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -547,7 +547,7 @@
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2022-03-17T17:16:25 +00:00",
-  "lastUpdated": "2022-11-28T00:00:00 +00:00",
+  "lastUpdated": "2026-09-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-07-20T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0896",
@@ -842,5 +842,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-11-28T00:00:00"
+  "publishDate": "2027-03-24T00:00:00"
 }
