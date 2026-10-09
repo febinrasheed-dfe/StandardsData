@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-30T00:00:00",
+  "changedDate": "2026-09-14T00:00:00",
   "earliestStartDate": "2018-01-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -540,7 +540,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0458",
-  "tbMainContact": "catering.hospitality@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Hilton, Mitchells and Butler, The Spirit Pub Company, Compass Group UK&I, PGL, McDonald’s UK, Hospitality SME consortium led by the Lancaster London, Red Carnation Hotels, Frederic Robinson, Barchester Healthcare, Whitbread, SSP, KFC UK, Greene King, Brend Hotels, Institute of Hospitality, Royal Academy of Culinary Arts, British Institute of Innkeeping, British Beer & Pub Association, People 1st",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -555,9 +555,9 @@
   "clusterId": "169",
   "clusterDescription": "Management and improvement of core hospitality services of food and beverages, cleaning and housekeeping, reservations and events",
   "createdDate": "2017-11-14T17:10:11 +00:00",
-  "lastUpdated": "2023-01-30T00:00:00 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-01-10T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.\u00A0",
+  "banners": "",
   "occupationCode": "OCC0229",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0229-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0229-v1-0",
@@ -809,5 +809,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-01-30T00:00:00"
+  "publishDate": "2026-09-14T00:00:00"
 }
