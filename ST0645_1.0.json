@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-12-18T00:00:00",
+  "changedDate": "2026-09-30T00:00:00",
   "earliestStartDate": "2018-06-13T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-13T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Responsible for driving trains in a safe, punctual, economic manner over various routes.",
   "level": 3,
@@ -312,7 +312,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0356",
-  "tbMainContact": "Barry.Smith@nsar.co.ukids",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "East Midlands Trains, Northern Rail, East Midlands Trains, South Western, Southeastern , MTR Crossrail, Virgin East Coast, Virgin West Coast, GWR, DB Cargo, Chiltern Railways, GTR, Arriva Rail London, Grand Central, Greater Anglia Abellio, London Underground, Arriva Trains Wales, Freightliner, Volkerrail, Amey, Colas, DRS",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -332,7 +332,7 @@
   "clusterId": "82",
   "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2018-06-01T09:16:35 +00:00",
-  "lastUpdated": "2025-12-18T00:00:00 +00:00",
+  "lastUpdated": "2026-09-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-13T00:00:00 +00:00",
   "banners": "This apprenticeship standard is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards in revision are available in the revisions status report.; A temporary dispensation has been applied to the assessment plan version ST0645/AP01 for this apprenticeship. The dispensation will expire when all apprentices on this version have completed, but may be withdrawn if the assessment plan is revised sooner or the dispensation is no longer necessary.\u202F\n&nbsp;\nEnd-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported and monitored by the relevant EQA provider (EQAP).\u202F\n&nbsp;\nThe key changes are:\u202F\n&nbsp;\nAssessment Method 2 – Planned Working Observation:\u202F\n&nbsp;\nThe Planned Working part of the observation may be replaced with a witness testimony of observed practice provided by the employer (or employer-provider)\u202FQuestions and answer session with an external assessor will take place.As per the assessment plan, the Degraded Working and Emergency Working parts of the observation are simulated activities. These parts of the observation may be delivered remotely, in line with Skills Englands flexibility framework, but EPAOs must get agreement from their EQAP before implementing this mode of delivery.\n&nbsp;\nIn addition to this temporary dispensation there is an additional element relating to the mandated Level 2 ICT qualification. For any apprentices registered from 1st August 2023 the gateway requirement for the achievement of the Level 2 ICT mandated qualification will be removed. This will remain in place until the revised version is approved as the revised standard will rework the ICT content into the standard’s KSBs as opposed to mandating a qualification.",
   "occupationCode": "OCC0645",
@@ -346,5 +346,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-18T00:00:00"
+  "publishDate": "2027-01-13T00:00:00"
 }
