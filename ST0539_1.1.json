@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised but remained the same.",
-  "changedDate": "2025-04-09T00:00:00",
+  "changedDate": "2026-07-14T00:00:00",
   "earliestStartDate": "2023-09-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Helping organise large-scale freight imports and exports.",
   "level": 3,
@@ -342,7 +342,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0203",
-  "tbMainContact": "C.Hobbis@bifa.org",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "bifa, Bollore Logistics, ceva logistics, DHL, Good Logistics, John Good Shipping, Kuehne-Nagel, Ligentia, Maltacourt, Metro Shipping, Neon Freight, OIA Global, Seetec Outsource, Skills for Logistics, Skills Office Network, Woodland Group, Yusen Logistics",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -369,7 +369,7 @@
   "clusterId": "37",
   "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2024-11-22T10:49:00 +00:00",
-  "lastUpdated": "2025-04-09T00:00:00 +00:00",
+  "lastUpdated": "2026-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-04-20T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0539",
@@ -955,5 +955,5 @@
   ],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-04-09T00:00:00"
+  "publishDate": "2027-01-24T00:00:00"
 }
