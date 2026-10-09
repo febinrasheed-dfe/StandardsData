@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised. ",
-  "changedDate": "2025-08-28T00:00:00",
+  "changedDate": "2026-09-18T00:00:00",
   "earliestStartDate": "2025-08-21T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-16T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Install and maintain electrical services within a domestic setting.",
   "level": 3,
@@ -226,7 +226,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0666",
-  "tbMainContact": "abi@abismith.net",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Arena Electrical Services\nBritish Gas / Centrica\nClarkson Evans\nHomeserve \nLincolnshire Housing Partnership\nM A Broughton Electrical Contractors Ltd\nMCS\nNational Electrotechnical Training\nNRT Group\nPaul Adams\nSavills\nSolar Energy UK\nSouthwark Building Services\nTP&N Electrical\nW G Wigginton",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -243,7 +243,7 @@
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2026-01-19T08:58:28 +00:00",
-  "lastUpdated": "2025-08-28T00:00:00 +00:00",
+  "lastUpdated": "2026-09-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-06-01T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1017",
@@ -608,5 +608,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-08-28T00:00:00"
+  "publishDate": "2026-12-16T00:00:00"
 }
