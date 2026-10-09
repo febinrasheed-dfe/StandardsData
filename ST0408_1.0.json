@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00",
+  "changedDate": "2026-07-23T00:00:00",
   "earliestStartDate": "2020-02-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -205,7 +205,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0177",
-  "tbMainContact": "s.young@northyorkmoors.org.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Barnsley Council, Groundwork, Birmingham Council, Broads Authority, Cheshire East Council, Cumbria Wildlife Trust, Dartmoor NP , Dorset County Council, Durham Wildlife Trust, Eden Rivers Trust, English Heritage Natural England , Environment Agency, Exmoor NP, Lake District NP, National Trust, New Forest NP, Northumberland NP, North York Moors NP, Peak District NP, Redcar and Cleveland Council, Sheffield Wildlife Trust, South Downs NP, Staffordshire Council, Teeswildlife Trust, Warwickshire Council, Yorkshire Dales NP",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -231,9 +231,9 @@
   "clusterId": "81",
   "clusterDescription": "Manage diverse environments, providing technical support in a range of specialist areas",
   "createdDate": "2017-11-14T17:08:51 +00:00",
-  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "lastUpdated": "2026-07-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
-  "banners": "This apprenticeship standard is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards in revision are available in the\u00A0revisions status report.; This standard meets the criteria for Entry-Level Environmentalist (ELEnv) application.\nUpon receiving the apprenticeship certificate, individuals become eligible to apply for Entry-Level Environmentalist (ELEnv), confirming that the necessary requirements have been met. To gain this status, applicants must also be a member of a professional body licensed by the SocEnv. &nbsp;ELEnv is awarded for up to a maximum of three years, during which registrants are expected to progress, supported by their professional body, to a competency registration (REnvTech, REnvP, or CEnv). &nbsp;\nMore details can be found at&nbsp;\nCountryside Worker Level 2 – SocEnv",
+  "banners": "This standard meets the criteria for Entry-Level Environmentalist (ELEnv) application.\nUpon receiving the apprenticeship certificate, individuals become eligible to apply for Entry-Level Environmentalist (ELEnv), confirming that the necessary requirements have been met. To gain this status, applicants must also be a member of a professional body licensed by the SocEnv. &nbsp;ELEnv is awarded for up to a maximum of three years, during which registrants are expected to progress, supported by their professional body, to a competency registration (REnvTech, REnvP, or CEnv). &nbsp;\nMore details can be found at&nbsp;\nCountryside Worker Level 2 – SocEnv",
   "occupationCode": "OCC0408",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0408-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0408-v1-0",
@@ -245,5 +245,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": true,
-  "publishDate": "2023-02-15T00:00:00"
+  "publishDate": "2026-07-23T00:00:00"
 }
