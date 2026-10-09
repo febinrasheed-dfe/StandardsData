@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-10T00:00:00",
+  "changedDate": "2026-08-21T00:00:00",
   "earliestStartDate": "2025-12-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -234,7 +234,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0098",
-  "tbMainContact": "oonagh.taylor@people1st.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Menzies, Virgin, MOD, Crosby Training, Bristow Group, Gatwick, Heathrow, BA, American Aviation, Manchester Airport, Outsource Training, Highfield, Virgin, RACPD, TC Partnership, Swissport UK",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -254,9 +254,9 @@
   "clusterId": "16",
   "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2025-12-08T09:37:47 +00:00",
-  "lastUpdated": "2025-12-10T00:00:00 +00:00",
+  "lastUpdated": "2026-08-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-09-13T00:00:00 +00:00",
-  "banners": "",
+  "banners": "We are proposing to retire this apprenticeship for new starts due to low starts on programme since its approval. If you would like to raise any concerns with the proposed retirement please complete the consultation form below by Wednesday 30th September 2026.\nPlease note that retirement of this standard has not yet been agreed or authorised.\nIf you have any comments or concerns regarding this, please complete this form. These will be logged and reviewed once the consultation period has closed.",
   "occupationCode": "OCC0907",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0907-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0907-v1-1",
@@ -789,5 +789,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-10T00:00:00"
+  "publishDate": "2026-08-21T00:00:00"
 }
