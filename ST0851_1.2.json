@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised. Adjustment to the following KSBs so that they are aligned in both the occupational standard and the EPA plan; K20, K22, S12, S20, B3 and B4",
-  "changedDate": "2024-11-26T00:00:00",
+  "changedDate": "2026-09-02T00:00:00",
   "earliestStartDate": "2024-11-26T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-02-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manually weld tubes and pipes to high standards of quality.",
   "level": 3,
@@ -303,7 +303,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0368",
-  "tbMainContact": "martyn.fletcher3@baesystems.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "BAE Systems, Hutchinson Engineering, Severfield, TEI, Doosan Babcock, GE, Rolls Royce, Pall UK, Hudson Swan, Graham Engineering, QA Weld Tech",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -324,7 +324,7 @@
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
   "createdDate": "2024-11-26T13:01:46 +00:00",
-  "lastUpdated": "2024-11-26T00:00:00 +00:00",
+  "lastUpdated": "2026-09-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0851",
@@ -1155,5 +1155,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-11-26T00:00:00"
+  "publishDate": "2027-02-24T00:00:00"
 }
