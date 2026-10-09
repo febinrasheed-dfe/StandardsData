@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
-  "changedDate": "2024-12-02T00:00:00",
+  "changedDate": "2026-07-02T00:00:00",
   "earliestStartDate": "2024-12-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Maintaining a range of machinery, plant and equipment in sectors such as agriculture, forestry and horticulture.",
   "level": 2,
@@ -315,7 +315,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0021",
-  "tbMainContact": "simon.holmes@thwhite.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "AGCO Ltd, Agricultural Engineers Association (AEA), B & B Tractors Ltd, British Agricultural and Garden Machinery Association (BAGMA), Case New Holland, CLAAS UK Ltd,  Ernest Doe & Sons Ltd, Grimme UK Ltd, Institute of Agricultural Engineers (IAgrE), John Deere,  Makita UK Ltd, Russell's Agriculture, T H White Ltd.   \n\nOther organisations involved: IMI, LANTRA, Myerscough College, ProVQ Ltd, Reaseheath College.",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -341,7 +341,7 @@
   "clusterId": "106",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2024-11-19T18:16:10 +00:00",
-  "lastUpdated": "2024-12-02T00:00:00 +00:00",
+  "lastUpdated": "2026-07-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-12-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0242",
@@ -1032,5 +1032,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-12-02T00:00:00"
+  "publishDate": "2027-01-17T00:00:00"
 }
