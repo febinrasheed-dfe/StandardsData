@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "SSA updated",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-10-09T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -173,7 +173,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0038",
-  "tbMainContact": "apprenticeships@landscapeinstitute.org",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Tyler Grange, Re-form Landscapes, Meiloci, Munro-Whitten, LUC, Gillespies, The Environment Partnership, Capita, Birmingham Council, Amey, Arup, Farrer Huxley Associates, BDP, Fira Landscape Architects, LDA Design, LHC Design, Highways England, Winchester City Council, Townshed Landscape Architects, Wilder Associates, The Landscape Institute",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -199,9 +199,9 @@
   "clusterId": "54",
   "clusterDescription": "Design, analyse, plan for site engineering and construction projects. Specialisms are common (e.g. rail infrastructure, asbestos management). Significant capability in the use of IT/digital technology, data collection, analysis and presentation",
   "createdDate": "2025-12-08T09:37:25 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-10-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-06-04T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;; We are proposing to retire this apprenticeship for new starts due to low starts on programme. If you would like to raise any concerns with the proposed retirement please complete the form&nbsp;ST0741 Landscape technician apprenticeship standard - Consideration for retirement with your views by 5pm on Wednesday 30 September 2026.Please note that retirement of this standard has not yet been agreed or authorised.If you have any comments or concerns regarding this, please complete the form. These will be logged and reviewed once the consultation period has closed; We are proposing to retire this apprenticeship for new starts due to low starts on programme. The consultation has now closed. All responses will be carefully considered before a final recommendation is made.Please note that retirement of this standard has not yet been agreed or authorised.",
   "occupationCode": "OCC0741",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0741-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0741-v1-1",
@@ -537,5 +537,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2026-10-09T00:00:00"
 }
