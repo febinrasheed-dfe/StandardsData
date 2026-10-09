@@ -1,0 +1,469 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 422,
+  "referenceNumber": "ST0542",
+  "learningAimClassCode": "",
+  "title": "Oral health practitioner",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0542",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-14T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Performing a range of oral health preventive procedures which involve working in a patient's mouth.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 14,
+  "minimumHoursForCompliance": "326",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Health and science",
+  "keywords": [
+    "health and science",
+    "health services",
+    "oral health",
+    "oral health care",
+    "dental services"
+  ],
+  "jobRoles": [
+    "Community oral health educator",
+    "Oral health ambassador",
+    "Oral health champion",
+    "Oral health improvement lead",
+    "Oral health practitioner"
+  ],
+  "entryRequirements": "&lt;p style=&quot;box-sizing: inherit; margin: 0 0 16px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 15px; line-height: 1.33333; font-family: &quot; open=&quot;&quot; sans&quot;,=&quot;&quot; arial,=&quot;&quot; sans-serif;=&quot;&quot; font-size-adjust:=&quot;&quot; inherit;=&quot;&quot; font-kerning:=&quot;&quot; font-feature-settings:=&quot;&quot; font-language-override:=&quot;&quot; vertical-align:=&quot;&quot; baseline;=&quot;&quot; background-color:=&quot;&quot; rgba(255,=&quot;&quot; 255,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;To become an Oral Health Practitioner, you must already be a dental nurse or other appropriate registered dental care professional with the General Dental Council.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0542-in-revision?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.1 Medicine and dentistry",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Typical Job titles: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Oral Health Practitioner , Community Oral Health Educator, Oral Health Champion, Oral Health Ambassador, Oral Health Improvement Lead&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Role Profile:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Oral Health Practitioners have a high degree of autonomy and have responsibility for working directly with patients performing a range of oral health preventive procedure which involve working in a patient&#39;s mouth. The Oral Health Practitioner role complements the role of other dental professionals and fits in the dental career structure a higher level than a dental nurse but below a dental hygienist, hygienist / therapist or dentist. Working to the direction of a dentist you will take dental bacterial plaque indices and debris scores, apply fluoride varnish, take clinical photographs, take impressions and carry out tooth brushing in the patient’s mouth. You will prepare and maintain the clinical environment, carry out infection control and prevention procedures, and prepare, mix and handle bio-materials.&amp;nbsp; Often working alone in the community, you will deliver oral health prevention with patients, deliver oral health education and promotion to the public including clinical preventative advice interventions to targeted groups such as care givers for older people or ante-natal groups. You will provide integrated general, oral health advice and preventative treatments in line with treatment plans to the community your practice serves.&amp;nbsp; You will work with early years groups, primary and secondary schools, in care homes, in ‘care at home’ situations, in the child and adolescent mental health arena, in hospitals, in general dental practice or other healthcare and community settings to provide services.&amp;nbsp; This includes brief interventions such as targeted oral health advice to meet the needs of the individual. You will carry out general health screening activities, alongside oral health ones, to measure the holistic health of the individual you are working with eg checking for diabetes, blood tests or taking blood pressure. To become an Oral Health Practitioner, you must already be a dental nurse or other appropriate dental care professional registered with the General Dental Council eg an orthodontic therapist. You will work autonomously, including in people’s mouths, acting within your scope of practice and under referral of a registered clinician eg Dentist, Dental Hygienist or Dental Therapist whilst undertaking dental activities.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Day to day duties:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;work with people of all ages and cognitive abilities&lt;/li&gt;\n&lt;li&gt;plan community based schedules and arrange sessions with stakeholders&lt;/li&gt;\n&lt;li&gt;prepare the clinical equipment and records for each session&lt;/li&gt;\n&lt;li&gt;prepare and maintain a clinical environment, infection control and prevention and prepare, mix and handle bio-materials on site –ie in the community setting&lt;/li&gt;\n&lt;li&gt;check people’s mouths to take dental bacterial plaque indices and food debris scores&lt;/li&gt;\n&lt;li&gt;use the dentist’s prescription to apply topical fluoride in the mouth&lt;/li&gt;\n&lt;li&gt;take clinical photographs&lt;/li&gt;\n&lt;li&gt;teach people how to carryout personal care tasks eg assist someone to brush their teeth or keep their mouth clean and fresh&lt;/li&gt;\n&lt;li&gt;carry out general health screening activities eg finger-prick blood tests to check for diabetes or take blood pressure&lt;/li&gt;\n&lt;li&gt;offer information, advice and guidance to people about their oral health and how to clean and maintain their teeth, gums and mouth.&lt;/li&gt;\n&lt;li&gt;give motivational sessions to support behaviour change and motivate people eg to give up tobacco or improve their diet to support their oral health and t their overall health and wellbeing&lt;/li&gt;\n&lt;li&gt;refer people to a dentist or other dental health practitioner as required&lt;/li&gt;\n&lt;li&gt;signpost people to other health professionals&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Entry:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;To become an Oral Health Practitioner, you must already be a dental nurse or other appropriate registered dental care professional with the General Dental Council.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to completing the end-point assessment.&amp;nbsp; For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Progression:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As an Oral Health Practitioner, you may progress later in your career to a Dental Therapist or Dental Hygienist&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Values:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;You will be trustworthy, caring, honest, responsible, empathetic and committed&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Behaviours:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;You will treat people with dignity and respect. You will work as part of a team, having the courage to challenge areas of concern and working to evidence based best practice. You will be reliable and consistent, taking responsibility for the integrity of your own actions and completed work.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level: &lt;/strong&gt;4&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Duration: &lt;/strong&gt;Typically 14 -18 months&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Review date&lt;/strong&gt;: After 3 years&lt;/h3&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;&amp;nbsp;&lt;/td&gt;\n&lt;th&gt;&lt;strong&gt;You will be able to:&lt;/strong&gt;&lt;/th&gt;\n&lt;th&gt;&lt;strong&gt;You will know and understand&lt;/strong&gt;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;strong&gt;Care of the Individual&lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;Put patient’s interests first, maintaining a caring approach towards them&lt;/li&gt;\n&lt;li&gt;Treat people with dignity, respecting their choices, gaining valid consent for all treatments and respecting confidentiality&lt;/li&gt;\n&lt;li&gt;Work autonomously in people’s mouths to take dental bacterial plaque indices and food debris scores&lt;/li&gt;\n&lt;li&gt;Use a range of personal oral care tools&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;how to apply the legislation, policies and local ways of working related to your role What person centred care, valid consent, duty of care, safeguarding, diversity, equality and inclusion mean and why they are important&lt;/li&gt;\n&lt;li&gt;Relevant dental oral and craniofacial anatomy and physiology and their application to patient management&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;strong&gt;Clinical Practice &lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;Autonomously plan practice sessions in the community&lt;/li&gt;\n&lt;li&gt;Prepare the clinical equipment and records for each session&lt;/li&gt;\n&lt;li&gt;Prepare and maintain a clinical environment, adhering to infection control and prevention&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Prepare, mix and handle bio-materials&lt;/li&gt;\n&lt;li&gt;take dental bacterial plaque indices and food debris scores in the mouth of individuals&lt;/li&gt;\n&lt;li&gt;Select preventative strategies that are appropriate to the individual and adapt appropriately for individuals with special requirements&lt;/li&gt;\n&lt;li&gt;Undertake general health screening including checking for diabetes, taking blood pressure readings and taking finger-prick blood for blood tests&lt;/li&gt;\n&lt;li&gt;Refer individuals to other services if necessary&lt;/li&gt;\n&lt;li&gt;Apply topical fluoride under prescription in the&lt;/li&gt;\n&lt;li&gt;carry out intra and extra oral photography&lt;/li&gt;\n&lt;li&gt;Recognise and manage medical emergencies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;The range of normal human structures and functions, with particular reference to dental caries, oral medicine, periodontal disease and dental treatment and how this relates to working in the mouth&lt;/li&gt;\n&lt;li&gt;A range of preventative oral and general health procedures used in your role. How to select techniques according to the individual’s need.&lt;/li&gt;\n&lt;li&gt;How to adapt your techniques and solve problems to suit individuals with special requirements, within your area of competence&lt;/li&gt;\n&lt;li&gt;How to maintain a clinical environment. How to control and prevent infection. The x-rays, photos and records you are required to take and keep&lt;/li&gt;\n&lt;li&gt;A range of general health screening activities related to your role and the population you work with eg recognising an abnormality and referring appropriately&lt;/li&gt;\n&lt;li&gt;Normal parameters associated with blood pressure and blood sugar levels. How to carry out physiological measurements and what steps to take if results are outside the norm&lt;/li&gt;\n&lt;li&gt;How, why and when to take and process finger-prick blood samples.&lt;/li&gt;\n&lt;li&gt;Which other services are available in your area, what they provide and how people can access them&lt;/li&gt;\n&lt;li&gt;Legislation on prescription-only medicines&lt;/li&gt;\n&lt;li&gt;The types of medical emergency that may arise and ways to address them.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;strong&gt;Community based oral health&lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;Plan clinical preventative session&lt;/li&gt;\n&lt;li&gt;Deliver brief clinical preventative advice interventions to targeted groups&lt;/li&gt;\n&lt;li&gt;Encourage self-care and motivation&lt;/li&gt;\n&lt;li&gt;Provide oral and general systemic advice e.g. tobacco cessation or diet advice&lt;/li&gt;\n&lt;li&gt;Prepare, deliver and evaluate oral health messages to groups or individuals&lt;/li&gt;\n&lt;li&gt;Support individuals and groups to change their behaviour&lt;/li&gt;\n&lt;li&gt;Provide motivational interviews&lt;/li&gt;\n&lt;li&gt;Determine and implement strategies for improving oral health in the community.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;General health systems and be able to review their relationship to oral health using high quality evidence such as research documents&lt;/li&gt;\n&lt;li&gt;how to outline the basic principles of population health, including demographic, social, UK and international oral health trends; a range of common risk factors&lt;/li&gt;\n&lt;li&gt;Determinants of health inequalities and how they are measured&lt;/li&gt;\n&lt;li&gt;Guidelines for best practice including national and local health initiatives&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;The needs of different patient groups you work with across the age range including those who are nervous, have learning disabilities, have mental health conditions or phobias, require palliative care or have cognitive impairment such as dementia&lt;/li&gt;\n&lt;li&gt;How diet, nutrition and hydration link with systemic and oral health including obesity&lt;/li&gt;\n&lt;li&gt;Ways to encourage self-care and motivation&lt;/li&gt;\n&lt;li&gt;Behaviour change and the theories that underpin models of learning in individuals and groups to change behaviour&lt;/li&gt;\n&lt;li&gt;Theories and concepts of motivational interviewing; different ways to support behaviour change according to whether you are working with an individual (e.g. in dental surgery) or with carers (in schools, homes or care homes) or on a group basis&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;strong&gt;Communication&lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;Communicate effectively with and about patients, their representatives and the dental team, and with carers, other healthcare workers or schoolteachers&lt;/li&gt;\n&lt;li&gt;Escalate any issues when they are outside your scope of practice.&lt;/li&gt;\n&lt;li&gt;Handle complaints effectively and within GDC guidelines.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;A range of methods of communicating with individuals across the age range.&lt;/li&gt;\n&lt;li&gt;How to check you have been understood.&lt;/li&gt;\n&lt;li&gt;Barriers to communication and a range of ways to overcome them.&lt;/li&gt;\n&lt;li&gt;When to refer or escalate if something is outside of your scope of practice&lt;/li&gt;\n&lt;li&gt;GDC Guidelines for handling complaints&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;strong&gt;Professional Development&lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;Manage your own time, resources and personal behaviour.&lt;/li&gt;\n&lt;li&gt;Be proactive in your own development, willing to commit to lifelong learning by use of a Personal Development Plan (PDP), personal reflection and continuous improvement.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;ul&gt;\n&lt;li&gt;The principles relating to evidence-based approaches to learning, clinical and professional practice and decision making; including using a range of sources of evidence.&lt;/li&gt;\n&lt;li&gt;The consequences of your actions, attitude and behaviour&lt;/li&gt;\n&lt;li&gt;How to assess and reflect upon your own capabilities and limitations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;This occupation is found in&lt;/strong&gt; community and primary care dental settings, public health teams, educational environments and outreach services that aim to improve oral health and reduce health inequalities. Oral health practitioners work alongside dental professionals, health improvement teams and wider healthcare services to promote oral and general health among individuals, groups and communities. The role supports national and local oral health strategies and contributes to preventative health initiatives as part of multi‑disciplinary pathways.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;The broad purpose of the occupation is&lt;/strong&gt; to provide oral health education, deliver preventative oral health procedures, carry out health screening activities and support individuals to make and sustain positive behaviour changes. Practitioners help people understand the links between oral health and general health, identify risk factors, interpret screening results and access appropriate support services. They also carry out a range of clinical preventative procedures in line with community treatment plans and within the professional, legal and ethical boundaries of their role.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;The daily work includes&lt;/strong&gt; conducting oral health assessments, applying fluoride varnish, taking plaque indices and food debris scores, delivering oral health demonstrations and maintaining accurate clinical records. Practitioners routinely carry out general health screening. They use behaviour change and motivational techniques to support individuals in identifying priorities, setting goals and overcoming barriers to healthier behaviours. Daily activities also include following infection prevention and control procedures, preparing equipment, liaising with other health and social care services, providing personalised oral and general health advice and adapting approaches to meet the needs of diverse patient groups.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;An employee in this occupation will be responsible for&lt;/strong&gt; delivering safe and evidence based oral health interventions in accordance with professional and legal requirements. This includes gaining valid consent, maintaining confidentiality and data protection standards, and following safeguarding procedures. Practitioners must operate within the General Dental Council’s scope of practice, recognising when to refer individuals to dental or other health and wellbeing services. They are responsible for managing their own clinical sessions, preparing and protecting equipment, adhering to infection control standards and ensuring that all procedures are carried out appropriately and accurately recorded. They are accountable for promoting health improvement, reducing inequalities, supporting behaviour change, and contributing to local oral health strategies.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "325ee65a-7075-42d5-93b9-935ee51111a6",
+      "detail": "Regulatory frameworks, legislation, standards and codes of practice applicable to the scope of own role."
+    },
+    {
+      "knowledgeId": "b15a160f-fd04-46f3-8ccb-38af4d032f4a",
+      "detail": "Dental and oral anatomy and physiology and their application to patient management."
+    },
+    {
+      "knowledgeId": "dea0d22f-6887-4037-a8df-095700cbcb94",
+      "detail": "Effect of disease on the range of normal human structures and function."
+    },
+    {
+      "knowledgeId": "0bfcd8d4-aaf6-4c5a-8bde-395eb8bc6bf5",
+      "detail": "Use of blood sugar levels and blood pressure as indicators of health and ill-health."
+    },
+    {
+      "knowledgeId": "1c038fe3-f3a8-4619-aed0-f935a85ea4bf",
+      "detail": "Link between diet, nutrition and hydration with systemic and oral health."
+    },
+    {
+      "knowledgeId": "8b7b16fe-729f-42fa-81b2-9ea2391f6dac",
+      "detail": "Health inequalities, current policies and how these impact on health and wellbeing at an individual and population level."
+    },
+    {
+      "knowledgeId": "0f7e2de2-6ba4-4a4b-a54b-7fb820658fe2",
+      "detail": "How communication can support health messages and build rapport with an individual."
+    },
+    {
+      "knowledgeId": "99fc0099-4b15-4e82-9bbd-eea06892b99c",
+      "detail": "How an individual can be supported to make a lifestyle or health behaviour change."
+    },
+    {
+      "knowledgeId": "053eb457-7aef-4216-ab15-8ec6f309fb0d",
+      "detail": "Behaviour change models, their impact and use to support health behaviour change conversations."
+    },
+    {
+      "knowledgeId": "2b68d7af-9f98-47eb-8f04-58dd22028690",
+      "detail": "How to support, record and review an individual with a lifestyle or behaviour change implementation plan."
+    },
+    {
+      "knowledgeId": "89012179-acd9-45fd-bdbe-13da153b1873",
+      "detail": "How the NHS Health Check uses key indicators to assess an individual’s health risk."
+    },
+    {
+      "knowledgeId": "9cd086b7-13e5-4cc7-be0a-fe92ec0ec693",
+      "detail": "Procedures for carrying out an NHS Health Check applying the national programme standards."
+    },
+    {
+      "knowledgeId": "7c000ceb-3df6-4584-8912-a26238a73a37",
+      "detail": "Procedures used in oral health clinical practice."
+    },
+    {
+      "knowledgeId": "44b9e77c-d6ed-476e-9a18-6d7cd140245b",
+      "detail": "Importance, procedures and planning for clinical practice sessions including managing infection control, medical emergencies and referrals in various settings."
+    },
+    {
+      "knowledgeId": "3a747f5b-82c4-4dca-b2f8-8f5c2267b847",
+      "detail": "How techniques can be adapted to suit the needs of different patient groups."
+    },
+    {
+      "knowledgeId": "356d048d-4aee-45f8-9dbd-b86c0317311b",
+      "detail": "Relationship between general health systems and oral health."
+    },
+    {
+      "knowledgeId": "d8c51ed2-7d88-4453-ad5f-9a0e416f722c",
+      "detail": "Purpose of general health screening activities and key health messages relating to oral health education."
+    },
+    {
+      "knowledgeId": "61ba23c7-7709-4467-b932-ac3414dcbfde",
+      "detail": "Different needs and requirements of different patient groups."
+    },
+    {
+      "knowledgeId": "4af28fd9-4779-4ce3-89c9-e5174ffee1da",
+      "detail": "Preventative strategies and how to plan for preventative practice sessions."
+    },
+    {
+      "knowledgeId": "33922474-90e7-4eee-9255-1afba5d0eee5",
+      "detail": "The importance of feedback, evidence and reflective practice to the role."
+    },
+    {
+      "knowledgeId": "6e8bfe20-9f69-4432-bebd-967d397c2b43",
+      "detail": "The importance of equality, diversity and inclusion in the workplace."
+    },
+    {
+      "knowledgeId": "982475c7-902b-48d7-8725-2451c5b92c91",
+      "detail": "How to support sustainability within the workplace."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "44f16ff9-73d7-4e91-a70d-251ea8a2bdd4",
+      "detail": "Compassionate professional behaviour and professional responsibilities making sure the fundamental needs of patients and carers are addressed."
+    },
+    {
+      "behaviourId": "449b14e7-2444-4371-9717-e657d8b33ab8",
+      "detail": "Act with integrity, be polite, considerate, trustworthy, conscientious and honest."
+    },
+    {
+      "behaviourId": "17b0bccc-75de-40e5-ad54-26e740478e50",
+      "detail": "Manage time and prioritise effectively."
+    },
+    {
+      "behaviourId": "1537497f-3737-4699-9059-35de4b9936f8",
+      "detail": "Be open and honest in their interactions with patients, carers, colleagues and employers when things go wrong, known as the professional duty of candour."
+    },
+    {
+      "behaviourId": "20381d46-12ba-4bef-ab38-21b2bd8adbec",
+      "detail": "Respect patients’ wishes about whether they wish to participate in the education of learners."
+    },
+    {
+      "behaviourId": "7d3af002-2d87-463c-8424-4d0117cfb5d6",
+      "detail": "Willingness to learn, and be proactive in progressing in your own development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "7ddb28e5-26f9-45e4-9314-9933cd216626",
+      "detail": "Use communication to support health messages and build rapport with an individual."
+    },
+    {
+      "skillId": "1a73b4df-897a-487b-9320-53bae687ff82",
+      "detail": "Engage with individuals to make a lifestyle of health behaviour change."
+    },
+    {
+      "skillId": "63e7d939-18a8-4f84-a7e3-aa0ca3a9033e",
+      "detail": "Use behaviour change models to support health behaviour change conversations."
+    },
+    {
+      "skillId": "3954a499-64b6-4097-8f0e-966f771259a0",
+      "detail": "Carry out development of an implementation plan and reviews with individuals."
+    },
+    {
+      "skillId": "1fa6cf0e-b4cb-46db-93c4-a9415870f9e2",
+      "detail": "Carry out dental bacterial plaque indices and food debris scores."
+    },
+    {
+      "skillId": "1dca1e84-bbf5-404c-b9c8-7f2c7883b540",
+      "detail": "Apply topical fluoride."
+    },
+    {
+      "skillId": "513a727f-dcbd-4b56-a56f-d3f92a0b3874",
+      "detail": "Take dental impressions and or intra oral scans."
+    },
+    {
+      "skillId": "4142fc4f-ffe2-4d12-87e8-bc9906c57a5d",
+      "detail": "Carry out planning for clinical practice sessions."
+    },
+    {
+      "skillId": "b28d4051-b6bf-4496-811e-5fadc3e81063",
+      "detail": "Prepare clinical equipment and records for clinical practice sessions."
+    },
+    {
+      "skillId": "a6d8d1d9-9b0f-4813-bd61-0bfb77f0a02a",
+      "detail": "Carry out procedures for prevention of infection in various settings."
+    },
+    {
+      "skillId": "829e7d85-8bcd-4c80-bfc2-5250c83e289a",
+      "detail": "Carry out adaptations to procedures according to patient group."
+    },
+    {
+      "skillId": "59f584ba-bb94-401e-a47b-8fca5792240d",
+      "detail": "Carry out general health screening activities."
+    },
+    {
+      "skillId": "733c9cfd-75b2-48cb-86cc-0bea67882c50",
+      "detail": "Deliver oral health education messages to patient groups or individuals."
+    },
+    {
+      "skillId": "7610f0af-2ae6-436b-a7bc-4b1f242cc1f2",
+      "detail": "Deliver general systemic advice to patient groups or individuals."
+    },
+    {
+      "skillId": "ab1660f3-1e94-406e-9fbc-63f0dd016fd0",
+      "detail": "Carry out planning for preventative practice sessions."
+    },
+    {
+      "skillId": "b7ca3f9a-00fb-48e0-a0b4-5355aeca3570",
+      "detail": "Use self reflection and feedback to improve areas of personal performance."
+    },
+    {
+      "skillId": "36556391-588d-4380-b34c-c9b50d647b1c",
+      "detail": "Identify, organise and use resources to complete tasks, applying the concepts of resource efficiency in the workplace."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2026-08-06T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification only",
+  "integratedDegree": "",
+  "tbReference": "TB0053",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Leeds Teaching Hospitals NHS Trust, NHS England, NHS England WT&E Directorate, Royal Society for Public Health, Tempdent",
+  "otherInvolvedStakeholders": "",
+  "regulated": true,
+  "regulatedBody": "General Dental Council (GDC)",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Community oral health educator",
+    "Oral health ambassador",
+    "Oral health champion",
+    "Oral health improvement lead",
+    "Oral health practitioner"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Health",
+  "cluster": "Health practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
+  "createdDate": "2026-09-14T12:59:17 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-03-07T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0542",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0542-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0542-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "b2be01cf-362e-48a0-a035-78a74d85cd6b",
+      "title": "Level 4 Diploma for Oral Health Practitioners",
+      "level": "4",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "General Dental Council (GDC)",
+      "level": "4",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "25997bca-bc81-4b3c-9ca8-4032ddf82808",
+      "dutyDetail": "Professional, ethical and legal requirements to ensure safe and effective oral health care.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "44f16ff9-73d7-4e91-a70d-251ea8a2bdd4",
+        "449b14e7-2444-4371-9717-e657d8b33ab8",
+        "1537497f-3737-4699-9059-35de4b9936f8",
+        "20381d46-12ba-4bef-ab38-21b2bd8adbec"
+      ],
+      "mappedKnowledge": [
+        "325ee65a-7075-42d5-93b9-935ee51111a6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eb9d897f-d78e-4abc-934e-13ed41eab19b",
+      "dutyDetail": "Anatomy, physiology and nutrition to assess oral health needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "44f16ff9-73d7-4e91-a70d-251ea8a2bdd4",
+        "449b14e7-2444-4371-9717-e657d8b33ab8",
+        "1537497f-3737-4699-9059-35de4b9936f8",
+        "20381d46-12ba-4bef-ab38-21b2bd8adbec"
+      ],
+      "mappedKnowledge": [
+        "b15a160f-fd04-46f3-8ccb-38af4d032f4a",
+        "dea0d22f-6887-4037-a8df-095700cbcb94",
+        "0bfcd8d4-aaf6-4c5a-8bde-395eb8bc6bf5",
+        "1c038fe3-f3a8-4619-aed0-f935a85ea4bf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "825c1208-c601-4d26-a681-b2f33ae3d478",
+      "dutyDetail": "Conduct individual reviews applying behaviour change models to promote oral health improvement.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "44f16ff9-73d7-4e91-a70d-251ea8a2bdd4",
+        "449b14e7-2444-4371-9717-e657d8b33ab8",
+        "1537497f-3737-4699-9059-35de4b9936f8",
+        "7d3af002-2d87-463c-8424-4d0117cfb5d6"
+      ],
+      "mappedKnowledge": [
+        "8b7b16fe-729f-42fa-81b2-9ea2391f6dac",
+        "0f7e2de2-6ba4-4a4b-a54b-7fb820658fe2",
+        "99fc0099-4b15-4e82-9bbd-eea06892b99c",
+        "053eb457-7aef-4216-ab15-8ec6f309fb0d",
+        "2b68d7af-9f98-47eb-8f04-58dd22028690"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7ddb28e5-26f9-45e4-9314-9933cd216626",
+        "1a73b4df-897a-487b-9320-53bae687ff82",
+        "63e7d939-18a8-4f84-a7e3-aa0ca3a9033e",
+        "3954a499-64b6-4097-8f0e-966f771259a0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b8fa23d4-d654-44c7-8732-1b901ad18c9a",
+      "dutyDetail": "NHS Health Checks to support individuals in understanding and managing their health risks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "44f16ff9-73d7-4e91-a70d-251ea8a2bdd4",
+        "20381d46-12ba-4bef-ab38-21b2bd8adbec"
+      ],
+      "mappedKnowledge": [
+        "89012179-acd9-45fd-bdbe-13da153b1873",
+        "9cd086b7-13e5-4cc7-be0a-fe92ec0ec693"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3ffe8e91-dc2d-4244-8098-7ae9e3862dc3",
+      "dutyDetail": "Carry out procedures for oral health clinical practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "44f16ff9-73d7-4e91-a70d-251ea8a2bdd4",
+        "449b14e7-2444-4371-9717-e657d8b33ab8",
+        "17b0bccc-75de-40e5-ad54-26e740478e50",
+        "1537497f-3737-4699-9059-35de4b9936f8",
+        "20381d46-12ba-4bef-ab38-21b2bd8adbec"
+      ],
+      "mappedKnowledge": [
+        "7c000ceb-3df6-4584-8912-a26238a73a37",
+        "44b9e77c-d6ed-476e-9a18-6d7cd140245b",
+        "3a747f5b-82c4-4dca-b2f8-8f5c2267b847"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1fa6cf0e-b4cb-46db-93c4-a9415870f9e2",
+        "1dca1e84-bbf5-404c-b9c8-7f2c7883b540",
+        "513a727f-dcbd-4b56-a56f-d3f92a0b3874",
+        "4142fc4f-ffe2-4d12-87e8-bc9906c57a5d",
+        "b28d4051-b6bf-4496-811e-5fadc3e81063",
+        "a6d8d1d9-9b0f-4813-bd61-0bfb77f0a02a",
+        "829e7d85-8bcd-4c80-bfc2-5250c83e289a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "860f14b4-21a6-430c-acad-25983f303b70",
+      "dutyDetail": "Preventative practice to maintain and improve oral health.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "44f16ff9-73d7-4e91-a70d-251ea8a2bdd4",
+        "449b14e7-2444-4371-9717-e657d8b33ab8",
+        "17b0bccc-75de-40e5-ad54-26e740478e50",
+        "1537497f-3737-4699-9059-35de4b9936f8"
+      ],
+      "mappedKnowledge": [
+        "356d048d-4aee-45f8-9dbd-b86c0317311b",
+        "d8c51ed2-7d88-4453-ad5f-9a0e416f722c",
+        "61ba23c7-7709-4467-b932-ac3414dcbfde",
+        "4af28fd9-4779-4ce3-89c9-e5174ffee1da"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "59f584ba-bb94-401e-a47b-8fca5792240d",
+        "733c9cfd-75b2-48cb-86cc-0bea67882c50",
+        "7610f0af-2ae6-436b-a7bc-4b1f242cc1f2",
+        "ab1660f3-1e94-406e-9fbc-63f0dd016fd0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bfc3f4cc-03a8-4cf1-b535-7774a16ac49b",
+      "dutyDetail": "Professional practice in oral health care.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "44f16ff9-73d7-4e91-a70d-251ea8a2bdd4",
+        "17b0bccc-75de-40e5-ad54-26e740478e50",
+        "7d3af002-2d87-463c-8424-4d0117cfb5d6"
+      ],
+      "mappedKnowledge": [
+        "33922474-90e7-4eee-9255-1afba5d0eee5",
+        "6e8bfe20-9f69-4432-bebd-967d397c2b43",
+        "982475c7-902b-48d7-8725-2451c5b92c91"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b7ca3f9a-00fb-48e0-a0b4-5355aeca3570",
+        "36556391-588d-4380-b34c-c9b50d647b1c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [
+    {
+      "name": "Training provider",
+      "webLink": "",
+      "approved": false
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": false
+    }
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-09-14T00:00:00"
+}
