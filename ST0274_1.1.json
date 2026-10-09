@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding band revised.",
-  "changedDate": "2023-02-20T00:00:00",
+  "changedDate": "2026-08-21T00:00:00",
   "earliestStartDate": "2022-02-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -260,7 +260,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0251",
-  "tbMainContact": "michael.willis@poferries.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "DFDS Seaways, Carnival UK, Holyhead Towing, James Fisher (Shipping Services) Ltd, P&O Ferries, Princess Cruises, Royal Fleet Auxiliary, Royal Navy",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -282,9 +282,9 @@
   "clusterId": "82",
   "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2022-02-25T13:14:45 +00:00",
-  "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "lastUpdated": "2026-08-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
-  "banners": "",
+  "banners": "We are proposing to retire this apprenticeship for new starts due to low starts on programme since its approval. If you would like to raise any concerns with the proposed retirement please complete the consultation form below by Wednesday 30th September 2026.\nPlease note that retirement of this standard has not yet been agreed or authorised.\nIf you have any comments or concerns regarding this, please complete this form. These will be logged and reviewed once the consultation period has closed.&nbsp;",
   "occupationCode": "OCC0274",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0274-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0274-v1-1",
@@ -689,5 +689,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-20T00:00:00"
+  "publishDate": "2026-08-21T00:00:00"
 }
