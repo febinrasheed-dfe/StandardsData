@@ -1,0 +1,677 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 77,
+  "referenceNumber": "ST0176",
+  "learningAimClassCode": "",
+  "title": "Credit controller and collector",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0176",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Assessment plan revised",
+  "changedDate": "2026-09-04T00:00:00",
+  "earliestStartDate": "2027-03-11T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Monitor and manage customer accounts, following financial policies to collect money owed to organisations",
+  "level": 2,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "minimumHoursForCompliance": "278",
+  "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Legal, finance and accounting",
+  "keywords": [
+    "financial services",
+    "credit management",
+    "financial risk",
+    "customer relationships",
+    "customer accounts",
+    "debt support",
+    "write offs"
+  ],
+  "jobRoles": [
+    "Collections agent",
+    "Credit collector",
+    "Credit controller",
+    "Debt collector"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0176-in-revision?view=epa",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.1 Accounting and finance",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Role / Occupation&lt;/strong&gt;:&lt;/h3&gt;\n&lt;p&gt;Credit Controller / Collector&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Occupational Profile:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Credit management is a dynamic function found across all sectors of UK and international commerce and offers a range of challenging and interesting specialisms. Given the importance of credit management and collections, roles are central to many operations, typically setting policies, facilitating sales, managing financial risk and customer&lt;/p&gt;\n&lt;p&gt;relationships. Through this work credit management protects cash flow and facilitates all wider business activity.&lt;/p&gt;\n&lt;p&gt;Commercial teams have significant responsibility and manage high value accounts. Roles are typically fast-paced and target driven, requiring detailed knowledge of law, regulations and the business environment, and skilled practitioners possess excellent technical and interpersonal skills. Credit management and collections are rewarding career choices for self-motivated and enthusiastic individuals who would enjoy a varied role working at the centre of operations.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Role Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Within this, the focus of the Credit Controller/ Collector role is typically to monitor and manage customer accounts; follow organisational policies to collect monies owed and ensure that work quality targets are met. This requires proactive interaction with customers who have not paid or who have reached credit limits or terms in order to minimise bad debts while retaining positive relationships for the longer term. The range of activities within the role could include, but are not limited to, processing credit applications; agreeing credit terms and/or payment arrangements; invoicing; monitoring payment; allocating and reconciling cash; proactively contacting customers to collect debt/outstanding balances; resolving straight-forward disputes; debt support, and recommending write offs.&lt;/p&gt;\n&lt;h3&gt;Typical job titles:&lt;/h3&gt;\n&lt;p&gt;&lt;span class=&quot;label label-primary tag&quot;&gt;&lt;span class=&quot;ng-binding&quot;&gt;Credit controller&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;label label-primary tag&quot;&gt;&lt;span class=&quot;ng-binding&quot;&gt;Credit collector&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;label label-primary tag&quot;&gt;&lt;span class=&quot;ng-binding&quot;&gt;Debt collection and Agent&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;label label-primary tag&quot;&gt;&lt;span class=&quot;ng-binding&quot;&gt;Third party collection&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements - Knowledge, skills and behaviours that the apprentice will demonstrate on completion:&lt;/strong&gt;&lt;/h3&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Credit management&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Broad understanding of the principles of credit management and collections together with a sound understanding of organisational policies and techniques used in their role, e.g. credit terms; use of external sources of information, e.g. credit scores; and policies for handling vulnerable customers.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Regulatory and compliance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Broad understanding of the legal, regulatory, risk and compliance framework within which they operate, with a sound understanding of relevant risk and compliance requirements for their role, e.g. credit management policies, data protection, treating customers fairly, potentially fraudulent transactions, including anti-money laundering arrangements and financial and sector regulatory requirements depending on the type of collections.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Industry and organisation understanding&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Understands professional standards; the nature and priorities of the organisation they work in; organisational ‘values’; and where their role fits in the organisation. Understands the different areas of the organisation that they need to work with, e.g. sales.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Products and services&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Broad understanding of the products and services offered to customers by their organisation, together with sound knowledge of the products and services that they support, and how their role supports the delivery of these products and services.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Systems and processes&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Understands the systems, tools and processes used in the role, together with the standards to be met, including IT tools.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;89&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;375&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;89&quot;&gt;\n&lt;p&gt;Service delivery&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;375&quot;&gt;\n&lt;p&gt;Delivers excellent service to customers using the organisation’s systems and processes; contributes to individual and team objectives, in line with the employer’s policy; works in a way which reflects organisational values and complies with standards and regulatory requirements; carries out a range of tasks which may include credit application processing, cash allocation and reconciliation; proactive contact with customers to collect outstanding balances/debt; maintaining accurate records of communications/actions; straight-forward dispute resolution; and recommending write offs.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;89&quot;&gt;\n&lt;p&gt;Work planning&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;375&quot;&gt;\n&lt;p&gt;Organises their own accounts, completing tasks to required deadlines. Tracks individual customer accounts where necessary. Takes ownership through to completion, escalating when required, e.g. potential debt risk.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;89&quot;&gt;\n&lt;p&gt;Teamwork&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;375&quot;&gt;\n&lt;p&gt;Consistently supports colleagues/collaborates to achieve results. Builds/maintains good working relationships within teams and with other business areas where necessary. Aware of own role in the team and the impact on others.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;89&quot;&gt;\n&lt;p&gt;Communication and relationship building&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;375&quot;&gt;Communicates effectively with customers/colleagues, using sound interpersonal skills, a range of media and appropriate language, e.g. phone, email, SMS, letter and face-to-face. Builds good relationships with customers, recognising their relationship with and their importance to the organisation while dealing with a potentially difficult topic.&amp;nbsp; Adapts their style to that of the customer and actively listens to understand their needs. Handles difficult and sensitive situations&amp;nbsp;professionally when they occur, e.g. regarding overdue accounts, working to support and retain a positive relationship with the customer.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;89&quot;&gt;\n&lt;p&gt;Negotiation and decision making&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;375&quot;&gt;Works with customers to identify mutually acceptable solutions to credit issues, within organisational guidelines. Takes ownership through to resolution, escalating where necessary.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;89&quot;&gt;\n&lt;p&gt;Continuous improvement&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;375&quot;&gt;Identifies opportunities to improve work practices and successfully implements changes that are required.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;89&quot;&gt;\n&lt;p&gt;Personal development&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;375&quot;&gt;\n&lt;p&gt;Seeks feedback and acts on it to improve their performance. Builds their own capability through ownership of their own development, working with their manager. Keeps up to date with relevant changes.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;103&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;362&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;103&quot;&gt;\n&lt;p&gt;Honesty &amp;amp; Integrity&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;362&quot;&gt;\n&lt;p&gt;Truthful, sincere and trustworthy in their actions. Shows integrity by doing the right thing. Maintains appropriate confidentiality at all times.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;103&quot;&gt;\n&lt;p&gt;Flexibility&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;362&quot;&gt;\n&lt;p&gt;Adapts positively to changing work priorities and patterns when new tasks need to be done or requirements change.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;103&quot;&gt;\n&lt;p&gt;Resilience&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;362&quot;&gt;\n&lt;p&gt;Displays energy and enthusiasm in the way they go about their role, dealing positively with setbacks when they occur. Stays positive under pressure.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;Entry requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships. It is recommended that employers may want most candidates to have Level 2 Maths and English. Other relevant or prior experience may also be considered as an alternative.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The length of this apprenticeship is typically 12 – 18 months.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;There are no required qualifications for this apprenticeship. Apprentices without level 1 English and Maths will need to achieve this level and take the test for level 2 English and Maths prior to completion of their apprenticeship.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Progression&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship is likely to be an entry level role to the organisation. On completion of this apprenticeship, the apprentice will be fully competent in the role and can continue to develop their career within the organisation through a range of possible pathways. These include senior credit controller/collector, credit risk analyst, team leader and credit manager. If the apprentice chooses to study the suggested CICM qualification, they will become affiliate members of the Chartered Institute of Credit Management. This will put them on the pathway towards full qualification as a credit manager and full professional membership of the Chartered Institute of Credit Management.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is a Level 2 apprenticeship&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review date&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;After 3 years or when significant change is required.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;This occupation exists across a wide range of sectors, including finance, utilities, government departments, retail, manufacturing, engineering, hospitality, and any organisation that offers credit to its customers. Employees in this role work in diverse environments, from large, fast-paced contact centres to small and medium-sized businesses. Team structures vary, ranging from organisations that rely on a single credit controller, to those with large teams managing high transaction volumes. Roles may involve managing credit for individuals, businesses, or both, depending on the organisation. Day-to-day communication may involve phone, email, and occasional face-to-face interaction with customers.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;The broad purpose of the occupation is to ensure that money owed to an organisation is collected and that customer debt is effectively managed. This includes assessing creditworthiness, overseeing accounts, and securing payment. At this level, employees work with internal and external customers to monitor accounts, follow organisational policies, and meet quality and performance targets. They proactively engage with customers who have overdue payments or exceeded credit limits, aiming to minimise bad debt while maintaining positive relationships and providing appropriate support.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;In their daily work, employees interact with a variety of internal and external stakeholders, depending on the organisation. These may include external customers, such as finance teams or individual account holders, as well as internal colleagues, such as sales advisors, customer service teams, accounting or billing clerks, legal advisors, compliance managers, and money and debt advice organisations.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;In commercial settings, they typically manage a portfolio of business accounts and liaise with account or sales teams. In consumer collections, they often work in team-based environments, reporting to a team leader and handling high volumes of individual customers, including those in vulnerable circumstances, and signposting to support services where appropriate. Roles are primarily office-based, usually within finance functions or shared service centres, with communication mainly via phone and email.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;Key responsibilities include invoicing, monitoring payments, allocating and reconciling cash, contacting customers about outstanding balances, resolving queries, handling straightforward disputes, and providing debt support. The role is fast-paced and target-driven, requiring knowledge of regulations and organisational procedures. Effective practitioners combine technical competence with strong communication, teamwork, relationship-building, and problem-solving skills, alongside a solid understanding of policies and procedures, strong financial and data analysis capabilities, and a commitment to continuous learning and achieving results.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+      "detail": "The principles and functions of credit management or debt collection relevant to the role, how it operates within the organisation, and its interaction with other areas of the organisation."
+    },
+    {
+      "knowledgeId": "37c7bcd9-9786-4685-a15e-246147137201",
+      "detail": "Standard operating procedures and processes to facilitate the collection of monies owed, for example invoicing, monitoring payments, allocating and reconciling cash, contacting customers to collect debt or outstanding balances, resolving account queries and straightforward disputes, and providing debt support."
+    },
+    {
+      "knowledgeId": "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+      "detail": "Recognised call protocols or frameworks used to understand vulnerability, assess affordability, arrange payment plans, and apply techniques to reach mutually acceptable solutions to credit or debt issues."
+    },
+    {
+      "knowledgeId": "48225bda-f3fe-4875-9070-997f40951c0a",
+      "detail": "The legal and regulatory requirements related to the role and sector, for example consumer duty, late payment of commercial debts (interest), data protection legislation, and anti-money laundering regulations."
+    },
+    {
+      "knowledgeId": "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+      "detail": "Risk management and compliance requirements, including awareness of when escalation is required and the consequences of non-compliance."
+    },
+    {
+      "knowledgeId": "4a71e139-8e8a-4cdc-8909-5e283079e788",
+      "detail": "Organisational policies and procedures relevant to the credit management or debt collection role."
+    },
+    {
+      "knowledgeId": "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+      "detail": "Professional expectations regarding etiquette, ethics, timeliness, and meeting deadlines, including how to support  vulnerable customers."
+    },
+    {
+      "knowledgeId": "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+      "detail": "The products and or services offered by the organisation, relevant to the role, including their features and benefits."
+    },
+    {
+      "knowledgeId": "8a9a37c8-de62-4339-907a-5d3986c676ca",
+      "detail": "How the role supports the delivery of products and or services, aligns with organisational strategies and objectives, and contributes to meeting key performance indicators (KPIs)."
+    },
+    {
+      "knowledgeId": "fa18b811-2f6b-4234-88af-33e5b83b58a0",
+      "detail": "Principles of effective teamwork and how to work collaboratively with others."
+    },
+    {
+      "knowledgeId": "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+      "detail": "Techniques for managing client relationships and the importance of achieving positive customer outcomes."
+    },
+    {
+      "knowledgeId": "49ac9216-be7a-46cb-82f0-8edb38da346a",
+      "detail": "Communication methods, including verbal, non-verbal, written, and digital, and how to adapt these to different audiences to ensure information is communicated effectively."
+    },
+    {
+      "knowledgeId": "c780e8f5-1b02-40eb-9394-9cd012b4436f",
+      "detail": "The systems, tools, and processes used in the role, including IT systems and emerging technologies."
+    },
+    {
+      "knowledgeId": "3f41e48f-6294-4449-8116-83f0d65eadaf",
+      "detail": "Awareness of cybersecurity risks and how to stay safe and secure online, including data protection requirements and the secure handling of data."
+    },
+    {
+      "knowledgeId": "8a21ec8b-3fdb-431c-ad01-df7e66948062",
+      "detail": "Reporting procedures and understanding when and how to raise concerns or issues, including the consequences of not following procedures."
+    },
+    {
+      "knowledgeId": "a6997901-68c4-4039-962a-561ae3acaace",
+      "detail": "How professional standards can be used to improve own working practices, and techniques to identify opportunities for continuous improvement."
+    },
+    {
+      "knowledgeId": "5df9722b-4f63-4150-8206-db4000c6ba5b",
+      "detail": "Awareness of relevant current and emerging sustainability principles and how to apply these within the role."
+    },
+    {
+      "knowledgeId": "b4230099-3aff-41cf-894c-9d81ff738a37",
+      "detail": "Awareness of organisational equity, diversity, and inclusion (EDI) policies."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+      "detail": "Demonstrates resilience in adapting to change and in challenging situations."
+    },
+    {
+      "behaviourId": "7c4d9aa8-3e9f-4b08-8b9b-f1010cfaa539",
+      "detail": "Demonstrates a collaborative mindset and is supportive of others when setbacks occur."
+    },
+    {
+      "behaviourId": "b089e466-4c11-4b0d-a639-a65759309b6e",
+      "detail": "Acts with integrity and applies an ethical approach when dealing with others."
+    },
+    {
+      "behaviourId": "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+      "detail": "Is committed to continuing professional development (CPD) to maintain and enhance competence in their own area of practice, and to keep up to date with legal, regulatory, and technological changes."
+    },
+    {
+      "behaviourId": "8f18bdc9-1f6d-4cb0-a459-6d96b7670401",
+      "detail": "Is resolute in taking responsibility for achieving goals."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "18798aed-6328-4fbb-81cc-d476be17a4bb",
+      "detail": "Meet key performance indicators (KPIs) in line with organisational, legal, and regulatory requirements."
+    },
+    {
+      "skillId": "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+      "detail": "Process, record, and monitor customer accounts within own work remit."
+    },
+    {
+      "skillId": "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+      "detail": "Facilitate the collection of monies owed by following standard operating procedures, escalating issues where required."
+    },
+    {
+      "skillId": "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+      "detail": "Use recognised call protocols or frameworks to assess affordability, arrange payment plans, and use techniques to reach mutually acceptable solutions to credit or debt issues."
+    },
+    {
+      "skillId": "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+      "detail": "Follow legal, regulatory, and organisational policies and procedures relevant to the credit management and or debt collection role, for example recognising and managing customer vulnerability and customers in financial difficulty."
+    },
+    {
+      "skillId": "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+      "detail": "Build positive relationships with colleagues and customers."
+    },
+    {
+      "skillId": "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+      "detail": "Communicate with customers and colleagues using a range of media, such as email, telephone, and online communications, adapting communication style to suit the audience, for example vulnerable customers."
+    },
+    {
+      "skillId": "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+      "detail": "Use standard systems and processes to meet business and customer needs, for example IT systems and tools, Customer Relationship Management (CRM) systems, use of AI, and automated workflows where applicable."
+    },
+    {
+      "skillId": "02c262ca-4132-4721-b639-446401385766",
+      "detail": "Use digital technology and data analytics safely and securely in day-to-day activities and in line with data protection requirements, for example sharing information in compliance with data protection legislation and organisational policy."
+    },
+    {
+      "skillId": "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+      "detail": "Report or escalate issues where appropriate, in line with organisational procedures and legal and regulatory requirements."
+    },
+    {
+      "skillId": "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+      "detail": "Identify opportunities to improve own working practices and implement changes to improve performance."
+    },
+    {
+      "skillId": "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73",
+      "detail": "Organise workload to complete tasks and meet deadlines, taking ownership of work through to resolution and problem-solving issues where appropriate."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2026-07-16T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0550",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Bosch Rexroth Ltd, Bradfords Builders Merchants, Cabinet office, Chartered Institute of Credit Management, Credit Services Association (CSA), Creed Foodservice Ltd, Crossling Ltd, Crystal collections Ltd, Forums International , HM Treasury, Kerry Logistics Ltd, Leyland SDM, Lords Builders Merchants, MKM Building Supplies Ltd, National Upskill Limited, Premier Paper Group, Premier Training, RJH Consulting, Saint Gobain, Seetec, Tarmac, UK Plumbing Supplies, Valor Hospitality Europe Limited, Wilson and Roe High Court Enforcement",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Collections agent",
+    "Credit collector",
+    "Credit controller",
+    "Debt collector"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Financial",
+  "cluster": "Financial services administrator",
+  "clusterId": "240",
+  "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
+  "createdDate": "2026-09-04T12:07:54 +00:00",
+  "lastUpdated": "2026-09-04T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-03-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0176",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0176-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0176-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "a5ea2f46-b9e5-46f7-90e3-e2fd190eae26",
+      "dutyDetail": "Engage with customers in a positive way to understand their circumstances, to ensure payment on time, and, where relevant, use recognised call frameworks to understand vulnerabilities, assess affordability, and determine the ability to pay.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "7c4d9aa8-3e9f-4b08-8b9b-f1010cfaa539",
+        "b089e466-4c11-4b0d-a639-a65759309b6e",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "37c7bcd9-9786-4685-a15e-246147137201",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "c780e8f5-1b02-40eb-9394-9cd012b4436f",
+        "3f41e48f-6294-4449-8116-83f0d65eadaf",
+        "8a21ec8b-3fdb-431c-ad01-df7e66948062",
+        "a6997901-68c4-4039-962a-561ae3acaace",
+        "5df9722b-4f63-4150-8206-db4000c6ba5b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ac1b34e5-e854-4e54-ab8d-964858af8671",
+      "dutyDetail": "Facilitate the collection of monies owed from business or individual customers by arranging payments or payment plans, or identifying vulnerability and signposting advice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "b089e466-4c11-4b0d-a639-a65759309b6e",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "37c7bcd9-9786-4685-a15e-246147137201",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "a6997901-68c4-4039-962a-561ae3acaace"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0847a783-27f5-480e-921b-92843bf3ec3b",
+      "dutyDetail": "Work with customers to identify mutually acceptable solutions to credit and or debt issues, taking ownership through to resolution and escalating where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "b089e466-4c11-4b0d-a639-a65759309b6e",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "37c7bcd9-9786-4685-a15e-246147137201",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "a6997901-68c4-4039-962a-561ae3acaace"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "02ae6ecc-5ba3-46f9-a50d-dd832baf9024",
+      "dutyDetail": "Manage credit or debt risks and make decisions, seeking guidance from line managers or escalating where appropriate, for example about queries, complaints, or vulnerability, in line with organisational policies and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "b089e466-4c11-4b0d-a639-a65759309b6e",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "37c7bcd9-9786-4685-a15e-246147137201",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "a6997901-68c4-4039-962a-561ae3acaace"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fc469e7e-b5dc-4629-9749-dc1973ed5265",
+      "dutyDetail": "Achieve credit management or debt recovery key performance indicators (KPIs) in line with organisational, legal, and regulatory requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "b089e466-4c11-4b0d-a639-a65759309b6e",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "37c7bcd9-9786-4685-a15e-246147137201",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "a6997901-68c4-4039-962a-561ae3acaace"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "30278fe1-80e3-4c5c-9548-32f180a6d7df",
+      "dutyDetail": "Organise own workload to achieve work objectives, completing tasks to required deadlines.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "c780e8f5-1b02-40eb-9394-9cd012b4436f",
+        "a6997901-68c4-4039-962a-561ae3acaace"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "182235b6-237e-4963-ae40-d183faff849a",
+      "dutyDetail": "Use systems, tools, and standard processes to track, monitor, record, and process credit and or debt collection cases.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "37c7bcd9-9786-4685-a15e-246147137201",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "c780e8f5-1b02-40eb-9394-9cd012b4436f",
+        "3f41e48f-6294-4449-8116-83f0d65eadaf",
+        "8a21ec8b-3fdb-431c-ad01-df7e66948062",
+        "a6997901-68c4-4039-962a-561ae3acaace",
+        "5df9722b-4f63-4150-8206-db4000c6ba5b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "feedd8a7-d1c9-4cf0-9958-9b8e67f4867a",
+      "dutyDetail": "Contribute to team improvement, and interact and cooperate effectively within the team.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "7c4d9aa8-3e9f-4b08-8b9b-f1010cfaa539",
+        "b089e466-4c11-4b0d-a639-a65759309b6e",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "fa18b811-2f6b-4234-88af-33e5b83b58a0",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "c780e8f5-1b02-40eb-9394-9cd012b4436f",
+        "a6997901-68c4-4039-962a-561ae3acaace"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e466f64d-cd5b-4f8d-8b21-d2dd585744f1",
+      "dutyDetail": "Keep up to date with, and adhere to, relevant regulatory, legal, and policy changes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "b089e466-4c11-4b0d-a639-a65759309b6e",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "37c7bcd9-9786-4685-a15e-246147137201",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "c780e8f5-1b02-40eb-9394-9cd012b4436f",
+        "3f41e48f-6294-4449-8116-83f0d65eadaf",
+        "8a21ec8b-3fdb-431c-ad01-df7e66948062",
+        "a6997901-68c4-4039-962a-561ae3acaace",
+        "5df9722b-4f63-4150-8206-db4000c6ba5b",
+        "b4230099-3aff-41cf-894c-9d81ff738a37"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "860d9d11-d5a9-4b36-9390-75cb31a812db",
+      "dutyDetail": "Contribute to continuous improvement by identifying and suggesting opportunities to improve own working practices, and implementing required changes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63f991c4-c79c-4f52-bb3a-801746cc75ce",
+        "7c4d9aa8-3e9f-4b08-8b9b-f1010cfaa539",
+        "b089e466-4c11-4b0d-a639-a65759309b6e",
+        "6b525b3b-105f-4a74-b4c4-71b0f63f1795",
+        "8f18bdc9-1f6d-4cb0-a459-6d96b7670401"
+      ],
+      "mappedKnowledge": [
+        "211a2dac-b68a-4be1-884c-6a6bb71abfd4",
+        "37c7bcd9-9786-4685-a15e-246147137201",
+        "af06f127-13d0-4a44-99fd-3f9118f9cc84",
+        "48225bda-f3fe-4875-9070-997f40951c0a",
+        "3ffc8927-169d-4348-ac97-e43f2b4ac292",
+        "4a71e139-8e8a-4cdc-8909-5e283079e788",
+        "96852aa7-c67e-4c23-a881-6340c06d2f9b",
+        "58676be5-8a71-48ae-8ae7-4fd7eb341ece",
+        "8a9a37c8-de62-4339-907a-5d3986c676ca",
+        "fa18b811-2f6b-4234-88af-33e5b83b58a0",
+        "676ae626-77c4-40cc-bbae-6e39fa33ebb3",
+        "49ac9216-be7a-46cb-82f0-8edb38da346a",
+        "c780e8f5-1b02-40eb-9394-9cd012b4436f",
+        "3f41e48f-6294-4449-8116-83f0d65eadaf",
+        "8a21ec8b-3fdb-431c-ad01-df7e66948062",
+        "a6997901-68c4-4039-962a-561ae3acaace",
+        "5df9722b-4f63-4150-8206-db4000c6ba5b",
+        "b4230099-3aff-41cf-894c-9d81ff738a37"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18798aed-6328-4fbb-81cc-d476be17a4bb",
+        "0ed7f5ea-83bc-4cde-b07c-c0a3160b24cc",
+        "04596ff2-e38a-4ed1-80cd-fdb0c7ba848b",
+        "d0621bf5-37cd-4c69-b345-6c285ac0bc98",
+        "19cf0c9e-45ee-477a-b06f-73c3f5702d7f",
+        "042fc67d-e8f6-4de7-a53d-d8e6ee444c4d",
+        "785a4e13-5c0e-4307-9e83-f2b0a4e83c89",
+        "c531f2e9-b356-45f7-8dea-9688f43f1b0b",
+        "02c262ca-4132-4721-b639-446401385766",
+        "627d05a2-6f42-4d9d-b8a2-7fa504ac948f",
+        "daa45733-aa98-4ffa-a051-394d0cd4f0a8",
+        "a33c95f4-5c80-4c28-a1a6-4600bdd5dd73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-03-11T00:00:00"
+}
