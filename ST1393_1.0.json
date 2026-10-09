@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-07-19T00:00:00",
+  "changedDate": "2026-05-13T00:00:00",
   "earliestStartDate": "2024-07-19T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Pack items into boxes or crates and move the packed items, furniture, equipment, specialist items and any other customer possessions. Assist with the loading and unloading of items onto and off specially built removals vehicles.",
   "level": 2,
@@ -47,7 +47,7 @@
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.0",
   "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the removals industry. This industry covers different types of removals including household, international, commercial and government buildings and provides warehouse storage for customers. Apprentices may work in various locations and surroundings when carrying out removals. Examples are residential houses, offices, schools, factories, shops, libraries, museums, and hospitals. Removal companies vary in size providing national and international coverage and may have several sites they work from. All locations are different, and no two moves are the same.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to pack items into boxes or crates and move the packed items, furniture, equipment, specialist items and any other customer possessions. They will assist with the loading and unloading of items onto and off specially built removals vehicles. For removals going to mainland Europe, overseas or via store, they will need to fill out inventory forms, condition reports and check the items into and out of a secure storage location. Removal operatives will use a range of computerised or manual operating systems. These are used to manage the daily tasks, process customer orders, produce job sheet instructions and record customers possessions for storage. There will be additional requirements to identify, note and where required photograph the pre-transit condition of items. The removals industry has a large variation in its customer base and works to time constraints or delays which could lead to working flexible and unsociable hours to respond to these demands.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with customers, the public, operational supervisors, warehouse supervisors, team leaders, drivers, administrators, and sales colleagues. They will be supervised by a team leader, warehouse supervisor or operations supervisor.&#160;&lt;/p&gt;\n&lt;p&gt;The removals operative is a good communicator and will be able to keep customers and colleagues informed throughout tasks, they are confident of working alone when required and within a team. A focus on an excellent customer experience is important, therefore the removals operatives must be mindful and sensitive to each task they attend and taking into consideration the diversity of the customer base in the removals industry, the operative must always conduct themselves in a professional manner.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the removals industry. This industry covers different types of removals including household, international, commercial and government buildings and provides warehouse storage for customers. Apprentices may work in various locations and surroundings when carrying out removals. Examples are residential houses, offices, schools, factories, shops, libraries, museums, and hospitals. Removal companies vary in size providing national and international coverage and may have several sites they work from. All locations are different, and no two moves are the same.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to pack items into boxes or crates and move the packed items, furniture, equipment, specialist items and any other customer possessions. They will assist with the loading and unloading of items onto and off specially built removals vehicles. For removals going to mainland Europe, overseas or via store, they will need to fill out inventory forms, condition reports and check the items into and out of a secure storage location. Removal operatives will use a range of computerised or manual operating systems. These are used to manage the daily tasks, process customer orders, produce job sheet instructions and record customers possessions for storage. There will be additional requirements to identify, note and where required photograph the pre-transit condition of items. The removals industry has a large variation in its customer base and works to time constraints or delays which could lead to working flexible and unsociable hours to respond to these demands.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with customers, the public, operational supervisors, warehouse supervisors, team leaders, drivers, administrators, and sales colleagues. They will be supervised by a team leader, warehouse supervisor or operations supervisor.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The removals operative is a good communicator and will be able to keep customers and colleagues informed throughout tasks, they are confident of working alone when required and within a team. A focus on an excellent customer experience is important, therefore the removals operatives must be mindful and sensitive to each task they attend and taking into consideration the diversity of the customer base in the removals industry, the operative must always conduct themselves in a professional manner.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "cd99388e-b8b9-4e52-8614-41b7f519d1c9",
@@ -285,7 +285,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0850",
-  "tbMainContact": "ian.studd@bar.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Anchor removals, Bradshaw moving services, British Association of Removers, Caversham Moves, Central moves, Clarks of Amersham, Crown Worldwide Group, Fox Group (Moving & Storage) Ltd, Jam Vans, Martells, Stranks Removals and Storage Ltd, Universal commercial relocation ltd, White and Company",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -310,7 +310,7 @@
   "clusterId": "37",
   "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2024-05-17T10:09:51 +00:00",
-  "lastUpdated": "2024-07-19T00:00:00 +00:00",
+  "lastUpdated": "2026-05-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-07-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1393",
@@ -686,5 +686,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-07-19T00:00:00"
+  "publishDate": "2026-12-17T00:00:00"
 }
