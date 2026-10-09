@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Funding band, standard and end-point assessment plan revised.",
-  "changedDate": "2021-10-13T00:00:00",
+  "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": "2021-10-08T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Designing and manufacturing custom made devices to meet specification such as artificial limbs and spinal bracing",
   "level": 3,
@@ -246,7 +246,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0298",
-  "tbMainContact": "health-sciencecare.skillsengland@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Opcare, Steeper, Blatchford, Crispin Orthotics Ltd, Peacocks, Halo Medical, Ortho Europe, Taycare, Trust Orthotics, Trulife",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -261,7 +261,7 @@
   "clusterId": "43",
   "clusterDescription": "Provide technical and science-based support to patients delivering testing, diagnosis, monitoring services etc. of a low risk, routine nature and also the manufacture of appliances and devices",
   "createdDate": "2021-10-13T07:30:40 +00:00",
-  "lastUpdated": "2021-10-13T00:00:00 +00:00",
+  "lastUpdated": "2026-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-11-07T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0632",
@@ -557,5 +557,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2021-10-13T00:00:00"
+  "publishDate": "2026-12-09T00:00:00"
 }
