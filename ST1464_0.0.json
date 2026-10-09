@@ -1,21 +1,21 @@
 {
   "templateType": "Occupational Standard",
-  "shortAssessment": false,
+  "shortAssessment": true,
   "larsCode": 0,
   "referenceNumber": "ST1464",
   "learningAimClassCode": "",
   "title": "Consumer financial services professional",
-  "status": "Proposal in development",
+  "status": "In development",
   "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1464",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "0001-01-01T00:00:00",
+  "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Provide financial support and expertise to a range of clients",
   "level": 6,
   "ePALength": 0,
   "typicalDuration": 36,
@@ -23,245 +23,283 @@
   "maxFunding": 0,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
-  "keywords": [],
+  "keywords": [
+    "consumer financial services professional",
+    "financial support",
+    "money",
+    "finance",
+    "financial advice"
+  ],
   "jobRoles": [
-    "Retail banker",
+    "Associate relationship director",
     "Capital management associate",
     "Commercial banker",
     "Corporate banker",
+    "Customer care manager",
     "Customer financial products manager",
+    "Customer service business manager",
+    "Financial operations manager",
+    "Operations analyst",
+    "Operations leader",
+    "Operations manager",
     "Product analyst",
+    "Relationship director",
     "Relationship manager",
+    "Retail banker",
     "Transaction banker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1464?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.1 Accounting and finance",
   "version": "0.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in xxxxxxxx&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is xxxxxxxxxxxx&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with xxxxxxxxxxxx&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for xxxxxxxxxxxxxxxxxx&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a broad range of organisations&amp;nbsp;that manage, or consult around managing, financial&amp;nbsp;products and services. These include banks and building&amp;nbsp;societies offering retail, corporate and commercial&amp;nbsp;services both in the UK and globally.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the consumer financial services professional (CFSP) is to provide financial support and expertise to a range of clients or stakeholders. These can range from individuals with arrangements that are straightforward to those with highly complex multi-national needs. They may deal with businesses ranging from the self-employed to large corporate entities. Each context requires a specialist approach to ensure that the range of financial solutions proposed is relevant.&lt;/p&gt;\n&lt;p&gt;The CFSP supports clients or stakeholders in their day-to-day financial transactions. This can include assessing financial and business risk and benefits.&lt;/p&gt;\n&lt;p&gt;They may guide clients or stakeholders to enable an informed selection and use of specific financial products to optimise their financial position. They provide services to help resolve financial challenges and problems in the short and longer term. This work is reliant on the use of digital tools. It requires the CFSP to lead and guide clients or stakeholders through new digital approaches to improve their customer journey. The ability to convey complex ideas and options for action clearly to non-technical and technical clients or stakeholders is essential. CFSPs work on both routine day-to-day financial tasks and longer-term far-reaching projects to deliver positive financial outcomes for the organisation. They provide an ethical and professional service to ensure that the reputation of their organisation is protected. CFSPs work in three main areas of financial services.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Retail or commercial financial services professionals provide financial services directly to consumers. This can be to individuals in a retail context, or businesses or institutions known as commercial. In personal financial services, they may offer a range of products and services designed to meet the financial needs of individuals. Where the focus is on commercial financial services they will build and manage relations with a range of commercial clients or stakeholders. They may engage with the very smallest businesses to multi-national corporations. They provide financial solutions, including loans, credit, and treasury services. They advise clients or stakeholders on financial strategies and risk management.&lt;/li&gt;\n&lt;li&gt;Financial services relationship managers provide a bespoke service for the day-to-day needs of retail and commercial customers. They are a primary point of contact for these specialised clients or stakeholders, and they develop and maintain relations with them. They identify financial needs and offer suitable financial products and services. They engage across teams to ensure customer satisfaction.&lt;/li&gt;\n&lt;li&gt;Financial operations managers manage the operational aspects of transactions for the bank or building society, ensuring efficient and compliant processes are used. They may oversee back-office functions such as transaction processing and record-keeping. In their daily work, they interact with stakeholders within their team. They also work with related areas such as front-line customer support, managers and senior leaders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;A CFSP will be responsible for their own performance metrics and managing their time and workloads. Where they are line managers, they will manage their teams attainment of Key Performance Indicators and mitigate any shortfalls.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "e848d301-acc4-45b1-942c-fc237434126f",
-      "detail": "The structure of the global financial services industry and the role of their sector and organisation. "
+      "detail": "The structure of the financial services industry, including the role of their sector and organisation, and the types of internal organisational roles and structures within financial services."
     },
     {
       "knowledgeId": "3e6b8429-6093-4a20-a123-b42417541620",
-      "detail": "The features and principles of professional standards and best practice in financial services, and how these are applied within retail, commercial and corporate contexts."
+      "detail": "The features and principles of organisational standards in financial services, and how these are applied within specific contexts, including the features and principles of legal and regulatory frameworks, ethics, impacts, and measurement through Key Performance Indicators (KPIs)."
     },
     {
       "knowledgeId": "b63eb182-c116-4eef-beb9-c8eba5facd8e",
-      "detail": "External factors and the wider landscape and its impact on financial service delivery in a retail, commercial and corporate context and how organisations mitigate negative impacts and optimise positive ones."
-    },
-    {
-      "knowledgeId": "d43ac7b3-7ec6-4c8b-818b-004cdde7ce1e",
-      "detail": "Internal organisational roles and structures within retail, commercial and corporate financial services."
-    },
-    {
-      "knowledgeId": "5dd85f8c-e78c-4c95-b97c-2a742392b4f9",
-      "detail": "The features and principles of the legal and regulatory frameworks and ethics in the Financial Services sector including xxxxxxxxxxxxxxxxxxx"
+      "detail": "External factors and the wider landscape, such as government budget announcements and economic changes, including approaches to assessing their impact on financial service delivery using contemporary frameworks and approaches such as PESTEL."
     },
     {
       "knowledgeId": "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
-      "detail": "Risk and governance frameworks, how these impact on their role, how to facilitate compliance and the implications of non-compliance for their organisation. "
+      "detail": "Risk and governance frameworks, how these impact their role, approaches to facilitate compliance, and the implications of non-compliance for their organisation."
     },
     {
       "knowledgeId": "19f4393b-7dae-4e18-ab40-b2aa1d935275",
-      "detail": "The role green and sustainable policies and practices play in the finance sector and how to minimise negative impacts maximise positive impacts on environmental sustainability within the context of the role."
+      "detail": "The role that sustainability policies and practices play in financial services, including approaches to assess positive and negative impacts on environmental sustainability within the context of the role."
     },
     {
       "knowledgeId": "8153b91e-4ee5-4313-a72c-6af21a38334d",
-      "detail": "Approaches to identifying customer segments, their needs and service channels  relative to their role."
+      "detail": "Approaches to identifying customer segments, their needs, and service channels relative to their role, including the principles of excellent customer service and stakeholder relationship management."
     },
     {
       "knowledgeId": "df73f4a0-778a-4f29-85a1-6e88b5a038d7",
-      "detail": " fair customer outcomes including regulatory principles and organisational standards and values"
-    },
-    {
-      "knowledgeId": "ed17faf4-a707-43a2-9d44-e0598c92b88c",
-      "detail": "The principles of excellent customer service and relationship management. "
-    },
-    {
-      "knowledgeId": "2b050f2d-05db-4b0e-813d-ab988e9c9c8c",
-      "detail": "The impact the organisational policies, procedures and objectives have on successful financial services delivery and how this is measured by key performance indicators."
+      "detail": "Fair customer outcomes, including regulatory principles, and organisational standards and values."
     },
     {
       "knowledgeId": "bca8a05a-103f-46e9-a6d5-8bf0606c6b6c",
-      "detail": "Systems, tools and techniques used in the role such as project management techniques and IT tools together with the standards to be set."
+      "detail": "Productivity systems, tools, and techniques, such as project management, time management, and prioritisation."
+    },
+    {
+      "knowledgeId": "667e82f0-519a-4def-994a-0e058033be56",
+      "detail": "Principles of digital software and tools to support the delivery of financial services, such as data analysis, data visualisation, collaborative working, and communication channels."
+    },
+    {
+      "knowledgeId": "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+      "detail": "Principles of cybersecurity, including risks to financial services from cyber fraud and steps for mitigation."
+    },
+    {
+      "knowledgeId": "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+      "detail": "Principles of safe and secure data access, handling, and storage."
+    },
+    {
+      "knowledgeId": "3c675674-68fa-4e54-aeb3-2556f8a1c07b",
+      "detail": "Principles of equity, diversity, and inclusion (EDI) within financial services delivery for stakeholders and within teams."
     },
     {
       "knowledgeId": "5fbe410e-7ce1-4807-8e9f-2445e2438c1d",
-      "detail": "The local business market they operate in including financial, economic and market awareness as well as demographics, and nature of the competition"
+      "detail": "Approaches to assessing the market, including financial, economic, and market awareness, demographics, and competition."
     },
     {
       "knowledgeId": "27da32e6-079b-4a78-9ea2-2507a924a4a3",
-      "detail": "The Range of retail banking products and services available to clients or customers."
-    },
-    {
-      "knowledgeId": "322a24af-8e37-4184-9a1b-fdf3355c0f3e",
-      "detail": "The local business market they operate in including financial, economic and market awareness as well as demographics, and nature of the competition"
+      "detail": "The range of financial products and services available to stakeholders."
     },
     {
       "knowledgeId": "e0a76d69-97bc-4d49-a0c7-f3795122e9cb",
-      "detail": "Business dynamics, how businesses work and develop"
+      "detail": "Principles of business dynamics, including how businesses work and develop, such as the business lifecycle and cash flow."
     },
     {
-      "knowledgeId": "dd4ca15f-12a6-4d73-ae8c-8171e23a303f",
-      "detail": "The range of commercial and business banking products and services available to clients or customers "
+      "knowledgeId": "90debac2-4310-4bec-814a-bff32eeb247b",
+      "detail": "Principles of relationship management and maximising stakeholder value."
+    },
+    {
+      "knowledgeId": "2c452a47-ff61-4033-9a87-ada1d501bb96",
+      "detail": "Approaches to client portfolio sales, management, and growth."
+    },
+    {
+      "knowledgeId": "8c5275c8-7332-410d-ab43-666aebc8821f",
+      "detail": "Approaches to Know Your Customer (KYC) activity, including understanding the macro and micro-environment of each customer, their challenges and motivations, and the internal and external factors that impact their financial decisions."
+    },
+    {
+      "knowledgeId": "1ef3aa25-1c86-4102-a8d7-7eb9a78bccaa",
+      "detail": "Principles of financial operations administration to ensure compliance with regulatory requirements."
+    },
+    {
+      "knowledgeId": "2bdf42c0-3bcb-483a-8088-e3d3791d8374",
+      "detail": "Approaches to process mapping and efficiency strategies."
+    },
+    {
+      "knowledgeId": "7aa2a5ea-1822-4d1d-a9ba-fd227ce02603",
+      "detail": "Principles of stress tests or health checks on processes and procedures to ensure that commercial outcomes are compliant and viable."
     }
   ],
   "behaviours": [
     {
       "behaviourId": "d947bfd7-5874-4b4a-a919-0ea72c926820",
-      "detail": "1.\tHonesty and integrity - truthful in their actions. Shows integrity by doing the right thing and demonstrating the organisation’s values"
+      "detail": "Shows integrity by doing the right thing in adherence to the code of conduct and by demonstrating the organisation’s values."
     },
     {
       "behaviourId": "241770b1-d530-4875-a9d8-7a4aff5d7dce",
-      "detail": "2.\tMaintains confidentiality and acts with due care and diligence."
+      "detail": "Maintains confidentiality and acts with due care and diligence."
     },
     {
       "behaviourId": "4fad121d-f69b-4542-8562-c6886f4e7ac0",
-      "detail": "3.\tResilient in challenging, changing environments and adapts positively to changing work priorities and patterns. Is flexible to the needs of the organisation"
+      "detail": "Demonstrates resilience in challenging or changing environments, adapts positively to shifting work priorities and patterns, and remains flexible to the needs of the organisation."
     },
     {
       "behaviourId": "be46c090-988e-4e68-afaa-6f5f5755b422",
-      "detail": "4.\tCreative, innovative and enterprising when seeking solutions to business needs, whilst understanding relevant boundaries."
+      "detail": "Is creative, innovative, and enterprising when seeking solutions to business needs, while understanding relevant boundaries."
     },
     {
       "behaviourId": "2cd00d42-804c-44a9-a978-c0e8cacb1153",
-      "detail": "5.\tTakes ownership for the quality of work, recognises and resolves errors and takes responsibility for decisions and procedures implemented"
+      "detail": "Is accountable for the quality of work and takes responsibility for decisions and procedures implemented."
     },
     {
       "behaviourId": "43278037-bcc5-4bab-99cc-590914a62dfa",
-      "detail": "6.\tEmpathetic towards others and supports a diverse and inclusive culture"
+      "detail": " Is empathetic towards others and contributes to a diverse and inclusive culture."
+    },
+    {
+      "behaviourId": "5c9709e7-37ac-4f63-9c57-53a5d62b5965",
+      "detail": "Takes ownership of self-development and continuous improvement and supports others in their development."
     }
   ],
   "skills": [
     {
       "skillId": "3cf4d713-e63f-4247-97f5-ddee131c9c78",
-      "detail": "Builds and maintain working relationships with customers and stakeholders, contracting and managing stakeholder expectations."
+      "detail": "Build and maintain working relationships with customers and stakeholders, including contracting and managing stakeholder expectations."
     },
     {
       "skillId": "b10d271e-c566-4df5-9e30-6ff59d22c861",
-      "detail": "\nWorks with clients or customers to identify their relevant financial services requirements and identifies risks and opportunities for them. \n"
+      "detail": "Work with stakeholders to identify their relevant financial services requirements and assess associated risks and opportunities."
     },
     {
       "skillId": "65b3ed6c-74fe-4d29-ae1f-1296e9d7c0be",
-      "detail": "Implement and maintain finance related administrative procedures and guidance that enables team delivery "
+      "detail": "Implement and maintain finance-related administrative procedures and guidance that enable effective team delivery."
     },
     {
       "skillId": "d42bdc53-90d9-4c22-a806-b2328a89de46",
-      "detail": "Identifies and communicates risks to the relevant management or compliance personnel within the organisation, understanding and following the appropriate company process to address. "
+      "detail": "Identify and communicate risks to the relevant management or compliance personnel within the organisation, understanding and following the appropriate processes to address them."
     },
     {
       "skillId": "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
-      "detail": "Match and use project management techniques applicable to the circumstances enabling delivery of projects or part of a project as required"
-    },
-    {
-      "skillId": "988cbe61-c4f8-4ced-831d-4e1f7080b983",
-      "detail": "Applies green and sustainable finance principles and practice in their roles\n"
+      "detail": "Select and use project management techniques appropriate to the circumstances to enable the delivery of projects or project components."
     },
     {
       "skillId": "32cf8383-997c-49fb-af5e-fe814f1e10e1",
-      "detail": "Contribute to the development of strategic and operational plans for their area  \n\n"
+      "detail": "Contribute to the development of strategic and operational plans for their area."
     },
     {
       "skillId": "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
-      "detail": "Report on progress and operational plans to stakeholders such as senior leaders and team."
+      "detail": "Report on progress and operational plans to stakeholders, such as senior leaders and team members, using digital tools."
     },
     {
       "skillId": "8ca71460-9637-469f-9135-c88e3eeb881d",
-      "detail": "Evaluate and analyse information from various sources to inform decisions when advising and recommending products   \n\n"
-    },
-    {
-      "skillId": "aa0b4608-3f5f-416b-bfa3-5a0417951a88",
-      "detail": "Take an evidence-based approach to decision making."
-    },
-    {
-      "skillId": "18e07220-f37b-4783-89bf-a796e682e21b",
-      "detail": "Deals effectively with stakeholders at every level of the organisation required by the role. \n\n"
+      "detail": "Review, analyse, and evaluate information from different sources to inform decisions when reviewing proposed solutions for clients, customers, or stakeholders."
     },
     {
       "skillId": "a05847ed-564b-4a88-96e0-972fd07e5fba",
-      "detail": "Communicates financial services concepts to colleagues, customers and other less technical stakeholders, selecting an appropriate communication method for the audience, for example verbal, written and presentations.\n"
-    },
-    {
-      "skillId": "dab0a8f6-1dce-4522-81d0-319654ff8f98",
-      "detail": "Identifies ways to become a better listener and is able to adapt their style to the recipient and situation"
-    },
-    {
-      "skillId": "5fb84d67-e975-4b38-8256-53b5497ae9b3",
-      "detail": "Builds working relationships with colleagues to achieve results\n\n"
+      "detail": "Communicate financial services concepts to colleagues, customers, and non-technical stakeholders, selecting appropriate communication methods for the audience, such as verbal, written, digital, data visualisations, and presentations."
     },
     {
       "skillId": "a17d01a3-6b95-4728-a032-39865cf9ca3f",
-      "detail": "Leads others whether in a team or as part of a project to achieve desired outcomes"
+      "detail": "Lead others within a team or as part of projects to achieve organisational objectives."
     },
     {
       "skillId": "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
-      "detail": "Identifies opportunities to drive higher performance for self and others and improve services or processes "
-    },
-    {
-      "skillId": "c26c39ad-99c9-4998-9497-3473d0a03479",
-      "detail": "Takes ownership of self-development and continuous improvement and supports others in their development"
+      "detail": "Identify opportunities to drive higher performance for self and others, and improve services or processes, for example through the use of digital technologies."
     },
     {
       "skillId": "7723a82c-bac8-4378-b750-40b335306161",
-      "detail": "Handles data safely and securely and shares information in compliance with data protection legislation and organisation’s policy\n\n"
-    },
-    {
-      "skillId": "87947693-8b8a-44e1-9a1e-09ef32e11d77",
-      "detail": "Keeps up to date with developments in Information Technology relative to their role"
-    },
-    {
-      "skillId": "073647dc-f3a3-4ca1-99fd-62bb33fdb1e8",
-      "detail": "Support the business and customers through financial analysis and applying financial modelling and risk management tools\n\n"
-    },
-    {
-      "skillId": "607ea502-3067-48ee-b5aa-29086de57589",
-      "detail": "Supports the development or implementation of business development or customer contact strategies."
-    },
-    {
-      "skillId": "c9ba9873-c3bf-4fc9-9f45-146ccde6d8d1",
-      "detail": "Applies financial analysis techniques relevant to the area of the bank, for example provide guidance on credit appetite, develop practical and appropriate credit solutions or lending structures or maximise portfolio return\n"
-    },
-    {
-      "skillId": "ea2b7d2e-16ae-4132-b0ef-84b4bd3a07f1",
-      "detail": "Supports client or customer account planning and growth activities"
+      "detail": "Handle data safely and securely, and share information in compliance with data protection legislation and organisational policy."
     },
     {
       "skillId": "68d55f60-ac0a-411d-98db-4824ea82b314",
-      "detail": "Undertakes data or financial analysis planning and uses modelling tools that are required for the role."
+      "detail": "Undertake data or financial analysis using digital tools."
+    },
+    {
+      "skillId": "87947693-8b8a-44e1-9a1e-09ef32e11d77",
+      "detail": "Keep up to date with developments in digital technology in financial services relevant to their role, including the associated risks and benefits."
+    },
+    {
+      "skillId": "607ea502-3067-48ee-b5aa-29086de57589",
+      "detail": "Support the development or implementation of business development or customer contact strategies."
+    },
+    {
+      "skillId": "c9ba9873-c3bf-4fc9-9f45-146ccde6d8d1",
+      "detail": "Apply financial analysis techniques relevant to financial services tasks, for example providing guidance on credit appetite, developing practical and appropriate credit solutions or lending structures, or maximising portfolio return."
+    },
+    {
+      "skillId": "ebff42bc-e138-492e-a9d8-c375fed302be",
+      "detail": "Identify and provide relevant client market and product information to deliver client-focused, accessible, and ethical information that meets client needs."
+    },
+    {
+      "skillId": "1a709f4d-3ebc-4cdb-b33e-0876895da046",
+      "detail": "Undertake due diligence and risk assessment activities based on a detailed understanding of individual client needs, risk appetite, and exposure to risk."
+    },
+    {
+      "skillId": "ea2b7d2e-16ae-4132-b0ef-84b4bd3a07f1",
+      "detail": "Support stakeholder account planning and growth activities."
+    },
+    {
+      "skillId": "2c99a904-7791-4117-9564-d60b2d815d4e",
+      "detail": "Undertake sales and marketing activities to generate positive commercial outcomes."
+    },
+    {
+      "skillId": "5d8a7e7b-814a-4f7a-8b58-e9e785c7fd99",
+      "detail": "Apply compliance processes and procedures to financial operations activities to meet regulatory requirements."
+    },
+    {
+      "skillId": "16fa05d9-692e-4573-aebd-8520bbfd973e",
+      "detail": "Plan and support the implementation of live changes in financial services operation processes and procedures, including participation in stress tests and health checks to ensure compliance and viability."
+    },
+    {
+      "skillId": "2fbb6a06-4bce-4207-808b-94574f98efd6",
+      "detail": "Support the provision of feedback to internal stakeholders regarding identified areas for improvement in compliance and operational efficiencies."
     }
   ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
-  "standardPublished": "false",
-  "epaApprovalDate": "",
-  "epaPublished": "false",
+  "standardPublished": "true",
+  "epaApprovalDate": "2026-03-05T00:00:00 +00:00",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": null,
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
-  "integration": null,
-  "integratedDegree": "",
+  "integration": "None",
+  "integratedDegree": "non-degree qualification",
   "tbReference": "TB0903",
-  "tbMainContact": "helen.dalton@education.gov.uk",
-  "involvedEmployers": "",
-  "otherInvolvedStakeholders": "",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Barclays, Lloyds, Halifax, The Coventry Building Society, NatWest, HSBC, Metro Bank, Santander, Bank of America, Rathbones, Goldman Sachs, Nationwide, Standard Chartered.",
+  "otherInvolvedStakeholders": "Kaplan, Walbrook Institute, BPP, Davies Group, Queen Mary University London, Chartered Banker Institute, Fitch learning, Exeter University.\n\n\n\n",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
   "typicalJobTitles": [
-    "Retail banker",
+    "Associate relationship director",
     "Capital management associate",
     "Commercial banker",
     "Corporate banker",
+    "Customer care manager",
     "Customer financial products manager",
+    "Customer service business manager",
+    "Financial operations manager",
+    "Operations analyst",
+    "Operations leader",
+    "Operations manager",
     "Product analyst",
+    "Relationship director",
     "Relationship manager",
+    "Retail banker",
     "Transaction banker"
   ],
   "greenJobTitles": [],
@@ -271,8 +309,8 @@
   "cluster": "Financial services professional",
   "clusterId": "243",
   "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
-  "createdDate": "2024-09-06T08:05:08 +00:00",
-  "lastUpdated": "",
+  "createdDate": "2026-05-06T12:57:12 +00:00",
+  "lastUpdated": "2026-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "",
@@ -283,353 +321,825 @@
   "duties": [
     {
       "dutyID": "475e62ac-abe1-4063-93f9-1556e63968ae",
-      "dutyDetail": "support delivery of financial services through digital banking solutions to clients both domestically and globally interacting with stakeholders in areas such as payments services, control, change, data, customer experience, and digital initiatives.",
+      "dutyDetail": "Support the delivery of financial services through digital or in-person banking solutions to clients or stakeholders, either domestically or globally, by interacting in areas such as payment services, control, change, data, customer experience, and digital initiatives.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "df73f4a0-778a-4f29-85a1-6e88b5a038d7",
+        "bca8a05a-103f-46e9-a6d5-8bf0606c6b6c",
+        "667e82f0-519a-4def-994a-0e058033be56",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "65b3ed6c-74fe-4d29-ae1f-1296e9d7c0be",
+        "d42bdc53-90d9-4c22-a806-b2328a89de46",
+        "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "68d55f60-ac0a-411d-98db-4824ea82b314",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "d25f8e34-ce1d-4fdc-aa8a-6e3077e84125",
-      "dutyDetail": "manage operational risks across the business and in compliance with applicable internal policies, and external laws and regulations at a global level.",
+      "dutyDetail": "Manage operational risks relevant to the role in compliance with applicable internal policies, as well as external laws and regulations.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "df73f4a0-778a-4f29-85a1-6e88b5a038d7",
+        "667e82f0-519a-4def-994a-0e058033be56",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "d42bdc53-90d9-4c22-a806-b2328a89de46",
+        "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "68d55f60-ac0a-411d-98db-4824ea82b314",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "658fbbae-0096-463d-9662-6491cabb01c1",
-      "dutyDetail": "deliver financial services activities within the regulatory framework, in which the organisation operates, and the regulatory requirements and expectations relevant to the role.",
+      "dutyDetail": "Deliver financial services activities within the regulatory framework in which the organisation operates, and in compliance with organisational policies and procedures.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "df73f4a0-778a-4f29-85a1-6e88b5a038d7",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "65b3ed6c-74fe-4d29-ae1f-1296e9d7c0be",
+        "d42bdc53-90d9-4c22-a806-b2328a89de46",
+        "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
+        "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "68d55f60-ac0a-411d-98db-4824ea82b314",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "4463f163-cabd-4f39-bcab-9b887195b60f",
-      "dutyDetail": "deliver financial services activities with the highest standards of ethics.",
+      "dutyDetail": "Recognise ethical challenges and work within the organisational code of conduct when delivering financial services activities, seeking advice when necessary.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa",
+        "5c9709e7-37ac-4f63-9c57-53a5d62b5965"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "df73f4a0-778a-4f29-85a1-6e88b5a038d7",
+        "667e82f0-519a-4def-994a-0e058033be56",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "d42bdc53-90d9-4c22-a806-b2328a89de46",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "06388cfa-a711-4829-ba0c-9ba43b2772d5",
-      "dutyDetail": "deliver against individual and team performance measures such as customer growth and active customers.",
+      "dutyDetail": "Deliver against individual and team performance measures, such as customer growth and active customer numbers.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa",
+        "5c9709e7-37ac-4f63-9c57-53a5d62b5965"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "bca8a05a-103f-46e9-a6d5-8bf0606c6b6c",
+        "667e82f0-519a-4def-994a-0e058033be56",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "65b3ed6c-74fe-4d29-ae1f-1296e9d7c0be",
+        "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
+        "32cf8383-997c-49fb-af5e-fe814f1e10e1",
+        "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "68d55f60-ac0a-411d-98db-4824ea82b314",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "1076a798-a386-4237-83a5-083bd1c21af9",
-      "dutyDetail": "communicate complex financial information clearly and in appropriate formats to stakeholders to facilitate informed decision making on financial products and strategies.",
+      "dutyDetail": "Communicate complex financial information using approaches and digital tools tailored to stakeholder needs, to facilitate informed decision-making on financial activities.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "667e82f0-519a-4def-994a-0e058033be56",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "65b3ed6c-74fe-4d29-ae1f-1296e9d7c0be",
+        "d42bdc53-90d9-4c22-a806-b2328a89de46",
+        "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "68d55f60-ac0a-411d-98db-4824ea82b314",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "cfe0bfcd-4d4a-4f78-accc-e81e2e145567",
-      "dutyDetail": "work with stakeholders to develop and deliver initiatives at pace, whilst managing risk, and project requirements",
+      "dutyDetail": "Work with stakeholders to develop and deliver initiatives at pace while managing risk and meeting project requirements.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "bca8a05a-103f-46e9-a6d5-8bf0606c6b6c",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "d42bdc53-90d9-4c22-a806-b2328a89de46",
+        "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
+        "32cf8383-997c-49fb-af5e-fe814f1e10e1",
+        "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "e9eb7949-c9bc-4aa1-a0dd-af5366602dd1",
-      "dutyDetail": "contribute to identifying areas for improvement within the organisation and follow through until implementation. ",
+      "dutyDetail": "Contribute to identifying areas for improvement within the organisation and follow through until they are implemented.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa",
+        "5c9709e7-37ac-4f63-9c57-53a5d62b5965"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "bca8a05a-103f-46e9-a6d5-8bf0606c6b6c",
+        "667e82f0-519a-4def-994a-0e058033be56",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "65b3ed6c-74fe-4d29-ae1f-1296e9d7c0be",
+        "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
+        "32cf8383-997c-49fb-af5e-fe814f1e10e1",
+        "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "a654a7dd-77d0-4f62-83ac-9182d8e3a9de",
-      "dutyDetail": "promote green and sustainable finance products, principles and practice.",
+      "dutyDetail": "Carry out activities within the wider financial landscape in line with organisational strategy, such as promoting equity, diversity, and inclusion (EDI), implementing environmental, social, and governance (ESG) policies including green and sustainable finance products, principles, and practices, and upholding high governance standards.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "bca8a05a-103f-46e9-a6d5-8bf0606c6b6c",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "65b3ed6c-74fe-4d29-ae1f-1296e9d7c0be",
+        "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
+        "32cf8383-997c-49fb-af5e-fe814f1e10e1",
+        "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "bd79fd35-532c-4048-8fe7-411381353f87",
-      "dutyDetail": "support others in their professional development by maintaining sectorial knowledge and sharing knowledge with peers.",
+      "dutyDetail": "Support others in their professional development by maintaining sector-specific knowledge and sharing it with peers.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa",
+        "5c9709e7-37ac-4f63-9c57-53a5d62b5965"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "bca8a05a-103f-46e9-a6d5-8bf0606c6b6c",
+        "667e82f0-519a-4def-994a-0e058033be56",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "75002638-26cb-45df-ad05-c9e7f2267b2a",
-      "dutyDetail": "support individual clients or customers with financial advice and the implementation of financial solutions either face to face or remotely.",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "7ee6960d-49f8-4808-a250-0fb3337ef48b"
+      "dutyDetail": "Support stakeholders by providing financial guidance and implementing financial solutions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
       ],
-      "mappedSkills": [],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "df73f4a0-778a-4f29-85a1-6e88b5a038d7",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "d42bdc53-90d9-4c22-a806-b2328a89de46",
+        "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
+        "32cf8383-997c-49fb-af5e-fe814f1e10e1",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "68d55f60-ac0a-411d-98db-4824ea82b314",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "5cec6e0c-02fe-447d-8020-2615375b6c31",
-      "dutyDetail": "handle non-routine customer queries, requests and complaints and act as an escalation point for front-line staff.",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "7ee6960d-49f8-4808-a250-0fb3337ef48b"
+      "dutyDetail": "Handle non-routine stakeholder queries, requests, or complaints, and act as an escalation point for stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
       ],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "e7169ac8-6cd2-4cbb-8b15-93008875aa6a",
-      "dutyDetail": "plan, launch and implement new products, services and processes for customers and clients ",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "7ee6960d-49f8-4808-a250-0fb3337ef48b"
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
       ],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "fd1379dc-4413-44ce-bd11-f9b464548c74",
-      "dutyDetail": "Support the business and clients or customers through financial analysis and applying financial modelling and risk management tools relative to a retail banking role such as xxxxxxxxxxxxxxxxx",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "7ee6960d-49f8-4808-a250-0fb3337ef48b"
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "d42bdc53-90d9-4c22-a806-b2328a89de46",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
       ],
-      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "0cd73071-92a0-4402-b152-1b19567b0113",
-      "dutyDetail": "represent the organisation within the wider community and build local contacts to benefit the reputation of the business.",
+      "dutyDetail": "Represent the organisation with external stakeholders and build contacts to enhance the business’s reputation, for example involvement with customers, clients, or external partners at national and global levels.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "3e6b8429-6093-4a20-a123-b42417541620",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "8153b91e-4ee5-4313-a72c-6af21a38334d",
+        "df73f4a0-778a-4f29-85a1-6e88b5a038d7",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "32cf8383-997c-49fb-af5e-fe814f1e10e1",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fd1379dc-4413-44ce-bd11-f9b464548c74",
+      "dutyDetail": "Support stakeholders’ financial services needs through analysis and the application of financial modelling and risk management tools.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "e848d301-acc4-45b1-942c-fc237434126f",
+        "b63eb182-c116-4eef-beb9-c8eba5facd8e",
+        "e026ae96-89f8-4067-b0df-2e4c7e72fadc",
+        "19f4393b-7dae-4e18-ab40-b2aa1d935275",
+        "bca8a05a-103f-46e9-a6d5-8bf0606c6b6c",
+        "667e82f0-519a-4def-994a-0e058033be56",
+        "48ca3eb9-f9cb-4dab-bc05-5b4aafa21557",
+        "f13489e4-a2cf-41f6-a39b-4f4dbba6de69",
+        "3c675674-68fa-4e54-aeb3-2556f8a1c07b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3cf4d713-e63f-4247-97f5-ddee131c9c78",
+        "b10d271e-c566-4df5-9e30-6ff59d22c861",
+        "ef872cdd-c7b6-4cef-ab03-a33b0630a9bb",
+        "32cf8383-997c-49fb-af5e-fe814f1e10e1",
+        "d6c3f403-8e17-469a-9fdc-243b3271c4e6",
+        "8ca71460-9637-469f-9135-c88e3eeb881d",
+        "a05847ed-564b-4a88-96e0-972fd07e5fba",
+        "a17d01a3-6b95-4728-a032-39865cf9ca3f",
+        "1fb2e732-15ad-4ef9-aa8a-577de285a2c5",
+        "7723a82c-bac8-4378-b750-40b335306161",
+        "68d55f60-ac0a-411d-98db-4824ea82b314",
+        "87947693-8b8a-44e1-9a1e-09ef32e11d77"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e7169ac8-6cd2-4cbb-8b15-93008875aa6a",
+      "dutyDetail": "Plan, launch, and implement new products, services, or processes for stakeholders, and support the provision of financial solutions. These activities may include account planning, developing commercial plans, enhancing client experience, managing risk, structuring and pricing deals, negotiating terms for new debt or agreements, and adhering to pricing policies for debt, credit balances, and money transmission products.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "d947bfd7-5874-4b4a-a919-0ea72c926820",
+        "241770b1-d530-4875-a9d8-7a4aff5d7dce",
+        "4fad121d-f69b-4542-8562-c6886f4e7ac0",
+        "be46c090-988e-4e68-afaa-6f5f5755b422",
+        "2cd00d42-804c-44a9-a978-c0e8cacb1153",
+        "43278037-bcc5-4bab-99cc-590914a62dfa"
+      ],
+      "mappedKnowledge": [
+        "5fbe410e-7ce1-4807-8e9f-2445e2438c1d",
+        "27da32e6-079b-4a78-9ea2-2507a924a4a3",
+        "e0a76d69-97bc-4d49-a0c7-f3795122e9cb"
+      ],
       "mappedOptions": [
         "7ee6960d-49f8-4808-a250-0fb3337ef48b"
       ],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "607ea502-3067-48ee-b5aa-29086de57589",
+        "c9ba9873-c3bf-4fc9-9f45-146ccde6d8d1"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "1786e4a8-e54c-42a7-bb7f-cca6e853e997",
-      "dutyDetail": "offer expert industry insight on corporate and commercial financial services to deliver appropriate solutions and maximise overall customer satisfaction.",
+      "dutyDetail": "Provide technical industry insights on specialised financial services to deliver appropriate solutions and maximise overall customer satisfaction.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "f7e8414b-4321-4928-bfce-4f0c2b9ac133"
+      "mappedKnowledge": [
+        "5fbe410e-7ce1-4807-8e9f-2445e2438c1d",
+        "27da32e6-079b-4a78-9ea2-2507a924a4a3",
+        "e0a76d69-97bc-4d49-a0c7-f3795122e9cb"
       ],
-      "mappedSkills": [],
+      "mappedOptions": [
+        "7ee6960d-49f8-4808-a250-0fb3337ef48b"
+      ],
+      "mappedSkills": [
+        "607ea502-3067-48ee-b5aa-29086de57589",
+        "c9ba9873-c3bf-4fc9-9f45-146ccde6d8d1"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "cf47a158-d987-4d73-b1fc-f650914f1bd9",
-      "dutyDetail": "assist corporate customers with carrying out financial services such as lending to cash and liquidity management across the globe.",
+      "dutyDetail": "Assist stakeholders in carrying out specialised financial activities and services, such as lending, cash management, and liquidity management.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "f7e8414b-4321-4928-bfce-4f0c2b9ac133"
+      "mappedKnowledge": [
+        "5fbe410e-7ce1-4807-8e9f-2445e2438c1d",
+        "27da32e6-079b-4a78-9ea2-2507a924a4a3",
+        "e0a76d69-97bc-4d49-a0c7-f3795122e9cb"
       ],
-      "mappedSkills": [],
+      "mappedOptions": [
+        "7ee6960d-49f8-4808-a250-0fb3337ef48b"
+      ],
+      "mappedSkills": [
+        "607ea502-3067-48ee-b5aa-29086de57589",
+        "c9ba9873-c3bf-4fc9-9f45-146ccde6d8d1"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "9a1a5527-f2ee-43ac-ba7d-7182ff17b956",
-      "dutyDetail": "address operational needs and day-to-day transactions of corporate and commercial customers such as supporting day to day banking through to complex corporate financing arrangements.",
+      "dutyDetail": "Address the operational needs and day-to-day transactions of stakeholders, such as supporting routine banking activities or complex corporate financing arrangements.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "f7e8414b-4321-4928-bfce-4f0c2b9ac133"
+      "mappedKnowledge": [
+        "5fbe410e-7ce1-4807-8e9f-2445e2438c1d",
+        "27da32e6-079b-4a78-9ea2-2507a924a4a3",
+        "e0a76d69-97bc-4d49-a0c7-f3795122e9cb"
       ],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "f39dcd52-ecfb-46cd-82d8-11bc5e1e0224",
-      "dutyDetail": "support with the development, management and delivery of transaction corporate and commercial banking solutions including account planning, commercials, client experience and risk management.",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
       "mappedOptions": [
-        "f7e8414b-4321-4928-bfce-4f0c2b9ac133"
+        "7ee6960d-49f8-4808-a250-0fb3337ef48b"
       ],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "f6694109-2728-46f7-b596-8a1ba4e2dc6c",
-      "dutyDetail": "carry out financial analysis and apply modelling tools relative a commercial or business banking role such as .............................",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "f7e8414b-4321-4928-bfce-4f0c2b9ac133"
+      "mappedSkills": [
+        "607ea502-3067-48ee-b5aa-29086de57589",
+        "c9ba9873-c3bf-4fc9-9f45-146ccde6d8d1"
       ],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "e30853ca-2cf9-488b-8f82-4a912198ecab",
-      "dutyDetail": "structure, price, negotiate terms for new debt deals for existing and new clients and adhere to pricing policies for debt, credit balances and money transmission products",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "f7e8414b-4321-4928-bfce-4f0c2b9ac133"
-      ],
-      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "2b10d7b5-fc97-4718-afb1-3a790153274c",
-      "dutyDetail": "drive the sales and growth of customer portfolios through regular reviews, solution-based approach using market and industry information with the clients\nIS THIS INVESTMENT BANKING?",
+      "dutyDetail": "Drive the sales and growth of stakeholder financial product usage and satisfaction through regular reviews and a solution-based approach, using market and industry information with clients.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "90debac2-4310-4bec-814a-bff32eeb247b",
+        "2c452a47-ff61-4033-9a87-ada1d501bb96",
+        "8c5275c8-7332-410d-ab43-666aebc8821f"
+      ],
       "mappedOptions": [
         "4105e868-e9c1-4c67-86e3-2ae0439ac32f"
       ],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "ebff42bc-e138-492e-a9d8-c375fed302be",
+        "1a709f4d-3ebc-4cdb-b33e-0876895da046",
+        "ea2b7d2e-16ae-4132-b0ef-84b4bd3a07f1",
+        "2c99a904-7791-4117-9564-d60b2d815d4e"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "1bdf30e8-c13b-4a38-ace4-53eb11ef6a54",
-      "dutyDetail": "manage a portfolio of customer relationships, maximising sustainable income and client profitability \nIS THIS INVESTMENT BANKING?",
+      "dutyDetail": "Support the management of a portfolio of customer relationships to maximise sustainable income and client profitability, including delivering, monitoring, and reviewing solutions based on financial risk profiles.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "90debac2-4310-4bec-814a-bff32eeb247b",
+        "2c452a47-ff61-4033-9a87-ada1d501bb96",
+        "8c5275c8-7332-410d-ab43-666aebc8821f"
+      ],
       "mappedOptions": [
         "4105e868-e9c1-4c67-86e3-2ae0439ac32f"
       ],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "ebff42bc-e138-492e-a9d8-c375fed302be",
+        "1a709f4d-3ebc-4cdb-b33e-0876895da046",
+        "ea2b7d2e-16ae-4132-b0ef-84b4bd3a07f1",
+        "2c99a904-7791-4117-9564-d60b2d815d4e"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "a90f6fc7-1fee-4720-b717-c2f049495a81",
-      "dutyDetail": "prepare and assess credit applications, manage operational, reputational and credit risk for the portfolio and adhere to risk service standards.\nIS THIS INVESTMENT BANKING?",
+      "dutyDetail": "Manage operational, reputational, and credit risks for the client portfolio, and adhere to risk service standards, such as collaborating with others to carry out Enhanced Due Diligence reviews for client portfolios.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "90debac2-4310-4bec-814a-bff32eeb247b",
+        "2c452a47-ff61-4033-9a87-ada1d501bb96",
+        "8c5275c8-7332-410d-ab43-666aebc8821f"
+      ],
       "mappedOptions": [
         "4105e868-e9c1-4c67-86e3-2ae0439ac32f"
       ],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "ebff42bc-e138-492e-a9d8-c375fed302be",
+        "1a709f4d-3ebc-4cdb-b33e-0876895da046",
+        "ea2b7d2e-16ae-4132-b0ef-84b4bd3a07f1",
+        "2c99a904-7791-4117-9564-d60b2d815d4e"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "150609ed-5042-40b8-a9ca-3fb8ccbbd4b1",
-      "dutyDetail": "deliver market materials to clients, demonstrating deep sector and product expertise\nIS THIS INVESTMENT BANKING?",
+      "dutyDetail": "Deliver market materials to clients, demonstrating in-depth sector and product expertise.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "90debac2-4310-4bec-814a-bff32eeb247b",
+        "2c452a47-ff61-4033-9a87-ada1d501bb96",
+        "8c5275c8-7332-410d-ab43-666aebc8821f"
+      ],
       "mappedOptions": [
         "4105e868-e9c1-4c67-86e3-2ae0439ac32f"
       ],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "0af72209-20ce-4655-b593-821f4b8575d1",
-      "dutyDetail": "ensure effective risk management and work with other stakeholders to carry out Enhanced Due Diligence reviews for your portfolio of clients\nIS THIS INVESTMENT BANKING?",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "4105e868-e9c1-4c67-86e3-2ae0439ac32f"
+      "mappedSkills": [
+        "ebff42bc-e138-492e-a9d8-c375fed302be",
+        "1a709f4d-3ebc-4cdb-b33e-0876895da046",
+        "ea2b7d2e-16ae-4132-b0ef-84b4bd3a07f1",
+        "2c99a904-7791-4117-9564-d60b2d815d4e"
       ],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "a8f7d252-ee57-4a36-a426-7402a759e68a",
-      "dutyDetail": "Deliver, monitor, and review solutions to clients based on corporate client investment profile.\nIS THIS INVESTMENT BANKING?",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "4105e868-e9c1-4c67-86e3-2ae0439ac32f"
-      ],
-      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "2e427ce2-4aad-4a99-a8e8-ea23a9241036",
-      "dutyDetail": "Maintain personal accountability for the performance of own client book and generate healthy pipeline of target market prospects and convert them into clients..\nIS THIS INVESTMENT BANKING?",
+      "dutyDetail": "Assist in managing a client book and support the generation of new prospects within a target market.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "90debac2-4310-4bec-814a-bff32eeb247b",
+        "2c452a47-ff61-4033-9a87-ada1d501bb96",
+        "8c5275c8-7332-410d-ab43-666aebc8821f"
+      ],
       "mappedOptions": [
         "4105e868-e9c1-4c67-86e3-2ae0439ac32f"
       ],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "ebff42bc-e138-492e-a9d8-c375fed302be",
+        "1a709f4d-3ebc-4cdb-b33e-0876895da046",
+        "ea2b7d2e-16ae-4132-b0ef-84b4bd3a07f1",
+        "2c99a904-7791-4117-9564-d60b2d815d4e"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
-      "dutyID": "4000744f-f335-4ae0-89e5-c4021dc2400a",
-      "dutyDetail": "Implement an asset allocation in line with the client needs, and model portfolios as benchmarks.",
+      "dutyID": "6ffb35d9-d0a5-46e0-80b9-78cf4fc0743e",
+      "dutyDetail": "Manage the administration of financial operations activities to ensure compliance with regulatory requirements.\t",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [
-        "4105e868-e9c1-4c67-86e3-2ae0439ac32f"
+      "mappedKnowledge": [
+        "1ef3aa25-1c86-4102-a8d7-7eb9a78bccaa",
+        "2bdf42c0-3bcb-483a-8088-e3d3791d8374",
+        "7aa2a5ea-1822-4d1d-a9ba-fd227ce02603"
       ],
-      "mappedSkills": [],
+      "mappedOptions": [
+        "d4f8a858-295b-4586-86cb-37c03884a855"
+      ],
+      "mappedSkills": [
+        "5d8a7e7b-814a-4f7a-8b58-e9e785c7fd99",
+        "16fa05d9-692e-4573-aebd-8520bbfd973e",
+        "2fbb6a06-4bce-4207-808b-94574f98efd6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fcd8912e-3e44-403e-b739-7fd0ae19db8a",
+      "dutyDetail": "Contribute to ensuring that regulatory, compliance, and commercial changes are promptly and appropriately integrated into live operational processes and procedures to support the effective functioning of the organisation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1ef3aa25-1c86-4102-a8d7-7eb9a78bccaa",
+        "2bdf42c0-3bcb-483a-8088-e3d3791d8374",
+        "7aa2a5ea-1822-4d1d-a9ba-fd227ce02603"
+      ],
+      "mappedOptions": [
+        "d4f8a858-295b-4586-86cb-37c03884a855"
+      ],
+      "mappedSkills": [
+        "5d8a7e7b-814a-4f7a-8b58-e9e785c7fd99",
+        "16fa05d9-692e-4573-aebd-8520bbfd973e",
+        "2fbb6a06-4bce-4207-808b-94574f98efd6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0e5e40b-2ca7-45c9-9c44-95cb0d6b1d06",
+      "dutyDetail": "Carry out stress tests or health checks on processes and procedures to ensure that commercial outcomes are compliant and viable, for example, perform reconciliations, oversee the performance of control frameworks, and identify any arising operational risks.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1ef3aa25-1c86-4102-a8d7-7eb9a78bccaa",
+        "2bdf42c0-3bcb-483a-8088-e3d3791d8374",
+        "7aa2a5ea-1822-4d1d-a9ba-fd227ce02603"
+      ],
+      "mappedOptions": [
+        "d4f8a858-295b-4586-86cb-37c03884a855"
+      ],
+      "mappedSkills": [
+        "5d8a7e7b-814a-4f7a-8b58-e9e785c7fd99",
+        "16fa05d9-692e-4573-aebd-8520bbfd973e",
+        "2fbb6a06-4bce-4207-808b-94574f98efd6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "af48d453-31c9-4b3e-bf89-9a69d49f01fb",
+      "dutyDetail": "Manage the administration of financial operations activities to meet efficiency expectations and drive continuous improvement.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1ef3aa25-1c86-4102-a8d7-7eb9a78bccaa",
+        "2bdf42c0-3bcb-483a-8088-e3d3791d8374",
+        "7aa2a5ea-1822-4d1d-a9ba-fd227ce02603"
+      ],
+      "mappedOptions": [
+        "d4f8a858-295b-4586-86cb-37c03884a855"
+      ],
+      "mappedSkills": [
+        "5d8a7e7b-814a-4f7a-8b58-e9e785c7fd99",
+        "16fa05d9-692e-4573-aebd-8520bbfd973e",
+        "2fbb6a06-4bce-4207-808b-94574f98efd6"
+      ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
   "options": [
     {
       "optionId": "7ee6960d-49f8-4808-a250-0fb3337ef48b",
-      "title": "retail financial services professional",
-      "occupationCode": ""
-    },
-    {
-      "optionId": "f7e8414b-4321-4928-bfce-4f0c2b9ac133",
-      "title": "corporate financial services professional",
-      "occupationCode": ""
+      "title": "Retail or commercial financial services professional",
+      "occupationCode": "OCC1464C"
     },
     {
       "optionId": "4105e868-e9c1-4c67-86e3-2ae0439ac32f",
-      "title": "financial services relationship manager",
-      "occupationCode": ""
+      "title": "Financial services relationship manager",
+      "occupationCode": "OCC1464B"
+    },
+    {
+      "optionId": "d4f8a858-295b-4586-86cb-37c03884a855",
+      "title": "Financial services operations manager",
+      "occupationCode": "OCC1464A"
     }
   ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-09-06T08:05:08.403"
+  "publishDate": "2026-05-22T00:00:00"
 }
