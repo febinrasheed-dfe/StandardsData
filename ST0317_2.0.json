@@ -1,0 +1,816 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 90,
+  "referenceNumber": "ST0317",
+  "learningAimClassCode": "",
+  "title": "Rail engineering operative",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0317",
+  "qualificationStandardUrl": null,
+  "versionNumber": "2.0",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-08-03T00:00:00",
+  "earliestStartDate": "2026-07-27T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Providing support to technicians and engineers working on the rail network and trains, specialising in either infrastructure or operations.",
+  "level": 2,
+  "ePALength": 0,
+  "typicalDuration": 15,
+  "minimumHoursForCompliance": "300",
+  "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "Railway",
+    "Track",
+    "Signalling",
+    "Telecoms",
+    "Traction and Rolling Stock",
+    "Electrification",
+    "Overhead Lines",
+    "Rail Systems"
+  ],
+  "jobRoles": [
+    "Rail engineering operative - infrastructure",
+    "Rail engineering operative - operations"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-v2-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupational Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Rail Engineering Operatives provide support to Rail Technicians and Engineers. The engineering disciplines cover the following areas of “The Railway” (infrastructure and trains); track (including minor works), electrification, overhead line, signalling, telecommunications and traction &amp;amp; rolling stock. Apprentices will undertake the core learning and also specialise in one particular discipline.&lt;/p&gt;\n&lt;p&gt;Those working within the occupation of Rail Engineering are responsible for the safe construction, installation, maintenance and renewal of The Railway to provide a safe and reliable Railway for customers. The Rail Industry has a high level of safety critical work activities requiring a disciplined and responsible approach.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Job titles include: &lt;/strong&gt;Track Operative, Overhead Line Operative, Electrification Operative, Traction &amp;amp; Rolling Stock Operative, Signalling Operative, Telecoms Operative.&lt;/p&gt;\n&lt;p&gt;A Rail Engineering Operative may work on site or in a depot or in a technical office. Their work could involve:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Assisting in the construction, installation, renewal, enhancement and modification of The Railway.&lt;/li&gt;\n&lt;li&gt;Assisting with fault finding and diagnosis to prevent or address equipment failures.&lt;/li&gt;\n&lt;li&gt;Maintenance and replacement of components.&lt;/li&gt;\n&lt;li&gt;Assisting in functional and operational testing and inspection of The Railway using specialist equipment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;For those Rail Engineering Operatives who have the ability and drive there is a wide range of further development and career progression opportunities within Rail Engineering.&lt;/p&gt;\n&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships. Employers who recruit candidates without English or Maths at Grade C or above must ensure that the candidate achieves a level 1 English and Maths and take the test for level 2 prior to taking the end point assessment.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Core Knowledge&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Within a Rail context all Rail Engineering Operatives need to know about:&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;strong&gt;afe and Professional working practices &lt;/strong&gt;including legislation, regulation, industry procedures and safety requirements.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;h&lt;/strong&gt;&lt;strong&gt;e general engineering techniques &lt;/strong&gt;required to support the maintenance, renewal and construction of The Railway.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;How to work effectively and contribute to engineering solutions &lt;/strong&gt;including awareness of the importance of 3rd party requirement and the need to understand and adhere to corporate policies on ethics, equality and diversity.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;w&lt;/strong&gt;&lt;strong&gt;a&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;eness of commercial principles &lt;/strong&gt;applicable to The Railway, and the implications of these.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Core Skills&lt;/strong&gt;&lt;strong&gt;. &lt;/strong&gt;Within a Rail context all Rail Engineering Operatives need to be able to:&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Keep themselves and others safe by adhering to safe working practices&lt;/strong&gt;. Understand and comply with statutory regulations and organisational safety requirements, including safe access to work locations.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Pr&lt;/strong&gt;&lt;strong&gt;epare for a high standard of technical work: &lt;/strong&gt;Gathering and interpreting information including drawings, plans and schedules needed for rail engineering activities and prepare the work location.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Deliver a high standard of technical work: &lt;/strong&gt;Undertake engineering activities in relation to maintenance, construction / installation and or renewal of assets. Take responsibility for their own work on completing relevant integrity and compliance checks. Reinstate the work area after engineering activity.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Identify and report problems: &lt;/strong&gt;Identify, recognise and escalate appropriately common problems.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use resources &lt;/strong&gt;including the correct utilisation and storage of tools, materials and equipment, and the lifting and moving of materials, components and equipment.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Communicate effectively&lt;/strong&gt;. Use oral, written, electronic and IT based methods and systems for the accurate communication and reporting &amp;amp; recording of technical and other information, using correct terms, standards, templates and certifications.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;strong&gt;pecific Knowledge &amp;amp; Skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;In addition, for the discipline they are following, Operatives will have the following specific knowledge and skills regarding different techniques and methods used to construct, install, maintain and renew The Railway.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;ack. &lt;/strong&gt;Understand the relevant tolerances for track installation, specific methods and techniques for track inspection, maintenance and replacement, what constitutes a track defect or variation, track work instructions, hot weather restrictions and extreme weather plans. Able to restore track geometry faults by manual repair of assets as part of a team. Under direction, restore plain line track geometry, rail switches and crossings, and where appropriate conductor rail systems, to operational condition and maintain the track and its environment including vegetation and drainage.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;lectrification. &lt;/strong&gt;Understand electrical and electronic principals. Under direction: assist in maintenance and installation of railway electrification equipment and components; assist in isolation and earthing of electrical systems at different voltages and frequencies, working on live battery &amp;amp; inverter systems and maintaining substation plant.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;O&lt;/strong&gt;&lt;strong&gt;v&lt;/strong&gt;&lt;strong&gt;erhead Lines. &lt;/strong&gt;Understand mechanical principles and construction design. Follow instructions to assemble overhead line components in line with detailed specification, using lifting and access equipment while working at heights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;strong&gt;ignalling. &lt;/strong&gt;Understand function and characteristics of railway signalling systems, including electrical, electronic and mechanical principles. Under direction: install &amp;amp; wire signalling or control systems; install position and label equipment &amp;amp; components &amp;amp; cables correctly; undertake installation integrity checks; assist in testing of components &amp;amp; equipment in accordance with test specifications &amp;amp; plans; maintain and rectify signal control systems equipment.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;elecoms. &lt;/strong&gt;Understand principles of electronic devices, circuits, data and communications equipment. Under direction undertake the activities of installation, planned preventative maintenance and maintenance testing activities on operational railway telecoms systems and establish compliance with drawings and specifications. Understand the types of operational constraints when carrying out telecoms installation and maintenance activities.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;action &amp;amp; Rolling Stock (T&amp;amp;RS). &lt;/strong&gt;Understand vehicle design, construction, maintenance and operation. Under direction, carry out preventative and scheduled maintenance activities and follow vehicle maintenance instructions on T&amp;amp;RS mechanical, electrical, fluid power and electronic communication equipment including ensuring vehicle trim, ancillary equipment and fittings are secured and in good order, check subsystems are operating correctly. Assist with the installation of T&amp;amp;RS equipment.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;All Rail Engineering Technicians are expected to demonstrate the following behaviours:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;ct professionally &lt;/strong&gt;demonstrating dependability, determination, honesty and integrity. Respect others, act ethically and contribute to sustainable development.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Be risk aware &lt;/strong&gt;so as to help reduce risks by checking of information, concentration on the task, and awareness of changing circumstances on activity.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Display a self-disciplined, self-motivated, proactive approach to work&lt;/strong&gt;, able to make independent decisions whilst knowing one’s limitations and when to ask for help or to escalate.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;W&lt;/strong&gt;&lt;strong&gt;o&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;k reliably and safely, &lt;/strong&gt;occasionally without close supervision, to approved industry standards and safe working practices.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;W&lt;/strong&gt;&lt;strong&gt;o&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;k effectively and efficiently, individually and as part of a team&lt;/strong&gt;, maintaining effective relationships with colleagues, clients, suppliers and the public.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Receptive to feedback&lt;/strong&gt;, willing to learn new skills and adjust to change. Carrying out and record CPD necessary to maintain and enhance competence.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Pr&lt;/strong&gt;&lt;strong&gt;epared to make a personal commitment &lt;/strong&gt;to their employer, the industry and its professional standards.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Qu&lt;/strong&gt;&lt;strong&gt;alifications:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Level 2 Rail Engineering (Competence)&lt;/li&gt;\n&lt;li&gt;Level 2 Rail Engineering (Technical Knowledge)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The duration for this apprenticeship is a minimum of 12 months&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;L&lt;/strong&gt;&lt;strong&gt;evel&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is a Level 2 Apprenticeship.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Apprenticeship Standard will be reviewed after 3 years.&lt;/p&gt;",
+  "occupationalSummary": "&lt;div class=&quot;form-group&quot; style=&quot;box-sizing: border-box; margin: 0 0 12px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: &quot; open=&quot;&quot; sans&quot;,=&quot;&quot; arial,=&quot;&quot; sans-serif;=&quot;&quot; font-size-adjust:=&quot;&quot; inherit;=&quot;&quot; font-kerning:=&quot;&quot; font-feature-settings:=&quot;&quot; vertical-align:=&quot;&quot; baseline;=&quot;&quot; width:=&quot;&quot; 771.997px;=&quot;&quot; position:=&quot;&quot; relative;=&quot;&quot; color:=&quot;&quot; rgba(51,=&quot;&quot; 64,=&quot;&quot; 71,=&quot;&quot; 1);=&quot;&quot; background-color:=&quot;&quot; rgba(255,=&quot;&quot; 255,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;\n&lt;div style=&quot;box-sizing: inherit; margin: 0; padding: 0; border: 0; vertical-align: baseline&quot;&gt;This occupation is found in the railway engineering operative role is found across various parts of the railway infrastructure sector. This includes rail maintenance and construction companies, organisations responsible for the upkeep and development of tracks, signals, and stations, and companies that work on underground, overground, and high-speed rail networks. The role is typically concentrated in urban, suburban, and rural locations where rail infrastructure plays a key role in transportation and logistics.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;form-group&quot; style=&quot;box-sizing: border-box; margin: 0 0 12px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: &quot; open=&quot;&quot; sans&quot;,=&quot;&quot; arial,=&quot;&quot; sans-serif;=&quot;&quot; font-size-adjust:=&quot;&quot; inherit;=&quot;&quot; font-kerning:=&quot;&quot; font-feature-settings:=&quot;&quot; vertical-align:=&quot;&quot; baseline;=&quot;&quot; width:=&quot;&quot; 771.997px;=&quot;&quot; position:=&quot;&quot; relative;=&quot;&quot; color:=&quot;&quot; rgba(51,=&quot;&quot; 64,=&quot;&quot; 71,=&quot;&quot; 1);=&quot;&quot; background-color:=&quot;&quot; rgba(255,=&quot;&quot; 255,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;\n&lt;div style=&quot;box-sizing: inherit; margin: 0; padding: 0; border: 0; vertical-align: baseline&quot;&gt;The broad purpose of the occupation is focusing on ensuring the safe and efficient operation of railway systems. This includes assisting in the construction, maintenance, and repair of railway tracks and associated infrastructure. Their role contributes to minimizing disruptions, improving safety standards, and maintaining the reliability of the rail network for passengers and freight.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;form-group&quot; style=&quot;box-sizing: border-box; margin: 0 0 12px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: &quot; open=&quot;&quot; sans&quot;,=&quot;&quot; arial,=&quot;&quot; sans-serif;=&quot;&quot; font-size-adjust:=&quot;&quot; inherit;=&quot;&quot; font-kerning:=&quot;&quot; font-feature-settings:=&quot;&quot; vertical-align:=&quot;&quot; baseline;=&quot;&quot; width:=&quot;&quot; 771.997px;=&quot;&quot; position:=&quot;&quot; relative;=&quot;&quot; color:=&quot;&quot; rgba(51,=&quot;&quot; 64,=&quot;&quot; 71,=&quot;&quot; 1);=&quot;&quot; background-color:=&quot;&quot; rgba(255,=&quot;&quot; 255,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;\n&lt;div style=&quot;box-sizing: inherit; margin: 0; padding: 0; border: 0; vertical-align: baseline&quot;&gt;In their daily work, an employee in this occupation interacts with other railway professionals, including engineers, technicians, and construction crews. They may also interact with supervisors, safety personnel, and inspectors to ensure that work meets stringent safety and performance standards. Their job may involve collaborating with transport managers or liaising with external contractors when working on larger infrastructure projects.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;form-group&quot; style=&quot;box-sizing: border-box; margin: 0 0 12px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: &quot; open=&quot;&quot; sans&quot;,=&quot;&quot; arial,=&quot;&quot; sans-serif;=&quot;&quot; font-size-adjust:=&quot;&quot; inherit;=&quot;&quot; font-kerning:=&quot;&quot; font-feature-settings:=&quot;&quot; vertical-align:=&quot;&quot; baseline;=&quot;&quot; width:=&quot;&quot; 771.997px;=&quot;&quot; position:=&quot;&quot; relative;=&quot;&quot; color:=&quot;&quot; rgba(51,=&quot;&quot; 64,=&quot;&quot; 71,=&quot;&quot; 1);=&quot;&quot; background-color:=&quot;&quot; rgba(255,=&quot;&quot; 255,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;\n&lt;div style=&quot;box-sizing: inherit; margin: 0; padding: 0; border: 0; vertical-align: baseline&quot;&gt;An employee in this occupation will be responsible for performing manual and technical tasks to maintain and improve railway systems. This includes preparing materials, operating tools and machinery, and following strict safety procedures. They ensure tracks are aligned and functioning properly, assist with signal installation or repair, and may contribute to tunnel construction or station upgrades. They must adhere to health and safety regulations and ensure all tasks are completed efficiently to prevent disruption to services.&lt;/div&gt;\n&lt;/div&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "ebfaaab8-bdd5-42c6-a0b5-2ca101ae9519",
+      "detail": "Awareness of health and safety regulations, standards, and guidance and impact on role. Control of Substances Hazardous to Health (CoSHH). Fire safety. Hazards and risks. Health and Safety at Work Act. Electricity at Work Act. Isolation and emergency stop procedures. Manual handling. Personal Protective Equipment (PPE). Safety equipment: guards, signage, fire extinguishers. Safety signage. Situational awareness. Slips, trips, and falls. Working in confined spaces. Working at height."
+    },
+    {
+      "knowledgeId": "5645d9c8-01a1-4726-b56b-a2e2b3fa408b",
+      "detail": "Safe working practices and systems of work, including safe access to work locations."
+    },
+    {
+      "knowledgeId": "f3d358d4-cab7-420c-9be6-69285a1a23fb",
+      "detail": "Safety protocols for track access, including isolations and procedures for working near or on live railway lines."
+    },
+    {
+      "knowledgeId": "ceed46a0-3ada-457f-b3d3-ecde3a75358e",
+      "detail": "Impact of the sector on the environment. Efficient use of resources. Recycling, reuse and safe disposal of waste and how to minimise disruption to the surrounding area during activities."
+    },
+    {
+      "knowledgeId": "6152d706-1e0b-4273-bb5d-22f3ae461127",
+      "detail": "Types and impacts of seasonal changes on the operation of railway infrastructure and operations."
+    },
+    {
+      "knowledgeId": "3e277132-1727-4477-a071-011701059076",
+      "detail": "How commercial principles affect timetabling, scheduling and performance and the impact of events and decisions on customer service and reputation."
+    },
+    {
+      "knowledgeId": "fdd31d07-0247-490f-bdf5-644551f9761e",
+      "detail": "Business operation considerations: efficiency, customer satisfaction, competitiveness, risk awareness and minimisation."
+    },
+    {
+      "knowledgeId": "949b7687-74e3-4c29-a9ed-9770819e6dc7",
+      "detail": "Planning, prioritisation, organisation, and time management techniques."
+    },
+    {
+      "knowledgeId": "b78e8361-a877-4762-b256-6a51af3d6cb1",
+      "detail": "How to gather and interpret information, including drawings, plans and schedules needed for rail activities and to prepare worksites."
+    },
+    {
+      "knowledgeId": "d738dcd9-6360-4709-8559-9511192b46ac",
+      "detail": "How to complete required integrity and compliance checks."
+    },
+    {
+      "knowledgeId": "044ad45a-19ca-4b9d-bc0e-ee222c0b286e",
+      "detail": "Documentation requirements: electronic and paper."
+    },
+    {
+      "knowledgeId": "97a09daa-1744-4fb4-8af5-34795dc590f0",
+      "detail": "What data is collected for rail activities and why it is collected."
+    },
+    {
+      "knowledgeId": "d530bbed-0c8f-4093-b1ff-73fa4e21b39a",
+      "detail": "How to reinstate work areas after rail activities."
+    },
+    {
+      "knowledgeId": "f16c4078-cebf-4c4c-9f17-5af4594b8911",
+      "detail": "The role of the rail engineering operative: responsibilities, limits of role and escalation procedures."
+    },
+    {
+      "knowledgeId": "13ab0818-5e1a-473e-a90a-74925e196970",
+      "detail": "The physical parts of railway infrastructure and operations, including tracks, signals, and power traction supply, and their role in the rail system."
+    },
+    {
+      "knowledgeId": "01d979a1-1005-4a4a-a40c-faa285309c87",
+      "detail": "Types of and use of tools, materials and equipment."
+    },
+    {
+      "knowledgeId": "633867c3-4c01-4983-852f-ed9089660e3d",
+      "detail": "Lifting, moving and storage requirements of tools, materials and equipment."
+    },
+    {
+      "knowledgeId": "2449525a-33cf-41ac-abcf-98ba9692d87f",
+      "detail": "Principles of equity, diversity, and inclusion (EDI) in the workplace and the impact on their work."
+    },
+    {
+      "knowledgeId": "18db4e0b-43ff-4e0d-a02c-cbbb5c283637",
+      "detail": "Verbal communication techniques. The use of sector terminology."
+    },
+    {
+      "knowledgeId": "7f69e7e2-e512-4e86-944f-5204438c8295",
+      "detail": "Written communication techniques."
+    },
+    {
+      "knowledgeId": "7fc9b130-5f0a-449d-aeb9-cc18048803e7",
+      "detail": "The principles of learning and development activities, including recording their completion."
+    },
+    {
+      "knowledgeId": "65ceb754-e1ff-4e20-8059-d2799c667794",
+      "detail": "Infrastructure. Lifecycle requirements of rail infrastructure."
+    },
+    {
+      "knowledgeId": "ae86f44f-cc31-46bd-affe-0746bc6f7244",
+      "detail": "Infrastructure. Techniques for installing components as part of rail engineering infrastructure activities."
+    },
+    {
+      "knowledgeId": "4884a045-ef59-4a15-b777-c67c435ba651",
+      "detail": "Infrastructure. Inspection procedures and the types of tests used, and the relevant industry standards for documenting test results."
+    },
+    {
+      "knowledgeId": "31e77387-6921-4f25-9bd5-21d8aee03cb7",
+      "detail": "Infrastructure. Engineering processes related to rail infrastructure, including the principles of force, stress, wear, and fatigue in components."
+    },
+    {
+      "knowledgeId": "199acafe-5c14-400c-a4f1-d513fedae887",
+      "detail": "Infrastructure. Routine infrastructure maintenance processes and methods."
+    },
+    {
+      "knowledgeId": "a889365d-5d96-40a0-a608-6b145f378115",
+      "detail": "Infrastructure. Principles of site layout, marking, measuring distances to ensure that rails and infrastructure are installed correctly."
+    },
+    {
+      "knowledgeId": "56804190-42b4-485c-9f69-bdb82ce751d5",
+      "detail": "Infrastructure. Types and purpose of components used to support infrastructure rail activities, including how and when it is used under supervision."
+    },
+    {
+      "knowledgeId": "6708c2ad-dd59-410a-9ceb-92a343e36bea",
+      "detail": "Operations. Types and purpose of specialist equipment used to support operational rail activities, including how and when it is used under supervision."
+    },
+    {
+      "knowledgeId": "45676fc2-6a2d-43ba-b075-6eeefcf0a6d6",
+      "detail": "Operations. Roles and responsibilities for isolations, possession and handover duties, including the planning process for Isolations, possessions or worksites, and when it is carried out under supervision."
+    },
+    {
+      "knowledgeId": "4f0c399d-25ae-499f-85f5-3378f85e64b0",
+      "detail": "Operations. Onsite rail operations. How the operational impact of on-track plant (OTP) and on-track machines (OTM) within the worksite affects safety, access and task planning. Stakeholders including: safe work planners, Machine Controller (MC), Person in Charge of the Possession (PICOPS) and Engineering Supervisor (ES)."
+    },
+    {
+      "knowledgeId": "832fadbb-0b4a-4d5d-bf64-3169754bed11",
+      "detail": "Operations. How to record and escalate information about defects, hazards, access issues and task completion using approved formats and communication channels."
+    },
+    {
+      "knowledgeId": "54773b15-d8b9-40c0-a161-1267962fc0da",
+      "detail": "Operations. How quality assurance processes affects work and individuals when completing tasks."
+    },
+    {
+      "knowledgeId": "d1c28cd3-924a-42e5-b270-8ab4b6655eb6",
+      "detail": "Operations. Key characteristics of railway infrastructure or assets, including their impact on operations."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "42c12dc3-5b72-421c-858f-4796090cb791",
+      "detail": "Act professionally."
+    },
+    {
+      "behaviourId": "5a1089d0-f11d-4a43-98ae-e935f1d26ec4",
+      "detail": "Act ethically and contribute to sustainable development."
+    },
+    {
+      "behaviourId": "3ecb2d43-7b42-455c-91c6-3a7a28e0f819",
+      "detail": "Demonstrates enthusiasm for learning, seeks feedback, and takes responsibility for personal and professional development."
+    },
+    {
+      "behaviourId": "315f21cc-d77d-4754-a567-43c234ced824",
+      "detail": "Presents a professional image through appearance, language, and behaviour. Treats others with respect and upholds workplace standards and values."
+    },
+    {
+      "behaviourId": "f81c1a4a-ca03-4eed-93b2-190fad7e263d",
+      "detail": "Responds positively to change, adapts to new tasks or environments, and remains effective when faced with new challenges or shifting priorities."
+    },
+    {
+      "behaviourId": "e5a015ca-52f9-4fe8-a400-9b6a52c06be6",
+      "detail": "Consistently attends work and training sessions on time, completes tasks as agreed, and can be depended upon to meet commitments."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "61c018de-a6ec-480e-a202-97374ac584f4",
+      "detail": "Comply with safe working practices. Comply with statutory regulations and organisational safety requirements, including safe access to work locations."
+    },
+    {
+      "skillId": "5690f0a1-44fa-4250-8ff4-3423f4a35e55",
+      "detail": "Consider the impact on the environment when using resources and carrying out work."
+    },
+    {
+      "skillId": "508e582a-25ec-48b9-bf41-4df9593cfa43",
+      "detail": "Dispose of waste, ensuring compliance with environmental standards."
+    },
+    {
+      "skillId": "f3e0516c-650b-4fd6-96e8-6721b6da9d13",
+      "detail": "Provides support to rail activities. For example, using safety critical competences to work on the infrastructure including Personal Track Safety (PTS), Site Warden, Individual Working Alone (IWA), Direct Current Conductor Rails (DCCR)."
+    },
+    {
+      "skillId": "35c57780-3e85-46d7-8e28-6e1e1ce27335",
+      "detail": "Use planning, prioritisation, organisation, and time management techniques."
+    },
+    {
+      "skillId": "9c223554-d941-45f3-827d-cf4d3c32161e",
+      "detail": "Gather and interpret information, including drawings, plans and schedules needed for rail activities and to prepare the worksite location."
+    },
+    {
+      "skillId": "99171492-6dd8-4491-9b30-2dbc13d5b635",
+      "detail": "Complete sector and organisational integrity and compliance checks."
+    },
+    {
+      "skillId": "14c48a49-033e-481d-97d7-72d0e913705a",
+      "detail": "Complete paper based or electronic documentation using correct terms, standards, templates and certifications."
+    },
+    {
+      "skillId": "f1269687-b546-47f7-b82b-b7d5df268578",
+      "detail": "Reinstate the work area after work rail activities."
+    },
+    {
+      "skillId": "89ee533a-392e-428b-9bb4-f8488abe59d5",
+      "detail": "Apply escalation procedures in relation to problems, faults or issues."
+    },
+    {
+      "skillId": "5f235038-8577-4ef6-bb73-ed83d437fa0e",
+      "detail": "Maintain relationships with colleagues, clients, suppliers and the public."
+    },
+    {
+      "skillId": "2bc62d9f-931e-422a-a797-f025b11a23db",
+      "detail": "Use tools, materials and equipment to complete rail activities."
+    },
+    {
+      "skillId": "8c8796c0-9417-42a9-b9fa-0bac517025de",
+      "detail": "Lift, move and store tools, material and equipment in line with requirements."
+    },
+    {
+      "skillId": "e3585211-a0b5-469b-85f9-72f5e89ca8b1",
+      "detail": "Apply the principles of equity, diversity and inclusion (EDI) in the workplace."
+    },
+    {
+      "skillId": "c9312db9-6109-4f48-9806-08afa353e558",
+      "detail": "Communicate with others verbally."
+    },
+    {
+      "skillId": "c4781c53-ce86-4dff-9cb4-910f3768d6ee",
+      "detail": "Communicate in writing with others."
+    },
+    {
+      "skillId": "e976d5ee-7123-4bbd-92e9-c049f5dd3dfe",
+      "detail": "Complete and record learning and development activities."
+    },
+    {
+      "skillId": "25ef6ab2-71e5-47a3-b8da-a10c6220f9e9",
+      "detail": "Infrastructure. Carry out rail infrastructure activities relating to lifecycle requirements."
+    },
+    {
+      "skillId": "e3cd6bf9-1a89-4ff0-9b62-356c724f7b68",
+      "detail": "Infrastructure. Install components as part of rail engineering infrastructure activities."
+    },
+    {
+      "skillId": "8175c04f-4263-4773-993e-0f7d31ed9ec9",
+      "detail": "Infrastructure. Complete infrastructure inspections and tests, and document the results."
+    },
+    {
+      "skillId": "606b324b-71f7-4e47-9f0e-8a464fa455a0",
+      "detail": "Infrastructure. Complete routine infrastructure maintenance tasks."
+    },
+    {
+      "skillId": "fc66fca0-4fc9-4644-921f-5aaaef0890ae",
+      "detail": "Infrastructure. Carry out site layout support activities, marking and measuring distances."
+    },
+    {
+      "skillId": "04dacb8e-8281-402b-9696-4c22267e516c",
+      "detail": "Infrastructure. Assemble or disassemble components under supervision."
+    },
+    {
+      "skillId": "1d618066-fc8a-4617-8b51-5f7f481fb149",
+      "detail": "Operations. Prepare and use specialist equipment for operational rail activities."
+    },
+    {
+      "skillId": "0a6cc4b0-46d8-43a8-866a-17a2c47acbeb",
+      "detail": "Operations. Under supervision, prepare and use isolation, possession and worksite duties."
+    },
+    {
+      "skillId": "c5a511c5-a5df-4953-8744-62754cc4f72c",
+      "detail": "Operations. Provides operational support with activities involving on-track plant (OTP) and on-track machines (OTM)."
+    },
+    {
+      "skillId": "c1d058c3-5598-402b-9c67-a109c696053b",
+      "detail": "Operations. Provide input to the reporting of operational information using appropriate formats."
+    },
+    {
+      "skillId": "9ec94530-e200-4c46-8571-895a8f338f39",
+      "detail": "Operations. Work within quality assurance procedures and guidelines."
+    }
+  ],
+  "optionsUnstructuredTemplate": [
+    "Track",
+    "Electrification",
+    "Overhead Lines",
+    "Signalling",
+    "Telecoms",
+    "Traction & Rolling Stock (T&RS)"
+  ],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2016-04-19T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0017",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Bridgeway Consulting Ltd, Cleshar, HS2, London Underground /Transport for London, McGinley, National Skills Academy for Rail (NSAR), Network Rail",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Rail engineering operative - infrastructure",
+    "Rail engineering operative - operations"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
+  "createdDate": "2026-07-03T08:20:49 +00:00",
+  "lastUpdated": "2026-08-03T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-04-19T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0317",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-v2-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "d4ba86eb-ccce-45e5-83a6-1e7130eb2470",
+      "dutyDetail": "Work as part of a wider team within safety-critical environments, contributing to the safe and cost effective delivery of rail engineering works.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "42c12dc3-5b72-421c-858f-4796090cb791",
+        "5a1089d0-f11d-4a43-98ae-e935f1d26ec4",
+        "3ecb2d43-7b42-455c-91c6-3a7a28e0f819",
+        "315f21cc-d77d-4754-a567-43c234ced824",
+        "f81c1a4a-ca03-4eed-93b2-190fad7e263d",
+        "e5a015ca-52f9-4fe8-a400-9b6a52c06be6"
+      ],
+      "mappedKnowledge": [
+        "6152d706-1e0b-4273-bb5d-22f3ae461127",
+        "3e277132-1727-4477-a071-011701059076",
+        "fdd31d07-0247-490f-bdf5-644551f9761e",
+        "f16c4078-cebf-4c4c-9f17-5af4594b8911",
+        "7fc9b130-5f0a-449d-aeb9-cc18048803e7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f3e0516c-650b-4fd6-96e8-6721b6da9d13",
+        "89ee533a-392e-428b-9bb4-f8488abe59d5",
+        "5f235038-8577-4ef6-bb73-ed83d437fa0e",
+        "e976d5ee-7123-4bbd-92e9-c049f5dd3dfe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f9d03107-30ee-473b-a4f0-4ff5c22f15c7",
+      "dutyDetail": "Comply with statutory regulations and organisational health, safety and quality requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "ebfaaab8-bdd5-42c6-a0b5-2ca101ae9519",
+        "5645d9c8-01a1-4726-b56b-a2e2b3fa408b",
+        "f3d358d4-cab7-420c-9be6-69285a1a23fb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "61c018de-a6ec-480e-a202-97374ac584f4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c5070e7-e458-4c91-9d63-fbbef620eb3f",
+      "dutyDetail": "Work to agreed timescales using the appropriate tools, equipment, materials, components, methods and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "13ab0818-5e1a-473e-a90a-74925e196970",
+        "01d979a1-1005-4a4a-a40c-faa285309c87",
+        "633867c3-4c01-4983-852f-ed9089660e3d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2bc62d9f-931e-422a-a797-f025b11a23db",
+        "8c8796c0-9417-42a9-b9fa-0bac517025de"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ad1fd790-475c-420f-937b-dae61b3e8af0",
+      "dutyDetail": "Assist in preparing worksites for investigative, repair or maintenance activities, sourcing all relevant tools, equipment, specifications and documentation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "949b7687-74e3-4c29-a9ed-9770819e6dc7",
+        "b78e8361-a877-4762-b256-6a51af3d6cb1",
+        "d530bbed-0c8f-4093-b1ff-73fa4e21b39a",
+        "a889365d-5d96-40a0-a608-6b145f378115"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35c57780-3e85-46d7-8e28-6e1e1ce27335",
+        "9c223554-d941-45f3-827d-cf4d3c32161e",
+        "f1269687-b546-47f7-b82b-b7d5df268578"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4850dec4-7bc1-463d-a85d-ab4f13ba1b92",
+      "dutyDetail": "Obtain and communicate relevant technical and safety-critical information.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "2449525a-33cf-41ac-abcf-98ba9692d87f",
+        "18db4e0b-43ff-4e0d-a02c-cbbb5c283637",
+        "7f69e7e2-e512-4e86-944f-5204438c8295"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3585211-a0b5-469b-85f9-72f5e89ca8b1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4b2e18fc-e8b6-4fbc-8efc-af95cdf8ea93",
+      "dutyDetail": "Document activities, ensuring all records are up to date and compliant with organisational procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "d738dcd9-6360-4709-8559-9511192b46ac",
+        "044ad45a-19ca-4b9d-bc0e-ee222c0b286e",
+        "97a09daa-1744-4fb4-8af5-34795dc590f0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "99171492-6dd8-4491-9b30-2dbc13d5b635",
+        "14c48a49-033e-481d-97d7-72d0e913705a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3a82d721-e8a9-429e-acb9-b265bf0214c6",
+      "dutyDetail": "Contribute to environmental good practices, considering the usage of resources and management of waste.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "ceed46a0-3ada-457f-b3d3-ecde3a75358e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5690f0a1-44fa-4250-8ff4-3423f4a35e55",
+        "508e582a-25ec-48b9-bf41-4df9593cfa43"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c3137d0f-251c-442a-b8cf-3eb5eb1f61b2",
+      "dutyDetail": "Participate in handover procedures at the start and end of shifts, ensuring clear communication and continuity of rail activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c9312db9-6109-4f48-9806-08afa353e558",
+        "c4781c53-ce86-4dff-9cb4-910f3768d6ee"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "65777e50-1127-4b70-9260-e59a716279a8",
+      "dutyDetail": "Infrastructure. Assist in preparing resources for rail engineering activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "65ceb754-e1ff-4e20-8059-d2799c667794",
+        "ae86f44f-cc31-46bd-affe-0746bc6f7244",
+        "4884a045-ef59-4a15-b777-c67c435ba651",
+        "31e77387-6921-4f25-9bd5-21d8aee03cb7",
+        "199acafe-5c14-400c-a4f1-d513fedae887",
+        "a889365d-5d96-40a0-a608-6b145f378115",
+        "56804190-42b4-485c-9f69-bdb82ce751d5"
+      ],
+      "mappedOptions": [
+        "1b0e3c2d-412c-4628-8cc8-cd3aecdce611"
+      ],
+      "mappedSkills": [
+        "25ef6ab2-71e5-47a3-b8da-a10c6220f9e9",
+        "e3cd6bf9-1a89-4ff0-9b62-356c724f7b68",
+        "8175c04f-4263-4773-993e-0f7d31ed9ec9",
+        "606b324b-71f7-4e47-9f0e-8a464fa455a0",
+        "fc66fca0-4fc9-4644-921f-5aaaef0890ae",
+        "04dacb8e-8281-402b-9696-4c22267e516c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7fabfb8f-6dc6-4ac0-ab3d-1be0252b9391",
+      "dutyDetail": "Infrastructure. Assist in performing rail engineering duties.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "65ceb754-e1ff-4e20-8059-d2799c667794",
+        "ae86f44f-cc31-46bd-affe-0746bc6f7244",
+        "4884a045-ef59-4a15-b777-c67c435ba651",
+        "31e77387-6921-4f25-9bd5-21d8aee03cb7",
+        "199acafe-5c14-400c-a4f1-d513fedae887",
+        "a889365d-5d96-40a0-a608-6b145f378115",
+        "56804190-42b4-485c-9f69-bdb82ce751d5"
+      ],
+      "mappedOptions": [
+        "1b0e3c2d-412c-4628-8cc8-cd3aecdce611"
+      ],
+      "mappedSkills": [
+        "25ef6ab2-71e5-47a3-b8da-a10c6220f9e9",
+        "e3cd6bf9-1a89-4ff0-9b62-356c724f7b68",
+        "8175c04f-4263-4773-993e-0f7d31ed9ec9",
+        "606b324b-71f7-4e47-9f0e-8a464fa455a0",
+        "fc66fca0-4fc9-4644-921f-5aaaef0890ae",
+        "04dacb8e-8281-402b-9696-4c22267e516c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f73e793f-e484-4a0c-9247-2274986c6ecd",
+      "dutyDetail": "Infrastructure. Support The Railway's functional and operational inspection and testing using specialist equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "65ceb754-e1ff-4e20-8059-d2799c667794",
+        "ae86f44f-cc31-46bd-affe-0746bc6f7244",
+        "4884a045-ef59-4a15-b777-c67c435ba651",
+        "31e77387-6921-4f25-9bd5-21d8aee03cb7",
+        "199acafe-5c14-400c-a4f1-d513fedae887",
+        "a889365d-5d96-40a0-a608-6b145f378115",
+        "56804190-42b4-485c-9f69-bdb82ce751d5"
+      ],
+      "mappedOptions": [
+        "1b0e3c2d-412c-4628-8cc8-cd3aecdce611"
+      ],
+      "mappedSkills": [
+        "25ef6ab2-71e5-47a3-b8da-a10c6220f9e9",
+        "e3cd6bf9-1a89-4ff0-9b62-356c724f7b68",
+        "8175c04f-4263-4773-993e-0f7d31ed9ec9",
+        "606b324b-71f7-4e47-9f0e-8a464fa455a0",
+        "fc66fca0-4fc9-4644-921f-5aaaef0890ae",
+        "04dacb8e-8281-402b-9696-4c22267e516c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7528e2f7-b221-407b-b0c9-a760c29e756b",
+      "dutyDetail": "Infrastructure. Assist in rail engineering activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "65ceb754-e1ff-4e20-8059-d2799c667794",
+        "ae86f44f-cc31-46bd-affe-0746bc6f7244",
+        "4884a045-ef59-4a15-b777-c67c435ba651",
+        "31e77387-6921-4f25-9bd5-21d8aee03cb7",
+        "199acafe-5c14-400c-a4f1-d513fedae887",
+        "a889365d-5d96-40a0-a608-6b145f378115",
+        "56804190-42b4-485c-9f69-bdb82ce751d5"
+      ],
+      "mappedOptions": [
+        "1b0e3c2d-412c-4628-8cc8-cd3aecdce611"
+      ],
+      "mappedSkills": [
+        "25ef6ab2-71e5-47a3-b8da-a10c6220f9e9",
+        "e3cd6bf9-1a89-4ff0-9b62-356c724f7b68",
+        "8175c04f-4263-4773-993e-0f7d31ed9ec9",
+        "606b324b-71f7-4e47-9f0e-8a464fa455a0",
+        "fc66fca0-4fc9-4644-921f-5aaaef0890ae",
+        "04dacb8e-8281-402b-9696-4c22267e516c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d6e0ca75-5ed9-42a1-a117-9f6efc56d84a",
+      "dutyDetail": "Infrastructure. Assist with the reinstatement of the work area after rail engineering activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "65ceb754-e1ff-4e20-8059-d2799c667794",
+        "ae86f44f-cc31-46bd-affe-0746bc6f7244",
+        "4884a045-ef59-4a15-b777-c67c435ba651",
+        "31e77387-6921-4f25-9bd5-21d8aee03cb7",
+        "199acafe-5c14-400c-a4f1-d513fedae887",
+        "a889365d-5d96-40a0-a608-6b145f378115",
+        "56804190-42b4-485c-9f69-bdb82ce751d5"
+      ],
+      "mappedOptions": [
+        "1b0e3c2d-412c-4628-8cc8-cd3aecdce611"
+      ],
+      "mappedSkills": [
+        "25ef6ab2-71e5-47a3-b8da-a10c6220f9e9",
+        "e3cd6bf9-1a89-4ff0-9b62-356c724f7b68",
+        "8175c04f-4263-4773-993e-0f7d31ed9ec9",
+        "606b324b-71f7-4e47-9f0e-8a464fa455a0",
+        "fc66fca0-4fc9-4644-921f-5aaaef0890ae",
+        "04dacb8e-8281-402b-9696-4c22267e516c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0a1c86c6-cab8-43e5-bd1c-04d5b932a7b3",
+      "dutyDetail": "Operations. Assist in preparing resources and collating diagrams and plans for rail operations activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6708c2ad-dd59-410a-9ceb-92a343e36bea",
+        "45676fc2-6a2d-43ba-b075-6eeefcf0a6d6",
+        "4f0c399d-25ae-499f-85f5-3378f85e64b0",
+        "832fadbb-0b4a-4d5d-bf64-3169754bed11",
+        "54773b15-d8b9-40c0-a161-1267962fc0da",
+        "d1c28cd3-924a-42e5-b270-8ab4b6655eb6"
+      ],
+      "mappedOptions": [
+        "403cd678-e3da-4d8c-9bf5-4b57dd70f854"
+      ],
+      "mappedSkills": [
+        "8c8796c0-9417-42a9-b9fa-0bac517025de",
+        "1d618066-fc8a-4617-8b51-5f7f481fb149",
+        "0a6cc4b0-46d8-43a8-866a-17a2c47acbeb",
+        "c5a511c5-a5df-4953-8744-62754cc4f72c",
+        "c1d058c3-5598-402b-9c67-a109c696053b",
+        "9ec94530-e200-4c46-8571-895a8f338f39"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "609a88e3-cbf6-4bd2-8dfa-00cfdbc1c7c8",
+      "dutyDetail": "Operations. Assist with correctly using railway equipment associated with rail operations tasks.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6708c2ad-dd59-410a-9ceb-92a343e36bea",
+        "45676fc2-6a2d-43ba-b075-6eeefcf0a6d6",
+        "4f0c399d-25ae-499f-85f5-3378f85e64b0",
+        "832fadbb-0b4a-4d5d-bf64-3169754bed11",
+        "54773b15-d8b9-40c0-a161-1267962fc0da",
+        "d1c28cd3-924a-42e5-b270-8ab4b6655eb6"
+      ],
+      "mappedOptions": [
+        "403cd678-e3da-4d8c-9bf5-4b57dd70f854"
+      ],
+      "mappedSkills": [
+        "1d618066-fc8a-4617-8b51-5f7f481fb149",
+        "0a6cc4b0-46d8-43a8-866a-17a2c47acbeb",
+        "c5a511c5-a5df-4953-8744-62754cc4f72c",
+        "c1d058c3-5598-402b-9c67-a109c696053b",
+        "9ec94530-e200-4c46-8571-895a8f338f39"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3efa9f5b-b360-43c8-be2d-0c7b7be4f97d",
+      "dutyDetail": "Operations. Support track access management, isolation, surveying or site and ground investigation activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6708c2ad-dd59-410a-9ceb-92a343e36bea",
+        "45676fc2-6a2d-43ba-b075-6eeefcf0a6d6",
+        "4f0c399d-25ae-499f-85f5-3378f85e64b0",
+        "832fadbb-0b4a-4d5d-bf64-3169754bed11",
+        "54773b15-d8b9-40c0-a161-1267962fc0da",
+        "d1c28cd3-924a-42e5-b270-8ab4b6655eb6"
+      ],
+      "mappedOptions": [
+        "403cd678-e3da-4d8c-9bf5-4b57dd70f854"
+      ],
+      "mappedSkills": [
+        "1d618066-fc8a-4617-8b51-5f7f481fb149",
+        "0a6cc4b0-46d8-43a8-866a-17a2c47acbeb",
+        "c5a511c5-a5df-4953-8744-62754cc4f72c",
+        "c1d058c3-5598-402b-9c67-a109c696053b",
+        "9ec94530-e200-4c46-8571-895a8f338f39"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7c9da78-6e4f-4ab0-81d5-32f0a49298d2",
+      "dutyDetail": "Operations. Support activities related to collecting, analysing, interpreting and presenting data related to physical railway infrastructure. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6708c2ad-dd59-410a-9ceb-92a343e36bea",
+        "45676fc2-6a2d-43ba-b075-6eeefcf0a6d6",
+        "4f0c399d-25ae-499f-85f5-3378f85e64b0",
+        "832fadbb-0b4a-4d5d-bf64-3169754bed11",
+        "54773b15-d8b9-40c0-a161-1267962fc0da",
+        "d1c28cd3-924a-42e5-b270-8ab4b6655eb6"
+      ],
+      "mappedOptions": [
+        "403cd678-e3da-4d8c-9bf5-4b57dd70f854"
+      ],
+      "mappedSkills": [
+        "1d618066-fc8a-4617-8b51-5f7f481fb149",
+        "0a6cc4b0-46d8-43a8-866a-17a2c47acbeb",
+        "c5a511c5-a5df-4953-8744-62754cc4f72c",
+        "c1d058c3-5598-402b-9c67-a109c696053b",
+        "9ec94530-e200-4c46-8571-895a8f338f39"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "1b0e3c2d-412c-4628-8cc8-cd3aecdce611",
+      "title": "Infrastructure operative",
+      "occupationCode": "OCC0317E"
+    },
+    {
+      "optionId": "403cd678-e3da-4d8c-9bf5-4b57dd70f854",
+      "title": "Operations operative",
+      "occupationCode": "OCC0317A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Track",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Electrification",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Overhead Lines",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Signalling",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Telecoms",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Traction & Rolling Stock (T&RS)",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-08-03T00:00:00"
+}
