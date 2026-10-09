@@ -19,7 +19,7 @@
   "level": 6,
   "ePALength": 0,
   "typicalDuration": 48,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "1114",
   "maxFunding": 26000,
   "maxFundingAdditionalInformation": "",
   "route": "Health and science",
@@ -543,11 +543,11 @@
     "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-02-13T00:00:00 +00:00",
-  "integratedApprenticeship": true,
+  "integratedApprenticeship": false,
   "integration": "Statutory integration",
-  "integratedDegree": "non-degree qualification",
+  "integratedDegree": "integrated degree",
   "tbReference": "TB0315",
-  "tbMainContact": "angelo.varetto@skillsforhealth.org.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Barking, Havering and Redbridge University Hospital NHS Trust, Birmingham and Solihull Mental Health NHS Foundation Trust, Central London Community Healthcare NHS Trust, Elysium Healthcare, Greater Manchester Combined Authority, Hillingdon Hospitals NHS Trust, Kings College Hospitals NHS Foundation Trust, Lincolnshire Community Health Services NHS Trust, North West Anglia NHS Foundation Trust, Oxford University Hospitals NHS Foundation Trust, Portsmouth Hospitals NHS Trust, Southern Health NHS Foundation Trust, University Hospital Southampton NHS Foundation Trust, Wren Hall Nursing Home, Health Education England, University of Derby, University of Bedfordshire, University of Cumbria, Nursing and Midwifery Council, Council of Deans of Health, Skills for Health",
   "otherInvolvedStakeholders": "",
   "regulated": true,
@@ -566,7 +566,7 @@
   "cluster": "Midwifery and nursing professional",
   "clusterId": "211",
   "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
-  "createdDate": "2026-02-05T13:36:59 +00:00",
+  "createdDate": "2026-07-24T14:24:15 +00:00",
   "lastUpdated": "2026-03-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-02-13T00:00:00 +00:00",
   "banners": "",
@@ -578,14 +578,6 @@
       "qualificationId": "aac6240e-3894-43e5-a36c-829dbcb6f00e",
       "title": "Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
-      "qualificationEpaIntegration": "",
-      "mappedOptions": []
-    },
-    {
-      "qualificationId": "a87ac7ea-3ab3-4320-8960-015d3769f73e",
-      "title": " Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
-      "level": "7 (integrated degree)",
       "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
@@ -889,7 +881,7 @@
     {
       "name": "EPAO",
       "webLink": "",
-      "approved": false
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
