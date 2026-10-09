@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-12-18T00:00:00",
+  "changedDate": "2026-06-09T00:00:00",
   "earliestStartDate": "2024-12-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "The ML Engineer gathers data from different sources to design, build, deploy and validate machine learning and or artificial intelligence solutions.\n\n",
   "level": 6,
@@ -349,7 +349,7 @@
   "integration": "None",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0843",
-  "tbMainContact": "huw.davies@bbc.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -369,7 +369,7 @@
   "clusterId": "233",
   "clusterDescription": "Provide and implement data technology enabled solutions to support internal and external customers.",
   "createdDate": "2025-11-20T08:40:01 +00:00",
-  "lastUpdated": "2024-12-18T00:00:00 +00:00",
+  "lastUpdated": "2026-06-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1398",
@@ -615,5 +615,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-12-18T00:00:00"
+  "publishDate": "2026-12-10T00:00:00"
 }
