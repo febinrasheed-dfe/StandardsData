@@ -1,0 +1,916 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 470,
+  "referenceNumber": "ST0388",
+  "learningAimClassCode": "",
+  "title": "Interior systems installer",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0388",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-10-08T00:00:00",
+  "earliestStartDate": "2027-04-13T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Installing, repairing and maintaining various elements of the internal structure of a building.",
+  "level": 2,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "557",
+  "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "Interior systems installer",
+    "repairing",
+    "maintaning",
+    "buildings",
+    "Drylining Systems",
+    "Suspended Ceiling",
+    "Partitioning Systems"
+  ],
+  "jobRoles": [
+    "Ceiling fixer",
+    "Drylining fixer",
+    "Interior systems installer",
+    "Interior systems operative",
+    "Modular demountable partition installer",
+    "Suspended ceiling fixer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0388-in-revision?view=epa",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction and built environment industry including new-build, renovation and refurbishment.&amp;nbsp; It is a specialist contracting occupation involved in the construction of partitions, walls and ceilings.&amp;nbsp; The Interior Systems sector alone has over 35,000 operatives working on diverse projects in hotels, schools, airports, football stadiums, hospitals, shopping centres.&amp;nbsp; Other projects may mean working on security controlled installations such as military bases which are not usually accessible to the public.&amp;nbsp; &amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of an interior systems installer is to install, repair, and maintain various elements of the internal structure of buildings. This includes ceilings, walls, partitions, and other interior structures.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other colleagues, other trades, site supervisor, site manager, end users, main contractors and suppliers. Their tasks often involve manual labour, such as lifting and installing materials, and may require working at heights using platforms or scaffolding. They will typically report to a supervisor or site manager.&lt;/p&gt;\n&lt;p&gt;Working environments can vary from internal and external construction sites to occupied buildings such as large commercial properties, residential tower blocks with apartments and specialist buildings such as car showrooms.&amp;nbsp; The work will be physically active, including lifting and fixing systems into place.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This may involve working at height from a platform or mobile scaffold and operatives will follow strict safe working practices at all times in whichever occupational area they choose. They will report to a supervisor or site manager and be capable of managing their own time, quality and resources to meet deadlines and specifications.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This occupation follows a core and options standard with two pathway routes:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Drylining: &lt;/strong&gt;Methods to install various drylining systems that form the walls and rooms within a building, often used to conceal wires and pipes, improve acoustics, and create space for insulation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ceiling and Partitions:&lt;/strong&gt; Incorporates different ceiling and partition systems within a building, used to provide various types of working environments, considering lighting and other fixtures.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;An employee in this occupation will be responsible for managing their time and resources effectively to meet specifications and deadlines. An interior systems installer will also be responsible for being able to read and interpreting instruction and diagrams to ensure that an accurate installation along with testing installed systems to ensure functionality along with adjusting as needed.&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "bd7079e8-2f1f-44de-bd2a-dac5cd2999fa",
+      "detail": "The fundamentals of building design and interior construction."
+    },
+    {
+      "knowledgeId": "2d597a87-9205-4bd6-ad23-107b637ef6cc",
+      "detail": "Health and safety regulations, relevance to the occupation and responsibilities."
+    },
+    {
+      "knowledgeId": "a6acd52c-56b1-4209-ac2c-ec5a79beca1d",
+      "detail": "Hazards and risks that occur in the workplace. "
+    },
+    {
+      "knowledgeId": "9ecfeede-3ebf-4d93-a406-45444aa3587b",
+      "detail": "Methods of safe working including risk assessments, method statements, control measure application and safe systems of work."
+    },
+    {
+      "knowledgeId": "8aef2ba3-6c9e-4347-9b55-0f7318a0f911",
+      "detail": "Purpose of standard operating procedures (SOP), company site induction and toolbox talks. "
+    },
+    {
+      "knowledgeId": "b808ef72-1eec-497e-b690-a570a1cf1d69",
+      "detail": "Individual and organisational consequences for non-compliance to regulations and legislation. "
+    },
+    {
+      "knowledgeId": "7118a7f4-b1d0-477e-9cb9-f58439c9440d",
+      "detail": "Regulations, legislation and codes of practice that impact the industry for example the building regulations, British standards. "
+    },
+    {
+      "knowledgeId": "a1b04d4c-cd73-4ce0-8e2f-5a0ac41d640d",
+      "detail": "Building fire safety legislation: purpose, application and impact."
+    },
+    {
+      "knowledgeId": "3d235a3e-80c9-44f5-b1d0-f95761f178ee",
+      "detail": "Manual handling techniques including material handling equipment (MHE). "
+    },
+    {
+      "knowledgeId": "a51b822d-6b58-4df0-b094-c79783b6d00e",
+      "detail": "Environmental and sustainability regulations and guidance. Recycling, reuse and safe disposal of waste."
+    },
+    {
+      "knowledgeId": "f1cfef01-024d-4412-b40a-662cb3093207",
+      "detail": "Resource management: cost, quality, safety, security and environmental impact."
+    },
+    {
+      "knowledgeId": "6bc14bef-b762-4f11-8411-1a00e57d5e8b",
+      "detail": "Work organisation, time management techniques including sequence of operations."
+    },
+    {
+      "knowledgeId": "67c720cc-d97b-41a3-9a56-f238e87151bd",
+      "detail": "Principles and use of materials, components and fixings used within interior systems. "
+    },
+    {
+      "knowledgeId": "3ebb43ba-c8dd-4da7-ac3a-e76114c258ba",
+      "detail": "Principles of selecting and using materials, tools, equipment and PPE; Storage techniques. "
+    },
+    {
+      "knowledgeId": "7592c594-3ca4-49dc-ba93-f3a3ef502a6e",
+      "detail": "Methods of how to interpret and extracting relevant information such as instructions, plans, specifications or manufacturer’s information.  "
+    },
+    {
+      "knowledgeId": "702e35b6-cd9b-4f4d-b17c-6377f70d0d8e",
+      "detail": "Preparation of the work area."
+    },
+    {
+      "knowledgeId": "74ea403d-ea18-45ad-bf23-b28d21614cd8",
+      "detail": "Measurement and setting out using drawings. Principles of checking the horizontal and vertical datum. "
+    },
+    {
+      "knowledgeId": "2e0cf6c3-5def-4f95-bb6a-f73f11385e2d",
+      "detail": "Principles and methods of measurement of materials and components, including minimising waste. "
+    },
+    {
+      "knowledgeId": "9a1df276-b3b7-42c1-9773-e666f29401b6",
+      "detail": "Methods and application of fire and acoustic seals. "
+    },
+    {
+      "knowledgeId": "e3922064-d76c-4862-b039-22cb845ec68d",
+      "detail": "Principles and techniques of installing single stud wall partitions. "
+    },
+    {
+      "knowledgeId": "82de5b32-582a-4a4f-ac8b-2870cd1ee203",
+      "detail": "Principles and techniques of installing ceiling systems for example metal furring type (MF) ceiling systems. "
+    },
+    {
+      "knowledgeId": "1027ed54-3717-41af-9df6-63060a84be1c",
+      "detail": "Principles and techniques of installing metal furring bulkheads and encasements. "
+    },
+    {
+      "knowledgeId": "9a3d2373-bc8c-4fd5-8573-706eafaee384",
+      "detail": "Principles and techniques for installing pattresses. "
+    },
+    {
+      "knowledgeId": "b4c8c4d1-2e77-4f32-9188-b8bc184b8d3f",
+      "detail": "Handover procedures for completed work. "
+    },
+    {
+      "knowledgeId": "a5df5851-76cb-4d0b-97b0-089ccf7f0a13",
+      "detail": "Snagging inspection principles and practice."
+    },
+    {
+      "knowledgeId": "ec9fc835-396e-4847-9add-a9d670e9e2a3",
+      "detail": "Problem solving techniques."
+    },
+    {
+      "knowledgeId": "2afcc271-d399-4a97-bb0b-a75748dfe2cd",
+      "detail": "The purpose of their role within the organisation, including their level of responsibility and accountability."
+    },
+    {
+      "knowledgeId": "b67908da-2138-4c7d-ab6b-744d0b778141",
+      "detail": "Team working principles."
+    },
+    {
+      "knowledgeId": "929dbc77-528c-4bd9-a34f-72b8b2c338dc",
+      "detail": "Personal wellbeing and mental health awareness."
+    },
+    {
+      "knowledgeId": "a78e6e87-5112-4483-824f-b4f26e449e3b",
+      "detail": "Principles of equity, diversity, and inclusion in the workplace. Unconscious bias."
+    },
+    {
+      "knowledgeId": "32fd25d3-83ff-4aa7-9162-493657d4c162",
+      "detail": "The organisational and sector digital toolkits and systems. General Data Protection Regulation (GDPR). Cyber security."
+    },
+    {
+      "knowledgeId": "9450a3c3-9184-4fcf-ac66-450f4362470b",
+      "detail": "Documentation: methods and requirements – electronic and paper, for example job sheets, risk assessments, handover documents and manufacturers' documentation, work sheets, checklists, waste environmental records and any legal reporting requirements."
+    },
+    {
+      "knowledgeId": "853e1dc6-58dc-4e17-a78a-2a0e4828185d",
+      "detail": "Verbal communication techniques. Giving and receiving information. Adapting style to audience. Barriers in communication and how to overcome them. Specific terminology."
+    },
+    {
+      "knowledgeId": "f2b2f599-1d2e-43c3-b204-0e882f42da73",
+      "detail": "Written communication techniques. Plain English principles. Industry specific terminology, context and tools."
+    },
+    {
+      "knowledgeId": "d46f08e8-dc4c-4c7d-ba91-064b74c532a7",
+      "detail": "Continuing professional development (planned and unplanned) and recording methods."
+    },
+    {
+      "knowledgeId": "f3664bc8-1428-47e9-83eb-73447d501b4a",
+      "detail": "Drylining: Principles and techniques of installing drylining wall systems. For example, shaft walling, staggered stud, walls over 5 metres, metal frame systems, access panel. "
+    },
+    {
+      "knowledgeId": "151677bd-2016-4b0d-aa6e-31544563852a",
+      "detail": "Drylining: Principles and techniques of forming openings junctions and installing deflection heads to drylining systems. "
+    },
+    {
+      "knowledgeId": "e459e797-8c6a-4377-a7d0-2a79ac490f0b",
+      "detail": "Drylining: The levels of performance required for drylining systems such as for acoustic, fire performance and protection."
+    },
+    {
+      "knowledgeId": "27c012e1-dfa2-41a6-91bd-de6b6a601609",
+      "detail": "Drylining: Principles and techniques of removing existing drylining systems. "
+    },
+    {
+      "knowledgeId": "a927af12-9e5b-4802-bfa8-a2f35b00becf",
+      "detail": "Drylining: Principles and techniques of repairs being made to drylining systems. "
+    },
+    {
+      "knowledgeId": "c9f18e84-5af4-42eb-8cb4-2daf7e21babc",
+      "detail": "Drylining: The principles and techniques of the finishes that can be applied to drying systems, for example taping. "
+    },
+    {
+      "knowledgeId": "debd2e2f-db73-4926-9a9f-fa3f40ebce74",
+      "detail": "Suspended ceilings and partitions: Principles and techniques of installing suspended ceiling systems."
+    },
+    {
+      "knowledgeId": "5831ae9c-8f40-4c0c-bba3-b7072963d60c",
+      "detail": "Suspended ceilings and partitions: Principles and techniques of the installation of modular systems. "
+    },
+    {
+      "knowledgeId": "6004e6d2-7005-477f-b0c3-312665ed2202",
+      "detail": "Suspended ceilings and partitions: The levels of performance required for demountable partitions and suspended ceilings such as for specified acoustic and fire performance and protection."
+    },
+    {
+      "knowledgeId": "8ee9f818-4b54-4ddf-b2ad-7614dbbec64a",
+      "detail": "Suspended ceilings and partitions: Principles and techniques of removing existing suspended ceilings and partition systems. "
+    },
+    {
+      "knowledgeId": "9b6a59bc-b419-48a9-a4b6-79cc2a53fb33",
+      "detail": "Suspended ceilings and partitions: Principles and techniques of repairs being made to suspended ceilings and partition systems."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "41a99620-8275-4dab-9911-960526e9b8d5",
+      "detail": "Prioritise health and safety."
+    },
+    {
+      "behaviourId": "af508548-efd1-4327-8424-5efc7500a343",
+      "detail": "Consider the impact on the environment when using resources and carrying out work."
+    },
+    {
+      "behaviourId": "bde268ea-75bb-4175-9c84-d4442ad74743",
+      "detail": "Respond and adapt to work demands and situations."
+    },
+    {
+      "behaviourId": "ad048057-f91c-4103-8f1c-96c257e6cd18",
+      "detail": "Contributes to equity, diversity, and inclusivity workplace culture. "
+    },
+    {
+      "behaviourId": "7abfce2c-a312-47ac-a067-944430b848e0",
+      "detail": "Team-focus to meet work goals."
+    },
+    {
+      "behaviourId": "5614d39e-3a58-4084-b57a-90559fb1f419",
+      "detail": "Committed to continued professional development (CPD) to maintain and enhance competence."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "dc2006ae-fa62-4cad-8ee0-6f008338e9b7",
+      "detail": "Follow health and safety procedures in line with regulations, standards and guidance. "
+    },
+    {
+      "skillId": "1b7b6045-96d5-49b8-af5e-52b3c13f8f94",
+      "detail": "Identify and report hazards and risks in the workplace. Take action to mitigate hazards and risks."
+    },
+    {
+      "skillId": "548d867f-e193-4c77-9fef-780f1598ba5b",
+      "detail": "Comply with safe systems of work and apply control measures. "
+    },
+    {
+      "skillId": "cffaef95-c8b1-429a-a66b-22e5585a2cd2",
+      "detail": "Follow standard operating procedures (SOPs). "
+    },
+    {
+      "skillId": "7e771f77-2165-4ac5-945d-866ef1eb4ced",
+      "detail": "Comply with industry procedures in line with regulations, legislation and codes of practice."
+    },
+    {
+      "skillId": "003a9c7d-8bcc-4b0b-8f32-826acf8fdfb8",
+      "detail": "Move, lift, and handle materials. "
+    },
+    {
+      "skillId": "8594eae6-f894-4e42-9017-b7ee6832b52f",
+      "detail": "Follow environmental and sustainability regulations, standards, and guidance. Segregate resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "9e8932af-38bd-4783-964f-c8442b3f6625",
+      "detail": "Identify, organise and use resources to complete tasks."
+    },
+    {
+      "skillId": "af697703-09d2-4233-9f22-9f51b305e18a",
+      "detail": "Organise and prioritise own work in line with permitted time allowances. "
+    },
+    {
+      "skillId": "182d7ee5-4662-45b4-8ecb-f64530ffc352",
+      "detail": "Select and fix materials, components and fixings required to complete the work task according to specifications or drawings."
+    },
+    {
+      "skillId": "fed3f80a-cf7a-420c-b727-cde525752243",
+      "detail": "Select, use and store materials, tools, equipment and PPE following manufacturer’s instructions and risk assessments."
+    },
+    {
+      "skillId": "922a5d54-9f96-4b1a-908d-1d2f3a7a9bc8",
+      "detail": "Implement information from sources such as instructions, plans, specifications, or manufacturers information’s. "
+    },
+    {
+      "skillId": "f7d54986-36c0-40db-a25e-e36c37087f2d",
+      "detail": "Preparing the work area."
+    },
+    {
+      "skillId": "f6016cbb-cfbc-42be-b676-1f64c5de0a49",
+      "detail": "Measure and set out from drawings provided and check vertical and horizontal datum."
+    },
+    {
+      "skillId": "f209dc32-c8c9-459e-bca0-aa6545340ae9",
+      "detail": "Measure, mark out and cut materials and components."
+    },
+    {
+      "skillId": "5297ee2e-1c61-4907-8474-a41d5275d772",
+      "detail": "Apply fire and acoustic seals in accordance with specification, designs, details or manufacturer’s instructions."
+    },
+    {
+      "skillId": "0176255b-d3e0-4499-9802-22c453962a86",
+      "detail": "Install single stud wall partitions in accordance with specification and manufactures instructions."
+    },
+    {
+      "skillId": "b0509359-c8ae-401b-b650-1d4edbdf20e1",
+      "detail": "Install metal furring ceilings in accordance with specification and manufactures instructions."
+    },
+    {
+      "skillId": "645da875-5b63-4cef-8cc4-fbca6a176935",
+      "detail": "Install pattresses. "
+    },
+    {
+      "skillId": "d56497ac-6482-4bf0-9af4-aea89848e49d",
+      "detail": "Complete handover procedures for completed work."
+    },
+    {
+      "skillId": "e871cbaa-c4d1-4100-a173-f3f4e01fd5ec",
+      "detail": "Complete a snagging inspection following completion of works."
+    },
+    {
+      "skillId": "739ceaed-3209-4822-9b67-daaadcebbfcf",
+      "detail": "Apply problem solving techniques, identifying issues. Propose solutions to problems."
+    },
+    {
+      "skillId": "e9bcf904-1ee8-4497-be50-746efb1935b8",
+      "detail": "Apply team working principles. "
+    },
+    {
+      "skillId": "e70e2ce0-64b4-4b83-b691-7b3ffd3a9d26",
+      "detail": "Apply and promote policies and practices to support equity, diversity and inclusion."
+    },
+    {
+      "skillId": "4f273e4d-a0a5-495e-a680-e2b821864094",
+      "detail": "Use information technology and digital systems. Comply with GDPR and cyber security."
+    },
+    {
+      "skillId": "bc90daf9-8428-4bb4-9cfb-8cff685c0f8d",
+      "detail": "Record or enter information - paper based or electronic. "
+    },
+    {
+      "skillId": "d5d4c56c-17e2-4d43-81b3-e5eba5d509e2",
+      "detail": "Communicate with others verbally including internal or external customers, colleagues using sector specific terminology"
+    },
+    {
+      "skillId": "8c1bd793-bd44-41f4-b02d-4760dc832e3e",
+      "detail": "Communicate in writing with internal and external stakeholders using industry specific terminology, context and tools. "
+    },
+    {
+      "skillId": "fd0fded5-cb97-4500-8a60-593915022441",
+      "detail": "Plan and undertake Continued Professional Development (CPD) to meet personal and organisational development. Evaluate CPD outcomes against any plans made."
+    },
+    {
+      "skillId": "e7da34d5-63ba-4d4c-8718-d44ed053d4d6",
+      "detail": "Drylining: Install drylining wall systems. "
+    },
+    {
+      "skillId": "26d6e1ed-59eb-4207-b219-bbd7044f958e",
+      "detail": "Drylining: Apply techniques to form openings or junctions within drylining systems. "
+    },
+    {
+      "skillId": "57070e64-eff2-40b4-997b-8494a2b32be7",
+      "detail": "Drylining: Apply fire taping techniques to drylining systems. "
+    },
+    {
+      "skillId": "f118e2a7-a9ef-4a63-9427-27e73b58d595",
+      "detail": "Drylining: Remove existing drylining systems."
+    },
+    {
+      "skillId": "f32d6640-4e24-4467-bcc9-006f35d778e6",
+      "detail": "Drylining: Carry out repairs to drylining systems. "
+    },
+    {
+      "skillId": "856d4514-122a-421a-85d0-f316bca21a40",
+      "detail": "Suspended ceilings and partitions: Install suspended ceiling systems."
+    },
+    {
+      "skillId": "c56caae7-cbc4-43dc-8a76-612790ee9ff8",
+      "detail": "Suspended ceilings and partitions: Install modular systems. "
+    },
+    {
+      "skillId": "5a2ebeda-ad76-4876-853f-49f54a0bad79",
+      "detail": "Suspended ceilings and partitions: Remove existing suspended ceiling or partition systems."
+    },
+    {
+      "skillId": "5bd68c34-0a93-4296-9dc5-8924b9b3c4f2",
+      "detail": "Suspended ceilings and partitions: Carry out repairs to suspended ceiling or partition systems."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0231",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "AT Jones, British Gypsum Ltd, Buttercups Training ltd, CG Reynolds, CITB, Construction EPA, Errigal construction specialists, Four-M Drywall, Hartsmere UK Ltd, Hugh Baird college, Measom, NOCN, Northumberland College, Saint Gobain, SECBE, South Gloucestershire and Stroud College, The FIS",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Ceiling fixer",
+    "Drylining fixer",
+    "Interior systems installer",
+    "Interior systems operative",
+    "Modular demountable partition installer",
+    "Suspended ceiling fixer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Onsite Construction",
+  "cluster": "Core building tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
+  "createdDate": "2026-10-08T13:08:39 +00:00",
+  "lastUpdated": "2026-10-08T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0388",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0388-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0388-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "0c37d902-76f6-42cb-978f-3f5d7d035124",
+      "dutyDetail": "Perform safe working practices within the work environment. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "41a99620-8275-4dab-9911-960526e9b8d5"
+      ],
+      "mappedKnowledge": [
+        "bd7079e8-2f1f-44de-bd2a-dac5cd2999fa",
+        "2d597a87-9205-4bd6-ad23-107b637ef6cc",
+        "a6acd52c-56b1-4209-ac2c-ec5a79beca1d",
+        "9ecfeede-3ebf-4d93-a406-45444aa3587b",
+        "8aef2ba3-6c9e-4347-9b55-0f7318a0f911",
+        "b808ef72-1eec-497e-b690-a570a1cf1d69",
+        "3d235a3e-80c9-44f5-b1d0-f95761f178ee",
+        "3ebb43ba-c8dd-4da7-ac3a-e76114c258ba",
+        "702e35b6-cd9b-4f4d-b17c-6377f70d0d8e",
+        "929dbc77-528c-4bd9-a34f-72b8b2c338dc",
+        "a78e6e87-5112-4483-824f-b4f26e449e3b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dc2006ae-fa62-4cad-8ee0-6f008338e9b7",
+        "1b7b6045-96d5-49b8-af5e-52b3c13f8f94",
+        "548d867f-e193-4c77-9fef-780f1598ba5b",
+        "cffaef95-c8b1-429a-a66b-22e5585a2cd2",
+        "003a9c7d-8bcc-4b0b-8f32-826acf8fdfb8",
+        "fed3f80a-cf7a-420c-b727-cde525752243",
+        "f7d54986-36c0-40db-a25e-e36c37087f2d",
+        "e70e2ce0-64b4-4b83-b691-7b3ffd3a9d26"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2e38b849-0b50-47d3-a662-e8132043032b",
+      "dutyDetail": "Comply with building regulations, construction codes of practice, manufacturers specifications and environmental regulations. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "af508548-efd1-4327-8424-5efc7500a343"
+      ],
+      "mappedKnowledge": [
+        "bd7079e8-2f1f-44de-bd2a-dac5cd2999fa",
+        "2d597a87-9205-4bd6-ad23-107b637ef6cc",
+        "8aef2ba3-6c9e-4347-9b55-0f7318a0f911",
+        "b808ef72-1eec-497e-b690-a570a1cf1d69",
+        "7118a7f4-b1d0-477e-9cb9-f58439c9440d",
+        "a1b04d4c-cd73-4ce0-8e2f-5a0ac41d640d",
+        "a51b822d-6b58-4df0-b094-c79783b6d00e",
+        "f1cfef01-024d-4412-b40a-662cb3093207",
+        "67c720cc-d97b-41a3-9a56-f238e87151bd",
+        "3ebb43ba-c8dd-4da7-ac3a-e76114c258ba",
+        "9a1df276-b3b7-42c1-9773-e666f29401b6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cffaef95-c8b1-429a-a66b-22e5585a2cd2",
+        "7e771f77-2165-4ac5-945d-866ef1eb4ced",
+        "8594eae6-f894-4e42-9017-b7ee6832b52f",
+        "9e8932af-38bd-4783-964f-c8442b3f6625",
+        "182d7ee5-4662-45b4-8ecb-f64530ffc352",
+        "fed3f80a-cf7a-420c-b727-cde525752243",
+        "5297ee2e-1c61-4907-8474-a41d5275d772"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "245b0d41-7aeb-4289-8efa-4da21ac6c054",
+      "dutyDetail": "Prepare work areas to undertake interior systems, components and fittings installation work tasks. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "af508548-efd1-4327-8424-5efc7500a343"
+      ],
+      "mappedKnowledge": [
+        "a6acd52c-56b1-4209-ac2c-ec5a79beca1d",
+        "9ecfeede-3ebf-4d93-a406-45444aa3587b",
+        "8aef2ba3-6c9e-4347-9b55-0f7318a0f911",
+        "67c720cc-d97b-41a3-9a56-f238e87151bd",
+        "702e35b6-cd9b-4f4d-b17c-6377f70d0d8e",
+        "ec9fc835-396e-4847-9add-a9d670e9e2a3",
+        "a78e6e87-5112-4483-824f-b4f26e449e3b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1b7b6045-96d5-49b8-af5e-52b3c13f8f94",
+        "548d867f-e193-4c77-9fef-780f1598ba5b",
+        "cffaef95-c8b1-429a-a66b-22e5585a2cd2",
+        "182d7ee5-4662-45b4-8ecb-f64530ffc352",
+        "f7d54986-36c0-40db-a25e-e36c37087f2d",
+        "739ceaed-3209-4822-9b67-daaadcebbfcf",
+        "e70e2ce0-64b4-4b83-b691-7b3ffd3a9d26"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc0ee5e2-0247-460d-8f69-5f533b01a515",
+      "dutyDetail": "Plan and organise to undertake the installation of interior systems, components and fittings, in ways which uses resources to complete allocated work tasks. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "af508548-efd1-4327-8424-5efc7500a343",
+        "bde268ea-75bb-4175-9c84-d4442ad74743",
+        "ad048057-f91c-4103-8f1c-96c257e6cd18"
+      ],
+      "mappedKnowledge": [
+        "3d235a3e-80c9-44f5-b1d0-f95761f178ee",
+        "a51b822d-6b58-4df0-b094-c79783b6d00e",
+        "f1cfef01-024d-4412-b40a-662cb3093207",
+        "6bc14bef-b762-4f11-8411-1a00e57d5e8b",
+        "67c720cc-d97b-41a3-9a56-f238e87151bd",
+        "3ebb43ba-c8dd-4da7-ac3a-e76114c258ba",
+        "7592c594-3ca4-49dc-ba93-f3a3ef502a6e",
+        "702e35b6-cd9b-4f4d-b17c-6377f70d0d8e",
+        "74ea403d-ea18-45ad-bf23-b28d21614cd8",
+        "2e0cf6c3-5def-4f95-bb6a-f73f11385e2d",
+        "ec9fc835-396e-4847-9add-a9d670e9e2a3",
+        "a78e6e87-5112-4483-824f-b4f26e449e3b",
+        "32fd25d3-83ff-4aa7-9162-493657d4c162",
+        "853e1dc6-58dc-4e17-a78a-2a0e4828185d",
+        "f2b2f599-1d2e-43c3-b204-0e882f42da73"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8594eae6-f894-4e42-9017-b7ee6832b52f",
+        "9e8932af-38bd-4783-964f-c8442b3f6625",
+        "af697703-09d2-4233-9f22-9f51b305e18a",
+        "182d7ee5-4662-45b4-8ecb-f64530ffc352",
+        "fed3f80a-cf7a-420c-b727-cde525752243",
+        "922a5d54-9f96-4b1a-908d-1d2f3a7a9bc8",
+        "f7d54986-36c0-40db-a25e-e36c37087f2d",
+        "f6016cbb-cfbc-42be-b676-1f64c5de0a49",
+        "f209dc32-c8c9-459e-bca0-aa6545340ae9",
+        "739ceaed-3209-4822-9b67-daaadcebbfcf",
+        "e70e2ce0-64b4-4b83-b691-7b3ffd3a9d26",
+        "4f273e4d-a0a5-495e-a680-e2b821864094",
+        "d5d4c56c-17e2-4d43-81b3-e5eba5d509e2",
+        "8c1bd793-bd44-41f4-b02d-4760dc832e3e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "867f5fe0-90e6-4069-b438-f16a2ababe7b",
+      "dutyDetail": "Complete relevant work documentation in accordance with organisation policy and procedures. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "7592c594-3ca4-49dc-ba93-f3a3ef502a6e",
+        "32fd25d3-83ff-4aa7-9162-493657d4c162",
+        "9450a3c3-9184-4fcf-ac66-450f4362470b",
+        "f2b2f599-1d2e-43c3-b204-0e882f42da73"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "922a5d54-9f96-4b1a-908d-1d2f3a7a9bc8",
+        "4f273e4d-a0a5-495e-a680-e2b821864094",
+        "bc90daf9-8428-4bb4-9cfb-8cff685c0f8d",
+        "8c1bd793-bd44-41f4-b02d-4760dc832e3e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "764b03b5-2a2e-4ffc-ad70-09b9e27e5bd7",
+      "dutyDetail": "Perform interior systems installations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "41a99620-8275-4dab-9911-960526e9b8d5",
+        "af508548-efd1-4327-8424-5efc7500a343",
+        "bde268ea-75bb-4175-9c84-d4442ad74743",
+        "ad048057-f91c-4103-8f1c-96c257e6cd18"
+      ],
+      "mappedKnowledge": [
+        "9ecfeede-3ebf-4d93-a406-45444aa3587b",
+        "3d235a3e-80c9-44f5-b1d0-f95761f178ee",
+        "a51b822d-6b58-4df0-b094-c79783b6d00e",
+        "67c720cc-d97b-41a3-9a56-f238e87151bd",
+        "7592c594-3ca4-49dc-ba93-f3a3ef502a6e",
+        "74ea403d-ea18-45ad-bf23-b28d21614cd8",
+        "2e0cf6c3-5def-4f95-bb6a-f73f11385e2d",
+        "9a1df276-b3b7-42c1-9773-e666f29401b6",
+        "e3922064-d76c-4862-b039-22cb845ec68d",
+        "82de5b32-582a-4a4f-ac8b-2870cd1ee203",
+        "1027ed54-3717-41af-9df6-63060a84be1c",
+        "9a3d2373-bc8c-4fd5-8573-706eafaee384",
+        "ec9fc835-396e-4847-9add-a9d670e9e2a3",
+        "2afcc271-d399-4a97-bb0b-a75748dfe2cd",
+        "853e1dc6-58dc-4e17-a78a-2a0e4828185d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "548d867f-e193-4c77-9fef-780f1598ba5b",
+        "003a9c7d-8bcc-4b0b-8f32-826acf8fdfb8",
+        "8594eae6-f894-4e42-9017-b7ee6832b52f",
+        "182d7ee5-4662-45b4-8ecb-f64530ffc352",
+        "922a5d54-9f96-4b1a-908d-1d2f3a7a9bc8",
+        "f6016cbb-cfbc-42be-b676-1f64c5de0a49",
+        "f209dc32-c8c9-459e-bca0-aa6545340ae9",
+        "5297ee2e-1c61-4907-8474-a41d5275d772",
+        "0176255b-d3e0-4499-9802-22c453962a86",
+        "b0509359-c8ae-401b-b650-1d4edbdf20e1",
+        "645da875-5b63-4cef-8cc4-fbca6a176935",
+        "739ceaed-3209-4822-9b67-daaadcebbfcf",
+        "d5d4c56c-17e2-4d43-81b3-e5eba5d509e2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "162304c9-65d5-4dd7-954f-6f56e59e1c9f",
+      "dutyDetail": "Restore work area to a safe and reliable condition, to prescribed standards of cleanliness on completion of installation work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "af508548-efd1-4327-8424-5efc7500a343",
+        "bde268ea-75bb-4175-9c84-d4442ad74743"
+      ],
+      "mappedKnowledge": [
+        "2d597a87-9205-4bd6-ad23-107b637ef6cc",
+        "a6acd52c-56b1-4209-ac2c-ec5a79beca1d",
+        "9ecfeede-3ebf-4d93-a406-45444aa3587b",
+        "8aef2ba3-6c9e-4347-9b55-0f7318a0f911",
+        "3d235a3e-80c9-44f5-b1d0-f95761f178ee",
+        "a51b822d-6b58-4df0-b094-c79783b6d00e",
+        "6bc14bef-b762-4f11-8411-1a00e57d5e8b",
+        "7592c594-3ca4-49dc-ba93-f3a3ef502a6e",
+        "b4c8c4d1-2e77-4f32-9188-b8bc184b8d3f",
+        "a5df5851-76cb-4d0b-97b0-089ccf7f0a13",
+        "ec9fc835-396e-4847-9add-a9d670e9e2a3",
+        "2afcc271-d399-4a97-bb0b-a75748dfe2cd",
+        "a78e6e87-5112-4483-824f-b4f26e449e3b",
+        "f2b2f599-1d2e-43c3-b204-0e882f42da73"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dc2006ae-fa62-4cad-8ee0-6f008338e9b7",
+        "1b7b6045-96d5-49b8-af5e-52b3c13f8f94",
+        "548d867f-e193-4c77-9fef-780f1598ba5b",
+        "cffaef95-c8b1-429a-a66b-22e5585a2cd2",
+        "003a9c7d-8bcc-4b0b-8f32-826acf8fdfb8",
+        "8594eae6-f894-4e42-9017-b7ee6832b52f",
+        "922a5d54-9f96-4b1a-908d-1d2f3a7a9bc8",
+        "d56497ac-6482-4bf0-9af4-aea89848e49d",
+        "e871cbaa-c4d1-4100-a173-f3f4e01fd5ec",
+        "739ceaed-3209-4822-9b67-daaadcebbfcf",
+        "e70e2ce0-64b4-4b83-b691-7b3ffd3a9d26",
+        "8c1bd793-bd44-41f4-b02d-4760dc832e3e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5e017d78-97a9-4446-9fe2-b3a0b3bcdd7c",
+      "dutyDetail": "Communicate and liaise with own project team and those in other teams, such as clients or contractors.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abfce2c-a312-47ac-a067-944430b848e0"
+      ],
+      "mappedKnowledge": [
+        "b4c8c4d1-2e77-4f32-9188-b8bc184b8d3f",
+        "2afcc271-d399-4a97-bb0b-a75748dfe2cd",
+        "b67908da-2138-4c7d-ab6b-744d0b778141",
+        "929dbc77-528c-4bd9-a34f-72b8b2c338dc",
+        "a78e6e87-5112-4483-824f-b4f26e449e3b",
+        "32fd25d3-83ff-4aa7-9162-493657d4c162",
+        "9450a3c3-9184-4fcf-ac66-450f4362470b",
+        "853e1dc6-58dc-4e17-a78a-2a0e4828185d",
+        "f2b2f599-1d2e-43c3-b204-0e882f42da73"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d56497ac-6482-4bf0-9af4-aea89848e49d",
+        "e9bcf904-1ee8-4497-be50-746efb1935b8",
+        "e70e2ce0-64b4-4b83-b691-7b3ffd3a9d26",
+        "4f273e4d-a0a5-495e-a680-e2b821864094",
+        "bc90daf9-8428-4bb4-9cfb-8cff685c0f8d",
+        "d5d4c56c-17e2-4d43-81b3-e5eba5d509e2",
+        "8c1bd793-bd44-41f4-b02d-4760dc832e3e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "346f713f-cb81-4d86-aec0-77e128822700",
+      "dutyDetail": "Develop and maintain skills in using a range of practical and workshop techniques",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "41a99620-8275-4dab-9911-960526e9b8d5",
+        "af508548-efd1-4327-8424-5efc7500a343",
+        "ad048057-f91c-4103-8f1c-96c257e6cd18",
+        "5614d39e-3a58-4084-b57a-90559fb1f419"
+      ],
+      "mappedKnowledge": [
+        "67c720cc-d97b-41a3-9a56-f238e87151bd",
+        "702e35b6-cd9b-4f4d-b17c-6377f70d0d8e",
+        "74ea403d-ea18-45ad-bf23-b28d21614cd8",
+        "2e0cf6c3-5def-4f95-bb6a-f73f11385e2d",
+        "9a1df276-b3b7-42c1-9773-e666f29401b6",
+        "e3922064-d76c-4862-b039-22cb845ec68d",
+        "82de5b32-582a-4a4f-ac8b-2870cd1ee203",
+        "1027ed54-3717-41af-9df6-63060a84be1c",
+        "9a3d2373-bc8c-4fd5-8573-706eafaee384",
+        "a5df5851-76cb-4d0b-97b0-089ccf7f0a13",
+        "2afcc271-d399-4a97-bb0b-a75748dfe2cd",
+        "853e1dc6-58dc-4e17-a78a-2a0e4828185d",
+        "f2b2f599-1d2e-43c3-b204-0e882f42da73",
+        "d46f08e8-dc4c-4c7d-ba91-064b74c532a7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "182d7ee5-4662-45b4-8ecb-f64530ffc352",
+        "f7d54986-36c0-40db-a25e-e36c37087f2d",
+        "f6016cbb-cfbc-42be-b676-1f64c5de0a49",
+        "f209dc32-c8c9-459e-bca0-aa6545340ae9",
+        "5297ee2e-1c61-4907-8474-a41d5275d772",
+        "0176255b-d3e0-4499-9802-22c453962a86",
+        "b0509359-c8ae-401b-b650-1d4edbdf20e1",
+        "645da875-5b63-4cef-8cc4-fbca6a176935",
+        "e871cbaa-c4d1-4100-a173-f3f4e01fd5ec",
+        "d5d4c56c-17e2-4d43-81b3-e5eba5d509e2",
+        "8c1bd793-bd44-41f4-b02d-4760dc832e3e",
+        "fd0fded5-cb97-4500-8a60-593915022441"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c1da752e-6c7e-48f4-ac1e-26330a5a9131",
+      "dutyDetail": "Perform drylining interior systems installations. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "f3664bc8-1428-47e9-83eb-73447d501b4a",
+        "151677bd-2016-4b0d-aa6e-31544563852a",
+        "e459e797-8c6a-4377-a7d0-2a79ac490f0b",
+        "c9f18e84-5af4-42eb-8cb4-2daf7e21babc"
+      ],
+      "mappedOptions": [
+        "09e578d4-bf8d-47d6-98c7-aecb3a2065b2"
+      ],
+      "mappedSkills": [
+        "e7da34d5-63ba-4d4c-8718-d44ed053d4d6",
+        "26d6e1ed-59eb-4207-b219-bbd7044f958e",
+        "57070e64-eff2-40b4-997b-8494a2b32be7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "03ddf1e0-9ee6-4aef-8c46-e70a99582031",
+      "dutyDetail": "Perform repairs to drying interior system installation. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "27c012e1-dfa2-41a6-91bd-de6b6a601609",
+        "a927af12-9e5b-4802-bfa8-a2f35b00becf"
+      ],
+      "mappedOptions": [
+        "09e578d4-bf8d-47d6-98c7-aecb3a2065b2"
+      ],
+      "mappedSkills": [
+        "f118e2a7-a9ef-4a63-9427-27e73b58d595",
+        "f32d6640-4e24-4467-bcc9-006f35d778e6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7a76788b-936c-4927-8e7a-c94f8f418fc7",
+      "dutyDetail": "Create openings, apertures and junctions. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "151677bd-2016-4b0d-aa6e-31544563852a"
+      ],
+      "mappedOptions": [
+        "09e578d4-bf8d-47d6-98c7-aecb3a2065b2"
+      ],
+      "mappedSkills": [
+        "26d6e1ed-59eb-4207-b219-bbd7044f958e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9ae9dc28-25d2-4659-94dd-82033200ee5d",
+      "dutyDetail": "Perform partitioning system installations.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "5831ae9c-8f40-4c0c-bba3-b7072963d60c",
+        "6004e6d2-7005-477f-b0c3-312665ed2202",
+        "8ee9f818-4b54-4ddf-b2ad-7614dbbec64a",
+        "9b6a59bc-b419-48a9-a4b6-79cc2a53fb33"
+      ],
+      "mappedOptions": [
+        "305a4d38-cadb-40de-96ae-3a9151ac1024"
+      ],
+      "mappedSkills": [
+        "c56caae7-cbc4-43dc-8a76-612790ee9ff8",
+        "5a2ebeda-ad76-4876-853f-49f54a0bad79",
+        "5bd68c34-0a93-4296-9dc5-8924b9b3c4f2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9bf4a7c4-e972-4bb0-a95c-0d4b7e44f677",
+      "dutyDetail": "Perform suspended ceiling installations.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "debd2e2f-db73-4926-9a9f-fa3f40ebce74",
+        "6004e6d2-7005-477f-b0c3-312665ed2202",
+        "8ee9f818-4b54-4ddf-b2ad-7614dbbec64a",
+        "9b6a59bc-b419-48a9-a4b6-79cc2a53fb33"
+      ],
+      "mappedOptions": [
+        "305a4d38-cadb-40de-96ae-3a9151ac1024"
+      ],
+      "mappedSkills": [
+        "856d4514-122a-421a-85d0-f316bca21a40",
+        "5a2ebeda-ad76-4876-853f-49f54a0bad79",
+        "5bd68c34-0a93-4296-9dc5-8924b9b3c4f2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2a4405ee-3523-41ad-aa08-1851414e4349",
+      "dutyDetail": "Assemble and fit modular systems. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "5831ae9c-8f40-4c0c-bba3-b7072963d60c",
+        "6004e6d2-7005-477f-b0c3-312665ed2202"
+      ],
+      "mappedOptions": [
+        "305a4d38-cadb-40de-96ae-3a9151ac1024"
+      ],
+      "mappedSkills": [
+        "c56caae7-cbc4-43dc-8a76-612790ee9ff8",
+        "5bd68c34-0a93-4296-9dc5-8924b9b3c4f2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "09e578d4-bf8d-47d6-98c7-aecb3a2065b2",
+      "title": "Drylining Systems",
+      "occupationCode": "OCC0388A"
+    },
+    {
+      "optionId": "305a4d38-cadb-40de-96ae-3a9151ac1024",
+      "title": "Suspended Ceiling & Partitioning Systems",
+      "occupationCode": "OCC0388B"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-04-13T00:00:00"
+}
