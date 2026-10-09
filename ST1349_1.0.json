@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-11-07T00:00:00",
+  "changedDate": "2026-09-14T00:00:00",
   "earliestStartDate": "2023-11-07T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-14T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Plan, prepare and produce a significant range of refined products such as sour dough, complex pastry and biscuit products, fried products, and cake and sponge products.",
   "level": 3,
@@ -47,7 +47,7 @@
   "ssa2": "7.4 Hospitality and catering",
   "version": "1.0",
   "standardInformation": "&lt;p&gt;j&lt;/p&gt;",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the craft and production bakery sector or the new product development departments of bakery ingredient suppliers. The occupation may also be found in certain hospitality sectors eg large fine dining kitchens. Work may be carried out in craft bakeries, large and small, factory-scale production bakeries, hotels, hospitals, and prison kitchens where bakery products are made on site, in ingredient supplier and commercial test bakeries. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to plan, prepare and produce a significant range of refined products such as sour dough, complex pastry and biscuit products, fried products, and cake and sponge products. They will have knowledge of the recipe makeup, complex processing methods and processing equipment as well as a strong knowledge of specialised ingredients, and the principles of product improvement or new product development. Depending on the size and scope of operation a Lead Baker may have responsibility for a section or department. Within an NPD role may be Lead Test Baker. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with their bakery team including senior managers and internal auditors. They would report to a section/department head, production manager, bakery manager or even an external proprietor depending on scale. In NPD the Lead Baker would be responsible to the department manager. External contacts may include suppliers, auditors and customers. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for ensuring products are food and hygiene safe and of the required quality. They would also need to ensure compliance in all areas of health and safety, food safety and business rules. A Lead Baker will have knowledge and skills associated with team leadership and a full understanding of the principles of product costing and productivity measurement. They must work to deadlines and financial targets. Their expertise would see them contribute to NPD, line and process improvements and team development. Progression pathway could lead through to production management, NPD test bakery leader, bakery technologist or bakery management.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the craft and production bakery sector or the new product development departments of bakery ingredient suppliers. The occupation may also be found in certain hospitality sectors eg large fine dining kitchens. Work may be carried out in craft bakeries, large and small, factory-scale production bakeries, hotels, hospitals, and prison kitchens where bakery products are made on site, in ingredient supplier and commercial test bakeries. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to plan, prepare and produce a significant range of refined products such as sour dough, complex pastry and biscuit products, fried products, and cake and sponge products. They will have knowledge of the recipe makeup, complex processing methods and processing equipment as well as a strong knowledge of specialised ingredients, and the principles of product improvement or new product development. Depending on the size and scope of operation a Lead Baker may have responsibility for a section or department. Within an NPD role may be Lead Test Baker. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with their bakery team including senior managers and internal auditors. They would report to a section/department head, production manager, bakery manager or even an external proprietor depending on scale. In NPD the Lead Baker would be responsible to the department manager. External contacts may include suppliers, auditors and customers. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for ensuring products are food and hygiene safe and of the required quality. They would also need to ensure compliance in all areas of health and safety, food safety and business rules. A Lead Baker will have knowledge and skills associated with team leadership and a full understanding of the principles of product costing and productivity measurement. They must work to deadlines and financial targets. Their expertise would see them contribute to NPD, line and process improvements and team development. Progression pathway could lead through to production management, NPD test bakery leader, bakery technologist or bakery management.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "fe44f56f-18f9-4cca-8f17-25503868d53b",
@@ -301,7 +301,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0838",
-  "tbMainContact": "",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Fullers Bakery, Gearys Bakeries, Morrisons, Lesaffre, AB Mauri UK & Ireland, British Bakels, Heygates, The Bread Factory, Burns the Bread, NSA Food & Drink",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -326,7 +326,7 @@
   "clusterId": "18",
   "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2024-01-11T14:22:43 +00:00",
-  "lastUpdated": "2023-11-07T00:00:00 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-11-07T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1349",
@@ -555,5 +555,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-11-07T00:00:00"
+  "publishDate": "2027-03-14T00:00:00"
 }
