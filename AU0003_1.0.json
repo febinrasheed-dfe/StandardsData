@@ -1,0 +1,169 @@
+{
+  "id": "220118",
+  "referenceNumber": "AU0003",
+  "title": "Mechanical fitting and assembly – Apprenticeship unit",
+  "introduction": "<p>Apprenticeship units are short flexible training courses designed to support employers to upskill their workforce in critical skill shortage areas. Units are for employed learners aged 19 and over, where their employer has identified that they need to upskill quickly to respond to emerging skills gaps and to support business growth and productivity.</p>\n<p>Apprenticeship units are based on relevant knowledge and skills in existing employer-led occupational standards to ensure relevant high-quality, targeted training. Each unit is short, with the length of training ranging from 30 and 140 hours delivered over a period of 1 to 16 weeks. This enables employers to have maximum flexibility to select a unit that meets their specific skill need and to deliver the training in a way that fits around their business.</p>",
+  "larsCode": "0",
+  "learningAimClassCode": "ZSC00003",
+  "apprenticeshipUnitUrl": "https://skillsengland.education.gov.uk/apprenticeship-units/AU0003-v1-0",
+  "route": "Engineering and manufacturing",
+  "relatedRoutes": [],
+  "minimumHoursForCompliance": 70,
+  "maxFunding": 1650,
+  "level": 2,
+  "reviewDetails": "",
+  "status": "Approved for delivery",
+  "version": "1.0",
+  "versionNumber": "1.0",
+  "createdDate": "2026-03-05T13:59:22 +00:00",
+  "lastUpdated": "2026-04-21T09:56:19 +00:00",
+  "publishDate": "2026-04-28T00:00:00 +00:00",
+  "approvedForDelivery": "2026-03-17T00:00:00 +00:00",
+  "earliestStartDate": "2026-04-28T00:00:00 +00:00",
+  "latestStartDate": "",
+  "latestEndDate": "",
+  "change": "",
+  "changedDate": "",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "keywords": [],
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
+  "entryRequirements": "<p>Learners must be employed and be 19 years of age or over.</p>\n<p>Learners must have some experience working as an engineering operative or technician.</p>",
+  "englishAndMathsQualifications": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "regulationDetail": [],
+  "technicalKnowledges": [
+    {
+      "id": "eb916c7f-c428-4274-9a26-729cf6de5cf1",
+      "detail": "Awareness of health and safety regulations, standards, and guidance and impact on role. Control of Substances Hazardous to Health (CoSHH). Fire safety. Hazards and risks. Health and Safety at Work Act (HASAWA), Isolation and emergency stop procedures, Manual handling operations regulations, Personal Protective Equipment (PPE), Safety equipment: guards, signage, fire extinguishers. Safety signage. Situational awareness. Slips, trips, and falls. Working at height, Working in confined spaces. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "75ea69b1-8ab2-4630-a703-51688eb6c7c6",
+      "detail": "Methods of interpreting relevant information from mechanical specifications, drawings and technical information. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "0435280f-015d-42f9-8486-10bd6bc47458",
+      "detail": "Planning, prioritisation, organisation, and time management techniques.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "70010d08-6287-4894-accd-ac173e103b29",
+      "detail": "Consumables, tools, equipment and machinery used during mechanical activities.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "2b4dcc82-c4bc-487c-844f-10d5ae490249",
+      "detail": "Principles and methods of measuring and marking out materials.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "c08770f7-af27-4147-b8e8-da19ea3bef9a",
+      "detail": "Mechanical. Forming, component and assembly fitting techniques: presswork, welding, fastening methods, joint integrity and automated assembly.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "f03b0753-9a7a-4ff9-a122-76a84523dded",
+      "detail": "Mechanical. Principles of tolerances, fits and geometric dimensioning. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "db0f4cce-2f6a-49b9-88a9-052759d241e6",
+      "detail": "Mechanical. Characteristics and properties of materials used in mechanical operations.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "000a7c64-6d2e-4054-a0f7-b39085cb10cd",
+      "detail": "Mechanical. Diagnostic checks and methods for fault identification in mechanical operations.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "9cfbce58-7cec-417f-bdd8-ac11f644185d",
+      "detail": "Mechanical. Quality requirements for mechanical operations.",
+      "tags": [],
+      "relatedApprenticeships": []
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "638a89be-1317-499b-a237-9a4b242507ad",
+      "detail": "Follow procedures in compliance with health and safety regulations, standards, and guidance. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "426c0dd3-3e78-4a3e-81a2-46b2531ac8ee",
+      "detail": "Read and interpret mechanical specifications, drawings and technical information.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "80eb2b16-a6c0-42e7-99f2-7bafe82e539c",
+      "detail": "Use planning, prioritising, organising, and time management techniques to plan mechanical activities.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "53389318-35cc-4d5a-89c9-64bb9ec7f90b",
+      "detail": "Select and use consumables, tools, equipment and machinery for mechanical activities.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "57958062-e7f8-418a-b947-bbba88acbabb",
+      "detail": "Measure and mark out materials as part of mechanical activities.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "89592939-a796-45f6-a78c-9a1126b712ab",
+      "detail": "Mechanical. Identify and select material for mechanical operations.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "98a219fb-63f3-4b47-b096-d33b3a1f1869",
+      "detail": "Mechanical. Complete mechanical operations in line with mechanical based safe working practices and procedures.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "030bdaa1-f11e-4b64-8dbd-d569a1ad49a9",
+      "detail": "Mechanical. Complete mechanical operations in line with mechanical plans, for example assembly operations. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "e0e301bc-ccff-4a0b-be0c-4312dcf92702",
+      "detail": "Mechanical. Identify faults in mechanical operations. For example, components and sub-assemblies.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "d20fea3d-1423-4d71-b37c-67644f1c43dd",
+      "detail": "Mechanical. Carry out quality checks before, during and after mechanical operations.",
+      "tags": [],
+      "relatedApprenticeships": []
+    }
+  ],
+  "informationForProviders": "",
+  "whoIsItFor": "<p>This apprenticeship unit is for existing employed engineering operatives and technicians who, with the support of their employer, need to upskill in mechanical fitting and assembly fundamentals.</p>",
+  "learningOutcomes": "<p>A learning outcome is a concise statement that describes what an individual should be able to do by the end of their course. It summarises a cluster of knowledge and skills in the course and provides a foundation for assessment.</p>\n<p><strong>Learning outcomes</strong></p>\n<ul>\n<li>Apply health and safety legislation, regulations and safe systems of work to mechanical fitting and assembly activities</li>\n<li>Interpret mechanical based specifications, drawings, and technical documentation to complete mechanical fitting and assembly activities.</li>\n<li>Plan and organise mechanical fitting and assembly activities using effective prioritisation and time management techniques.</li>\n<li>Select and use appropriate tools and equipment for mechanical fitting and assembly activities.</li>\n<li>Measure and mark out materials accurately in preparation for mechanical fitting and assembly activities.</li>\n<li>Safely carry out mechanical fitting and assembly activities in accordance with requirements.</li>\n<li>Identify and diagnose faults in mechanical fitting and assembly activity outputs.</li>\n<li>Carry out quality checks throughout mechanical fitting and assembly activities to ensure that requirements are met.</li>\n</ul>",
+  "knowledgeAndSkillsMappingToOutcomes": "<table border=\"0\">\n<thead>\n<tr>\n<th><strong>Function</strong></th>\n<th><strong>Learning Outcome</strong></th>\n<th><strong>K &amp; S mapping</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Health and safety</strong></td>\n<td>Apply health and safety legislation, regulations and safe systems of work to mechanical fitting and assembly activities.</td>\n<td>K1, S1</td>\n</tr>\n<tr>\n<td><strong>Interpreting documentation</strong></td>\n<td>Interpret mechanical‑based specifications, drawings, and technical documentation to complete mechanical fitting and assembly activities.</td>\n<td>S2, S2</td>\n</tr>\n<tr>\n<td><strong>Planning and organisation</strong></td>\n<td>Plan and organise mechanical fitting and assembly activities using effective prioritisation and time management techniques.</td>\n<td>K3, S3</td>\n</tr>\n<tr>\n<td><strong>Selecting tools and equipment</strong></td>\n<td>Select and use appropriate tools and equipment for mechanical fitting and assembly activities.</td>\n<td>K4, S4</td>\n</tr>\n<tr>\n<td><strong>Measuring and marking out</strong></td>\n<td>Measure and mark out materials accurately in preparation for mechanical fitting and assembly activities.</td>\n<td>K5, K7, S5</td>\n</tr>\n<tr>\n<td><strong>Mechanical fitting and assembly</strong></td>\n<td>Safely carry out mechanical fitting and assembly activities in accordance with requirements.</td>\n<td>K6, K8, S6, S7, S8</td>\n</tr>\n<tr>\n<td><strong>Fault finding</strong></td>\n<td>Identify and diagnose faults in mechanical fitting and assembly activity outputs.</td>\n<td>K9, S9</td>\n</tr>\n<tr>\n<td><strong>Quality</strong></td>\n<td>Carry out quality checks throughout mechanical fitting and assembly activities to ensure that requirements are met.</td>\n<td>K10, S10</td>\n</tr>\n</tbody>\n</table>",
+  "funding": "<p>This apprenticeship unit is currently eligible for public funding.</p>\n<p>Skills England will provide the Department for Work and Pensions with ongoing advice on critical skills needs, and the affordability and prioritisation of funding for apprenticeship units will remain under review.</p>\n<p>The Department will give notice if funding for this apprenticeship unit is to be withdrawn. Following which, funding for new starts will not be available after four weeks from that notice being given.</p>",
+  "assessment": "<p><strong>Mandatory:</strong> As a minimum, learners will need to pass a skills test delivered by the training provider, to demonstrate that they have acquired the skills and knowledge set out in the apprenticeship unit. Employers will need to validate the result to confirm the learner has been successful.</p>\n<p><strong>Extended:</strong> In addition, employers (or learners) have the option to choose independent external assessment where they feel it is appropriate, for example through use of a non-mandatory qualification.</p>\n<p>If the apprenticeship unit is in a regulated occupation and the role requires adherence to industry recognised standards and procedures, we would expect employers to choose an extended assessment.</p>",
+  "relatedOccupations": [],
+  "banners": ""
+}
