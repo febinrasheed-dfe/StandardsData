@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised",
-  "changedDate": "2024-07-01T00:00:00",
+  "changedDate": "2026-08-21T00:00:00",
   "earliestStartDate": "2024-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -356,7 +356,7 @@
   "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0097",
-  "tbMainContact": "trailblazer@people1st.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "TUI, Royal Air Force, Virgin Atlantic, Flybe, Thomas Cook, British Airways, Easy Jet, DHL Air, Air Mid-West, Air Harrods",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -374,9 +374,9 @@
   "clusterId": "230",
   "clusterDescription": "Fly commercial aircraft",
   "createdDate": "2024-07-01T14:55:32 +00:00",
-  "lastUpdated": "2024-07-01T00:00:00 +00:00",
+  "lastUpdated": "2026-08-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-02-18T00:00:00 +00:00",
-  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).",
+  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).; We are proposing to retire this apprenticeship for new starts due to low starts on programme since its approval. If you would like to raise any concerns with the proposed retirement please complete the consultation form below by Wednesday 30th September 2026.\nPlease note that retirement of this standard has not yet been agreed or authorised.\nIf you have any comments or concerns regarding this, please complete this form. These will be logged and reviewed once the consultation period has closed.",
   "occupationCode": "OCC0523",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0523-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0523-v1-1",
@@ -802,5 +802,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-07-01T00:00:00"
+  "publishDate": "2026-08-21T00:00:00"
 }
