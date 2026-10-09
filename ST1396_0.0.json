@@ -48,12 +48,12 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0880",
-  "tbMainContact": "Vanessa.Mulholland@instagroup.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "",
   "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
-  "coreAndOptions": true,
+  "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
@@ -72,28 +72,7 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "options": [
-    {
-      "optionId": "afc88daa-d130-4f43-ace4-abf7d8e7ab39",
-      "title": "External wall insulation: Fixer and finisher",
-      "occupationCode": "OCC1396B"
-    },
-    {
-      "optionId": "a34e0160-92bb-4132-bc22-6c85008b7735",
-      "title": "Internal wall installation installer",
-      "occupationCode": "OCC1396D"
-    },
-    {
-      "optionId": "26cb8596-73e5-4ced-8741-4d19938563a9",
-      "title": "Cavity wall insulation installer",
-      "occupationCode": "OCC1396A"
-    },
-    {
-      "optionId": "766bb0b8-65b6-45e8-b1bb-ba53c2aacf9a",
-      "title": "Framed section insulation installer",
-      "occupationCode": "OCC1396C"
-    }
-  ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
