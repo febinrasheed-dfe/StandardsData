@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Updated SSA",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-05-19T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-02-23T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Empower people with visual impairments to lead independent and fulfilling lives.",
   "level": 5,
@@ -297,7 +297,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0318",
-  "tbMainContact": "Richard.Bounds@guidedogs.org.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "BID Services, Birmingham City University, Blind Veterans, Bradford Council, Guide Dogs for the Blind, Hertfordshire County Council, Hounslow Council, Lancashire County Council, London Borough of Harrow, Norfolk County Council, Occupational Awards Limited, PrioritEyes Ltd, Rehabilitation Workers Professional Network, Salford Royal NHS Foundation Trust, Sensory Specialists Ltd, Somerset Council, Stoke-on-Trent City Council, Thomas Pocklington Trust, Vision Rehabilitation Training Ltd, Vista",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -316,7 +316,7 @@
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2025-12-08T09:39:28 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-05-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0431",
@@ -680,5 +680,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2027-02-23T00:00:00"
 }
