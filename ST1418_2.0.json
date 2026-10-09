@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "2.0",
   "change": "Occupational standard and assessment plan revised.",
-  "changedDate": "2026-03-25T00:00:00",
+  "changedDate": "2026-09-10T00:00:00",
   "earliestStartDate": "2026-03-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -19,7 +19,7 @@
   "level": 7,
   "ePALength": 0,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "326",
   "maxFunding": 14000,
   "maxFundingAdditionalInformation": "",
   "route": "Health and science",
@@ -1395,7 +1395,7 @@
   "integration": "Statutory integration",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0335",
-  "tbMainContact": "Angelo.Varetto@wdtrust.org.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Barking, Havering and Redbridge University Hospitals NHS Trust, Bolton Hospital NHS Foundation Trust , Department of Health and Social Care, Derbyshire Community Health Services NHS Foundation Trust, Derbyshire Healthcare Foundation Trust, Gloucestershire Health and Care NHS Foundation Trust, HCRG Care Group, Health Education England - Talent for Care, Hertfordshire Community NHS Trust, Institute of Health Visitors, Locala Health and Wellbeing, Manchester Local Care Organisation, Manchester University NHS Foundation Trust (MFT), National School of Occupational Health, NHS England, North Somerset Community Partnership, Nottingham Healthcare NHS Foundation Trust, Nottinghamshire Healthcare NHS Foundation Trust, Nursing and Midwifery Council, People Asset Management Group, Royal College of Nursing, Sirona Care and Health, Skills for Health, Society of Occupational Medicine, Stockport NHS Foundation Trust, Sussex Community NHS Foundation Trust, Unite the Union, Whittington Health NHS Trust",
   "otherInvolvedStakeholders": "",
   "regulated": true,
@@ -1415,7 +1415,7 @@
   "clusterId": "211",
   "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2026-02-05T13:43:33 +00:00",
-  "lastUpdated": "2026-03-25T00:00:00 +00:00",
+  "lastUpdated": "2026-09-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-09-20T00:00:00 +00:00",
   "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC1418",
@@ -2254,5 +2254,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-25T00:00:00"
+  "publishDate": "2026-09-10T00:00:00"
 }
