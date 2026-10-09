@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, End-point assessment plan and funding band revised.",
-  "changedDate": "2025-07-14T00:00:00",
+  "changedDate": "2026-09-04T00:00:00",
   "earliestStartDate": "2025-05-26T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manage credit and collect money owed by consumers or businesses, or take control and sell goods to pay debts.",
   "level": 3,
@@ -321,7 +321,7 @@
   "integration": "Mandatory qualification with apprenticeship assessment",
   "integratedDegree": "",
   "tbReference": "TB0550",
-  "tbMainContact": "dsheridan@arceuropeltd.co.uk, katherine.bailey@valorhospitalityeurope.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "AAH Pharmaceuticals Ltd, Addleshaw Goddard LLP, Adecco Group, Arc (Europe) Ltd, Cabinet office, Chartered Institute of Credit Management, Credit Limits International Ltd, Credit Services Association (CSA, Creditsafe Business Solutions Ltd, Crystal collections Ltd, Everyday People Financial Solutions, Forums International , Freeths LLP, Hyster-Yale Group, Keyloop, Lloyds Banking Group, Lowell Group, RJH Consultinh, Trustford, Valor Hospitality Europe Limited, Westcon Group European Operations, Wilson and Roe High Court Enforcement",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -343,7 +343,7 @@
   "clusterId": "240",
   "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2025-07-15T10:45:31 +00:00",
-  "lastUpdated": "2025-07-14T00:00:00 +00:00",
+  "lastUpdated": "2026-09-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-10-31T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0175",
@@ -1373,5 +1373,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-14T00:00:00"
+  "publishDate": "2027-03-10T00:00:00"
 }
