@@ -1,0 +1,308 @@
+{
+  "id": "220083",
+  "referenceNumber": "AU0007",
+  "title": "Solar PV installation and maintenance – Apprenticeship unit",
+  "introduction": "<p>Apprenticeship units are short flexible training courses designed to support employers to upskill their workforce in critical skill shortage areas. Units are for employed learners aged 19 and over, where their employer has identified that they need to upskill quickly to respond to emerging skills gaps and to support business growth and productivity.</p>\n<p>Apprenticeship units are based on relevant knowledge and skills in existing employer-led occupational standards to ensure relevant high-quality, targeted training. Each unit is short, with the length of training ranging from 30 and 140 hours delivered over a period of 1 to 16 weeks. This enables employers to have maximum flexibility to select a unit that meets their specific skill need and to deliver the training in a way that fits around their business.</p>",
+  "larsCode": "0",
+  "learningAimClassCode": "ZSC00007",
+  "apprenticeshipUnitUrl": "https://skillsengland.education.gov.uk/apprenticeship-units/AU0007-v1-0",
+  "route": "Construction and the built environment",
+  "relatedRoutes": [
+    "Construction and the built environment"
+  ],
+  "minimumHoursForCompliance": 35,
+  "maxFunding": 950,
+  "level": 3,
+  "reviewDetails": "",
+  "status": "Approved for delivery",
+  "version": "1.0",
+  "versionNumber": "1.0",
+  "createdDate": "2026-03-05T12:01:36 +00:00",
+  "lastUpdated": "2026-04-21T09:56:58 +00:00",
+  "publishDate": "2026-04-28T00:00:00 +00:00",
+  "approvedForDelivery": "2026-03-17T00:00:00 +00:00",
+  "earliestStartDate": "2026-04-28T00:00:00 +00:00",
+  "latestStartDate": "",
+  "latestEndDate": "",
+  "change": "",
+  "changedDate": "",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "keywords": [
+    "electrical systems",
+    "electricity",
+    "electrical",
+    "Installation Electrician",
+    "Maintenance Electrician"
+  ],
+  "typicalJobTitles": [
+    "Electrician",
+    "Installation electrician",
+    "Maintenance electrician"
+  ],
+  "greenJobTitles": [],
+  "entryRequirements": "<p>Learners must be employed and be 19 years of age or older. Must be a fully qualified electrician.</p>",
+  "englishAndMathsQualifications": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "regulationDetail": [],
+  "technicalKnowledges": [
+    {
+      "id": "4437be5e-c070-4981-a0d6-62b13ed32c34",
+      "detail": "Health and safety legislation regulation and safe working practices relevant to solar photovoltaic (PV) installation and maintenance covering hazards and risks and how these can be avoided.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3ffddc7-e08d-4a78-80d5-20a5d39de8e1",
+      "detail": " Mathematical and scientific techniques, formulae, and calculations used in solar PV system design and installation in industrial, commercial, and residential environments.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27300546-b9b1-443e-aa6c-776963c255d1",
+      "detail": "The purpose and operations of key solar PV components and their characteristics and features, and requirements in industrial, commercial and residential environments.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c81f3b4c-5b54-47d8-aa84-aef1d931f4bb",
+      "detail": "Processes and procedures including the design, planning, setting up, and installing solar PV and associated technologies in industrial, commercial, and residential environments including structural considerations, roof fixings, cable routing, fire safety requirements, and integration with other technologies such as EV chargers and battery storage.  ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31a8a9e8-4343-442c-8f4c-861841819628",
+      "detail": "Methods of terminating and connecting cabling in industrial, commercial, and residential environments. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7914527c-652c-4582-a7e7-c71512405bc8",
+      "detail": "Fault diagnosis and rectification of PV system faults using different diagnostic and problem-solving techniques and the methods to find, assess, and resolve faults in industrial, commercial, and residential environments. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89fb6467-bd8a-48ed-8323-03fc82875ca8",
+      "detail": "Safe isolation, initial verification and appreciate periodic inspection, testing and reporting of solar PV installations, in industrial, commercial, and residential environments. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aae2ecba-b322-4982-a4ce-7a5e4dc3a9fe",
+      "detail": " Importance of accurate preparation, completion, and maintenance of relevant work documentation for PV systems, including test results, system performance, warranties, user instructions and documents in.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K16"
+          ]
+        }
+      ]
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "1ef73668-ac48-47a7-a57e-cf5c8d77cc74",
+      "detail": "Comply with all relevant legislation including environmental, regulations, codes of practice and other relevant information and guidance when planning and carrying out solar PV installation and maintenance activities. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feb0f6f8-32a5-4609-bce9-775f8566de97",
+      "detail": "Inspect and test solar PV system installations in industrial, commercial and residential environments using test equipment. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88b9d1d5-9fb4-46f4-84e1-3f8d95cf5e7d",
+      "detail": "Apply diagnostic and problem-solving techniques to identify, assess and resolve electrical faults in industrial, commercial and residential environments.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "73bb638b-ae57-4d44-80ec-1ded85069373",
+      "detail": "Install solar PV systems and components in line with required standards and manufacturer instructions. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b948fc1-6109-4c69-8196-15c3d2af406e",
+      "detail": "Maintain solar PV system using appropriate testing equipment and procedures.  ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79fcf6b8-83af-42ea-a5d3-83397fc3d801",
+      "detail": "Record work including the completion and maintenance of work documentation, recording of test results and preparation of appropriate certification.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f71d1e00-0afc-42be-9a99-b8e1d8fbb1f8",
+      "detail": "Use relevant digital learning platforms and business communication and collaboration applications. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S15"
+          ]
+        }
+      ]
+    }
+  ],
+  "informationForProviders": "",
+  "whoIsItFor": "<p>This apprenticeship unit is for existing employed electricians who, with the support of their employer, need to upskill in solar photovoltaic (PV) installation and maintenance fundamentals.</p>",
+  "learningOutcomes": "<p>A learning outcome is a concise statement that describes what an individual should be able to do by the end of their course. It summarises a cluster of knowledge and skills in the course and provides a foundation for assessment.</p>\n<p><strong>Learning outcomes: </strong></p>\n<ul>\n<li>Demonstrate an overarching understanding of health and safety, legislation, and safe working practices relevant to solar PV work.</li>\n<li>Use core mathematical, electrical, and scientific principles to support installation, testing, fault finding, and maintenance.</li>\n<li>Understand equipment types, features, and requirements across commercial and residential environments.</li>\n<li>Carry out high-level design, planning, installation and commissioning processes in line with industry expectations.</li>\n<li>Undertake fault‑finding, inspection, testing, and maintenance activities using appropriate tools and techniques.</li>\n<li>Maintain essential records and communicate professionally using digital platforms.</li>\n</ul>",
+  "knowledgeAndSkillsMappingToOutcomes": "<table border=\"0\">\n<thead>\n<tr>\n<th><strong>Function</strong></th>\n<th><strong>Learning Outcome</strong></th>\n<th><strong>K &amp; S mapping</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Legislation, standards, and sustainability</strong></td>\n<td>Demonstrate an overarching understanding of health and safety, legislation, and safe working practices relevant to solar PV work.</td>\n<td>K1, S1</td>\n</tr>\n<tr>\n<td><strong>Mathematical and scientific application</strong></td>\n<td>Use core mathematical, electrical, and scientific principles to support installation, testing, fault finding, and maintenance.</td>\n<td>K2</td>\n</tr>\n<tr>\n<td><strong>EV charging equipment</strong></td>\n<td>Understand equipment types, features, and requirements across commercial and residential environments.</td>\n<td>K3, K4, S4</td>\n</tr>\n<tr>\n<td><strong>Installation</strong></td>\n<td>Carry out high-level design, planning, installation and commissioning processes in line with industry expectations.</td>\n<td>K4, K5, S2</td>\n</tr>\n<tr>\n<td><strong>Diagnosis</strong></td>\n<td>Undertake fault-finding, inspection, testing, and maintenance activities using appropriate tools and techniques.</td>\n<td>K6, K7, S3, S5</td>\n</tr>\n<tr>\n<td><strong>Documentation</strong></td>\n<td>Maintain essential records and communicate professionally using digital platforms.</td>\n<td>K8, S6, S7</td>\n</tr>\n</tbody>\n</table>",
+  "funding": "<p>This apprenticeship unit is currently eligible for public funding.</p>\n<p>Skills England will provide the Department for Work and Pensions with ongoing advice on critical skills needs, and the affordability and prioritisation of funding for apprenticeship units will remain under review.</p>\n<p>The Department will give notice if funding for this apprenticeship unit is to be withdrawn. Following which, funding for new starts will not be available after four weeks from that notice being given.</p>",
+  "assessment": "<p><strong>Mandatory:</strong> As a minimum, learners will need to pass a skills test delivered by the training provider, to demonstrate that they have acquired the skills and knowledge set out in the apprenticeship unit. Employers will need to validate the result to confirm the learner has been successful.</p>\n<p><strong>Extended:</strong> In addition, employers (or learners) have the option to choose independent external assessment where they feel it is appropriate, for example through use of a non-mandatory qualification.</p>\n<p>If the apprenticeship unit is in a regulated occupation and the role requires adherence to industry recognised standards and procedures, we would expect employers to choose an extended assessment.</p>",
+  "relatedOccupations": [
+    {
+      "name": "Installation and maintenance electrician",
+      "reference": "OCC0152",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0152",
+      "versionNumber": "1.2"
+    }
+  ],
+  "banners": ""
+}
