@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard and end-point assessment plan revised",
-  "changedDate": "2025-12-18T00:00:00",
+  "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": "2025-12-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Ensuring the safe travel of passengers, their customers, themselves and their colleagues.",
   "level": 2,
@@ -345,7 +345,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0033",
-  "tbMainContact": "marie.brierley@networkrail.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Network Rail, Govia Thameslink Railway, Virgin Trains, Northern Rail, East Midlands Trains, Transport for London (TfL), South Eastern Railway, First Group PLC, Southwest Trains, Stagecoach, Peter Brett Associates, Webber Bus, Berry Coaches, First Great Western, Arriva plc, Cross rail, Nottingham City Council, Mersey travel, RMT, first group, cpt-uk, metro line national express, jaupt, shaws coaches, drive tech, Blackpool transport, reading-buses, nweat, go ahead London, stagecoachbus, East Yorkshire buses, Firstbus, metroline",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -368,7 +368,7 @@
   "clusterId": "82",
   "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2025-12-18T15:24:07 +00:00",
-  "lastUpdated": "2025-12-18T00:00:00 +00:00",
+  "lastUpdated": "2026-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-11-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0339",
@@ -991,5 +991,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-18T00:00:00"
+  "publishDate": "2026-12-17T00:00:00"
 }
