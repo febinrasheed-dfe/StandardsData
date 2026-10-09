@@ -19,7 +19,7 @@
   "level": 6,
   "ePALength": 0,
   "typicalDuration": 36,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "835",
   "maxFunding": 24000,
   "maxFundingAdditionalInformation": "",
   "route": "Care services",
@@ -428,7 +428,7 @@
   "integration": "Statutory integration",
   "integratedDegree": "integrated degree",
   "tbReference": "TB0333",
-  "tbMainContact": "Paula.Tilbury-Larter@suffolk.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Peterborough City Council\nHertfordshire County Council\nSurrey County Council - Adult Social Care\nHestia\nHampshire County Council\nWest Sussex County Council\nSuffolk County Council\nEast Sussex County Council\nLincolnshire County Council\nDurham County Council\n Norfolk County Council\n",
   "otherInvolvedStakeholders": "Social Work England",
   "regulated": true,
@@ -444,14 +444,23 @@
   "cluster": "Care services professional",
   "clusterId": "44",
   "clusterDescription": "Lead, manage and deliver a whole care process to support clients including their assurance and improvement often requiring specialist care expertise.",
-  "createdDate": "2026-02-05T13:49:51 +00:00",
+  "createdDate": "2026-07-31T09:42:13 +00:00",
   "lastUpdated": "2026-03-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-11-30T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0510",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0510-v2-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0510-v2-0",
-  "qualifications": [],
+  "qualifications": [
+    {
+      "qualificationId": "4f75f556-8a4d-4bef-beec-51cd7c3ba76b",
+      "title": "Social worker Qualification",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "Achieved all required modules of a social worker qualification approved by Social Work England.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
   "professionalRecognition": [
     {
       "bodyName": "Social Work England",
@@ -1187,7 +1196,7 @@
   "options": [],
   "regulationDetail": [
     {
-      "name": "Training Provider",
+      "name": "Training provider",
       "webLink": "",
       "approved": true
     },
