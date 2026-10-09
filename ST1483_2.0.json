@@ -1,17 +1,17 @@
 {
   "templateType": "Occupational Standard",
   "shortAssessment": true,
-  "larsCode": 0,
+  "larsCode": 835,
   "referenceNumber": "ST1483",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0002056",
   "title": "Production manager",
   "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": true,
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1483",
   "qualificationStandardUrl": null,
   "versionNumber": "2.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-04-28T00:00:00",
+  "changedDate": "2026-07-29T00:00:00",
   "earliestStartDate": "2026-04-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -19,7 +19,7 @@
   "level": 6,
   "ePALength": 2,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "466",
   "maxFunding": 14000,
   "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
@@ -123,10 +123,6 @@
     {
       "knowledgeId": "a280ef67-82e1-4d6e-89fd-b1abfe040707",
       "detail": "The moral and ethical issues and recommended best practice when incorporating technology such as AI within productions . "
-    },
-    {
-      "knowledgeId": "e27717b5-cc0c-4343-a0a3-56ff0faa8b43",
-      "detail": "End-to-end production workflow from pre-production through to distribution, and how the stages of production and departments interact. "
     },
     {
       "knowledgeId": "ff6702a4-cb02-4fab-bbda-9fce33716193",
@@ -277,10 +273,6 @@
       "detail": "Ensure the programme deliverables are produced to meet technical standards such as format and quality for domestic or international delivery. "
     },
     {
-      "skillId": "0fb44d2d-8f87-425b-85e7-7d3582235197",
-      "detail": "Plan the production workflow. Agree timelines and responsibilities with each department."
-    },
-    {
       "skillId": "e0cc657b-57bb-4fbd-a550-3d8a8f13ee39",
       "detail": "Make informed and project critical decisions on resource allocations relating to post production. "
     },
@@ -345,7 +337,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
@@ -356,7 +348,7 @@
   "integration": "None",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0294",
-  "tbMainContact": "daniell.morrisey@bbc.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Chichester Festival Theatre, BBC, Framestore, ITV, Sony, Screen Skills",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -379,10 +371,10 @@
   "cluster": "Media, broadcast and production professional",
   "clusterId": "29",
   "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
-  "createdDate": "2026-04-28T09:53:37 +00:00",
-  "lastUpdated": "2026-04-28T00:00:00 +00:00",
+  "createdDate": "2026-08-13T11:29:24 +00:00",
+  "lastUpdated": "2026-07-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2026-04-28T00:00:00 +00:00",
-  "banners": "This apprenticeship standard was approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable assessment organisation is in place. Once an assessment organisation is in place, funding for apprentice starts will be permitted and this message will be removed.",
+  "banners": "",
   "occupationCode": "",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1483-v2-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1483-v2-0",
@@ -604,7 +596,6 @@
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b5d2cb34-b421-4af0-943f-7c02ef80e27f",
-        "e27717b5-cc0c-4343-a0a3-56ff0faa8b43",
         "ff6702a4-cb02-4fab-bbda-9fce33716193",
         "2e799b20-cb70-4650-b50f-a31ce90de86a",
         "8e52c658-78f0-4f31-8d5a-ecad36905f6a",
@@ -616,7 +607,6 @@
       "mappedSkills": [
         "db760ef7-8a82-42c4-a4f4-e5f6e10480b3",
         "c7256d2d-661b-4b70-8cae-87ffef8184a5",
-        "0fb44d2d-8f87-425b-85e7-7d3582235197",
         "e0cc657b-57bb-4fbd-a550-3d8a8f13ee39",
         "e3f19111-5797-4fe7-a218-0f90b75ed49e",
         "274d3852-4715-48c5-9fb6-245b1b9b323b",
@@ -633,7 +623,6 @@
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b5d2cb34-b421-4af0-943f-7c02ef80e27f",
-        "e27717b5-cc0c-4343-a0a3-56ff0faa8b43",
         "ff6702a4-cb02-4fab-bbda-9fce33716193",
         "2308a065-1a86-4e2f-aa5e-1ab14ab25bca",
         "2e799b20-cb70-4650-b50f-a31ce90de86a",
@@ -645,7 +634,6 @@
       ],
       "mappedSkills": [
         "db760ef7-8a82-42c4-a4f4-e5f6e10480b3",
-        "0fb44d2d-8f87-425b-85e7-7d3582235197",
         "e0cc657b-57bb-4fbd-a550-3d8a8f13ee39",
         "e3f19111-5797-4fe7-a218-0f90b75ed49e",
         "38347d01-8521-4660-b596-acbd4edd7085",
@@ -717,22 +705,22 @@
     {
       "optionId": "db441f53-745d-4856-ad20-2f51bd4f71bb",
       "title": "Junior production manager - screen and audio",
-      "occupationCode": ""
+      "occupationCode": "OCC1483C"
     },
     {
       "optionId": "b82472cf-ef48-4862-ac55-5afe7000ed6a",
       "title": "Junior post production manager",
-      "occupationCode": ""
+      "occupationCode": "OCC1483B"
     },
     {
       "optionId": "37dd69ef-12aa-4ab9-9a9b-1239d29fd33f",
       "title": "Assistant production manager - live arts",
-      "occupationCode": ""
+      "occupationCode": "OCC1483A"
     }
   ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-04-28T00:00:00"
+  "publishDate": "2026-07-29T00:00:00"
 }
