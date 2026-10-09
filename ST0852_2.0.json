@@ -1,0 +1,937 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 486,
+  "referenceNumber": "ST0852",
+  "learningAimClassCode": "",
+  "title": "Plate welder",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0852",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-02T00:00:00",
+  "earliestStartDate": "2027-03-11T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Manually weld plates and structural components to high standards of quality.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 36,
+  "minimumHoursForCompliance": "857",
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "plate",
+    "welder",
+    "engineering",
+    "structural",
+    "manufacturing",
+    "weld",
+    "welding"
+  ],
+  "jobRoles": [
+    "Class b welder",
+    "Coded multi-positional plate welder",
+    "Plate welder",
+    "Structural welder"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0852-in-revision?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;Occupation summary&lt;/h3&gt;\n&lt;p&gt;This occupation is found in a wide range of sectors associated with the Fabrication, Construction and upgrade of major capital plant items and facilities. This will include Structural Steel fabrication and construction (e.g. Buildings, Stadia, Bridges, Piers, Jetties etc.), Marine fabrication, construction and upgrade (Ships, Submarines, Wind Turbine Towers), Defence fabrication (armoured vehicles), Process Plant (structures and storage tanks), Engineering Construction (Lifting Beams, Cranes, Construction Vehicles etc.), Mining &amp;amp; Mineral Processing (Shuttering, Structural Supports, Wear Plates, Chutes, Mills, Pulverisers), Transport (Aerospace, Rail and Automotive), and Manufacturing of machinery &amp;amp; equipment. Plate Welders may be employed in any size of organisation from small companies to large multi-national organisations.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to&amp;nbsp; manually&amp;nbsp; weld&amp;nbsp; plate&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; to&amp;nbsp; high&amp;nbsp; standards&amp;nbsp; of&amp;nbsp; quality.&amp;nbsp; This&amp;nbsp; will&amp;nbsp; involve&amp;nbsp; fabrication,&amp;nbsp; construction&amp;nbsp; or&amp;nbsp; repair&amp;nbsp; of&amp;nbsp; fabricated&amp;nbsp; plate&amp;nbsp; assemblies,&amp;nbsp; extrusions&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; (e.g.&amp;nbsp; Channel,&amp;nbsp; H-Beams,&amp;nbsp; I-Beams&amp;nbsp; etc.)&amp;nbsp; used&amp;nbsp; often&amp;nbsp; used&amp;nbsp; to&amp;nbsp; fabricate&amp;nbsp; larger&amp;nbsp; components&amp;nbsp; and&amp;nbsp; assemblies.&amp;nbsp; Plate&amp;nbsp; welders&amp;nbsp; will&amp;nbsp; weld&amp;nbsp; to&amp;nbsp; internationally&amp;nbsp; recognised&amp;nbsp; quality&amp;nbsp; standards&amp;nbsp; using&amp;nbsp; more&amp;nbsp; than&amp;nbsp; one&amp;nbsp; manual&amp;nbsp; arc&amp;nbsp; welding&amp;nbsp; process&amp;nbsp; from&amp;nbsp; Tungsten&amp;nbsp; Inert&amp;nbsp; Gas&amp;nbsp; (TIG),&amp;nbsp; Plasma&amp;nbsp; Arc&amp;nbsp; Welding&amp;nbsp; (PAW),&amp;nbsp; Manual&amp;nbsp; Metal&amp;nbsp; Arc&amp;nbsp; (MMA),&amp;nbsp; Metal&amp;nbsp; Inert&amp;nbsp; Gas&amp;nbsp; (MIG)/Metal&amp;nbsp; Active&amp;nbsp; Gas&amp;nbsp; (MAG)&amp;nbsp; and&amp;nbsp; Flux&amp;nbsp; Cored&amp;nbsp; Arc&amp;nbsp; Welding&amp;nbsp; (FCAW)&amp;nbsp; on&amp;nbsp; more&amp;nbsp; than&amp;nbsp; one&amp;nbsp; material&amp;nbsp; group&amp;nbsp; from&amp;nbsp; Carbon&amp;nbsp; Steel,&amp;nbsp; Low&amp;nbsp; Alloy&amp;nbsp; Steel,&amp;nbsp; High&amp;nbsp; Alloy&amp;nbsp; Ferritic/Martensitic&amp;nbsp; Steel,&amp;nbsp; Austenitic&amp;nbsp; Stainless&amp;nbsp; Steel,&amp;nbsp; Nickel&amp;nbsp; &amp;amp;&amp;nbsp; Nickel&amp;nbsp; Alloys,&amp;nbsp; Aluminium&amp;nbsp; &amp;amp;&amp;nbsp; Aluminium&amp;nbsp; alloys,&amp;nbsp; Titanium&amp;nbsp; &amp;amp;&amp;nbsp; Titanium&amp;nbsp; Alloys,&amp;nbsp; Copper&amp;nbsp; &amp;amp;&amp;nbsp; Copper&amp;nbsp; Alloys.&amp;nbsp; For&amp;nbsp; example,&amp;nbsp; a&amp;nbsp; Plate&amp;nbsp; Welder&amp;nbsp; might&amp;nbsp; use&amp;nbsp; Manual&amp;nbsp; Metal&amp;nbsp; Arc&amp;nbsp; (MMA)&amp;nbsp; and&amp;nbsp; Flux&amp;nbsp; Cored&amp;nbsp; Arc&amp;nbsp; Welding&amp;nbsp; (FCAW)&amp;nbsp; to&amp;nbsp; join&amp;nbsp;&amp;nbsp;&amp;nbsp; both&amp;nbsp; Carbon&amp;nbsp; Steel&amp;nbsp; and&amp;nbsp; Low&amp;nbsp; Alloy&amp;nbsp; Steel&amp;nbsp; materials.&amp;nbsp; The occupation requires production of&amp;nbsp; welds&amp;nbsp; in&amp;nbsp; plate&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; covering&amp;nbsp; three&amp;nbsp; plate&amp;nbsp; welding&amp;nbsp; positions&amp;nbsp; which&amp;nbsp; must&amp;nbsp; include&amp;nbsp; Vertical&amp;nbsp; (either upward or downward progression) and Overhead,&amp;nbsp; and the three main joint configurations (Single or Double Sided Butt, Single or Double&amp;nbsp; Sided T-Butt &amp;amp; Fillet).&amp;nbsp; Each&amp;nbsp; welding&amp;nbsp; process&amp;nbsp; requiring&amp;nbsp; significantly&amp;nbsp; different&amp;nbsp; welding&amp;nbsp; equipment,&amp;nbsp; assemblies,&amp;nbsp; controls,&amp;nbsp; skills&amp;nbsp; and&amp;nbsp; techniques,&amp;nbsp; and&amp;nbsp; represents&amp;nbsp; an&amp;nbsp; individual&amp;nbsp; production&amp;nbsp; process.&amp;nbsp; Each&amp;nbsp; material&amp;nbsp; type&amp;nbsp; requires&amp;nbsp; specific&amp;nbsp; controls&amp;nbsp; and&amp;nbsp; techniques&amp;nbsp; to&amp;nbsp; achieve&amp;nbsp; a&amp;nbsp; satisfactory&amp;nbsp; weld.&amp;nbsp; Plate&amp;nbsp; welding&amp;nbsp; is&amp;nbsp; contributes&amp;nbsp; to&amp;nbsp; the&amp;nbsp; UK&amp;nbsp; economy&amp;nbsp; through&amp;nbsp; the&amp;nbsp; fabrication,&amp;nbsp; construction&amp;nbsp; and&amp;nbsp; upgrade&amp;nbsp; of&amp;nbsp; major&amp;nbsp; infrastructure&amp;nbsp; projects,&amp;nbsp; defence&amp;nbsp; assets&amp;nbsp; and&amp;nbsp; exported&amp;nbsp; goods.&amp;nbsp; Plate&amp;nbsp; welders&amp;nbsp; are&amp;nbsp; employed&amp;nbsp; by&amp;nbsp; the&amp;nbsp; supply&amp;nbsp; chain&amp;nbsp; organisations&amp;nbsp; or&amp;nbsp; the&amp;nbsp; direct&amp;nbsp; owner/operator.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a&amp;nbsp; wide&amp;nbsp; range&amp;nbsp; of&amp;nbsp; people&amp;nbsp; and&amp;nbsp; organisations&amp;nbsp; including&amp;nbsp; Platers,&amp;nbsp; Metal&amp;nbsp; Fabricators,&amp;nbsp; Erectors,&amp;nbsp; Riggers,&amp;nbsp; Stores&amp;nbsp; Operatives,&amp;nbsp; Supervisors,&amp;nbsp; Engineers,&amp;nbsp; Inspectors,&amp;nbsp; Non-Destructive&amp;nbsp; Technicians&amp;nbsp; and&amp;nbsp; Quality&amp;nbsp; personnel.&amp;nbsp; Plate&amp;nbsp; welders&amp;nbsp; may&amp;nbsp; need&amp;nbsp; to&amp;nbsp; work&amp;nbsp; shifts&amp;nbsp; and&amp;nbsp; flexible&amp;nbsp; work&amp;nbsp; patterns.&amp;nbsp; They&amp;nbsp; can&amp;nbsp; work&amp;nbsp; in&amp;nbsp; organisations&amp;nbsp; ranging&amp;nbsp; from&amp;nbsp; multi-national&amp;nbsp; organisations&amp;nbsp; to&amp;nbsp; very&amp;nbsp; small&amp;nbsp; businesses.&amp;nbsp; They&amp;nbsp; work&amp;nbsp; in&amp;nbsp; a&amp;nbsp; range&amp;nbsp; of&amp;nbsp; environments&amp;nbsp; across&amp;nbsp; the&amp;nbsp; world&amp;nbsp; including&amp;nbsp; Fabrication&amp;nbsp; Shops,&amp;nbsp; Assembly&amp;nbsp; Yards,&amp;nbsp; Construction/Building&amp;nbsp; Sites,&amp;nbsp; Factories&amp;nbsp; and&amp;nbsp; Operational&amp;nbsp; Facilities&amp;nbsp; requiring&amp;nbsp; maintenance&amp;nbsp; &amp;amp;&amp;nbsp; upgrade.&amp;nbsp; This&amp;nbsp; occupation&amp;nbsp; may&amp;nbsp; involve&amp;nbsp; working&amp;nbsp; at&amp;nbsp; height,&amp;nbsp; and&amp;nbsp; beside&amp;nbsp; or&amp;nbsp; over&amp;nbsp; water.&amp;nbsp; Plate welders’ work&amp;nbsp; will&amp;nbsp; be&amp;nbsp; regularly&amp;nbsp; assessed&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; continued&amp;nbsp; quality&amp;nbsp; of&amp;nbsp; welding&amp;nbsp; and&amp;nbsp; overall&amp;nbsp; integrity&amp;nbsp; of&amp;nbsp; the&amp;nbsp; component&amp;nbsp; being&amp;nbsp; welded,&amp;nbsp; as&amp;nbsp; specified&amp;nbsp; in&amp;nbsp; the&amp;nbsp; applicable&amp;nbsp; component&amp;nbsp; design&amp;nbsp; code.&amp;nbsp; This&amp;nbsp; could&amp;nbsp; include&amp;nbsp; visual&amp;nbsp; inspection,&amp;nbsp; non-destructive&amp;nbsp; testing&amp;nbsp; and&amp;nbsp; destructive&amp;nbsp; testing&amp;nbsp; of&amp;nbsp; production&amp;nbsp; test&amp;nbsp; pieces.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the safety, quality and accuracy of their own work whilst ensuring it conforms to a relevant plate welding specification. They work autonomously, or on occasion as part of a wider team, reporting to a workplace supervisor.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Typical job titles&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Typical job titles include Plate Welder, Structural Welder, Class B Welder, Coded Multi-positional Plate Welder&lt;/p&gt;\n&lt;h3&gt;Occupation duties&lt;/h3&gt;\n&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;h4&gt;Duty&lt;/h4&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;h4&gt;&lt;span&gt;KSBs&lt;/span&gt;&lt;/h4&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Plan&amp;nbsp;and&amp;nbsp;prepare&amp;nbsp;for&amp;nbsp;the&amp;nbsp;welding&amp;nbsp;of&amp;nbsp;plate,&amp;nbsp;structural&amp;nbsp;components before&amp;nbsp;commencing&amp;nbsp;work&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K2 K3 K4 K5 K6 K7 K8 K9 K10 K11 K12 K13 K14 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S3 S4 S5 S6 S7 S9 S10 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Check&amp;nbsp; materials&amp;nbsp; conform&amp;nbsp; to&amp;nbsp; the&amp;nbsp; specified&amp;nbsp; grades,&amp;nbsp; dimensions&amp;nbsp; and&amp;nbsp; thicknesses.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K8 K9 K10 K11 K12 K13 K14 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S3 S5 S7 S9 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Inspect&amp;nbsp;weld&amp;nbsp;preparations, surface conditions and cleanliness&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K2 K5 K7 K8 K9 K10 K11 K14 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S3 S9 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Assemble &amp;nbsp;and&amp;nbsp; position&amp;nbsp; plate&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; to&amp;nbsp; be&amp;nbsp; welded,&amp;nbsp; including&amp;nbsp; attachment&amp;nbsp; of&amp;nbsp; bracings,&amp;nbsp; strong-backs,&amp;nbsp; alignment&amp;nbsp; aids,&amp;nbsp; run-on&amp;nbsp; and&amp;nbsp; run-off&amp;nbsp; tabs&amp;nbsp; and&amp;nbsp; backing&amp;nbsp; materials&amp;nbsp; (e.g.&amp;nbsp; ceramic,&amp;nbsp; metallic&amp;nbsp; etc.).&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K2 K4 K5 K6 K7 K8 K9 K10 K11 K12 K13 K14 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S3 S5 S8 S9 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Assemble&amp;nbsp; equipment&amp;nbsp; to&amp;nbsp; be&amp;nbsp; used&amp;nbsp; in&amp;nbsp; the&amp;nbsp; preparation&amp;nbsp; and&amp;nbsp; welding&amp;nbsp; of&amp;nbsp; plate&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; and&amp;nbsp; check&amp;nbsp; its&amp;nbsp; performance&amp;nbsp; and&amp;nbsp; condition,&amp;nbsp; including&amp;nbsp; any&amp;nbsp; component&amp;nbsp; heating&amp;nbsp; and&amp;nbsp; monitoring&amp;nbsp; equipment.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt; K6 K8 K12 K13 K14 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S3 S4 S5 S8 S9 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Adjust&amp;nbsp; and&amp;nbsp; maintain&amp;nbsp; the&amp;nbsp; equipment&amp;nbsp; to&amp;nbsp; be&amp;nbsp; used&amp;nbsp; during&amp;nbsp; the&amp;nbsp; welding&amp;nbsp; of&amp;nbsp; plate&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt; K4 K5 K6 K7 K8 K9 K10 K11 K14 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S3 S4 S5 S7 S8 S9 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Interpret&amp;nbsp; technical&amp;nbsp; specifications&amp;nbsp; &amp;amp;&amp;nbsp; drawings&amp;nbsp; to&amp;nbsp; establish&amp;nbsp; detailed&amp;nbsp; welding&amp;nbsp; process&amp;nbsp; controls,&amp;nbsp; consumable&amp;nbsp; selection,&amp;nbsp; and&amp;nbsp; dimensional&amp;nbsp; limitations&amp;nbsp; imposed&amp;nbsp; to&amp;nbsp; control&amp;nbsp; distortion.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K2&lt;span&gt; K3 K4 K5 K6 K7 K8 K10 K11 K12 K13 K14 K16 K18 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S9 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Make the joints to specified dimensional accuracy using appropriate welding techniques.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K2 K3 K4 K5 K6 K7 K8 K9 K10 K11 K12 K13 K14 K16 K17 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12 S14 S15 S16 S17 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identifying&amp;nbsp;areas&amp;nbsp;for&amp;nbsp;improving&amp;nbsp;the&amp;nbsp; production&amp;nbsp;process&amp;nbsp;where&amp;nbsp;possible through the monitoring of&amp;nbsp;performance&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K10&lt;span&gt; K11 K12 K13 K14 K15 K17 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S8 S9 S12 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Monitor&amp;nbsp; associated&amp;nbsp; parameters&amp;nbsp; throughout&amp;nbsp; the&amp;nbsp; welding&amp;nbsp; of&amp;nbsp; plate&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; (e.g.&amp;nbsp; Preheat, Interpass&amp;nbsp; Temperature, Heat Input).&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K2&lt;span&gt; K10 K11 K13 K14 K16 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S8 S9 S12 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Remove&amp;nbsp; material&amp;nbsp; using&amp;nbsp; manual&amp;nbsp; powered&amp;nbsp; and&amp;nbsp; non-powered&amp;nbsp; hand&amp;nbsp; tools,&amp;nbsp; before&amp;nbsp; and&amp;nbsp; during&amp;nbsp; welding&amp;nbsp; to&amp;nbsp; remove&amp;nbsp; defects&amp;nbsp; within&amp;nbsp; the&amp;nbsp;&amp;nbsp;&amp;nbsp; preparation&amp;nbsp; and&amp;nbsp; weld&amp;nbsp; deposit.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K9&lt;span&gt; K10 K11 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S9 S10 S11 S12 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Visually&amp;nbsp; inspect&amp;nbsp; alignment&amp;nbsp; and&amp;nbsp; distortion&amp;nbsp; of&amp;nbsp; component&amp;nbsp; and&amp;nbsp; apply&amp;nbsp; techniques&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; compliance&amp;nbsp; with&amp;nbsp; specification.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K8 K9 K10 K11 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S9 S10 S11 S12 S14 S15 S16 S17 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 13&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Visually&amp;nbsp;inspect&amp;nbsp;completed&amp;nbsp;weld&amp;nbsp;and&amp;nbsp;component&amp;nbsp;geometry&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K8&lt;span&gt; K10 K11 K14 K17 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S9 S10 S11 S12 S14 S15 S16 S17 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Remove and dress&amp;nbsp;bracings,&amp;nbsp;strong‐backs, run-on/run-off tabs&amp;nbsp;and&amp;nbsp; alignment&amp;nbsp;aids, and dress&amp;nbsp;finished&amp;nbsp;external&amp;nbsp;weld&amp;nbsp;surfaces&amp;nbsp;using&amp;nbsp;manual&amp;nbsp;powered&amp;nbsp;and&amp;nbsp; non‐powered&amp;nbsp;hand&amp;nbsp;tools&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K2 K8 K9 K10 K11 K12 K13 K14 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S7 S9 S10 S12 S13 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 15&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Restore&amp;nbsp;the&amp;nbsp;work&amp;nbsp;area&amp;nbsp;and&amp;nbsp;equipment&amp;nbsp;to&amp;nbsp;a&amp;nbsp;safe&amp;nbsp;and&amp;nbsp;reliable&amp;nbsp;condition&amp;nbsp;on&amp;nbsp;completion&amp;nbsp;of&amp;nbsp;welding&amp;nbsp;including&amp;nbsp;the&amp;nbsp;remediation&amp;nbsp;and&amp;nbsp;recycling&amp;nbsp;of&amp;nbsp;bracings,&amp;nbsp;strong‐backs&amp;nbsp;and&amp;nbsp;alignment&amp;nbsp;aids.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K8&lt;span&gt; K9 K10 K12 K13 K14 K16 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S7 S9 S10 S13 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 16&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Monitor&amp;nbsp; the&amp;nbsp; use&amp;nbsp; of&amp;nbsp; consumables&amp;nbsp; and&amp;nbsp; adjust&amp;nbsp; quantities&amp;nbsp; issued,&amp;nbsp; and&amp;nbsp; return&amp;nbsp; unused&amp;nbsp; consumables&amp;nbsp; for&amp;nbsp; re-conditioning,&amp;nbsp; re‐use&amp;nbsp; or&amp;nbsp; disposal.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K8&lt;span&gt; K10 K12 K13 K14 K15 K16 K19 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S7 S8 S9 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 17&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Complete&amp;nbsp;production documentation&amp;nbsp;and&amp;nbsp;reporting&amp;nbsp;at&amp;nbsp;the&amp;nbsp;appropriate&amp;nbsp;stages&amp;nbsp;of&amp;nbsp;the&amp;nbsp;work&amp;nbsp;activity&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K8&lt;span&gt; K14 K15 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S2 S9 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;KSBs&lt;/h2&gt;\n&lt;h3&gt;Knowledge&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K1:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Dimensional&amp;nbsp;and&amp;nbsp;mechanical&amp;nbsp;properties&amp;nbsp;(strength,&amp;nbsp;toughness, thermal expansion&amp;nbsp;etc.) of materials to be welded.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K2:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Fundamentals&amp;nbsp; of&amp;nbsp; welding&amp;nbsp; metallurgy&amp;nbsp; (weld&amp;nbsp; solidification&amp;nbsp; and&amp;nbsp; Heat&amp;nbsp; Affected&amp;nbsp; Zone)&amp;nbsp; and&amp;nbsp; how&amp;nbsp; this&amp;nbsp; can&amp;nbsp; affect&amp;nbsp; the&amp;nbsp; weldability&amp;nbsp; of&amp;nbsp; materials&amp;nbsp; and&amp;nbsp; final&amp;nbsp; joint&amp;nbsp; integrity.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K3:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Common&amp;nbsp;manual&amp;nbsp;arc&amp;nbsp;welding&amp;nbsp;processes&amp;nbsp;and&amp;nbsp;the&amp;nbsp;relative&amp;nbsp;merits&amp;nbsp;for&amp;nbsp;a&amp;nbsp;given&amp;nbsp;application, including Manual Metal Arc (MMA),Metal Inert Gas (MIG), Metal Active Gas (MAG), Flux Cored Arc Welding (FCAW), Tungsten Inert Gas (TIG),&amp;nbsp; Plasma Arc Welding (PAW)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K4:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Common&amp;nbsp; joint&amp;nbsp; types&amp;nbsp; associated&amp;nbsp; with&amp;nbsp; welding&amp;nbsp; plate&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; (Fillet,&amp;nbsp; Butt,&amp;nbsp; T-Butt,&amp;nbsp; Corner/Lap;&amp;nbsp; Single-Sided,&amp;nbsp; Double-Sided,&amp;nbsp; Metallic&amp;nbsp; Backed,&amp;nbsp; Ceramic&amp;nbsp; Backed).&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K5:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Welding&amp;nbsp; positions&amp;nbsp; and&amp;nbsp; progressions&amp;nbsp; associated&amp;nbsp; with&amp;nbsp; plate&amp;nbsp; and&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; and&amp;nbsp; their&amp;nbsp; international&amp;nbsp; designations&amp;nbsp; including&amp;nbsp; Flat;&amp;nbsp; Horizontal-Vertical;&amp;nbsp; Horizontal;&amp;nbsp; Vertical&amp;nbsp; (upward&amp;nbsp; and&amp;nbsp; downward&amp;nbsp; progressions);&amp;nbsp; Overhead.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K6:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The&amp;nbsp; major&amp;nbsp; components&amp;nbsp; of&amp;nbsp; welding&amp;nbsp; equipment,&amp;nbsp; ancillary&amp;nbsp; equipment,&amp;nbsp; cabling&amp;nbsp; and&amp;nbsp; their&amp;nbsp; assembly,&amp;nbsp; including&amp;nbsp; Power&amp;nbsp; Source,&amp;nbsp; Wire&amp;nbsp; Feed&amp;nbsp; System,&amp;nbsp; TIG&amp;nbsp; &amp;amp;&amp;nbsp; PAW&amp;nbsp; Arc&amp;nbsp; Initiation&amp;nbsp; Systems,&amp;nbsp; interconnecting&amp;nbsp; communications&amp;nbsp; cables,&amp;nbsp; torches,&amp;nbsp; tongs,&amp;nbsp; gas&amp;nbsp; equipment&amp;nbsp; etc.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K7:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Set, modify and monitor welding controls (e.g.&amp;nbsp; Current,&amp;nbsp; Arc&amp;nbsp; Voltage,&amp;nbsp; Wire&amp;nbsp; Feed&amp;nbsp; Speed,&amp;nbsp; Gas&amp;nbsp; Flow&amp;nbsp; Rates,&amp;nbsp; Polarity)&amp;nbsp; and&amp;nbsp; secondary&amp;nbsp; controls&amp;nbsp; (e.g.&amp;nbsp; Heat Input, Interpass Temperature).&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K8:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Welding Procedure Specification requirements, contents, and information derived to establish specific production information&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K9:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The relative merits, applications and limitations of material preparation methods and manual&amp;nbsp;material&amp;nbsp;removal&amp;nbsp;processes&amp;nbsp;including&amp;nbsp;powered&amp;nbsp;and&amp;nbsp;non‐powered&amp;nbsp;tools.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K10:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Performance&amp;nbsp; success&amp;nbsp; factors&amp;nbsp; in&amp;nbsp; production,&amp;nbsp; inspection&amp;nbsp; reporting,&amp;nbsp; productivity&amp;nbsp; including&amp;nbsp; time&amp;nbsp; and&amp;nbsp; duration,&amp;nbsp; dimensional,&amp;nbsp; Non-Destructive&amp;nbsp; Examination,&amp;nbsp; defect&amp;nbsp; rates&amp;nbsp; etc.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K11:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Causes&amp;nbsp; and&amp;nbsp; detection&amp;nbsp; of&amp;nbsp; typical&amp;nbsp; welding&amp;nbsp; defects&amp;nbsp; and&amp;nbsp; how&amp;nbsp; their&amp;nbsp; occurrence&amp;nbsp; can&amp;nbsp; be&amp;nbsp; reduced.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K12:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Types&amp;nbsp; and&amp;nbsp; functions&amp;nbsp; of&amp;nbsp; welding&amp;nbsp; consumables,&amp;nbsp; fluxing&amp;nbsp; systems&amp;nbsp; and&amp;nbsp; the&amp;nbsp; requirement&amp;nbsp; for&amp;nbsp; correct&amp;nbsp; identification,&amp;nbsp; storage,&amp;nbsp; conditioning,&amp;nbsp; handling,&amp;nbsp; recycling&amp;nbsp; and&amp;nbsp; disposal.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K13:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Requirements&amp;nbsp;for&amp;nbsp;correct&amp;nbsp;storage,&amp;nbsp;handling&amp;nbsp;and&amp;nbsp;segregation&amp;nbsp;of&amp;nbsp;materials&amp;nbsp;and&amp;nbsp;tooling&amp;nbsp;to&amp;nbsp;prevent&amp;nbsp;cross&amp;nbsp;contamination.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K14:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Organisational quality documentation, reporting systems, procedures and their role within the overall quality process&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K15:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Continuous&amp;nbsp; improvement&amp;nbsp; processes,&amp;nbsp; performance&amp;nbsp; review&amp;nbsp; and&amp;nbsp; how&amp;nbsp; this&amp;nbsp; is&amp;nbsp; undertaken&amp;nbsp; within&amp;nbsp; their&amp;nbsp; organisation.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K16:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;The&amp;nbsp;importance&amp;nbsp;of&amp;nbsp;only&amp;nbsp;using&amp;nbsp;approved&amp;nbsp;processes,&amp;nbsp;procedures,&amp;nbsp;documentation&amp;nbsp;and&amp;nbsp;the&amp;nbsp;potential&amp;nbsp;implications&amp;nbsp;for&amp;nbsp;the&amp;nbsp;organisation&amp;nbsp;if&amp;nbsp;this&amp;nbsp;is&amp;nbsp;not&amp;nbsp;followed.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K17:&amp;nbsp;&lt;/strong&gt;Non-destructive testing reports and radiographs to identify particular defect types and the associated improvements to process and technique needed to prevent recurrence.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K18:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Risks&amp;nbsp;and&amp;nbsp;mitigation&amp;nbsp;measures&amp;nbsp;associated&amp;nbsp;with&amp;nbsp;welding&amp;nbsp;and&amp;nbsp;the&amp;nbsp;working&amp;nbsp;environment,&amp;nbsp;and&amp;nbsp;the&amp;nbsp;organisational&amp;nbsp;risk&amp;nbsp;management&amp;nbsp;processes.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K19:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;The&amp;nbsp;importance&amp;nbsp;of&amp;nbsp;complying&amp;nbsp;with&amp;nbsp;statutory,&amp;nbsp;quality,&amp;nbsp;organisational&amp;nbsp;and&amp;nbsp;health,&amp;nbsp;safety&amp;nbsp;and&amp;nbsp;environmental&amp;nbsp;regulations.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K20:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Typical&amp;nbsp;problems&amp;nbsp;that&amp;nbsp;may&amp;nbsp;arise&amp;nbsp;within&amp;nbsp;their&amp;nbsp;normal&amp;nbsp;work&amp;nbsp;activities/environment.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Skills&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S1&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Work&amp;nbsp;safely&amp;nbsp;at&amp;nbsp;all&amp;nbsp;times,&amp;nbsp;comply&amp;nbsp;with&amp;nbsp;health,&amp;nbsp;safety&amp;nbsp;and&amp;nbsp;environmental&amp;nbsp;legislation,&amp;nbsp;regulations&amp;nbsp;and&amp;nbsp;organisational&amp;nbsp;requirements.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S2&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Can obtain, check and use appropriate documentation (such as job instructions, drawings, quality control documentation).&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Plan&amp;nbsp;and&amp;nbsp;prepare welding&amp;nbsp;activities&amp;nbsp;before&amp;nbsp;commencing&amp;nbsp;the work.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Obtain,&amp;nbsp;position&amp;nbsp;and&amp;nbsp;assemble&amp;nbsp;welding&amp;nbsp;equipment&amp;nbsp;and&amp;nbsp;associated&amp;nbsp;safety&amp;nbsp;protection&amp;nbsp;needed&amp;nbsp;for&amp;nbsp;activity.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Prepare,&amp;nbsp;check&amp;nbsp;and&amp;nbsp;protect&amp;nbsp;materials&amp;nbsp;and&amp;nbsp;work&amp;nbsp;areas&amp;nbsp;ready&amp;nbsp;for&amp;nbsp;welding.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S6&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Inspect&amp;nbsp;assembly&amp;nbsp;to&amp;nbsp;be&amp;nbsp;welded&amp;nbsp;and&amp;nbsp;undertake&amp;nbsp;remedial&amp;nbsp;work&amp;nbsp;to&amp;nbsp;comply&amp;nbsp;with&amp;nbsp;specification,&amp;nbsp;or&amp;nbsp;implement&amp;nbsp;quality&amp;nbsp;steps&amp;nbsp;if&amp;nbsp;rejected.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Receive,&amp;nbsp;inspect,&amp;nbsp;condition&amp;nbsp;and&amp;nbsp;maintain&amp;nbsp;consumables.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Set,&amp;nbsp;test&amp;nbsp;and&amp;nbsp;monitor&amp;nbsp;key&amp;nbsp;welding&amp;nbsp;parameters&amp;nbsp;as&amp;nbsp;detailed&amp;nbsp;within&amp;nbsp;the&amp;nbsp;Welding&amp;nbsp;Procedure&amp;nbsp;Specification.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Deal promptly and effectively with problems within the limits of their responsibility using approved diagnostic methods and techniques and report those which cannot be resolved to the appropriate personnel.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Use&amp;nbsp;manual&amp;nbsp;processes and equipment to remove material&amp;nbsp;(powered&amp;nbsp;and&amp;nbsp;non‐powered).&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Achieves&amp;nbsp; a&amp;nbsp; quality&amp;nbsp; of&amp;nbsp; work&amp;nbsp; to&amp;nbsp; meet&amp;nbsp; international&amp;nbsp; standards e.g. ISO5817, ISO9606, ASME IX, AWS D1.1&amp;nbsp; for&amp;nbsp; dimensional,&amp;nbsp; surface&amp;nbsp; inspection&amp;nbsp; (e.g.&amp;nbsp; Visual, Magnetic Particle, Dye&amp;nbsp; Penetrant)&amp;nbsp; and&amp;nbsp; volumetric &amp;nbsp;inspection&amp;nbsp; (e.g.&amp;nbsp; Radiography, Ultrasonic&amp;nbsp; inspection).&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Complete&amp;nbsp; progressive&amp;nbsp; and&amp;nbsp; final&amp;nbsp; checks&amp;nbsp; on&amp;nbsp; the&amp;nbsp; weld&amp;nbsp; prior&amp;nbsp; to&amp;nbsp; release&amp;nbsp; for&amp;nbsp; formal&amp;nbsp; inspection&amp;nbsp; and&amp;nbsp; report&amp;nbsp; into&amp;nbsp; the&amp;nbsp; production&amp;nbsp; control&amp;nbsp; system&amp;nbsp; at&amp;nbsp; the&amp;nbsp; appropriate&amp;nbsp; stages&amp;nbsp; of&amp;nbsp; the &amp;nbsp;work&amp;nbsp; activity.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S13&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Restore&amp;nbsp;the&amp;nbsp;work&amp;nbsp;area&amp;nbsp;on&amp;nbsp;completion&amp;nbsp;of&amp;nbsp;the&amp;nbsp;activity&amp;nbsp;and&amp;nbsp;where&amp;nbsp;applicable&amp;nbsp;return&amp;nbsp;any&amp;nbsp;resources&amp;nbsp;and&amp;nbsp;consumables&amp;nbsp;to&amp;nbsp;the&amp;nbsp;appropriate&amp;nbsp;location.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Produce&amp;nbsp; welds&amp;nbsp; in&amp;nbsp; plate&amp;nbsp; and/or&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; using&amp;nbsp; two&amp;nbsp; welding&amp;nbsp; processes&amp;nbsp; from&amp;nbsp; TIG,&amp;nbsp; PAW,&amp;nbsp; MMA,&amp;nbsp; MIG/MAG,&amp;nbsp; FCAW.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S15&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Produce&amp;nbsp; welds&amp;nbsp; in&amp;nbsp; plate&amp;nbsp; and/or&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; using&amp;nbsp; two&amp;nbsp; materials&amp;nbsp; from&amp;nbsp; Carbon&amp;nbsp; Steel,&amp;nbsp; Low&amp;nbsp; Alloy&amp;nbsp; Steel,&amp;nbsp; High&amp;nbsp; Alloy&amp;nbsp; Ferritic/Martensitic&amp;nbsp; Steel,&amp;nbsp; Austenitic&amp;nbsp; Stainless&amp;nbsp; Steel,&amp;nbsp; Nickel&amp;nbsp; &amp;amp;&amp;nbsp; Nickel&amp;nbsp; Alloys,&amp;nbsp; Aluminium&amp;nbsp; &amp;amp;&amp;nbsp; Aluminium&amp;nbsp; alloys,&amp;nbsp; Titanium&amp;nbsp; &amp;amp;&amp;nbsp; Titanium&amp;nbsp; Alloys,&amp;nbsp; Copper&amp;nbsp; &amp;amp;&amp;nbsp; Copper&amp;nbsp; Alloys.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S16&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Produce&amp;nbsp; welds&amp;nbsp; in&amp;nbsp; plate&amp;nbsp; and/or&amp;nbsp; structural&amp;nbsp; components&amp;nbsp; covering&amp;nbsp; three&amp;nbsp; plate&amp;nbsp; welding&amp;nbsp; positions&amp;nbsp; which&amp;nbsp; must&amp;nbsp; include&amp;nbsp; Vertical&amp;nbsp; (either&amp;nbsp; upward&amp;nbsp; or&amp;nbsp; downward&amp;nbsp; progression)&amp;nbsp; and&amp;nbsp; overhead.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S17&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Produce&amp;nbsp;plate welds&amp;nbsp;in&amp;nbsp;3 main joint configurations (Single or Double Sided Butt,&amp;nbsp;Single or Double Sided T‐Butt&amp;nbsp;&amp;amp;&amp;nbsp;Fillet)&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Behaviour&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;strong&gt;B1:&lt;/strong&gt; Takes responsibility for decision-making, without autonomy and within the guidelines of the work instruction, for their workplace, the application of welding processes, and for their productivity.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B2:&lt;/strong&gt; Enquires and to seeks guidance, in order to understand the processes and associated industrial applications.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B3:&lt;/strong&gt; Committed&amp;nbsp; to&amp;nbsp; maintaining&amp;nbsp; competence&amp;nbsp; through&amp;nbsp; Continuing&amp;nbsp; Professional&amp;nbsp; Development&amp;nbsp; planning,&amp;nbsp; preparation&amp;nbsp; and&amp;nbsp; reflection&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; safety,&amp;nbsp; quality&amp;nbsp; and&amp;nbsp; production&amp;nbsp; and&amp;nbsp; ensuring&amp;nbsp; Continuing&amp;nbsp; Professional&amp;nbsp; Development&amp;nbsp; goals&amp;nbsp; are&amp;nbsp; achieved.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B4:&lt;/strong&gt; Intervene&amp;nbsp; and&amp;nbsp; challenge&amp;nbsp; poor&amp;nbsp; practices&amp;nbsp; and&amp;nbsp; have&amp;nbsp; confidence&amp;nbsp; to&amp;nbsp; channel&amp;nbsp; feedback&amp;nbsp; to&amp;nbsp; the&amp;nbsp; appropriate&amp;nbsp; authorities&amp;nbsp; to&amp;nbsp; implement&amp;nbsp; change.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B5:&lt;/strong&gt; Consistently and reliably delivers in accordance with expectations in safety, production, quality, ethics and self-development.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B6:&lt;/strong&gt; Encourages&amp;nbsp; and&amp;nbsp; supports&amp;nbsp; the&amp;nbsp; development&amp;nbsp; of&amp;nbsp; others&amp;nbsp; and&amp;nbsp; completes&amp;nbsp; point&amp;nbsp; of&amp;nbsp; work&amp;nbsp; risk&amp;nbsp; assessments.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B7:&lt;/strong&gt; Follows the specified procedures and controls and be personally responsible and accountable for their production work and personal development.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B8:&lt;/strong&gt; Reflects&amp;nbsp; on&amp;nbsp; current&amp;nbsp; and&amp;nbsp; past&amp;nbsp; performance&amp;nbsp; and&amp;nbsp; provide&amp;nbsp; information&amp;nbsp; and&amp;nbsp; recommendations&amp;nbsp; for&amp;nbsp; continuous&amp;nbsp; improvements&amp;nbsp; in&amp;nbsp; efficiency&amp;nbsp; and&amp;nbsp; effectiveness&amp;nbsp; of&amp;nbsp; working&amp;nbsp; practices,&amp;nbsp; and&amp;nbsp; training&amp;nbsp; and&amp;nbsp; development&amp;nbsp; requirements.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;English and Maths qualifications&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&amp;nbsp;&amp;nbsp;For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose&amp;nbsp;primary language is BSL.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Professional recognition&lt;/h3&gt;\n&lt;p&gt;The Welding Institute&lt;span&gt; / Engineering Technician&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Additional details&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Occupational Level:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; 3&lt;br&gt;&lt;/span&gt;&lt;strong&gt;Duration (months):&lt;/strong&gt; 36&lt;/p&gt;\n&lt;h3&gt;Review&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&amp;nbsp;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of sectors associated with the Fabrication, Construction and upgrade of major capital plant items and facilities. This will include Structural Steel fabrication and construction (e.g. Buildings, Stadia, Bridges, Piers, Jetties etc.), Marine fabrication, construction and upgrade (Ships, Submarines, Wind Turbine Towers), Defence fabrication (armoured vehicles), Process Plant (structures and storage tanks), Engineering Construction (Lifting Beams, Cranes, Construction Vehicles etc.), Mining &amp;amp; Mineral Processing (Shuttering, Structural Supports, Wear Plates, Chutes, Mills, Pulverisers), Transport (Aerospace, Rail and Automotive), and Manufacturing of machinery &amp;amp; equipment. Plate Welders may be employed in any size of organisation from small companies to large multi-national organisations.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to manually weld plate and structural components to high standards of quality. This will involve fabrication, construction or repair of fabricated plate assemblies, extrusions and structural components (e.g. Channel, H-Beams, I-Beams etc.) used often used to fabricate larger components and assemblies. Plate welders will weld to internationally recognised quality standards using more than one manual arc welding process from Tungsten Inert Gas (TIG), Plasma Arc Welding (PAW), Manual Metal Arc (MMA), Metal Inert Gas (MIG)/Metal Active Gas (MAG) and Flux Cored Arc Welding (FCAW) on more than one material group from Carbon Steel, Low Alloy Steel, High Alloy Ferritic/Martensitic Steel, Austenitic Stainless Steel, Nickel &amp;amp; Nickel Alloys, Aluminium &amp;amp; Aluminium alloys, Titanium &amp;amp; Titanium Alloys, Copper &amp;amp; Copper Alloys. For example, a Plate Welder might use Manual Metal Arc (MMA) and Flux Cored Arc Welding (FCAW) to join both Carbon Steel and Low Alloy Steel materials. The occupation requires production of welds in plate and structural components covering three plate welding positions which must include Vertical (either upward or downward progression) and Overhead, and two joint configurations (Single or Double Sided Butt and Fillet). Each welding process requiring significantly different welding equipment, assemblies, controls, skills and techniques, and represents an individual production process. Each material type requires specific controls and techniques to achieve a satisfactory weld. Plate welding is contributes to the UK economy through the fabrication, construction and upgrade of major infrastructure projects, defence assets and exported goods. Plate welders are employed by the supply chain organisations or the direct owner/operator.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a wide range of people and organisations including Platers, Metal Fabricators, Erectors, Riggers, Stores Operatives, Supervisors, Engineers, Inspectors, Non-Destructive Technicians and Quality personnel. Plate welders may need to work shifts and flexible work patterns. They can work in organisations ranging from multi-national organisations to very small businesses. They work in a range of environments across the world including Fabrication Shops, Assembly Yards, Construction/Building Sites, Factories and Operational Facilities requiring maintenance &amp;amp; upgrade. This occupation may involve working at height, and beside or over water. Plate welders’ work will be regularly assessed to ensure continued quality of welding and overall integrity of the component being welded, as specified in the applicable component design code. This could include visual inspection, non-destructive testing and destructive testing of production test pieces.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;An employee in this occupation will be responsible for the safety, quality and accuracy of their own work whilst ensuring it conforms to a relevant plate welding specification. They work autonomously, or on occasion as part of a wider team, reporting to a workplace supervisor.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "ba2daa4d-c199-4919-bcef-2084e8537b51",
+      "detail": "Dimensional\u00A0and\u00A0mechanical\u00A0properties\u00A0(strength,\u00A0toughness, thermal expansion\u00A0etc.) of materials to be welded."
+    },
+    {
+      "knowledgeId": "745bd65c-ae6d-4662-a0b4-3d7458992656",
+      "detail": "Fundamentals  of  welding  metallurgy  (weld  solidification  and  Heat  Affected  Zone)  and  how  this  can  affect  the  weldability  of  materials  and  final  joint  integrity."
+    },
+    {
+      "knowledgeId": "040a0e29-d948-40ef-85cf-ec8a399fa98f",
+      "detail": "Common\u00A0manual\u00A0arc\u00A0welding\u00A0processes\u00A0and\u00A0the\u00A0relative\u00A0merits\u00A0for\u00A0a\u00A0given\u00A0application, including Manual Metal Arc (MMA),Metal Inert Gas (MIG), Metal Active Gas (MAG), Flux Cored Arc Welding (FCAW), Tungsten Inert Gas (TIG),  Plasma Arc Welding (PAW)"
+    },
+    {
+      "knowledgeId": "feafedb0-0cb3-4133-add4-c7fde715547a",
+      "detail": "Common  joint  types  associated  with  welding  plate  and  structural  components  (Fillet,  Butt,  T-Butt,  Corner/Lap;  Single-Sided,  Double-Sided,  Metallic  Backed,  Ceramic  Backed)."
+    },
+    {
+      "knowledgeId": "4959fc32-bc05-429c-b2f7-7e1109ecbdd2",
+      "detail": "Welding  positions  and  progressions  associated  with  plate  and  structural  components  and  their  international  designations  including  Flat;  Horizontal-Vertical;  Horizontal;  Vertical  (upward  and  downward  progressions);  Overhead."
+    },
+    {
+      "knowledgeId": "0f11f334-7287-453d-bdfb-c944867de5eb",
+      "detail": "The  major  components  of  welding  equipment,  ancillary  equipment,  cabling  and  their  assembly,  including  Power  Source,  Wire  Feed  System,  TIG  and  PAW  Arc  Initiation  Systems,  interconnecting  communications  cables,  torches,  tongs,  gas  equipment."
+    },
+    {
+      "knowledgeId": "8c623b16-67b8-463d-bc02-e435c66c7211",
+      "detail": "Set, modify and monitor welding controls (such as Current,  Arc  Voltage,  Wire  Feed  Speed,  Gas  Flow  Rates,  Polarity)  and  secondary  controls  (such as  Heat Input, Interpass Temperature)."
+    },
+    {
+      "knowledgeId": "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+      "detail": "Welding Procedure Specification requirements, contents, and information derived to establish specific production information"
+    },
+    {
+      "knowledgeId": "0c1065b9-9a41-424a-9dc8-324696fd95af",
+      "detail": "The relative merits, applications and limitations of material preparation methods and manual\u00A0material\u00A0removal\u00A0processes\u00A0including\u00A0powered\u00A0and\u00A0non‐powered\u00A0tools."
+    },
+    {
+      "knowledgeId": "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+      "detail": "Performance  success  factors  in  production,  inspection  reporting,  productivity  including  time  and  duration,  dimensional,  Non-Destructive  Examination,  defect  rates."
+    },
+    {
+      "knowledgeId": "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+      "detail": "Causes  and  detection  of  typical  welding  defects  and  how  their  occurrence  can  be  reduced."
+    },
+    {
+      "knowledgeId": "7e4f9101-c78b-49fa-bc78-cff717f64786",
+      "detail": "Types  and  functions  of  welding  consumables,  fluxing  systems  and  the  requirement  for  correct  identification,  storage,  conditioning,  handling,  recycling  and  disposal."
+    },
+    {
+      "knowledgeId": "ff513087-ae15-46b4-ac08-e273be5ed22c",
+      "detail": "Requirements for correct storage, handling and segregation of materials and tooling to prevent cross contamination"
+    },
+    {
+      "knowledgeId": "13fae813-a567-4f7c-a912-004a3d73d9fb",
+      "detail": "Organisational quality documentation, reporting systems, procedures and their role within the overall quality process"
+    },
+    {
+      "knowledgeId": "b6727148-a742-4fc4-8a0d-fa569f676b9a",
+      "detail": "Continuous  improvement  processes,  performance  review  and  how  this  is  undertaken  within  their  organisation."
+    },
+    {
+      "knowledgeId": "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+      "detail": "The importance of only using approved processes, procedures, documentation and the potential implications for the organisation if this is not followed."
+    },
+    {
+      "knowledgeId": "d1148e6b-e551-45de-bcb2-283d6586eef8",
+      "detail": "Non-destructive testing reports and radiographs to identify particular defect types and the associated improvements to process and technique needed to prevent recurrence."
+    },
+    {
+      "knowledgeId": "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+      "detail": "Risks and mitigation measures associated with welding and the working environment, and the organisational risk management processes."
+    },
+    {
+      "knowledgeId": "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+      "detail": "The importance of complying with statutory, quality, organisational and health, safety and environmental regulations"
+    },
+    {
+      "knowledgeId": "aee93fb7-85e0-48cb-94d8-9381ee55620f",
+      "detail": "Typical\u00A0problems\u00A0that\u00A0may\u00A0arise\u00A0within\u00A0their\u00A0normal\u00A0work\u00A0activities/environment."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+      "detail": "Takes responsibility for decision-making, without autonomy and within the guidelines of the work instruction, for their workplace, the application of welding processes, and for their productivity."
+    },
+    {
+      "behaviourId": "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+      "detail": "Enquires and to seeks guidance, in order to understand the processes and associated industrial applications."
+    },
+    {
+      "behaviourId": "26060054-1b16-4262-b1a5-e2587b1a4e27",
+      "detail": "Committed  to  maintaining  competence  through  Continuing  Professional  Development  planning,  preparation  and  reflection  to  ensure  safety,  quality  and  production  and  ensuring  Continuing  Professional  Development  goals  are  achieved."
+    },
+    {
+      "behaviourId": "7cbadf2d-bb76-4934-a860-09818704e5ad",
+      "detail": "Intervene  and  challenge  poor  practices  and  have  confidence  to  channel  feedback  to  the  appropriate  authorities  to  implement  change."
+    },
+    {
+      "behaviourId": "00af1ada-9c62-4b54-bac2-0f674920bacf",
+      "detail": "Consistently and reliably delivers in accordance with expectations in safety, production, quality, ethics and self-development."
+    },
+    {
+      "behaviourId": "7fc43363-8a62-4190-bce6-79e61e105c4e",
+      "detail": "Encourages  and  supports  the  development  of  others  and  completes  point  of  work  risk  assessments."
+    },
+    {
+      "behaviourId": "a340c113-b653-4a3c-aa9d-786b4572db83",
+      "detail": "Follows the specified procedures and controls and be personally responsible and accountable for their production work and personal development."
+    },
+    {
+      "behaviourId": "9f659a42-0f33-415e-b088-59ca5f7e0279",
+      "detail": "Reflects  on  current  and  past  performance  and  provide  information  and  recommendations  for  continuous  improvements  in  efficiency  and  effectiveness  of  working  practices,  and  training  and  development  requirements."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "9606dffc-98ea-488e-b706-9bbf77f67a43",
+      "detail": "Work safely at all times, comply with health, safety and environmental legislation, regulations and organisational requirements."
+    },
+    {
+      "skillId": "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+      "detail": "Can obtain, check and use appropriate documentation (such as job instructions, drawing, quality control documentation)."
+    },
+    {
+      "skillId": "0c9c147c-012e-4620-b473-c685f49793d9",
+      "detail": "Plan\u00A0and\u00A0prepare welding\u00A0activities\u00A0before\u00A0commencing\u00A0the work."
+    },
+    {
+      "skillId": "bcfed428-9850-4b8c-aab5-7141975cd0b3",
+      "detail": "Obtain,\u00A0position\u00A0and\u00A0assemble\u00A0welding\u00A0equipment\u00A0and\u00A0associated\u00A0safety\u00A0protection\u00A0needed\u00A0for\u00A0activity."
+    },
+    {
+      "skillId": "22414d55-60c4-45bc-a860-dbc68bcf17d4",
+      "detail": "Prepare,\u00A0check\u00A0and\u00A0protect\u00A0materials\u00A0and\u00A0work\u00A0areas\u00A0ready\u00A0for\u00A0welding."
+    },
+    {
+      "skillId": "10db8dc0-4612-41ac-a11d-deafffa689b6",
+      "detail": "Inspect assembly to be welded and undertake remedial work to comply with specification, or implement quality steps if rejected."
+    },
+    {
+      "skillId": "04370977-7b1a-4133-8b7f-2ba0668877ef",
+      "detail": "Receive,\u00A0inspect,\u00A0condition\u00A0and\u00A0maintain\u00A0consumables."
+    },
+    {
+      "skillId": "208165ad-656f-4751-ac0e-f9df02be7da1",
+      "detail": "Set,\u00A0test\u00A0and\u00A0monitor\u00A0key\u00A0welding\u00A0parameters\u00A0as\u00A0detailed\u00A0within\u00A0the\u00A0Welding\u00A0Procedure\u00A0Specification."
+    },
+    {
+      "skillId": "f0295336-47bf-4416-b58f-0a8951a9a4be",
+      "detail": "Deal promptly and effectively with problems within the limits of their responsibility using approved diagnostic methods and techniques and report those which cannot be resolved to the appropriate personnel."
+    },
+    {
+      "skillId": "58a254e2-62b5-4984-a74b-2aa31419f8cb",
+      "detail": "Use\u00A0manual\u00A0processes and equipment to remove material\u00A0(powered\u00A0and\u00A0non‐powered)."
+    },
+    {
+      "skillId": "43d01d66-aab8-45b3-a064-27ccf93b4a94",
+      "detail": "Achieves a quality of work through welder qualification test certificates to meet international  standards for example ISO9606, ASME IX, AWS D1.1 verified by a RPTO. These shall be supported by visual inspection to ISO5817 and destructive or volumetric testing  (for example Radiography, Ultrasonic  inspection)."
+    },
+    {
+      "skillId": "bcb684c4-78c2-459d-a0d6-64add1f4f607",
+      "detail": "Complete  progressive  and  final  checks  on  the  weld  prior  to  release  for  formal  inspection  and  report  into  the  production  control  system  at  the  appropriate  stages  of  the  work  activity."
+    },
+    {
+      "skillId": "21fa5221-6282-483a-aa4e-aceea71c6107",
+      "detail": "Restore the work area on completion of the activity and where applicable return any resources and consumables to the appropriate location."
+    },
+    {
+      "skillId": "dde61f69-bc78-4fa6-ba77-b0506bc65e36",
+      "detail": "Produce  welds  in  plate  and/or  structural  components  using  two  welding  processes  from  TIG,  PAW,  MMA,  MIG/MAG,  FCAW."
+    },
+    {
+      "skillId": "77eb4372-be4d-4a6a-bb43-3b58a4fd4b92",
+      "detail": "Produce  welds  in  plate  and/or  structural  components  using  two  materials  from  Carbon  Steel,  Low  Alloy  Steel,  High  Alloy  Ferritic/Martensitic  Steel,  Austenitic  Stainless  Steel,  Nickel  &  Nickel  Alloys,  Aluminium  &  Aluminium  alloys,  Titanium  &  Titanium  Alloys,  Copper  &  Copper  Alloys."
+    },
+    {
+      "skillId": "629186f4-3347-4c48-9aa8-3c21ec8b859b",
+      "detail": "Produce  welds  in  plate  and or  structural  components  covering  the Vertical  (either  upward  or  downward  progression)  and  overhead positions."
+    },
+    {
+      "skillId": "04ab82ae-83bc-49f2-bac2-7bbd88d47c9b",
+      "detail": "Produce\u00A0plate welds\u00A0in\u00A0two main joint configurations to include (Single or Double Sided Butt and Fillet)"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0368",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": ", Altrad, BAE Systems, BCSA, City and Guilds, ECITB, EngEPA, Excellence, Achievement & Learning Limited (EAL), JCB, NOCN, QA Weld Tech, Rolls Royce, Solusarc, Train2Weld, TWI, Welding Engineering Consultancy Ltd",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Class b welder",
+    "Coded multi-positional plate welder",
+    "Plate welder",
+    "Structural welder"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Fabrication and welding operative or technician",
+  "clusterId": "259",
+  "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
+  "createdDate": "2026-09-04T14:41:09 +00:00",
+  "lastUpdated": "2026-09-02T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0852",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0852-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0852-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Welding Institute",
+      "level": "Engineering Technician",
+      "isPartial": "",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "a9c3c861-22d8-48af-88cb-a2728a591161",
+      "dutyDetail": "Plan\u00A0and\u00A0prepare\u00A0for\u00A0the\u00A0welding\u00A0of\u00A0plate,\u00A0structural\u00A0components before\u00A0commencing\u00A0work",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83",
+        "9f659a42-0f33-415e-b088-59ca5f7e0279"
+      ],
+      "mappedKnowledge": [
+        "ba2daa4d-c199-4919-bcef-2084e8537b51",
+        "745bd65c-ae6d-4662-a0b4-3d7458992656",
+        "040a0e29-d948-40ef-85cf-ec8a399fa98f",
+        "feafedb0-0cb3-4133-add4-c7fde715547a",
+        "4959fc32-bc05-429c-b2f7-7e1109ecbdd2",
+        "0f11f334-7287-453d-bdfb-c944867de5eb",
+        "8c623b16-67b8-463d-bc02-e435c66c7211",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "0c9c147c-012e-4620-b473-c685f49793d9",
+        "bcfed428-9850-4b8c-aab5-7141975cd0b3",
+        "22414d55-60c4-45bc-a860-dbc68bcf17d4",
+        "10db8dc0-4612-41ac-a11d-deafffa689b6",
+        "04370977-7b1a-4133-8b7f-2ba0668877ef",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "58a254e2-62b5-4984-a74b-2aa31419f8cb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b445c964-7a10-4a9c-b157-a0d70f3caa2e",
+      "dutyDetail": "Check  materials  conform  to  the  specified  grades,  dimensions  and  thicknesses.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "ba2daa4d-c199-4919-bcef-2084e8537b51",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "0c9c147c-012e-4620-b473-c685f49793d9",
+        "22414d55-60c4-45bc-a860-dbc68bcf17d4",
+        "04370977-7b1a-4133-8b7f-2ba0668877ef",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a02efb19-eceb-48a8-b7c6-c1255dbcbe2c",
+      "dutyDetail": "Inspect\u00A0weld\u00A0preparations, surface conditions and cleanliness",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "ba2daa4d-c199-4919-bcef-2084e8537b51",
+        "745bd65c-ae6d-4662-a0b4-3d7458992656",
+        "4959fc32-bc05-429c-b2f7-7e1109ecbdd2",
+        "8c623b16-67b8-463d-bc02-e435c66c7211",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "0c9c147c-012e-4620-b473-c685f49793d9",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8943164f-43ea-4088-8b52-09ddc9ae49b4",
+      "dutyDetail": "Assemble  and  position  plate  and  structural  components  to  be  welded,  including  attachment  of  bracings,  strong-backs,  alignment  aids,  run-on  and  run-off  tabs  and  backing  materials  (e.g.  ceramic,  metallic  etc.).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "ba2daa4d-c199-4919-bcef-2084e8537b51",
+        "745bd65c-ae6d-4662-a0b4-3d7458992656",
+        "feafedb0-0cb3-4133-add4-c7fde715547a",
+        "4959fc32-bc05-429c-b2f7-7e1109ecbdd2",
+        "0f11f334-7287-453d-bdfb-c944867de5eb",
+        "8c623b16-67b8-463d-bc02-e435c66c7211",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "0c9c147c-012e-4620-b473-c685f49793d9",
+        "22414d55-60c4-45bc-a860-dbc68bcf17d4",
+        "208165ad-656f-4751-ac0e-f9df02be7da1",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "47fa2885-8713-4b9c-8bfd-3c48cff865e2",
+      "dutyDetail": "Assemble  equipment  to  be  used  in  the  preparation  and  welding  of  plate  and  structural  components  and  check  its  performance  and  condition,  including  any  component  heating  and  monitoring  equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "040a0e29-d948-40ef-85cf-ec8a399fa98f",
+        "0f11f334-7287-453d-bdfb-c944867de5eb",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "0c9c147c-012e-4620-b473-c685f49793d9",
+        "bcfed428-9850-4b8c-aab5-7141975cd0b3",
+        "22414d55-60c4-45bc-a860-dbc68bcf17d4",
+        "208165ad-656f-4751-ac0e-f9df02be7da1",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e9ef1cf7-e489-4bd2-b2bd-0b235c30dd26",
+      "dutyDetail": "Adjust  and  maintain  the  equipment  to  be  used  during  the  welding  of  plate  and  structural  components.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "040a0e29-d948-40ef-85cf-ec8a399fa98f",
+        "feafedb0-0cb3-4133-add4-c7fde715547a",
+        "4959fc32-bc05-429c-b2f7-7e1109ecbdd2",
+        "0f11f334-7287-453d-bdfb-c944867de5eb",
+        "8c623b16-67b8-463d-bc02-e435c66c7211",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "0c9c147c-012e-4620-b473-c685f49793d9",
+        "bcfed428-9850-4b8c-aab5-7141975cd0b3",
+        "22414d55-60c4-45bc-a860-dbc68bcf17d4",
+        "04370977-7b1a-4133-8b7f-2ba0668877ef",
+        "208165ad-656f-4751-ac0e-f9df02be7da1",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "18db8796-0417-4d31-afd8-a7d68fad3157",
+      "dutyDetail": "Interpret  technical  specifications  &  drawings  to  establish  detailed  welding  process  controls,  consumable  selection,  and  dimensional  limitations  imposed  to  control  distortion.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "745bd65c-ae6d-4662-a0b4-3d7458992656",
+        "040a0e29-d948-40ef-85cf-ec8a399fa98f",
+        "feafedb0-0cb3-4133-add4-c7fde715547a",
+        "4959fc32-bc05-429c-b2f7-7e1109ecbdd2",
+        "0f11f334-7287-453d-bdfb-c944867de5eb",
+        "8c623b16-67b8-463d-bc02-e435c66c7211",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0e3de6f0-6d86-463e-8828-444d3b0d69d9",
+      "dutyDetail": "Make the joints to specified dimensional accuracy using appropriate welding techniques.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "ba2daa4d-c199-4919-bcef-2084e8537b51",
+        "745bd65c-ae6d-4662-a0b4-3d7458992656",
+        "040a0e29-d948-40ef-85cf-ec8a399fa98f",
+        "feafedb0-0cb3-4133-add4-c7fde715547a",
+        "4959fc32-bc05-429c-b2f7-7e1109ecbdd2",
+        "0f11f334-7287-453d-bdfb-c944867de5eb",
+        "8c623b16-67b8-463d-bc02-e435c66c7211",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "d1148e6b-e551-45de-bcb2-283d6586eef8",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "0c9c147c-012e-4620-b473-c685f49793d9",
+        "bcfed428-9850-4b8c-aab5-7141975cd0b3",
+        "22414d55-60c4-45bc-a860-dbc68bcf17d4",
+        "10db8dc0-4612-41ac-a11d-deafffa689b6",
+        "04370977-7b1a-4133-8b7f-2ba0668877ef",
+        "208165ad-656f-4751-ac0e-f9df02be7da1",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "58a254e2-62b5-4984-a74b-2aa31419f8cb",
+        "43d01d66-aab8-45b3-a064-27ccf93b4a94",
+        "bcb684c4-78c2-459d-a0d6-64add1f4f607",
+        "dde61f69-bc78-4fa6-ba77-b0506bc65e36",
+        "77eb4372-be4d-4a6a-bb43-3b58a4fd4b92",
+        "629186f4-3347-4c48-9aa8-3c21ec8b859b",
+        "04ab82ae-83bc-49f2-bac2-7bbd88d47c9b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2f93d21c-bf73-4769-912f-316af04f0863",
+      "dutyDetail": "Identifying\u00A0areas\u00A0for\u00A0improving\u00A0the\u00A0 production\u00A0process\u00A0where\u00A0possible through the monitoring of\u00A0performance",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "b6727148-a742-4fc4-8a0d-fa569f676b9a",
+        "d1148e6b-e551-45de-bcb2-283d6586eef8",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "208165ad-656f-4751-ac0e-f9df02be7da1",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "bcb684c4-78c2-459d-a0d6-64add1f4f607"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d63b8d2a-48ad-49cb-96b3-805adb5caa95",
+      "dutyDetail": "Monitor  associated  parameters  throughout  the  welding  of  plate  and  structural  components  (e.g.  Preheat, Interpass  Temperature, Heat Input).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83",
+        "9f659a42-0f33-415e-b088-59ca5f7e0279"
+      ],
+      "mappedKnowledge": [
+        "745bd65c-ae6d-4662-a0b4-3d7458992656",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "208165ad-656f-4751-ac0e-f9df02be7da1",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "bcb684c4-78c2-459d-a0d6-64add1f4f607"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9e424869-16de-4ab2-a906-17c1947ce020",
+      "dutyDetail": "Remove  material  using  manual  powered  and  non-powered  hand  tools,  before  and  during  welding  to  remove  defects  within  the    preparation  and  weld  deposit.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "58a254e2-62b5-4984-a74b-2aa31419f8cb",
+        "43d01d66-aab8-45b3-a064-27ccf93b4a94",
+        "bcb684c4-78c2-459d-a0d6-64add1f4f607"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "08730046-0a43-4d71-9db5-90ecc4ac879c",
+      "dutyDetail": "Visually  inspect  alignment  and  distortion  of  component  and  apply  techniques  to  ensure  compliance  with  specification.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "ba2daa4d-c199-4919-bcef-2084e8537b51",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "58a254e2-62b5-4984-a74b-2aa31419f8cb",
+        "43d01d66-aab8-45b3-a064-27ccf93b4a94",
+        "bcb684c4-78c2-459d-a0d6-64add1f4f607",
+        "dde61f69-bc78-4fa6-ba77-b0506bc65e36",
+        "77eb4372-be4d-4a6a-bb43-3b58a4fd4b92",
+        "629186f4-3347-4c48-9aa8-3c21ec8b859b",
+        "04ab82ae-83bc-49f2-bac2-7bbd88d47c9b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31ab770b-4fef-4c00-b748-8755110a780d",
+      "dutyDetail": "Visually\u00A0inspect\u00A0completed\u00A0weld\u00A0and\u00A0component\u00A0geometry",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "d1148e6b-e551-45de-bcb2-283d6586eef8",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "58a254e2-62b5-4984-a74b-2aa31419f8cb",
+        "43d01d66-aab8-45b3-a064-27ccf93b4a94",
+        "bcb684c4-78c2-459d-a0d6-64add1f4f607",
+        "dde61f69-bc78-4fa6-ba77-b0506bc65e36",
+        "77eb4372-be4d-4a6a-bb43-3b58a4fd4b92",
+        "629186f4-3347-4c48-9aa8-3c21ec8b859b",
+        "04ab82ae-83bc-49f2-bac2-7bbd88d47c9b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "22ae58f8-7a0f-4adc-a1ab-309f2a930b01",
+      "dutyDetail": "Remove and dress\u00A0bracings,\u00A0strong‐backs, run-on/run-off tabs\u00A0and\u00A0 alignment\u00A0aids, and dress\u00A0finished\u00A0external\u00A0weld\u00A0surfaces\u00A0using\u00A0manual\u00A0powered\u00A0and\u00A0 non‐powered\u00A0hand\u00A0tools",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "ba2daa4d-c199-4919-bcef-2084e8537b51",
+        "745bd65c-ae6d-4662-a0b4-3d7458992656",
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "3eeaa70c-cd8e-4b40-8a22-fecb9b370017",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "04370977-7b1a-4133-8b7f-2ba0668877ef",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "58a254e2-62b5-4984-a74b-2aa31419f8cb",
+        "bcb684c4-78c2-459d-a0d6-64add1f4f607",
+        "21fa5221-6282-483a-aa4e-aceea71c6107"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bf658ee6-9ddf-4e38-b39d-9c7ee15da359",
+      "dutyDetail": "Restore\u00A0the\u00A0work\u00A0area\u00A0and\u00A0equipment\u00A0to\u00A0a\u00A0safe\u00A0and\u00A0reliable\u00A0condition\u00A0on\u00A0completion\u00A0of\u00A0welding\u00A0including\u00A0the\u00A0remediation\u00A0and\u00A0recycling\u00A0of\u00A0bracings,\u00A0strong‐backs\u00A0and\u00A0alignment\u00A0aids.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83"
+      ],
+      "mappedKnowledge": [
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "0c1065b9-9a41-424a-9dc8-324696fd95af",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "04370977-7b1a-4133-8b7f-2ba0668877ef",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be",
+        "58a254e2-62b5-4984-a74b-2aa31419f8cb",
+        "21fa5221-6282-483a-aa4e-aceea71c6107"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "047b0532-8c1a-43b9-87ad-50912a0621db",
+      "dutyDetail": "Monitor  the  use  of  consumables  and  adjust  quantities  issued,  and  return  unused  consumables  for  re-conditioning,  re‐use  or  disposal.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83",
+        "9f659a42-0f33-415e-b088-59ca5f7e0279"
+      ],
+      "mappedKnowledge": [
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "f48bc785-1e8d-491a-86e9-d066ff7a5610",
+        "7e4f9101-c78b-49fa-bc78-cff717f64786",
+        "ff513087-ae15-46b4-ac08-e273be5ed22c",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "b6727148-a742-4fc4-8a0d-fa569f676b9a",
+        "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
+        "9894c38b-779b-4e19-9a4b-5b816a47c14f",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "04370977-7b1a-4133-8b7f-2ba0668877ef",
+        "208165ad-656f-4751-ac0e-f9df02be7da1",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "de3a87b8-2be8-4fd9-b082-c44dab013ec1",
+      "dutyDetail": "Complete\u00A0production documentation\u00A0and\u00A0reporting\u00A0at\u00A0the\u00A0appropriate\u00A0stages\u00A0of\u00A0the\u00A0work\u00A0activity",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8a7c988-dd9b-450a-b90a-3cfdb76cfb73",
+        "d9d0b558-b1b4-4ac7-bd2a-5a1286d526c7",
+        "26060054-1b16-4262-b1a5-e2587b1a4e27",
+        "7cbadf2d-bb76-4934-a860-09818704e5ad",
+        "00af1ada-9c62-4b54-bac2-0f674920bacf",
+        "7fc43363-8a62-4190-bce6-79e61e105c4e",
+        "a340c113-b653-4a3c-aa9d-786b4572db83",
+        "9f659a42-0f33-415e-b088-59ca5f7e0279"
+      ],
+      "mappedKnowledge": [
+        "a6ce75aa-1761-40cf-9d32-3c59748ed3be",
+        "13fae813-a567-4f7c-a912-004a3d73d9fb",
+        "b6727148-a742-4fc4-8a0d-fa569f676b9a",
+        "aee93fb7-85e0-48cb-94d8-9381ee55620f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9606dffc-98ea-488e-b706-9bbf77f67a43",
+        "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
+        "f0295336-47bf-4416-b58f-0a8951a9a4be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-03-11T00:00:00"
+}
