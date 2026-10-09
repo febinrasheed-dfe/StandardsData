@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised. Change to word count on page 9 and 10.",
-  "changedDate": "2025-11-20T00:00:00",
+  "changedDate": "2026-09-01T00:00:00",
   "earliestStartDate": "2025-11-20T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Provide a high standard of health care using judgment, skills, and knowledge.",
   "level": 6,
@@ -339,7 +339,7 @@
   "integration": "None",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0481",
-  "tbMainContact": "health-sciencecare.skillsengland@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Central Manchester NHS Foundation Trust\r\nEast Cheshire NHS Trust\r\nGreat Ormond Street Hospital for Children NHS\r\nImperial College Healthcare NHS Trust\r\nNHS Blood and Transplant\r\nNorthumbria Healthcare NHS Foundation Trust\r\nNottingham University Hospitals NHS Trust\r\nP J Care\r\nRoyal Cornwall Hospitals NHS Trust\r\nSolent NHS Trust\r\nThe Christie NHS Foundation Trust\r\nThe James Cook University Hospital\r\nUniversity Hospitals of North Midlands\r\nYorkshire Ambulance Service NHS Trust\r\n\r\n\r\n\r\n\r\n",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -361,7 +361,7 @@
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2025-11-20T09:06:02 +00:00",
-  "lastUpdated": "2025-11-20T00:00:00 +00:00",
+  "lastUpdated": "2026-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-05-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0895",
@@ -600,5 +600,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-11-20T00:00:00"
+  "publishDate": "2027-09-12T00:00:00"
 }
