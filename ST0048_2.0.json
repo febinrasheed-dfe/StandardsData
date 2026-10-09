@@ -1,0 +1,581 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 502,
+  "referenceNumber": "ST0048",
+  "learningAimClassCode": "",
+  "title": "Construction site supervisor",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0048",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard, assessment plan and funding band revised.",
+  "changedDate": "2026-09-01T00:00:00",
+  "earliestStartDate": "2027-03-11T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Supervising specialist contractors and workers on construction projects.",
+  "level": 4,
+  "ePALength": 3,
+  "typicalDuration": 36,
+  "minimumHoursForCompliance": "557",
+  "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "Construction projects",
+    "Construction Site",
+    "Construction",
+    "Construction methods",
+    "Constructor",
+    "Site supervisior",
+    "Site supervision"
+  ],
+  "jobRoles": [
+    "Assistant site manager",
+    "Assistant supervisor",
+    "Clerk of works",
+    "Construction planner",
+    "Construction site supervisor",
+    "Junior site manager",
+    "Site supervisor"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0048-in-revision?view=epa",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "version": "2.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in construction and the built environment industry.&lt;/p&gt;\n&lt;p&gt;Construction site supervisors can work in a variety of settings such as residential, commercial, industrial, infrastructure construction, and civil engineering.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to support with overseeing on-site construction operations. Construction site supervisors bridge the gap between senior managers and on-site teams. They ensure compliance with health and safety regulations, construction legislation and industry standards, according to the project plan and specifications. They coordinate workers, teams, and workflows to ensure a project progresses as intended.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a variety of stakeholders such as other construction workers, subcontractors, project managers, suppliers, site managers, and depending on the scale of the project, customers, architects, engineers, inspectors.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for monitoring various aspect of a construction site – health and safety compliance, quality control, material and equipment project, and cost control. Construction site supervisors implement and enforce safety protocols based on a deep understanding of construction site hazards and regulations.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They interpret architectural and engineering drawings and specifications to ensure accurate implementation of construction plans. They apply knowledge of construction materials, methods, and techniques to monitor and maintain quality standards throughout the project.&amp;nbsp; Construction site supervisors communicate technical aspects of the project to construction teams, subcontractors and other stakeholders to ensure activities adhere to regulatory requirements and specified standards.&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+      "detail": "Awareness of the sector applicable health and safety statutory legislative acts and regulations, company's own health, safety and environment procedures and policies and level of own responsibilities and accountability. "
+    },
+    {
+      "knowledgeId": "c2d19f12-e1f8-4098-9d94-7343a6fe97d7",
+      "detail": "Principles of sustainability in the built environment, including net-zero and climate change, and how these impact the sector."
+    },
+    {
+      "knowledgeId": "4344e0d8-3910-4cb9-8e39-5ab7b69e37f7",
+      "detail": "Methods for planning and resourcing tasks, and the impact on cost, quality, safety, security, and environment: logistics, resource and material management."
+    },
+    {
+      "knowledgeId": "913cc5c5-802d-4a54-a57e-80e99a0fa2bd",
+      "detail": "Purpose of site induction, site meetings, site briefings."
+    },
+    {
+      "knowledgeId": "d0191a02-4a35-40ab-b4c7-ac288fca48ec",
+      "detail": "Construction operations and procedures to maintain efficiency. "
+    },
+    {
+      "knowledgeId": "d8dbca5b-a401-44da-b9dd-206f3fd6567b",
+      "detail": "Hazard identification and mitigation techniques. "
+    },
+    {
+      "knowledgeId": "677e4b63-8d34-4b57-b800-bdeaf53361a0",
+      "detail": "Methods of safe working including risk assessments, method statements, control measure application and safe systems of work. "
+    },
+    {
+      "knowledgeId": "dfae304d-ea68-4deb-a039-ed2592a9a95d",
+      "detail": "Principles of quality management processes and techniques. "
+    },
+    {
+      "knowledgeId": "5429b077-3f19-4cc8-9e18-ac0190043c5f",
+      "detail": "Fault identification and problem solving techniques. "
+    },
+    {
+      "knowledgeId": "52b68f23-236b-41d1-9022-9b6811abc7dd",
+      "detail": "Project management techniques, including information management and assurance systems and continuous improvement processes."
+    },
+    {
+      "knowledgeId": "05e38198-ad9d-405d-87b3-74f3ceb968ce",
+      "detail": "Awareness of issues and common symptoms and warning signs of stress, anxiety and depression for themselves and others, plus where to go for help and the resources available."
+    },
+    {
+      "knowledgeId": "82581a34-592b-42f0-a6b4-2c5d53d22f89",
+      "detail": "Tools, equipment and plant: safe use, maintenance checks, storage. "
+    },
+    {
+      "knowledgeId": "64b87f68-3f68-4603-baa2-63d8fec5e93e",
+      "detail": "General construction methods and materials."
+    },
+    {
+      "knowledgeId": "142eaf6f-6312-4b40-b7ef-16a5ddf9d5af",
+      "detail": "Principles of supervising people and managing the quality of their work."
+    },
+    {
+      "knowledgeId": "7b58540a-8c72-4259-9d52-4b9eac218860",
+      "detail": "Evaluation and completion techniques: documentation and handover."
+    },
+    {
+      "knowledgeId": "82e2edb6-9b46-4c2e-ade8-fb178386f245",
+      "detail": "Legal, civil and reputational implications of unethical behaviour and practice, including awareness of the Modern Slavery Act. "
+    },
+    {
+      "knowledgeId": "11ba6b46-4749-43d3-bd28-cc21d24001f5",
+      "detail": "Equity, diversity and inclusion legislation, and its impact on built environment solutions."
+    },
+    {
+      "knowledgeId": "678fec73-c17f-4d8c-8382-e08a30b1cd93",
+      "detail": "Methods of interpreting and extracting relevant information from drawings, specifications, and work instructions. "
+    },
+    {
+      "knowledgeId": "ac2c7332-f2f7-46f3-9cc6-e6a515b7399f",
+      "detail": "Awareness of digital technology within construction and its uses within the sector for example, built programme management tools."
+    },
+    {
+      "knowledgeId": "b2679dba-c4f8-433d-9918-e67fd4f46f50",
+      "detail": "Verbal and written communication techniques. "
+    },
+    {
+      "knowledgeId": "377aa6f8-0531-42b7-a7b7-af0e6c8d1356",
+      "detail": "Inspection and documentation requirements at key and various stages of construction: data recording, documentation control, auditable records, insurance, warranty, or other protections. "
+    },
+    {
+      "knowledgeId": "e84db340-47b4-45b1-b618-d7acd00ea57b",
+      "detail": "Collaborative working techniques with internal and external stakeholders. "
+    },
+    {
+      "knowledgeId": "34df72e0-c198-4078-ada3-4840ba2c61a9",
+      "detail": "Continuing professional development: planned and unplanned and recording methods."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "710a92a4-8b99-44d1-b785-b7456a1623c9",
+      "detail": "Implements a safety first approach, leading by example and ensuring compliance by self and others with health and safety and welfare requirements. "
+    },
+    {
+      "behaviourId": "178f58e1-eebe-4076-a6a3-df0b206f9de5",
+      "detail": "Recognise own professional responsibilities and limits of authority knowing when to seek input from others and escalate issues."
+    },
+    {
+      "behaviourId": "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799",
+      "detail": "Act ethically in the completion of work."
+    },
+    {
+      "behaviourId": "3b7c54b7-d7ae-4aec-a74b-7de4046a0bcc",
+      "detail": "Encourage a diverse and inclusive culture."
+    },
+    {
+      "behaviourId": "1cee10cc-10b5-4f54-bf7d-728d55e5e151",
+      "detail": "Identify own development needs and take action to meet those needs. Use own knowledge and expertise to help others when requested."
+    },
+    {
+      "behaviourId": "0ee15a90-8f3e-41e7-884e-b0375af7cd9a",
+      "detail": "Committed to maintaining and enhancing own competence through Continued Professional Development (CPD)."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+      "detail": "Apply relevant statutory, health and safety legislation and obligations. "
+    },
+    {
+      "skillId": "dc119d7d-1519-42c0-a2dc-09b7539737ec",
+      "detail": "Apply sustainability principles to the planning and execution of tasks. "
+    },
+    {
+      "skillId": "bd7f5686-8429-488f-93b7-76f901327bd4",
+      "detail": "Plan work activities to meet project requirements, for example logistics, resources, labour, materials. "
+    },
+    {
+      "skillId": "4e6b0176-d4af-4179-a5b8-270934117e52",
+      "detail": "Monitor the implementation of planned construction operations and procedures to maintain efficiency."
+    },
+    {
+      "skillId": "0a936614-4bf2-4fb4-b9a8-6397f81e354e",
+      "detail": "Identify hazards and take appropriate action relevant to the situation. "
+    },
+    {
+      "skillId": "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+      "detail": "Comply with and promote risk assessments, method statements and safe systems of work and apply control measures."
+    },
+    {
+      "skillId": "95f888a1-a317-4067-ad0f-0772a57e132e",
+      "detail": "Implement quality management processes and techniques."
+    },
+    {
+      "skillId": "691b7d3d-7b13-4258-9083-150740382c90",
+      "detail": "Identify problems and apply methods to identify causes and potential solutions. Escalate issues or concerns. "
+    },
+    {
+      "skillId": "519d4c0a-caf3-493b-a0a2-3a9e839d7001",
+      "detail": "Employ project management techniques, measuring and recording progress against project plans and reporting."
+    },
+    {
+      "skillId": "10bab7cb-74e2-4c48-b2e3-5a530d6bfe7c",
+      "detail": "Implement operating procedures for the safe use, maintenance and storage of tools, plant, and equipment. "
+    },
+    {
+      "skillId": "fdef94eb-82ab-4d62-9029-f12ca8651515",
+      "detail": "Ensure construction work complies with pre-determined job specifications such as construction methods and materials. "
+    },
+    {
+      "skillId": "97e4e209-e5da-4ef5-b813-74bbea81a93f",
+      "detail": "Supervise people and monitor the quality of their work."
+    },
+    {
+      "skillId": "782ebf03-6a39-4ed0-b754-ae2281e36177",
+      "detail": "Review and compile information to produce handover documentation. For example: for a plot, or a section, or a floor. "
+    },
+    {
+      "skillId": "ad5b6d38-268c-40f5-b46d-c73ac0826f38",
+      "detail": "Interpret and extract relevant information from drawings, specifications, and work instructions. "
+    },
+    {
+      "skillId": "fe8b21cb-3752-4d9f-9395-da4f488606c6",
+      "detail": "Manage relationships with stakeholders and adapt style to audience, including influencing others through briefings or presentations and feedback.  "
+    },
+    {
+      "skillId": "9a57dba5-38b5-4257-993a-4a1df5ace24c",
+      "detail": "Applies quality management processes: carry out checks, record and file evidence. "
+    },
+    {
+      "skillId": "5eecbe3a-993f-4a90-bb5b-e6d619ae0a12",
+      "detail": "Work collaboratively with internal and external stakeholders, as part of a team. "
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0918",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "BAM, BAM Nuttall, Barratt Developments PLC, Bellway Group, Construction EPA, Home Builders Federation, Laing O' Rourke, Laing O'Rourke, London South Bank University, M Group Services, National house building council (NHBC), NC Group, NOCN, Re:Gen Group, Redrow, Southampton Solent University, Stubbs Construction, T3 Training , The Chartered Institute Of Building CIOB, University College of Estate Management, University of Derby, Willmott Dixon",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Assistant site manager",
+    "Assistant supervisor",
+    "Clerk of works",
+    "Construction planner",
+    "Construction site supervisor",
+    "Junior site manager",
+    "Site supervisor"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Onsite Construction",
+  "cluster": "Construction site supervisor",
+  "clusterId": "139",
+  "clusterDescription": "Decide on construction methods and materials, project management approach and systems, quality monitoring, cost and resource management",
+  "createdDate": "2026-09-01T10:59:08 +00:00",
+  "lastUpdated": "2026-09-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-09-06T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0048",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0048-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0048-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "cc75a828-bf8a-45cf-a414-c8644287d413",
+      "dutyDetail": "Ensure compliance with all current and relevant Health and Safety legislation. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "710a92a4-8b99-44d1-b785-b7456a1623c9",
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799"
+      ],
+      "mappedKnowledge": [
+        "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+        "d8dbca5b-a401-44da-b9dd-206f3fd6567b",
+        "677e4b63-8d34-4b57-b800-bdeaf53361a0",
+        "82581a34-592b-42f0-a6b4-2c5d53d22f89",
+        "64b87f68-3f68-4603-baa2-63d8fec5e93e",
+        "7b58540a-8c72-4259-9d52-4b9eac218860",
+        "34df72e0-c198-4078-ada3-4840ba2c61a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+        "bd7f5686-8429-488f-93b7-76f901327bd4",
+        "4e6b0176-d4af-4179-a5b8-270934117e52",
+        "0a936614-4bf2-4fb4-b9a8-6397f81e354e",
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "519d4c0a-caf3-493b-a0a2-3a9e839d7001",
+        "10bab7cb-74e2-4c48-b2e3-5a530d6bfe7c",
+        "fdef94eb-82ab-4d62-9029-f12ca8651515"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1103ccff-4065-4edc-a829-961dcac5ca5c",
+      "dutyDetail": "Identify, evaluate and mitigate risks associated with their own work and activities they and their team are responsible for. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "710a92a4-8b99-44d1-b785-b7456a1623c9",
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799"
+      ],
+      "mappedKnowledge": [
+        "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+        "d0191a02-4a35-40ab-b4c7-ac288fca48ec",
+        "d8dbca5b-a401-44da-b9dd-206f3fd6567b",
+        "677e4b63-8d34-4b57-b800-bdeaf53361a0",
+        "82581a34-592b-42f0-a6b4-2c5d53d22f89",
+        "64b87f68-3f68-4603-baa2-63d8fec5e93e",
+        "7b58540a-8c72-4259-9d52-4b9eac218860"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+        "bd7f5686-8429-488f-93b7-76f901327bd4",
+        "4e6b0176-d4af-4179-a5b8-270934117e52",
+        "0a936614-4bf2-4fb4-b9a8-6397f81e354e",
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "691b7d3d-7b13-4258-9083-150740382c90",
+        "10bab7cb-74e2-4c48-b2e3-5a530d6bfe7c",
+        "fdef94eb-82ab-4d62-9029-f12ca8651515"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0ed5ea0c-1070-4f6d-83d8-b7f8912003df",
+      "dutyDetail": "Assist in the implementation of the most appropriate solutions for successful completions of construction projects. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "178f58e1-eebe-4076-a6a3-df0b206f9de5",
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799"
+      ],
+      "mappedKnowledge": [
+        "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+        "4344e0d8-3910-4cb9-8e39-5ab7b69e37f7",
+        "d0191a02-4a35-40ab-b4c7-ac288fca48ec",
+        "dfae304d-ea68-4deb-a039-ed2592a9a95d",
+        "5429b077-3f19-4cc8-9e18-ac0190043c5f",
+        "52b68f23-236b-41d1-9022-9b6811abc7dd",
+        "82581a34-592b-42f0-a6b4-2c5d53d22f89",
+        "64b87f68-3f68-4603-baa2-63d8fec5e93e",
+        "678fec73-c17f-4d8c-8382-e08a30b1cd93",
+        "ac2c7332-f2f7-46f3-9cc6-e6a515b7399f",
+        "b2679dba-c4f8-433d-9918-e67fd4f46f50",
+        "377aa6f8-0531-42b7-a7b7-af0e6c8d1356"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+        "dc119d7d-1519-42c0-a2dc-09b7539737ec",
+        "bd7f5686-8429-488f-93b7-76f901327bd4",
+        "4e6b0176-d4af-4179-a5b8-270934117e52",
+        "0a936614-4bf2-4fb4-b9a8-6397f81e354e",
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "10bab7cb-74e2-4c48-b2e3-5a530d6bfe7c",
+        "fdef94eb-82ab-4d62-9029-f12ca8651515",
+        "9a57dba5-38b5-4257-993a-4a1df5ace24c",
+        "5eecbe3a-993f-4a90-bb5b-e6d619ae0a12"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1d8d2373-027b-42e1-8f0b-4d177bf7b9dd",
+      "dutyDetail": "Supervise construction projects, ensuring they align with plans, specifications and construction programme. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799"
+      ],
+      "mappedKnowledge": [
+        "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+        "4344e0d8-3910-4cb9-8e39-5ab7b69e37f7",
+        "913cc5c5-802d-4a54-a57e-80e99a0fa2bd",
+        "d0191a02-4a35-40ab-b4c7-ac288fca48ec",
+        "dfae304d-ea68-4deb-a039-ed2592a9a95d",
+        "52b68f23-236b-41d1-9022-9b6811abc7dd",
+        "82581a34-592b-42f0-a6b4-2c5d53d22f89",
+        "64b87f68-3f68-4603-baa2-63d8fec5e93e",
+        "82e2edb6-9b46-4c2e-ade8-fb178386f245",
+        "678fec73-c17f-4d8c-8382-e08a30b1cd93",
+        "b2679dba-c4f8-433d-9918-e67fd4f46f50",
+        "377aa6f8-0531-42b7-a7b7-af0e6c8d1356"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+        "dc119d7d-1519-42c0-a2dc-09b7539737ec",
+        "bd7f5686-8429-488f-93b7-76f901327bd4",
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "10bab7cb-74e2-4c48-b2e3-5a530d6bfe7c",
+        "fdef94eb-82ab-4d62-9029-f12ca8651515",
+        "782ebf03-6a39-4ed0-b754-ae2281e36177",
+        "ad5b6d38-268c-40f5-b46d-c73ac0826f38",
+        "9a57dba5-38b5-4257-993a-4a1df5ace24c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bd48dbd8-3efb-4b99-bbd9-9abb0876ce36",
+      "dutyDetail": "Coordinate construction teams and workers, communicating effectively technical aspects of construction project. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799"
+      ],
+      "mappedKnowledge": [
+        "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+        "4344e0d8-3910-4cb9-8e39-5ab7b69e37f7",
+        "913cc5c5-802d-4a54-a57e-80e99a0fa2bd",
+        "d8dbca5b-a401-44da-b9dd-206f3fd6567b",
+        "677e4b63-8d34-4b57-b800-bdeaf53361a0",
+        "05e38198-ad9d-405d-87b3-74f3ceb968ce",
+        "64b87f68-3f68-4603-baa2-63d8fec5e93e",
+        "142eaf6f-6312-4b40-b7ef-16a5ddf9d5af",
+        "82e2edb6-9b46-4c2e-ade8-fb178386f245",
+        "11ba6b46-4749-43d3-bd28-cc21d24001f5",
+        "b2679dba-c4f8-433d-9918-e67fd4f46f50",
+        "e84db340-47b4-45b1-b618-d7acd00ea57b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+        "4e6b0176-d4af-4179-a5b8-270934117e52",
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "95f888a1-a317-4067-ad0f-0772a57e132e",
+        "519d4c0a-caf3-493b-a0a2-3a9e839d7001",
+        "10bab7cb-74e2-4c48-b2e3-5a530d6bfe7c",
+        "fdef94eb-82ab-4d62-9029-f12ca8651515",
+        "97e4e209-e5da-4ef5-b813-74bbea81a93f",
+        "ad5b6d38-268c-40f5-b46d-c73ac0826f38",
+        "fe8b21cb-3752-4d9f-9395-da4f488606c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c6e03c2-d2c5-4f99-99c2-114f27d2a4ab",
+      "dutyDetail": "Maintain auditable records of project activities and progress. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799"
+      ],
+      "mappedKnowledge": [
+        "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+        "4344e0d8-3910-4cb9-8e39-5ab7b69e37f7",
+        "d0191a02-4a35-40ab-b4c7-ac288fca48ec",
+        "52b68f23-236b-41d1-9022-9b6811abc7dd",
+        "7b58540a-8c72-4259-9d52-4b9eac218860",
+        "82e2edb6-9b46-4c2e-ade8-fb178386f245"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+        "4e6b0176-d4af-4179-a5b8-270934117e52",
+        "0a936614-4bf2-4fb4-b9a8-6397f81e354e",
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "95f888a1-a317-4067-ad0f-0772a57e132e",
+        "519d4c0a-caf3-493b-a0a2-3a9e839d7001",
+        "fdef94eb-82ab-4d62-9029-f12ca8651515",
+        "782ebf03-6a39-4ed0-b754-ae2281e36177",
+        "9a57dba5-38b5-4257-993a-4a1df5ace24c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3da64b0d-0abf-4a7a-b977-a2fb6cc61692",
+      "dutyDetail": "Adapt to changing project requirements, unforeseen challenges and issues. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "178f58e1-eebe-4076-a6a3-df0b206f9de5",
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799",
+        "1cee10cc-10b5-4f54-bf7d-728d55e5e151"
+      ],
+      "mappedKnowledge": [
+        "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+        "4344e0d8-3910-4cb9-8e39-5ab7b69e37f7",
+        "d0191a02-4a35-40ab-b4c7-ac288fca48ec",
+        "dfae304d-ea68-4deb-a039-ed2592a9a95d",
+        "5429b077-3f19-4cc8-9e18-ac0190043c5f",
+        "678fec73-c17f-4d8c-8382-e08a30b1cd93",
+        "ac2c7332-f2f7-46f3-9cc6-e6a515b7399f",
+        "b2679dba-c4f8-433d-9918-e67fd4f46f50",
+        "377aa6f8-0531-42b7-a7b7-af0e6c8d1356",
+        "34df72e0-c198-4078-ada3-4840ba2c61a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+        "bd7f5686-8429-488f-93b7-76f901327bd4",
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "95f888a1-a317-4067-ad0f-0772a57e132e",
+        "519d4c0a-caf3-493b-a0a2-3a9e839d7001",
+        "fdef94eb-82ab-4d62-9029-f12ca8651515",
+        "fe8b21cb-3752-4d9f-9395-da4f488606c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68ad8f6f-020f-4bb5-a989-eabddf15c4ba",
+      "dutyDetail": "Comply with environmental policies and legislation, practice, principles of sustainability.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799",
+        "0ee15a90-8f3e-41e7-884e-b0375af7cd9a"
+      ],
+      "mappedKnowledge": [
+        "dfbf759a-7e20-4700-b45a-ffc30d1804a5",
+        "c2d19f12-e1f8-4098-9d94-7343a6fe97d7",
+        "4344e0d8-3910-4cb9-8e39-5ab7b69e37f7",
+        "64b87f68-3f68-4603-baa2-63d8fec5e93e",
+        "678fec73-c17f-4d8c-8382-e08a30b1cd93",
+        "34df72e0-c198-4078-ada3-4840ba2c61a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "594f04ae-45f8-44dd-9c4a-0e2051a09627",
+        "dc119d7d-1519-42c0-a2dc-09b7539737ec",
+        "bd7f5686-8429-488f-93b7-76f901327bd4",
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "10bab7cb-74e2-4c48-b2e3-5a530d6bfe7c",
+        "fdef94eb-82ab-4d62-9029-f12ca8651515"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5ac08ea0-3a56-4722-85ee-c2a909301fa3",
+      "dutyDetail": "Ensure compliance with equity, diversity and inclusion (EDI) and ethical standards, recognising the importance of these in the workplace",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a0ce3c6c-62d7-4e74-9890-4b93fd4a9799",
+        "3b7c54b7-d7ae-4aec-a74b-7de4046a0bcc",
+        "0ee15a90-8f3e-41e7-884e-b0375af7cd9a"
+      ],
+      "mappedKnowledge": [
+        "677e4b63-8d34-4b57-b800-bdeaf53361a0",
+        "82e2edb6-9b46-4c2e-ade8-fb178386f245",
+        "11ba6b46-4749-43d3-bd28-cc21d24001f5",
+        "b2679dba-c4f8-433d-9918-e67fd4f46f50",
+        "e84db340-47b4-45b1-b618-d7acd00ea57b",
+        "34df72e0-c198-4078-ada3-4840ba2c61a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fd74ba73-6e2b-4b75-b120-0d3e09b208a8",
+        "fe8b21cb-3752-4d9f-9395-da4f488606c6",
+        "5eecbe3a-993f-4a90-bb5b-e6d619ae0a12"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-03-11T00:00:00"
+}
