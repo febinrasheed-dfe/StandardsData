@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "Funding band revised",
-  "changedDate": "2023-06-26T00:00:00",
+  "changedDate": "2026-09-15T00:00:00",
   "earliestStartDate": "2023-06-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -234,7 +234,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0458 ",
-  "tbMainContact": "catering.hospitality@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Ask Italian, Association of Licensed Multiple Retailers (ALMR), Bartlett Mitchell, Brend Hotels, British Army. Caffe Nero Group Ltd, Center Parcs, Greene King PLC, Hilton, J D Wetherspoon, LACA, Marston's PLC, Mitchells & Butlers, Nandos, Omni Facilities Management, PGL, Pizza Hut, Royal Air Force, Royal Navy, Sea Fish",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -253,9 +253,9 @@
   "clusterId": "18",
   "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2023-06-26T09:18:42 +00:00",
-  "lastUpdated": "2023-06-26T00:00:00 +00:00",
+  "lastUpdated": "2026-09-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-07T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "banners": "",
   "occupationCode": "OCC0232",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0232-v1-4?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0232-v1-4",
@@ -267,5 +267,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2023-06-26T00:00:00"
+  "publishDate": "2026-09-15T00:00:00"
 }
