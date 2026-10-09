@@ -1,0 +1,774 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 0,
+  "referenceNumber": "ST1507",
+  "learningAimClassCode": "",
+  "title": "Power industry network engineer",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1507",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "2026-10-07T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Electrical power network design and planning engineers maintain a safe, secure and reliable network supply.",
+  "level": 4,
+  "ePALength": 6,
+  "typicalDuration": 30,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "power industry network engineer",
+    "Electrical Power",
+    "Networks Engineer",
+    "network supply"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1507?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the the electrical supply industry. This industry is made up of mainly large employers who are responsible for distribution of electricity around the country, from where it is generated to where it is used. Through networks of overhead lines, underground cables and substations, ensuring that electricity is available where it is needed. Electrical power network design and planning engineers may work on the high voltage or the low voltage network for a network operator, system operator or a contractor, with different parts of the network having their own role, procedures and equipment. Design and planning engineers usually work in an office, designing and planning network extensions and optimisation schemes.&lt;/p&gt;\n&lt;p&gt;This is a core and options apprenticeship. An apprentice must be trained and assessed on the core and one option relevant to their role. The options are:&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;design engineer&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;planning engineer&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to maintain a safe, secure and reliable network supply in normal and abnormal conditions. Design engineers design cost effective and policy compliant network alterations and asset refurbishments, for example new underground cable routes, substation refurbishments or overhead line extensions. This involves visiting sites and liaising with stakeholders to ensure that the plans they develop meet any site specific, health, safety and environmental requirements. They then produce concept feasibility and detailed drawings using design software and provide information to support colleagues with the purchase of equipment.&lt;/p&gt;\n&lt;p&gt;Planning engineers develop plans for the delivery of large-scale projects, asset health interventions, network maintenance and optimisation work to ensure the security of the network at all times. They liaise with key stakeholders such as customers, control engineers, the National Energy Systems Operator (NESO), project engineers and work teams to plan and communicate outage plans to ensure that the network operates reliably and effectively.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a wide range of stakeholders such as distribution network operators, transmission network operator, contractors, planning departments, regulators and customers to plan or design maintenance, installation or optimisation projects. They must be able to maintain complex relationships through excellent communication skills. A electrical power network design and planning engineer typically reports to a senior engineer and works as part of a design or planning team. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for prioritising types of work taking into consideration regulatory requirements and resourcing or producing designs which are in line with design standards and meet the project brief.&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "ecff3940-f441-4b5b-8d83-ce5de39e3804",
+      "detail": "Core - The electrical power sector. Types of organisations, how they interact, structure, role and function. Regulators. Stakeholders and customer requirements. "
+    },
+    {
+      "knowledgeId": "241883c4-7a02-4dda-9712-93b779b3f7c8",
+      "detail": "Core - Engineer's role, responsibilities limits of autonomy and coordination with other business functions. Reporting channels within the power sector. "
+    },
+    {
+      "knowledgeId": "e43bab56-39ce-4857-941e-71b2a7bd0c23",
+      "detail": "Core - Techniques and approaches for the planning and prioritisation of work tasks. "
+    },
+    {
+      "knowledgeId": "ee42ff2f-ad38-4143-836b-2a6589b33303",
+      "detail": "Core - Electrical power principles: three phase alternating current and direct current theories; voltage; dynamic and static engineering systems; application of electrical and electronic circuit theory. "
+    },
+    {
+      "knowledgeId": "23cc06cc-98c0-4373-91a9-c1ce35de6871",
+      "detail": "Core - Electricity network design, construction, capabilities, complexities, operations and topologies. "
+    },
+    {
+      "knowledgeId": "c1bb0820-9da7-42be-a431-d78dc81a2512",
+      "detail": "Core - Design, operation, function and limitations of transmission or distribution plant and equipment. Substations, transformers, switchgear and auxiliary equipment. Overhead lines. Components that make up the transmission or distribution network."
+    },
+    {
+      "knowledgeId": "371ead2e-0cf0-4901-a98f-3888c7e701ed",
+      "detail": "Core - Electricity network principles of operation in normal and fault conditions. Overhead network, underground network and associated protective devices. "
+    },
+    {
+      "knowledgeId": "89f1558b-3548-4d8e-8500-9bdbd209ff81",
+      "detail": "Core - Awareness of health and safety regulations relevant to the engineer's role. Construction Design and Management (CDM) requirements. Control of Substances Hazardous to Health (COSHH). Display Screen Equipment. Fire regulations. Health and Safety at Work Act – employer and employee responsibilities. Managing Health and Safety at Work Regulations. Manual handling. Noise regulation. Provision and use of Work Equipment Regulations (PUWER). Personal Protective Equipment (PPE). Working at height. Reporting of Injuries, Diseases and Dangerous Occurrence Regulations (RIDDOR). Electricity at Work Regulations. "
+    },
+    {
+      "knowledgeId": "3477c61a-8b4f-4983-bfc9-f6c3d18f58b2",
+      "detail": "Core - Health and safety procedures and safe systems of work for working on the electrical network, plant and equipment. Electrical safety. "
+    },
+    {
+      "knowledgeId": "441adbcc-2e03-43b4-8a86-206e1acf1017",
+      "detail": "Core - Risk assessments, risk management techniques and approaches, the hierarchy of control. Method statements. "
+    },
+    {
+      "knowledgeId": "99951b76-6322-4bb2-8960-43b250bada0b",
+      "detail": "Core - Awareness of regulatory frameworks, regulatory measures and reporting requirements. "
+    },
+    {
+      "knowledgeId": "3e4ee267-cf0d-4907-8d1d-e9410be4e8a9",
+      "detail": "Core - Electricity Safety, Quality and Continuity Regulations (ESQCR). "
+    },
+    {
+      "knowledgeId": "16cc3efc-f579-450c-af6a-5d7b31703823",
+      "detail": "Core - Work policies, processes and procedures."
+    },
+    {
+      "knowledgeId": "118014f1-0961-441d-93f7-8cf63dc5746d",
+      "detail": "Core - The UK's net zero commitment. The impact of low carbon energy on the network. Environmental regulations, standards and principles of sustainability. Environmental Protection Act and Hazardous Waste Regulations. The environmental impact of equipment."
+    },
+    {
+      "knowledgeId": "f84c07aa-5eae-457f-ba46-f5f310f1d7e5",
+      "detail": "Core - Engineering technical specifications, policies and engineering standards relevant to the role and organisation. What they are and how to use them. "
+    },
+    {
+      "knowledgeId": "e8d77027-58a9-43df-a7a9-a1aed0ecbc8e",
+      "detail": "Core - Awareness of business planning practices, resource planning and management. The impact on the apprentice's work."
+    },
+    {
+      "knowledgeId": "729435bd-b784-476c-81b6-513a91b80aa5",
+      "detail": "Core - Awareness of asset risk, what they are and potential consequences. Monetised risk process. "
+    },
+    {
+      "knowledgeId": "18cda6ab-ca1b-4cee-adb7-d333480510f7",
+      "detail": "Core - Documentation: methods and requirements - electronic and paper. "
+    },
+    {
+      "knowledgeId": "a21f9869-f251-4c8f-b5dc-323f765ab4d8",
+      "detail": "Core - Report writing techniques."
+    },
+    {
+      "knowledgeId": "4609ef15-baf5-4a39-aae7-a77023058b5d",
+      "detail": "Core - Data analysis techniques and reporting systems. "
+    },
+    {
+      "knowledgeId": "2ccf7ae0-5bc8-4891-9a70-e08d95628473",
+      "detail": "Core - Problem solving techniques."
+    },
+    {
+      "knowledgeId": "773f13fc-4a21-46d4-a6a6-ec03c4b0b49d",
+      "detail": "Core - Continuous improvement principles and techniques. "
+    },
+    {
+      "knowledgeId": "1ca83966-93af-4c43-8097-3069444dcdb9",
+      "detail": "Core - Team working principles. "
+    },
+    {
+      "knowledgeId": "12067ca5-2fd5-4842-8e08-0a7b15219dfb",
+      "detail": "Core - Communication techniques: verbal and written. "
+    },
+    {
+      "knowledgeId": "982e17ad-20e1-45fb-bce3-a86c42ca60d6",
+      "detail": "Core - Information technology and digital systems: digital interfaces, email, Management Information Systems (MIS), spreadsheets, presentation, word processing, virtual communication, learning platforms, work collaboration platforms . General Data Protection Regulation (GDPR). General cyber security. "
+    },
+    {
+      "knowledgeId": "3837e4d5-56ca-462e-ac76-fe71fc856a9f",
+      "detail": "Core - Awareness of network operational cyber security and impact. Network Information Systems Regulations."
+    },
+    {
+      "knowledgeId": "240ae269-df51-46ea-90a2-cae15e44d834",
+      "detail": "Core - Emerging technologies and their impact on projected future load Impact on the network."
+    },
+    {
+      "knowledgeId": "19c553bd-05f2-42fd-b91b-3fb3ce36ab2b",
+      "detail": "Core - Future impact of shifting generation on network topography. "
+    },
+    {
+      "knowledgeId": "18feae3c-4a25-410b-b331-bb3a62e53de0",
+      "detail": "Design engineer - Regulatory, industry, legislative and organisational design standards. Relevant Electrical Standards."
+    },
+    {
+      "knowledgeId": "4afd88b0-7b5e-4944-8e29-de556edf0b27",
+      "detail": "Design engineer - Appreciation of land rights. Wayleaves, easements and freeholds. Development Consent Order."
+    },
+    {
+      "knowledgeId": "d0e511e0-6999-4403-b44f-e1d6f690c4db",
+      "detail": "Design engineer - Site survey, why it is carried out. Procedures and requirements. Physical surveys and desktop surveys. "
+    },
+    {
+      "knowledgeId": "7bcb0c40-849e-4ab9-9481-32ae2007ad9a",
+      "detail": "Design engineer - Physical asset security and network security, importance and requirements. "
+    },
+    {
+      "knowledgeId": "4e688e5d-4097-441d-9b17-c65a7f709bdc",
+      "detail": "Design engineer - Substation electrical design, circuit design, protection and control systems. Safety implications of design options. "
+    },
+    {
+      "knowledgeId": "2b40da2d-dcb2-4354-88c5-7486ce02f8e4",
+      "detail": "Design engineer - Project briefs, what they are and how to use them. "
+    },
+    {
+      "knowledgeId": "0bd7c033-e28f-4949-8712-1798ca2d6483",
+      "detail": "Design engineer - Digital design tools. What they are and how to use them. "
+    },
+    {
+      "knowledgeId": "bf4bdddb-bf11-462f-9b7f-d17740e926e3",
+      "detail": "Design engineer - Concept feasibility design process and the appraisal of alternative design schemes. How to identify alternative schemes and make recommendations.  "
+    },
+    {
+      "knowledgeId": "32aedf90-a9bf-40d3-b160-122551cff519",
+      "detail": "Design engineer - Detailed design procedures."
+    },
+    {
+      "knowledgeId": "c43506c6-9198-42bb-a007-edeb73d0bc42",
+      "detail": "Design engineer - Plant and equipment: proposals and technical information needed to support purchase of plant equipment and materials."
+    },
+    {
+      "knowledgeId": "f5a9ce52-5f1c-4c66-aea7-7acac0276618",
+      "detail": "Planning engineer - Interfaces between the system voltage control boundaries relevant to the engineer's role or level of authorisation. "
+    },
+    {
+      "knowledgeId": "a07af39e-619e-4703-a603-8edd87ff1b65",
+      "detail": "Planning engineer - Operational diagrams, purpose, symbols. Conventions for naming and numbering assets. "
+    },
+    {
+      "knowledgeId": "216d74c9-bd30-42e4-b6ba-896eafcaf360",
+      "detail": "Planning engineer - Regulatory requirements and targets and their impact on work, planning and prioritisation."
+    },
+    {
+      "knowledgeId": "9eff7ff6-f61c-45fb-80de-0962d4185d01",
+      "detail": "Planning engineer - Appreciation of drivers and investments behind work priorities. Prioritisation and the prioritisation matrix. "
+    },
+    {
+      "knowledgeId": "13db03e5-716b-4327-92a5-bb522b12f257",
+      "detail": "Planning engineer - Appreciation of control room resourcing for outages and commissioning.  "
+    },
+    {
+      "knowledgeId": "930f46ed-e758-4bcf-a43d-4cdfc957a3f5",
+      "detail": "Planning engineer - Tools and systems used for developing an optimised plan."
+    },
+    {
+      "knowledgeId": "2daf843b-aee8-435e-aab5-0d43904f73e0",
+      "detail": "Planning engineer - Network management system, benefits and uses."
+    },
+    {
+      "knowledgeId": "c0f284bd-d5fe-458a-88da-51089b2bc99a",
+      "detail": "Planning engineer - Network isolation process and timescales for planned and unplanned outages. "
+    },
+    {
+      "knowledgeId": "ca237619-92ae-4e54-a1d3-400ddc347de4",
+      "detail": "Planning engineer - Outage plans - assets, legislation and clashes. The outage lifecycle, delivery optimisation and operational planning. Network access planning arrangements. "
+    },
+    {
+      "knowledgeId": "7e705c83-6bb7-4ea4-b30d-9aecffc052e2",
+      "detail": "Planning engineer - Maintenance framework and confirming assets comply."
+    },
+    {
+      "knowledgeId": "d9202b37-aa7d-4308-b51d-37303c9e3a0e",
+      "detail": "Planning engineer - The impact of events, risk assessment, system and network security risk and mitigations on planning (Network Asset Risk Metric). "
+    },
+    {
+      "knowledgeId": "1640df49-150a-4997-9402-9489ecbbb8ab",
+      "detail": "Planning engineer - Reprioritisation and change management approaches. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "07dab9f8-12fc-4bee-b69b-807fb13d4ca4",
+      "detail": "Take responsibility for health, safety and wellbeing in the workplace."
+    },
+    {
+      "behaviourId": "58fa08a0-bcf1-433f-a8ef-e01ef0e28bf8",
+      "detail": "Collaborate with others for example, within teams, across disciplines, and external stakeholders, promoting inclusion."
+    },
+    {
+      "behaviourId": "30b8ded3-5a81-4b7d-acf5-6d1ca5690b73",
+      "detail": "Take responsibility for the quality of work and enable others to work to high standards. For example, decisive, self-reliant, and motivated."
+    },
+    {
+      "behaviourId": "c2e6983a-4459-41f3-9105-62407bb27e54",
+      "detail": "Respond and adapt to work demands and situations."
+    },
+    {
+      "behaviourId": "648e7743-195d-4d96-aec0-ebe11fab3d8f",
+      "detail": "Committed to maintaining and enhancing competence of self and others through Continued Professional Development (CPD)."
+    },
+    {
+      "behaviourId": "725a449b-875c-4ccb-861c-b5686956e7f2",
+      "detail": "Considers the environment and sustainability."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "cff89bf2-417a-4ce0-8697-8eca4347be99",
+      "detail": "Core - Organise and prioritise work. "
+    },
+    {
+      "skillId": "00f6426e-f68e-40d9-9073-758d3a19251b",
+      "detail": "Core - Apply electrical power principles to complete work tasks."
+    },
+    {
+      "skillId": "766531b2-db37-4ade-8e57-ebf6ea0a549e",
+      "detail": "Core - Apply health and safety policies, procedures and electricity network safe systems of work."
+    },
+    {
+      "skillId": "d6e53131-dbc6-40dd-8077-c6314dd2be81",
+      "detail": "Core - Follow emergency and incident response procedures. "
+    },
+    {
+      "skillId": "b9d7b929-7d3d-42aa-aa2a-0f740334c373",
+      "detail": "Core - Comply with regulations and manage work to meet regulatory and legislative requirements. "
+    },
+    {
+      "skillId": "03de9061-5746-4299-8ac1-42e074073d94",
+      "detail": "Core - Apply work policies, processes and procedures. "
+    },
+    {
+      "skillId": "93708540-b213-493b-8243-058490e1244e",
+      "detail": "Core - Apply environmental procedures in compliance with regulations, standards and guidelines."
+    },
+    {
+      "skillId": "d6d83986-d534-4157-bf27-d50f7eae29a5",
+      "detail": "Core - Read and interpret technical specifications. "
+    },
+    {
+      "skillId": "b75c036d-5010-47af-8fa1-efa3ffb12994",
+      "detail": "Core - Evaluate the risk and system impact of work options to support business decisions. "
+    },
+    {
+      "skillId": "925a41fe-ecb1-4c25-b937-50e4afe18ee0",
+      "detail": "Core - Complete required documentation for the work activity."
+    },
+    {
+      "skillId": "f97b12e2-d740-4e8e-acd3-9ed8a16ee064",
+      "detail": "Core - Complete technical reports. "
+    },
+    {
+      "skillId": "38c49473-1408-4c3d-8414-70df43d8151a",
+      "detail": "Core - Collect record and interpret internal and external data and information. Use information and data to support business decisions. "
+    },
+    {
+      "skillId": "02af6e5b-30c7-4e91-80e9-f3867c56602f",
+      "detail": "Core - Apply problem solving techniques. "
+    },
+    {
+      "skillId": "009adf90-19d1-4014-9b6b-390d22d0c46f",
+      "detail": "Core - Use continuous improvement principles and techniques. "
+    },
+    {
+      "skillId": "ed178326-4d8f-4f1e-a6a9-82951f33cf55",
+      "detail": "Core - Apply team working principles. "
+    },
+    {
+      "skillId": "9d20a027-9171-466e-b39b-f4b64b98e029",
+      "detail": "Core - Establish and maintain productive working relationships, for example with colleagues, contractors or stakeholders. "
+    },
+    {
+      "skillId": "e7adebcf-6201-40ab-8300-cd2997f5f0eb",
+      "detail": "Core - Communicate verbally and in writing with others for example, colleagues, contractors and stakeholders. Matching technique to audience. "
+    },
+    {
+      "skillId": "cbc00741-50f6-4716-b3c5-d95150a9cb03",
+      "detail": "Core - Use information and digital technology. Comply with GDPR and cyber security regulations and policies. "
+    },
+    {
+      "skillId": "3c9f1d0d-9a5c-4b9d-82b2-c2a4710151db",
+      "detail": "Design engineer - Interpret and apply design standards. "
+    },
+    {
+      "skillId": "84cc021c-8a15-43e9-a81c-20ce81d519c7",
+      "detail": "Design engineer - Interpret site survey to ensure designs are suitable for the intended site. "
+    },
+    {
+      "skillId": "6ffcc44a-3965-4312-b567-16306b70053d",
+      "detail": "Design engineer - Identify safety implications of design options and incorporate protection and control schemes. "
+    },
+    {
+      "skillId": "9d741723-1749-4fd9-838d-f9f50a3c6c4e",
+      "detail": "Design engineer - Interpret project brief. "
+    },
+    {
+      "skillId": "7bdfce65-4a72-4f2b-ac42-3b4b5c890dae",
+      "detail": "Design engineer - Use digital design tools. "
+    },
+    {
+      "skillId": "9f5f296c-192d-4db3-9fda-6ee48890e126",
+      "detail": "Design engineer - Prepare concept feasibility designs, identify the advantages and disadvantages of alternative schemes, identify the optimum scheme and make recommendations. "
+    },
+    {
+      "skillId": "fdf68932-6581-4d11-92b9-7b05cc09bf0f",
+      "detail": "Design engineer - Produce detailed design."
+    },
+    {
+      "skillId": "d8720384-775d-4c60-bb5c-e01cded620d3",
+      "detail": "Design engineer - Ensure designs meet asset security requirements. "
+    },
+    {
+      "skillId": "f3dced37-e22a-485a-969a-0def266bba1b",
+      "detail": "Design engineer - Check designs to ensure network isolation can be achieved. "
+    },
+    {
+      "skillId": "9f856a68-a11f-4e8c-a12c-3497b067b9e1",
+      "detail": "Design engineer - Develop a plant or equipment proposal for the design project, outline the benefits of the proposal. "
+    },
+    {
+      "skillId": "fc262d33-9767-4b31-81ac-17a4a3205fd7",
+      "detail": "Design engineer - Provide technical information needed to support the purchase of equipment and materials."
+    },
+    {
+      "skillId": "4c291461-d81b-49ad-905d-668f0bc7bcbd",
+      "detail": "Planning engineer - Use operational diagrams and identify assets in the network management system. "
+    },
+    {
+      "skillId": "57fad5f2-2050-4cc9-917b-4135185cbaeb",
+      "detail": "Planning engineer - Prioritise types of work, for example outages based on regulatory requirements and targets. Taking into consideration resourcing."
+    },
+    {
+      "skillId": "8d956ab5-c597-479b-b070-f61aea5ead59",
+      "detail": "Planning engineer - Produce or amend outage plans, which consider outage duration, emergency return to service requirements, details of outage and work content (maintenance, asset replacement or scheme delivery). "
+    },
+    {
+      "skillId": "8eda3ac9-4e61-4de7-be9b-af96cf4bfbf4",
+      "detail": "Planning engineer - Manage changes to the outage plan as a result of reprioritisation and trade offs."
+    },
+    {
+      "skillId": "94792850-de21-4b3e-8f40-885be8865f40",
+      "detail": "Planning engineer - Interpret and use outage plans."
+    },
+    {
+      "skillId": "bd20a53d-5dae-45bd-a2dd-38db8be774bf",
+      "detail": "Planning engineer - Follow procedures for confirming assets comply with maintenance requirements."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0164",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Balfour Beatty, Electricity North West Limited (ENWL), Energy and Utility Skills, EUIAS, Loughborough College, National Grid, RWE, Scottish Power, UK Power Networks",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [],
+  "greenJobTitles": [
+    "Electrical design engineer",
+    "Electrical power network planning engineer"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development technical manager",
+  "clusterId": "254",
+  "clusterDescription": "Design and develop whole product and/or process technologies using a specific discipline or technology or application expertise",
+  "createdDate": "2026-10-07T13:10:27 +00:00",
+  "lastUpdated": "2026-10-07T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1507?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1507",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institution of Engineering and Technology (TBC)",
+      "level": "Engineering Technician (TBC)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "2d393a61-13d4-4d6c-b325-b25ccf93d5bf",
+      "dutyDetail": "Communicate complex information and manage relationships with internal and external stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "58fa08a0-bcf1-433f-a8ef-e01ef0e28bf8",
+        "648e7743-195d-4d96-aec0-ebe11fab3d8f"
+      ],
+      "mappedKnowledge": [
+        "ecff3940-f441-4b5b-8d83-ce5de39e3804",
+        "18cda6ab-ca1b-4cee-adb7-d333480510f7",
+        "a21f9869-f251-4c8f-b5dc-323f765ab4d8",
+        "4609ef15-baf5-4a39-aae7-a77023058b5d",
+        "2ccf7ae0-5bc8-4891-9a70-e08d95628473",
+        "1ca83966-93af-4c43-8097-3069444dcdb9",
+        "12067ca5-2fd5-4842-8e08-0a7b15219dfb",
+        "982e17ad-20e1-45fb-bce3-a86c42ca60d6",
+        "3837e4d5-56ca-462e-ac76-fe71fc856a9f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "925a41fe-ecb1-4c25-b937-50e4afe18ee0",
+        "f97b12e2-d740-4e8e-acd3-9ed8a16ee064",
+        "38c49473-1408-4c3d-8414-70df43d8151a",
+        "9d20a027-9171-466e-b39b-f4b64b98e029",
+        "e7adebcf-6201-40ab-8300-cd2997f5f0eb",
+        "cbc00741-50f6-4716-b3c5-d95150a9cb03"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ecd0f113-4e00-4bc0-9373-b388989c035c",
+      "dutyDetail": "Ensure the health and safety of those working on or near the electrical power network.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "07dab9f8-12fc-4bee-b69b-807fb13d4ca4",
+        "58fa08a0-bcf1-433f-a8ef-e01ef0e28bf8",
+        "648e7743-195d-4d96-aec0-ebe11fab3d8f"
+      ],
+      "mappedKnowledge": [
+        "241883c4-7a02-4dda-9712-93b779b3f7c8",
+        "23cc06cc-98c0-4373-91a9-c1ce35de6871",
+        "371ead2e-0cf0-4901-a98f-3888c7e701ed",
+        "89f1558b-3548-4d8e-8500-9bdbd209ff81",
+        "3477c61a-8b4f-4983-bfc9-f6c3d18f58b2",
+        "441adbcc-2e03-43b4-8a86-206e1acf1017",
+        "1ca83966-93af-4c43-8097-3069444dcdb9",
+        "3837e4d5-56ca-462e-ac76-fe71fc856a9f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "766531b2-db37-4ade-8e57-ebf6ea0a549e",
+        "d6e53131-dbc6-40dd-8077-c6314dd2be81",
+        "ed178326-4d8f-4f1e-a6a9-82951f33cf55"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ec7263cf-95ca-474b-a20b-dde7b2cb9e30",
+      "dutyDetail": "Complete design or planning tasks to meet regulatory, environmental and legislative requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "58fa08a0-bcf1-433f-a8ef-e01ef0e28bf8",
+        "30b8ded3-5a81-4b7d-acf5-6d1ca5690b73",
+        "c2e6983a-4459-41f3-9105-62407bb27e54",
+        "648e7743-195d-4d96-aec0-ebe11fab3d8f",
+        "725a449b-875c-4ccb-861c-b5686956e7f2"
+      ],
+      "mappedKnowledge": [
+        "ecff3940-f441-4b5b-8d83-ce5de39e3804",
+        "241883c4-7a02-4dda-9712-93b779b3f7c8",
+        "e43bab56-39ce-4857-941e-71b2a7bd0c23",
+        "ee42ff2f-ad38-4143-836b-2a6589b33303",
+        "23cc06cc-98c0-4373-91a9-c1ce35de6871",
+        "c1bb0820-9da7-42be-a431-d78dc81a2512",
+        "371ead2e-0cf0-4901-a98f-3888c7e701ed",
+        "89f1558b-3548-4d8e-8500-9bdbd209ff81",
+        "3477c61a-8b4f-4983-bfc9-f6c3d18f58b2",
+        "441adbcc-2e03-43b4-8a86-206e1acf1017",
+        "99951b76-6322-4bb2-8960-43b250bada0b",
+        "3e4ee267-cf0d-4907-8d1d-e9410be4e8a9",
+        "16cc3efc-f579-450c-af6a-5d7b31703823",
+        "118014f1-0961-441d-93f7-8cf63dc5746d",
+        "f84c07aa-5eae-457f-ba46-f5f310f1d7e5",
+        "e8d77027-58a9-43df-a7a9-a1aed0ecbc8e",
+        "4609ef15-baf5-4a39-aae7-a77023058b5d",
+        "2ccf7ae0-5bc8-4891-9a70-e08d95628473",
+        "1ca83966-93af-4c43-8097-3069444dcdb9",
+        "982e17ad-20e1-45fb-bce3-a86c42ca60d6",
+        "240ae269-df51-46ea-90a2-cae15e44d834"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cff89bf2-417a-4ce0-8697-8eca4347be99",
+        "00f6426e-f68e-40d9-9073-758d3a19251b",
+        "b9d7b929-7d3d-42aa-aa2a-0f740334c373",
+        "03de9061-5746-4299-8ac1-42e074073d94",
+        "93708540-b213-493b-8243-058490e1244e",
+        "d6d83986-d534-4157-bf27-d50f7eae29a5",
+        "38c49473-1408-4c3d-8414-70df43d8151a",
+        "02af6e5b-30c7-4e91-80e9-f3867c56602f",
+        "ed178326-4d8f-4f1e-a6a9-82951f33cf55",
+        "9d20a027-9171-466e-b39b-f4b64b98e029",
+        "cbc00741-50f6-4716-b3c5-d95150a9cb03"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3e276881-7458-4b2b-87a2-cbd1240d8ee4",
+      "dutyDetail": "Manage risks to the network and implement control measures or contingency planning where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "648e7743-195d-4d96-aec0-ebe11fab3d8f"
+      ],
+      "mappedKnowledge": [
+        "241883c4-7a02-4dda-9712-93b779b3f7c8",
+        "23cc06cc-98c0-4373-91a9-c1ce35de6871",
+        "c1bb0820-9da7-42be-a431-d78dc81a2512",
+        "371ead2e-0cf0-4901-a98f-3888c7e701ed",
+        "441adbcc-2e03-43b4-8a86-206e1acf1017",
+        "99951b76-6322-4bb2-8960-43b250bada0b",
+        "3e4ee267-cf0d-4907-8d1d-e9410be4e8a9",
+        "118014f1-0961-441d-93f7-8cf63dc5746d",
+        "729435bd-b784-476c-81b6-513a91b80aa5",
+        "4609ef15-baf5-4a39-aae7-a77023058b5d",
+        "2ccf7ae0-5bc8-4891-9a70-e08d95628473",
+        "1ca83966-93af-4c43-8097-3069444dcdb9",
+        "240ae269-df51-46ea-90a2-cae15e44d834"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cff89bf2-417a-4ce0-8697-8eca4347be99",
+        "b9d7b929-7d3d-42aa-aa2a-0f740334c373",
+        "93708540-b213-493b-8243-058490e1244e",
+        "b75c036d-5010-47af-8fa1-efa3ffb12994",
+        "02af6e5b-30c7-4e91-80e9-f3867c56602f",
+        "9d20a027-9171-466e-b39b-f4b64b98e029",
+        "cbc00741-50f6-4716-b3c5-d95150a9cb03"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d4bf6dcc-1456-4007-b52c-66a204d93a77",
+      "dutyDetail": "Contribute to the continuous improvement of assets, processes or systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "648e7743-195d-4d96-aec0-ebe11fab3d8f"
+      ],
+      "mappedKnowledge": [
+        "f84c07aa-5eae-457f-ba46-f5f310f1d7e5",
+        "4609ef15-baf5-4a39-aae7-a77023058b5d",
+        "773f13fc-4a21-46d4-a6a6-ec03c4b0b49d",
+        "1ca83966-93af-4c43-8097-3069444dcdb9",
+        "19c553bd-05f2-42fd-b91b-3fb3ce36ab2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "38c49473-1408-4c3d-8414-70df43d8151a",
+        "02af6e5b-30c7-4e91-80e9-f3867c56602f",
+        "009adf90-19d1-4014-9b6b-390d22d0c46f",
+        "9d20a027-9171-466e-b39b-f4b64b98e029"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ac0128fc-f259-4b44-a30f-64942b6ec3fa",
+      "dutyDetail": "Produce concept and feasibility designs and diagrams to meet a project brief.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "18feae3c-4a25-410b-b331-bb3a62e53de0",
+        "4afd88b0-7b5e-4944-8e29-de556edf0b27",
+        "d0e511e0-6999-4403-b44f-e1d6f690c4db",
+        "7bcb0c40-849e-4ab9-9481-32ae2007ad9a",
+        "4e688e5d-4097-441d-9b17-c65a7f709bdc",
+        "2b40da2d-dcb2-4354-88c5-7486ce02f8e4",
+        "0bd7c033-e28f-4949-8712-1798ca2d6483",
+        "bf4bdddb-bf11-462f-9b7f-d17740e926e3"
+      ],
+      "mappedOptions": [
+        "c58744a0-cba1-4950-96e6-decf8c4e9f43"
+      ],
+      "mappedSkills": [
+        "3c9f1d0d-9a5c-4b9d-82b2-c2a4710151db",
+        "84cc021c-8a15-43e9-a81c-20ce81d519c7",
+        "6ffcc44a-3965-4312-b567-16306b70053d",
+        "9d741723-1749-4fd9-838d-f9f50a3c6c4e",
+        "7bdfce65-4a72-4f2b-ac42-3b4b5c890dae",
+        "9f5f296c-192d-4db3-9fda-6ee48890e126"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4af018a4-9b5d-4556-9203-a0817922b0c9",
+      "dutyDetail": "Produce and check detailed designs for network alterations or installations.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "18feae3c-4a25-410b-b331-bb3a62e53de0",
+        "4afd88b0-7b5e-4944-8e29-de556edf0b27",
+        "d0e511e0-6999-4403-b44f-e1d6f690c4db",
+        "7bcb0c40-849e-4ab9-9481-32ae2007ad9a",
+        "4e688e5d-4097-441d-9b17-c65a7f709bdc",
+        "0bd7c033-e28f-4949-8712-1798ca2d6483",
+        "32aedf90-a9bf-40d3-b160-122551cff519"
+      ],
+      "mappedOptions": [
+        "c58744a0-cba1-4950-96e6-decf8c4e9f43"
+      ],
+      "mappedSkills": [
+        "3c9f1d0d-9a5c-4b9d-82b2-c2a4710151db",
+        "84cc021c-8a15-43e9-a81c-20ce81d519c7",
+        "6ffcc44a-3965-4312-b567-16306b70053d",
+        "9d741723-1749-4fd9-838d-f9f50a3c6c4e",
+        "7bdfce65-4a72-4f2b-ac42-3b4b5c890dae",
+        "fdf68932-6581-4d11-92b9-7b05cc09bf0f",
+        "d8720384-775d-4c60-bb5c-e01cded620d3",
+        "f3dced37-e22a-485a-969a-0def266bba1b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "11a1de6c-2a81-4ea6-848a-4578a08b2ec9",
+      "dutyDetail": "Provide proposals and technical information needed for the purchase of equipment and materials.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c43506c6-9198-42bb-a007-edeb73d0bc42"
+      ],
+      "mappedOptions": [
+        "c58744a0-cba1-4950-96e6-decf8c4e9f43"
+      ],
+      "mappedSkills": [
+        "9d741723-1749-4fd9-838d-f9f50a3c6c4e",
+        "9f856a68-a11f-4e8c-a12c-3497b067b9e1",
+        "fc262d33-9767-4b31-81ac-17a4a3205fd7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cc9a7d45-296b-40c3-9e21-d943bce506df",
+      "dutyDetail": "Manage network outage plans and outages.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "f5a9ce52-5f1c-4c66-aea7-7acac0276618",
+        "a07af39e-619e-4703-a603-8edd87ff1b65",
+        "216d74c9-bd30-42e4-b6ba-896eafcaf360",
+        "13db03e5-716b-4327-92a5-bb522b12f257",
+        "930f46ed-e758-4bcf-a43d-4cdfc957a3f5",
+        "2daf843b-aee8-435e-aab5-0d43904f73e0",
+        "c0f284bd-d5fe-458a-88da-51089b2bc99a",
+        "ca237619-92ae-4e54-a1d3-400ddc347de4",
+        "7e705c83-6bb7-4ea4-b30d-9aecffc052e2"
+      ],
+      "mappedOptions": [
+        "f04fa554-5a13-403a-87fb-dd001c8ee2de"
+      ],
+      "mappedSkills": [
+        "4c291461-d81b-49ad-905d-668f0bc7bcbd",
+        "8d956ab5-c597-479b-b070-f61aea5ead59",
+        "8eda3ac9-4e61-4de7-be9b-af96cf4bfbf4",
+        "94792850-de21-4b3e-8f40-885be8865f40",
+        "bd20a53d-5dae-45bd-a2dd-38db8be774bf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0e2f6dc9-1d1a-44d1-9d3a-8e03f3a26b0f",
+      "dutyDetail": "Prioritise tasks based on regulatory requirements, and risk. Update planning and manage changes.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "216d74c9-bd30-42e4-b6ba-896eafcaf360",
+        "9eff7ff6-f61c-45fb-80de-0962d4185d01",
+        "13db03e5-716b-4327-92a5-bb522b12f257",
+        "930f46ed-e758-4bcf-a43d-4cdfc957a3f5",
+        "2daf843b-aee8-435e-aab5-0d43904f73e0",
+        "ca237619-92ae-4e54-a1d3-400ddc347de4",
+        "7e705c83-6bb7-4ea4-b30d-9aecffc052e2",
+        "d9202b37-aa7d-4308-b51d-37303c9e3a0e",
+        "1640df49-150a-4997-9402-9489ecbbb8ab"
+      ],
+      "mappedOptions": [
+        "f04fa554-5a13-403a-87fb-dd001c8ee2de"
+      ],
+      "mappedSkills": [
+        "57fad5f2-2050-4cc9-917b-4135185cbaeb",
+        "8eda3ac9-4e61-4de7-be9b-af96cf4bfbf4",
+        "bd20a53d-5dae-45bd-a2dd-38db8be774bf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "c58744a0-cba1-4950-96e6-decf8c4e9f43",
+      "title": "Design engineer",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "f04fa554-5a13-403a-87fb-dd001c8ee2de",
+      "title": "Planning engineer",
+      "occupationCode": ""
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-10-07T00:00:00"
+}
