@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-17T00:00:00",
+  "changedDate": "2026-09-03T00:00:00",
   "earliestStartDate": "2019-06-14T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Promoting a safe and healthy environment for the public and businesses, through education and enforcement.",
   "level": 6,
@@ -300,7 +300,7 @@
   "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0178 ",
-  "tbMainContact": "health-sciencecare.skillsengland@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "NSF, Manchester City Council, Shield Safety, Dover District Council, Nottingham City Council, Exeter City Council, Luton Borough Council, Cambridge City Council, Epping Forest District Council, Bradford Metropolitan District Council, Chartered Institute for Environmental Health",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -323,7 +323,7 @@
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2019-12-23T09:27:44 +00:00",
-  "lastUpdated": "2023-01-17T00:00:00 +00:00",
+  "lastUpdated": "2026-09-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-06-14T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0714",
@@ -732,5 +732,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-01-17T00:00:00"
+  "publishDate": "2027-09-12T00:00:00"
 }
