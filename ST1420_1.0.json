@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-05-16T00:00:00",
+  "changedDate": "2026-09-09T00:00:00",
   "earliestStartDate": "2025-05-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Hospitality Accommodation Team Member is a multi-skilled occupation in dining and bar, guest services and housekeeping.",
   "level": 2,
@@ -304,7 +304,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0224",
-  "tbMainContact": "charlotte.christie@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Parkdean Resorts UK Ltd, Bourne Leisure (medium), Firmdale, Marriott, James' Places, Dalata Hotel Group, Dakota Hotels,  Intercontinental Hotel Group,  Leonardo Hotels UK and Ireland, The Castle at Taunton, The Inn Collection Group, Whitbread, SSP, Kew Green Hotels, Lakeland Hoteliers Association. ",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -324,7 +324,7 @@
   "clusterId": "78",
   "clusterDescription": "Preparation and serving food and drinks, taking and managing bookings, and managing events",
   "createdDate": "2025-02-18T12:15:24 +00:00",
-  "lastUpdated": "2025-05-16T00:00:00 +00:00",
+  "lastUpdated": "2026-09-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-05-16T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1420",
@@ -828,5 +828,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-05-16T00:00:00"
+  "publishDate": "2027-03-09T00:00:00"
 }
