@@ -1,0 +1,736 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 464,
+  "referenceNumber": "ST0714",
+  "learningAimClassCode": "",
+  "title": "Environmental health practitioner",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0714",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-03T00:00:00",
+  "earliestStartDate": "2027-09-13T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Promoting a safe and healthy environment for the public and businesses, through education and enforcement.",
+  "level": 6,
+  "ePALength": 0,
+  "typicalDuration": 48,
+  "minimumHoursForCompliance": "1114",
+  "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Health and science",
+  "keywords": [
+    "safe",
+    "healthy",
+    "environment",
+    "education",
+    "health",
+    "social care"
+  ],
+  "jobRoles": [
+    "Environmental health officer",
+    "Environmental health practitioner",
+    "Environmental health professional",
+    "Safety auditor",
+    "Food inspector",
+    "Housing officer",
+    "Public protection officer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0714-in-revision?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.3 Health and social care",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;Occupation summary&lt;/h3&gt;\n&lt;p&gt;This occupation is found in the public sector, typically in local authorities, but also in third-party and private businesses. The majority will be employed in local government and in private industry although they may also carry out their duties in a wider range of settings including: central government, consultancies, the NHS, armed services, public health protection, not for profit businesses and charities. They will work in a range of departments in which they will apply their professional knowledge and skills on a range of areas, such as environmental protection, food safety, health and safety at work, housing standards and public health. This occupation could be based locally, regionally, nationally or internationally.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to act as advisers, educators, consultants and enforcement officers, enabling people to live and work in safe, healthy environments. By undertaking a risk-based approach, Environmental Health Practitioners (EHPs) will promote a safe and healthy environment for the public and businesses, through education and enforcement. For example, inspecting food premises and workplaces for food safety and health and safety compliance, monitoring air quality, undertaking emergency interventions, investigating food fraud, safety and noise control at large events, dealing with rogue landlords, investigating food poisoning outbreaks, licensing tattoo parlours and investigating accidents at work. They work in a range of environments and will spend much of their time out in the community with businesses and the public. They may have to work evenings and weekends to meet the job needs. EHPs may specialise in one of the following areas, or deal with them all:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Environmental protection including noise, nuisance, air, water and land pollution&lt;/li&gt;\n&lt;li&gt;Food safety: auditing, inspection and education&lt;/li&gt;\n&lt;li&gt;Health and safety at work: auditing, inspection and education&lt;/li&gt;\n&lt;li&gt;Private sector housing including standards: houses in multiple occupation (HMOs), licensing, inspecting&lt;/li&gt;\n&lt;li&gt;Public health including infectious disease control, smoke free legislation&lt;/li&gt;\n&lt;li&gt;Port health: sampling, inspecting and controlling imported foods&lt;/li&gt;\n&lt;li&gt;Training eg. delivering food safety/health and safety courses/mentoring&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a variety of stakeholders including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;the public&lt;/li&gt;\n&lt;li&gt;clients&lt;/li&gt;\n&lt;li&gt;local and/or national businesses&lt;/li&gt;\n&lt;li&gt;elected members&lt;/li&gt;\n&lt;li&gt;property owners&lt;/li&gt;\n&lt;li&gt;local and national government agencies and departments&lt;/li&gt;\n&lt;li&gt;partners, such as the police and fire service.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Typically working remotely or from an office base, EHPs will spend much of their time out in the community with businesses and the public. They work in a range of settings from residential situations to highly dangerous conditions, mainly in commercial and industrial settings. EHPs will work in situations where there is potential for conflict. They will provide expert, professional and technical advice to other council departments, external organisations, members of the public and businesses. They will attend council committees, courts of law, tribunals, public meetings etc. related to the prime objectives of the role.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working independently with a high level of autonomy and as part of a wider team. EHPs will plan, organise and prioritise their own case load, typically reporting to a line manager. They will work largely unsupervised and will be expected to exercise initiative and professional judgement, often being required to make quick decisions. They will work to ensure that outcomes and objectives are achieved within desired timescales. They may be responsible for the following resources: safety equipment, sampling equipment, measuring equipment, photographic and video equipment and electronic equipment. This includes the management of any chains of evidence collected. They will also be responsible for sensitive and personal information. EHPs may be expected to supervise technical staff and students. EHPs should demonstrate a commitment to their own continuing professional development.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Typical job titles&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Environmental Health Officer, Environmental Health Practitioner, Environmental Health Professional, Safety Auditor, Food Inspector, Housing Officer, Public Protection Officer&lt;/p&gt;\n&lt;h3&gt;Entry requirements&lt;/h3&gt;\n&lt;p&gt;Employers and universities will determine their own entry requirements; typically, this will be 3 A Levels or equivalent.&lt;/p&gt;\n&lt;h3&gt;Occupation duties&lt;/h3&gt;\n&lt;table width=&quot;100%&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;h4&gt;&lt;span&gt;Duty&lt;/span&gt;&lt;/h4&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;h4&gt;&lt;span&gt;Criteria for measuring performance&lt;/span&gt;&lt;/h4&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;h4&gt;&lt;span&gt;KSBs&lt;/span&gt;&lt;/h4&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Provide informed professional technical / specialist advice and guidance to a range of stakeholders on environmental health matters including health and safety, food safety, private sector housing, environmental protection and public health&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; Effective communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K2 K3 K8 K22 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S7 S8 S16 S17 S19 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;span&gt; B3 B5 B6 B9 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Communicate with a range of stakeholders using a range of methods and tools&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Effective communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K8 K22 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S4&lt;span&gt; S5 S7 S17 S19 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt; B5 B6 B8 B9 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Collaborate with partner agencies to ensure effective environmental health interventions&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; Effective communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K5&lt;span&gt; K8 K23 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S5&lt;span&gt; S7 S17 S19 S23 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B3 B5 B8 B9 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Inspect and audit premises, vehicles, processes etc and carry out other forms of intervention&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; In line with policies, procedures and codes of practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K4&lt;span&gt; K5 K6 K10 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt; S6 S8 S12 S13 S17 S21 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B5 B6 B7 B8 B9 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify hazards, assess risks to human health and communicate solutions on a range of environmental health matters&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; Effective communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K10&lt;span&gt; K11 K14 K15 K17 K18 K19 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S5&lt;span&gt; S6 S9 S13 S17 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B5&lt;span&gt; B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Lead investigations across the range of environmental health matters and take appropriate follow up action in line with statutory requirements&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K4&lt;span&gt; K5 K6 K8 K9 K10 K20 K24 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt; S8 S12 S19 S20 S21 S23 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B5&lt;span&gt; B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Obtain and analyse scientific data and interpret results in accordance with relevant standards to determine corrective action&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K5&lt;span&gt; K9 K21 K24 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S9&lt;span&gt; S10 S11 S21 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B5&lt;span&gt; B6 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify instances of non-compliance with environmental health legislation and determine the most appropriate action which may include enforcement&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; In line with policies, procedures and codes of practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K2&lt;span&gt; K3 K4 K5 K6 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt; S5 S6 S7 S12 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt; B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify and investigate complaints relating to environmental health&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; Effective communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K4&lt;span&gt; K8 K13 K15 K23 K25 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt; S14 S19 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt; B5 B6 B7 B8 B9 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Apply a range of analytical and problem-solving techniques to resolve environmental health issues&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Accuracy; Successful resolution of environmental health issue&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K2 K3 K10 K25 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S8&lt;span&gt; S10 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt; B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Assess, interpret, issue and monitor relevant licence and registration requirements including environmental permits&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; In line with policies, procedures and codes of practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K2&lt;span&gt; K7 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt; S19 S22 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt; B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Act as a consultee in relation to planning and licensing applications&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K7&lt;span&gt; K8 K9 K12 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S3 S4 S5 S6 S10 S13 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt; B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 13&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Act as an advocate for promoting and improving the health, safety and wellbeing of the public&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Excellent interpersonal skills&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K3 K8 K16 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S15&lt;span&gt; S17 S19 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 B6 B7 B8 B9 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Maintain accurate records and produce reports, including the preparation of evidence for court, where appropriate&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K2&lt;span&gt; K6 K9 K24 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S13&lt;span&gt; S18 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt; B5 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h2&gt;KSBs&lt;/h2&gt;\n&lt;h3&gt;Knowledge&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K1:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The complex political and corporate environment in which the organisation operates and own role in this&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K2:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The legislative framework and technical application of relevant Acts, regulations, guidance and codes of practice eg. the Environment Act, Environmental Protection Act, the Health and Safety at Work Act, Public Health Acts, Building Act, Food Hygiene Regulations, Housing Acts, Police and Criminal Evidence Act, data protection legislation, anti-social behaviour legislation etc&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K3:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The role of the environmental health service in leading on and contributing to the wider public health agenda and the health, safety and wellbeing of local communities&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K4:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The procedures and practices involved with carrying out evidence and risk-based inspections, audits and investigations&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K5:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The full range of statutory and non-statutory interventions to control, mitigate and reduce risk&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K6:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The procedures and practices involved in taking a range of enforcement actions&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K7:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The procedures and practices involved with granting permits, licences and authorisations&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K8:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; How to liaise and communicate appropriately with a variety of sources including clients, partner agencies, the public and the media&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K9:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The relevance and interpretation of complex/scientific reports, technical guidance, analytical data, research and other forms of evidence&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K10:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The concepts of hazard analysis and risk assessment and their practical application in environmental health&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K11:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Concepts relating to the natural world, its key biological and ecological systems and how this may affect and be affected by humans; sustainability of resources and their impact on climate and health&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K12:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The human world and communities; human made structures, industry and services&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K13:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; How social, cultural, emotional and psychological factors influence environmental health and the health of the public&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K14:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Concepts of health and disease and how these are measured and assessed&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K15:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Environmental stressors and how they impact on different environments and communities&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K16:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The impact of lifestyle choices on the health of individuals and communities&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K17:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The principles of environmental microbiology&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K18:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Theories of epidemiology of a range of communicable and non-communicable diseases and their practical application in environmental health&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K19:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Anatomy and physiology and how human function can be affected by biological, toxicological and mechanical effects&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K20:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The concepts and principles of leadership and application to own practice&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K21:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; A range of quantitative and qualitative data gathering methods and how to appraise and select the optimum method&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K22:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The limits of own scope of practice and when to seek advice from others&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K23:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Principles of safeguarding and how to apply them to self and others&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K24:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The principles of collecting evidence for monitoring, investigations and enforcement purposes including seizure and detention powers, formal sampling procedures and exhibit referencing&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K25:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Techniques to investigate and resolve complaints&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Skills&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Provide specialist, professional and technical environmental health advice and guidance to a range of stakeholders such as residents, businesses, property owners, government agencies and partners&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Plan, undertake and lead inspections, audits and other forms of investigations across the breadth of environmental health matters&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Evaluate applications and grant relevant licences and permits eg. environmental permits, HMOs, caravan sites, skin piercing, tattooists etc&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Negotiate with and influence a range of stakeholders in relation to a range of environmental health matters&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify, evaluate and communicate environmental health risks and risk management solutions to a range of stakeholders&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Ensure all activities are undertaken in accordance with relevant legislation, guidance and codes of practice&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Infer and apply a range of legislation related to environmental health, eg. the Environment Act, Environmental Protection Act, the Health and Safety at Work Act, Food Safety Act, Housing Act, Public Health Act, Police and Criminal Evidence Act, data protection legislation, anti-social behaviour legislation etc&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Employ a range of research, analytical and problem-solving techniques to resolve environmental health issues through creative and critical thinking, devising practical solutions and applying problem solving strategies&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Critically evaluate and analyse evidence and information&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Formulate judgements and decisions based on the evidence available and applied knowledge eg. on acceptable levels of pollution emissions, water data, acceptable levels of noise etc&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Manage objective measurement and analysis of scientific information to determine the appropriate course of action eg. noise measurement, air emissions etc&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Appraise, implement and communicate relevant interventions eg. enforcement actions&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S13&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Produce accurate records and reports and where appropriate, recommend interventions, including the collection and handling of evidence with a view towards legal proceedings&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Assess and deal effectively with difficult and confrontational situations&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S15&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Participate in health promotional activities in high priority environmental health areas eg. shisha, smoking, obesity, food safety etc&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S16&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Implement effective decision making, exercising discretion, initiative and independence within the scope of own role&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S17&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Communicate and influence effectively with a diverse range of stakeholders including spoken and written communication skills, presentation skills, giving advice and guidance / mediating / negotiating and persuading, handling private and sensitive information (eg. data protection)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S18&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Use a range of standard IT packages to undertake for example, word processing activities, produce reports and input / analyse data&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S19&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work as part of a multi-disciplinary and/or multi-organisational team and collaborate to achieve successful outcomes&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S20&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Lead activities relating to environmental health matters&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S21&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Carry out sampling and collect evidence for monitoring, investigations and/or enforcement purposes in accordance with legislation and current guidance&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S22&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Examine and assess compliance with conditions&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S23&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Plan, organise and prioritise workload to meet deadlines&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Behaviour&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;strong&gt;B1:&lt;/strong&gt; Be positive, creative and innovative within complex environments in professional practice&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B2:&lt;/strong&gt; Be adaptive to a changing operational and political environment&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B3:&lt;/strong&gt; Be collaborative with a diverse range of stakeholders&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B4:&lt;/strong&gt; Be self-motivated and committed to leading own professional development&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B5:&lt;/strong&gt; Be assertive in appropriate situations to communicate and influence effectively&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B6:&lt;/strong&gt; Show discretion in professional practice&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B7:&lt;/strong&gt; Be resilient and self-aware&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B8:&lt;/strong&gt; Operate with dignity and respect, maintaining impartiality/fairness/equality&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B9:&lt;/strong&gt; Champion own organisation’s values and goals&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;English and Maths qualifications&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&amp;nbsp;&amp;nbsp;For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose&amp;nbsp;primary language is BSL.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Other qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Mandatory qualification 1: BSc (Hons) degree in Environmental Health/BSc (Hons) degree in Environmental Science&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Level of qualification: &lt;/span&gt;&lt;/strong&gt;6 (integrated degree)&lt;/p&gt;\n&lt;h3&gt;Professional recognition&lt;/h3&gt;\n&lt;p&gt;The Chartered Institute of Environmental Health&lt;span&gt; / Membership&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Additional details&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Occupational Level:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; 6&lt;br&gt;&lt;/span&gt;&lt;strong&gt;Duration (months):&lt;/strong&gt; 48&lt;/p&gt;\n&lt;h3&gt;Review&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the public sector, typically in local authorities, but also in third-party and private businesses. The majority will be employed in local government and in private industry although they may also carry out their duties in a wider range of settings including: central government, consultancies, the NHS, armed services, public health protection, not for profit businesses and charities. They will work in a range of departments in which they will apply their professional knowledge and skills on a range of areas, such as environmental protection, food safety, health and safety at work, housing standards and public health. This occupation could be based locally, regionally, nationally or internationally.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to act as advisers, educators, consultants and enforcement officers, enabling people to live and work in safe, healthy environments. By undertaking a risk-based approach, Environmental Health Practitioners (EHPs) will promote a safe and healthy environment for the public and businesses, through education and enforcement. For example, inspecting food premises and workplaces for food safety and health and safety compliance, monitoring air quality, undertaking emergency interventions, investigating food fraud, safety and noise control at large events, dealing with rogue landlords, investigating food poisoning outbreaks, licensing tattoo parlours and investigating accidents at work. They work in a range of environments and will spend much of their time out in the community with businesses and the public. They may have to work evenings and weekends to meet the job needs. EHPs may specialise in one of the following areas, or deal with them all:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Environmental protection including noise, nuisance, air, water and land pollution&lt;/li&gt;\n&lt;li&gt;Food safety: auditing, inspection and education&lt;/li&gt;\n&lt;li&gt;Health and safety at work: auditing, inspection and education&lt;/li&gt;\n&lt;li&gt;Private sector housing including standards: houses in multiple occupation (HMOs), licensing, inspecting&lt;/li&gt;\n&lt;li&gt;Public health including infectious disease control, smoke free legislation&lt;/li&gt;\n&lt;li&gt;Port health: sampling, inspecting and controlling imported foods&lt;/li&gt;\n&lt;li&gt;Training eg. delivering food safety/health and safety courses/mentoring&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a variety of stakeholders including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;the public&lt;/li&gt;\n&lt;li&gt;clients&lt;/li&gt;\n&lt;li&gt;local and/or national businesses&lt;/li&gt;\n&lt;li&gt;elected members&lt;/li&gt;\n&lt;li&gt;property owners&lt;/li&gt;\n&lt;li&gt;local and national government agencies and departments&lt;/li&gt;\n&lt;li&gt;partners, such as the police and fire service.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Typically working remotely or from an office base, EHPs will spend much of their time out in the community with businesses and the public. They work in a range of settings from residential situations to highly dangerous conditions, mainly in commercial and industrial settings. EHPs will work in situations where there is potential for conflict. They will provide expert, professional and technical advice to other council departments, external organisations, members of the public and businesses. They will attend council committees, courts of law, tribunals, public meetings etc. related to the prime objectives of the role.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working independently with a high level of autonomy and as part of a wider team. EHPs will plan, organise and prioritise their own case load, typically reporting to a line manager. They will work largely unsupervised and will be expected to exercise initiative and professional judgement, often being required to make quick decisions. They will work to ensure that outcomes and objectives are achieved within desired timescales. They may be responsible for the following resources: safety equipment, sampling equipment, measuring equipment, photographic and video equipment and electronic equipment. This includes the management of any chains of evidence collected. They will also be responsible for sensitive and personal information. EHPs may be expected to supervise technical staff and students. EHPs should demonstrate a commitment to their own continuing professional development.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "4ca628f6-b5f3-4f7b-8cc8-fd5a53cbe85f",
+      "detail": "The complex political and corporate environment in which the organisation operates and own role in this"
+    },
+    {
+      "knowledgeId": "980e979b-3952-4d58-92c8-f1224206e515",
+      "detail": "The legislative framework and technical application of relevant Acts, regulations, guidance and codes of practice eg. the Environment Act, Environmental Protection Act, the Health and Safety at Work Act, Public Health Acts, Building Act, Food Hygiene Regulations, Housing Acts, Police and Criminal Evidence Act, data protection legislation, anti-social behaviour legislation etc"
+    },
+    {
+      "knowledgeId": "71f26c8d-b12d-4cf8-8b6c-8de19ecc9f57",
+      "detail": "The role of the environmental health service in leading on and contributing to the wider public health agenda and the health, safety and wellbeing of local communities"
+    },
+    {
+      "knowledgeId": "e0f6688d-4883-4cf8-aca3-4993dee1d540",
+      "detail": "The procedures and practices involved with carrying out evidence and risk-based inspections, audits and investigations"
+    },
+    {
+      "knowledgeId": "3c2748fc-1095-445e-a008-2fff638c71a9",
+      "detail": "The full range of statutory and non-statutory interventions to control, mitigate and reduce risk"
+    },
+    {
+      "knowledgeId": "f2a51e32-b5a3-457a-9130-45fb36d2e7d7",
+      "detail": "The procedures and practices involved in taking a range of enforcement actions"
+    },
+    {
+      "knowledgeId": "ec13d5ba-cc20-46b9-bd73-6f3c7323bb07",
+      "detail": "The procedures and practices involved with granting permits, licences and authorisations"
+    },
+    {
+      "knowledgeId": "9befde68-c346-4512-8600-c7bbb98e9966",
+      "detail": "How to liaise and communicate appropriately with a variety of sources including clients, partner agencies, the public and the media"
+    },
+    {
+      "knowledgeId": "aaabf6b4-a851-4f1b-970f-fe1b0a0e1f49",
+      "detail": "The relevance and interpretation of complex/scientific reports, technical guidance, analytical data, research and other forms of evidence"
+    },
+    {
+      "knowledgeId": "f95c9769-0995-49c5-88b8-133db4d72109",
+      "detail": "The concepts of hazard analysis and risk assessment and their practical application in environmental health"
+    },
+    {
+      "knowledgeId": "955ca3c8-bcbb-4534-a2d6-6425cf60e4f2",
+      "detail": "Concepts relating to the natural world, its key biological and ecological systems and how this may affect and be affected by humans; sustainability of resources and their impact on climate and health"
+    },
+    {
+      "knowledgeId": "3f2a4811-ea34-4e1e-afce-f8cfa3ec509c",
+      "detail": "The human world and communities; human made structures, industry and services"
+    },
+    {
+      "knowledgeId": "99263a7e-ee12-4ba6-b1d0-804185c10175",
+      "detail": "How social, cultural, emotional and psychological factors influence environmental health and the health of the public"
+    },
+    {
+      "knowledgeId": "8a95d64c-f9cf-4306-87f8-1dd29a7da89d",
+      "detail": "Concepts of health and disease and how these are measured and assessed"
+    },
+    {
+      "knowledgeId": "dd986c33-3653-4975-b4b7-85f79f5b9058",
+      "detail": "Environmental stressors and how they impact on different environments and communities"
+    },
+    {
+      "knowledgeId": "934c9abf-cfdd-4603-8468-4fb55e829e35",
+      "detail": "The impact of lifestyle choices on the health of individuals and communities"
+    },
+    {
+      "knowledgeId": "27a60ee3-83cb-4090-b71c-710c03c0c083",
+      "detail": "The principles of environmental microbiology"
+    },
+    {
+      "knowledgeId": "1c72cbf3-c7a8-4b2d-9bf8-3ff778bceee4",
+      "detail": "Theories of epidemiology of a range of communicable and non-communicable diseases and their practical application in environmental health"
+    },
+    {
+      "knowledgeId": "5a271f72-e670-42cb-a666-5a176ee6eba1",
+      "detail": "Anatomy and physiology and how human function can be affected by biological, toxicological and mechanical effects"
+    },
+    {
+      "knowledgeId": "d4f4b565-f1d8-4c0d-b340-600a74bb2605",
+      "detail": "The concepts and principles of leadership and application to own practice"
+    },
+    {
+      "knowledgeId": "6665a343-e917-4b88-8ab9-282a7be57382",
+      "detail": "A range of quantitative and qualitative data gathering methods and how to appraise and select the optimum method"
+    },
+    {
+      "knowledgeId": "ab68bce3-d9ed-4c82-821a-36e4b2e11fba",
+      "detail": "The limits of own scope of practice and when to seek advice from others"
+    },
+    {
+      "knowledgeId": "356d47bb-b258-4b6b-9336-76a941db9300",
+      "detail": "Principles of safeguarding and how to apply them to self and others"
+    },
+    {
+      "knowledgeId": "aa112698-9dc7-46a4-a1d6-711c7801ea62",
+      "detail": "The principles of collecting evidence for monitoring, investigations and enforcement purposes including seizure and detention powers, formal sampling procedures and exhibit referencing"
+    },
+    {
+      "knowledgeId": "2c57fe4a-f499-4506-9ed8-aa5b8ef2bc6f",
+      "detail": "Techniques to investigate and resolve complaints"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "c7310334-549e-4e72-a8be-97e6d8f7ef17",
+      "detail": "Be positive, creative and innovative within complex environments in professional practice"
+    },
+    {
+      "behaviourId": "544caa4f-c44c-4911-a6f2-7cc1ab75da77",
+      "detail": "Be adaptive to a changing operational and political environment"
+    },
+    {
+      "behaviourId": "80c3b27c-984f-4ac2-822e-030b86c5b061",
+      "detail": "Be collaborative with a diverse range of stakeholders"
+    },
+    {
+      "behaviourId": "cb40da68-a66f-4b10-84c6-f5cd41d77532",
+      "detail": "Be self-motivated and committed to leading own professional development"
+    },
+    {
+      "behaviourId": "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+      "detail": "Be assertive in appropriate situations to communicate and influence effectively"
+    },
+    {
+      "behaviourId": "45622a4c-df49-4d33-b82a-7143f368b7a4",
+      "detail": "Show discretion in professional practice"
+    },
+    {
+      "behaviourId": "99fff73d-eafa-4310-bebd-22567f4e39f0",
+      "detail": "Be resilient and self-aware"
+    },
+    {
+      "behaviourId": "ee2cdf59-561b-423b-8c29-0f8e093ccc5d",
+      "detail": "Operate with dignity and respect, maintaining impartiality/fairness/equality"
+    },
+    {
+      "behaviourId": "d01c051e-f359-46b2-bafe-314e83c722e8",
+      "detail": "Champion own organisation’s values and goals"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "4a5da16d-2fde-4dce-a82a-d5545237cdf8",
+      "detail": "Provide specialist, professional and technical environmental health advice and guidance to a range of stakeholders such as residents, businesses, property owners, government agencies and partners"
+    },
+    {
+      "skillId": "51889405-3ad1-43b6-bc00-70d50ec78e32",
+      "detail": "Plan, undertake and lead inspections, audits and other forms of investigations across the breadth of environmental health matters"
+    },
+    {
+      "skillId": "e2526a98-75ab-483c-aaea-e072c7ca36d4",
+      "detail": "Evaluate applications and grant relevant licences and permits eg. environmental permits, HMOs, caravan sites, skin piercing, tattooists etc"
+    },
+    {
+      "skillId": "ccfc8c99-2787-47a3-a289-4114f90de2b0",
+      "detail": "Negotiate with and influence a range of stakeholders in relation to a range of environmental health matters"
+    },
+    {
+      "skillId": "520f6916-51ed-41ee-a866-f353670f5cee",
+      "detail": "Identify, evaluate and communicate environmental health risks and risk management solutions to a range of stakeholders"
+    },
+    {
+      "skillId": "ec5ccfa9-b5d3-45c4-8905-2657672330cc",
+      "detail": "Ensure all activities are undertaken in accordance with relevant legislation, guidance and codes of practice"
+    },
+    {
+      "skillId": "4ebe3eba-6b0d-4ada-b9b6-80b9c492904b",
+      "detail": "Infer and apply a range of legislation related to environmental health, eg. the Environment Act, Environmental Protection Act, the Health and Safety at Work Act, Food Safety Act, Housing Act, Public Health Act, Police and Criminal Evidence Act, data protection legislation, anti-social behaviour legislation etc"
+    },
+    {
+      "skillId": "4720f28c-0384-46ef-b475-34baaa7c6106",
+      "detail": "Employ a range of research, analytical and problem-solving techniques to resolve environmental health issues through creative and critical thinking, devising practical solutions and applying problem solving strategies"
+    },
+    {
+      "skillId": "bb870d8d-a013-4f00-a4fd-3294d15ce11b",
+      "detail": "Critically evaluate and analyse evidence and information"
+    },
+    {
+      "skillId": "d3683171-02e1-47e7-807b-51495f2b100b",
+      "detail": "Formulate judgements and decisions based on the evidence available and applied knowledge eg. on acceptable levels of pollution emissions, water data, acceptable levels of noise etc"
+    },
+    {
+      "skillId": "7e1cb4a7-2060-4636-a7ba-1b0d4ad40c3d",
+      "detail": "Manage objective measurement and analysis of scientific information to determine the appropriate course of action eg. noise measurement, air emissions etc"
+    },
+    {
+      "skillId": "97590f07-dc4f-47a4-a324-9f3c51b69ee1",
+      "detail": "Appraise, implement and communicate relevant interventions eg. enforcement actions"
+    },
+    {
+      "skillId": "fb664661-c349-4e00-9ca6-e1b4c670bab5",
+      "detail": "Produce accurate records and reports and where appropriate, recommend interventions, including the collection and handling of evidence with a view towards legal proceedings"
+    },
+    {
+      "skillId": "b7567417-e46c-4125-aee8-2190de2db272",
+      "detail": "Assess and deal effectively with difficult and confrontational situations"
+    },
+    {
+      "skillId": "a74a301b-f679-4df1-906c-b66275cd97e8",
+      "detail": "Participate in health promotional activities in high priority environmental health areas eg. shisha, smoking, obesity, food safety etc"
+    },
+    {
+      "skillId": "e99abc25-3806-4202-ad2b-f63f21fe7159",
+      "detail": "Implement effective decision making, exercising discretion, initiative and independence within the scope of own role"
+    },
+    {
+      "skillId": "4f9565a4-6ca7-494b-b9a1-92a4c4cc61bf",
+      "detail": "Communicate and influence effectively with a diverse range of stakeholders including spoken and written communication skills, presentation skills, giving advice and guidance / mediating / negotiating and persuading, handling private and sensitive information (eg. data protection)"
+    },
+    {
+      "skillId": "877fb49c-cb46-41ef-b264-9e078357a865",
+      "detail": "Use a range of standard IT packages to undertake for example, word processing activities, produce reports and input / analyse data"
+    },
+    {
+      "skillId": "ecd66ee4-3308-4779-b0fd-60d83ab7fa80",
+      "detail": "Work as part of a multi-disciplinary and/or multi-organisational team and collaborate to achieve successful outcomes"
+    },
+    {
+      "skillId": "b1f46dd1-0c31-400a-a0e3-be456fe7a23d",
+      "detail": "Lead activities relating to environmental health matters"
+    },
+    {
+      "skillId": "41781fdd-6624-47af-9946-7980f55a285f",
+      "detail": "Carry out sampling and collect evidence for monitoring, investigations and/or enforcement purposes in accordance with legislation and current guidance"
+    },
+    {
+      "skillId": "50f53e19-904e-4289-bf2b-42f44bd7a1b3",
+      "detail": "Examine and assess compliance with conditions"
+    },
+    {
+      "skillId": "f4e9b0b9-9da2-4aae-a44f-dcd3f0dc1396",
+      "detail": "Plan, organise and prioritise workload to meet deadlines"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "NSF, Manchester City Council, Shield Safety, Dover District Council, Nottingham City Council, Exeter City Council, Luton Borough Council, Cambridge City Council, Epping Forest District Council, Bradford Metropolitan District Council, Chartered Institute for Environmental Health",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Environmental health officer",
+    "Environmental health practitioner",
+    "Environmental health professional",
+    "Safety auditor",
+    "Food inspector",
+    "Housing officer",
+    "Public protection officer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Health",
+  "cluster": "Health professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
+  "createdDate": "2026-09-03T10:03:58 +00:00",
+  "lastUpdated": "2026-09-03T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-06-14T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0714",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0714-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0714-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "10403fdb-b1b2-47ea-ad45-ab14046eb324",
+      "title": "BSc (Hons) degree in Environmental Health/BSc (Hons) degree in Environmental Science",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Chartered Institute of Environmental Health",
+      "level": "Membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "d8841777-eacc-4409-8e51-49f228f2b00d",
+      "dutyDetail": "Provide informed professional technical / specialist advice and guidance to a range of stakeholders on environmental health matters including health and safety, food safety, private sector housing, environmental protection and public health",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "544caa4f-c44c-4911-a6f2-7cc1ab75da77",
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "d01c051e-f359-46b2-bafe-314e83c722e8"
+      ],
+      "mappedKnowledge": [
+        "4ca628f6-b5f3-4f7b-8cc8-fd5a53cbe85f",
+        "980e979b-3952-4d58-92c8-f1224206e515",
+        "71f26c8d-b12d-4cf8-8b6c-8de19ecc9f57",
+        "9befde68-c346-4512-8600-c7bbb98e9966",
+        "ab68bce3-d9ed-4c82-821a-36e4b2e11fba"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4a5da16d-2fde-4dce-a82a-d5545237cdf8",
+        "4ebe3eba-6b0d-4ada-b9b6-80b9c492904b",
+        "4720f28c-0384-46ef-b475-34baaa7c6106",
+        "e99abc25-3806-4202-ad2b-f63f21fe7159",
+        "4f9565a4-6ca7-494b-b9a1-92a4c4cc61bf",
+        "ecd66ee4-3308-4779-b0fd-60d83ab7fa80"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation;\nEffective communication"
+    },
+    {
+      "dutyID": "eefa71fb-3e48-4909-9a31-ddf026b81984",
+      "dutyDetail": "Communicate with a range of stakeholders using a range of methods and tools",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d",
+        "d01c051e-f359-46b2-bafe-314e83c722e8"
+      ],
+      "mappedKnowledge": [
+        "4ca628f6-b5f3-4f7b-8cc8-fd5a53cbe85f",
+        "9befde68-c346-4512-8600-c7bbb98e9966",
+        "ab68bce3-d9ed-4c82-821a-36e4b2e11fba"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ccfc8c99-2787-47a3-a289-4114f90de2b0",
+        "520f6916-51ed-41ee-a866-f353670f5cee",
+        "4ebe3eba-6b0d-4ada-b9b6-80b9c492904b",
+        "4f9565a4-6ca7-494b-b9a1-92a4c4cc61bf",
+        "ecd66ee4-3308-4779-b0fd-60d83ab7fa80"
+      ],
+      "criteriaForMeasuringPerformance": "Effective communication"
+    },
+    {
+      "dutyID": "ff3f5ece-f681-4a8f-9eb6-82db8e7bbc22",
+      "dutyDetail": "Collaborate with partner agencies to ensure effective environmental health interventions",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c7310334-549e-4e72-a8be-97e6d8f7ef17",
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d",
+        "d01c051e-f359-46b2-bafe-314e83c722e8"
+      ],
+      "mappedKnowledge": [
+        "3c2748fc-1095-445e-a008-2fff638c71a9",
+        "9befde68-c346-4512-8600-c7bbb98e9966",
+        "356d47bb-b258-4b6b-9336-76a941db9300"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "520f6916-51ed-41ee-a866-f353670f5cee",
+        "4ebe3eba-6b0d-4ada-b9b6-80b9c492904b",
+        "4f9565a4-6ca7-494b-b9a1-92a4c4cc61bf",
+        "ecd66ee4-3308-4779-b0fd-60d83ab7fa80",
+        "f4e9b0b9-9da2-4aae-a44f-dcd3f0dc1396"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation;\nEffective communication"
+    },
+    {
+      "dutyID": "cac188f6-977b-4d0f-a0f9-8eaaf1e0867c",
+      "dutyDetail": "Inspect and audit premises, vehicles, processes etc and carry out other forms of intervention",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c7310334-549e-4e72-a8be-97e6d8f7ef17",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "99fff73d-eafa-4310-bebd-22567f4e39f0",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d",
+        "d01c051e-f359-46b2-bafe-314e83c722e8"
+      ],
+      "mappedKnowledge": [
+        "e0f6688d-4883-4cf8-aca3-4993dee1d540",
+        "3c2748fc-1095-445e-a008-2fff638c71a9",
+        "f2a51e32-b5a3-457a-9130-45fb36d2e7d7",
+        "f95c9769-0995-49c5-88b8-133db4d72109"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "51889405-3ad1-43b6-bc00-70d50ec78e32",
+        "ec5ccfa9-b5d3-45c4-8905-2657672330cc",
+        "4720f28c-0384-46ef-b475-34baaa7c6106",
+        "97590f07-dc4f-47a4-a324-9f3c51b69ee1",
+        "fb664661-c349-4e00-9ca6-e1b4c670bab5",
+        "4f9565a4-6ca7-494b-b9a1-92a4c4cc61bf",
+        "41781fdd-6624-47af-9946-7980f55a285f"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation; In line with policies, procedures and codes of practice"
+    },
+    {
+      "dutyID": "fa2ab7a0-36ae-4905-a28c-4e4eb4b156e1",
+      "dutyDetail": "Identify hazards, assess risks to human health and communicate solutions on a range of environmental health matters",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d"
+      ],
+      "mappedKnowledge": [
+        "f95c9769-0995-49c5-88b8-133db4d72109",
+        "955ca3c8-bcbb-4534-a2d6-6425cf60e4f2",
+        "8a95d64c-f9cf-4306-87f8-1dd29a7da89d",
+        "dd986c33-3653-4975-b4b7-85f79f5b9058",
+        "27a60ee3-83cb-4090-b71c-710c03c0c083",
+        "1c72cbf3-c7a8-4b2d-9bf8-3ff778bceee4",
+        "5a271f72-e670-42cb-a666-5a176ee6eba1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "520f6916-51ed-41ee-a866-f353670f5cee",
+        "ec5ccfa9-b5d3-45c4-8905-2657672330cc",
+        "bb870d8d-a013-4f00-a4fd-3294d15ce11b",
+        "fb664661-c349-4e00-9ca6-e1b4c670bab5",
+        "4f9565a4-6ca7-494b-b9a1-92a4c4cc61bf"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation;\nEffective communication"
+    },
+    {
+      "dutyID": "2319d9d1-f87b-42a7-91f8-809629bf6e0d",
+      "dutyDetail": "Lead investigations across the range of environmental health matters and take appropriate follow up action in line with statutory requirements",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d"
+      ],
+      "mappedKnowledge": [
+        "e0f6688d-4883-4cf8-aca3-4993dee1d540",
+        "3c2748fc-1095-445e-a008-2fff638c71a9",
+        "f2a51e32-b5a3-457a-9130-45fb36d2e7d7",
+        "9befde68-c346-4512-8600-c7bbb98e9966",
+        "aaabf6b4-a851-4f1b-970f-fe1b0a0e1f49",
+        "f95c9769-0995-49c5-88b8-133db4d72109",
+        "d4f4b565-f1d8-4c0d-b340-600a74bb2605",
+        "aa112698-9dc7-46a4-a1d6-711c7801ea62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "51889405-3ad1-43b6-bc00-70d50ec78e32",
+        "4720f28c-0384-46ef-b475-34baaa7c6106",
+        "97590f07-dc4f-47a4-a324-9f3c51b69ee1",
+        "ecd66ee4-3308-4779-b0fd-60d83ab7fa80",
+        "b1f46dd1-0c31-400a-a0e3-be456fe7a23d",
+        "41781fdd-6624-47af-9946-7980f55a285f",
+        "f4e9b0b9-9da2-4aae-a44f-dcd3f0dc1396"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy"
+    },
+    {
+      "dutyID": "9d96fa7d-94a0-4fbf-93b7-5ea541fba84f",
+      "dutyDetail": "Obtain and analyse scientific data and interpret results in accordance with relevant standards to determine corrective action",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4"
+      ],
+      "mappedKnowledge": [
+        "3c2748fc-1095-445e-a008-2fff638c71a9",
+        "aaabf6b4-a851-4f1b-970f-fe1b0a0e1f49",
+        "6665a343-e917-4b88-8ab9-282a7be57382",
+        "aa112698-9dc7-46a4-a1d6-711c7801ea62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bb870d8d-a013-4f00-a4fd-3294d15ce11b",
+        "d3683171-02e1-47e7-807b-51495f2b100b",
+        "7e1cb4a7-2060-4636-a7ba-1b0d4ad40c3d",
+        "41781fdd-6624-47af-9946-7980f55a285f"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy"
+    },
+    {
+      "dutyID": "db94b325-4eac-4d10-8816-e2caf6c78d3a",
+      "dutyDetail": "Identify instances of non-compliance with environmental health legislation and determine the most appropriate action which may include enforcement",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "99fff73d-eafa-4310-bebd-22567f4e39f0",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d"
+      ],
+      "mappedKnowledge": [
+        "980e979b-3952-4d58-92c8-f1224206e515",
+        "71f26c8d-b12d-4cf8-8b6c-8de19ecc9f57",
+        "e0f6688d-4883-4cf8-aca3-4993dee1d540",
+        "3c2748fc-1095-445e-a008-2fff638c71a9",
+        "f2a51e32-b5a3-457a-9130-45fb36d2e7d7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "51889405-3ad1-43b6-bc00-70d50ec78e32",
+        "520f6916-51ed-41ee-a866-f353670f5cee",
+        "ec5ccfa9-b5d3-45c4-8905-2657672330cc",
+        "4ebe3eba-6b0d-4ada-b9b6-80b9c492904b",
+        "97590f07-dc4f-47a4-a324-9f3c51b69ee1"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy"
+    },
+    {
+      "dutyID": "edb8c93f-e70d-45c3-a230-669d7aadbe59",
+      "dutyDetail": "Identify and investigate complaints relating to environmental health",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "99fff73d-eafa-4310-bebd-22567f4e39f0",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d",
+        "d01c051e-f359-46b2-bafe-314e83c722e8"
+      ],
+      "mappedKnowledge": [
+        "e0f6688d-4883-4cf8-aca3-4993dee1d540",
+        "9befde68-c346-4512-8600-c7bbb98e9966",
+        "99263a7e-ee12-4ba6-b1d0-804185c10175",
+        "dd986c33-3653-4975-b4b7-85f79f5b9058",
+        "356d47bb-b258-4b6b-9336-76a941db9300",
+        "2c57fe4a-f499-4506-9ed8-aa5b8ef2bc6f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "51889405-3ad1-43b6-bc00-70d50ec78e32",
+        "b7567417-e46c-4125-aee8-2190de2db272",
+        "ecd66ee4-3308-4779-b0fd-60d83ab7fa80"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation;\nEffective communication"
+    },
+    {
+      "dutyID": "5a0ae91b-0166-4a80-b95f-8859959d0aa5",
+      "dutyDetail": "Apply a range of analytical and problem-solving techniques to resolve environmental health issues",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "99fff73d-eafa-4310-bebd-22567f4e39f0",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d"
+      ],
+      "mappedKnowledge": [
+        "4ca628f6-b5f3-4f7b-8cc8-fd5a53cbe85f",
+        "980e979b-3952-4d58-92c8-f1224206e515",
+        "71f26c8d-b12d-4cf8-8b6c-8de19ecc9f57",
+        "f95c9769-0995-49c5-88b8-133db4d72109",
+        "2c57fe4a-f499-4506-9ed8-aa5b8ef2bc6f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4720f28c-0384-46ef-b475-34baaa7c6106",
+        "d3683171-02e1-47e7-807b-51495f2b100b"
+      ],
+      "criteriaForMeasuringPerformance": "Accuracy; Successful resolution of environmental health issue"
+    },
+    {
+      "dutyID": "d027beca-1987-4641-983a-2f0095b5e699",
+      "dutyDetail": "Assess, interpret, issue and monitor relevant licence and registration requirements including environmental permits",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "99fff73d-eafa-4310-bebd-22567f4e39f0",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d"
+      ],
+      "mappedKnowledge": [
+        "980e979b-3952-4d58-92c8-f1224206e515",
+        "ec13d5ba-cc20-46b9-bd73-6f3c7323bb07"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e2526a98-75ab-483c-aaea-e072c7ca36d4",
+        "ecd66ee4-3308-4779-b0fd-60d83ab7fa80",
+        "50f53e19-904e-4289-bf2b-42f44bd7a1b3"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation; In line with policies, procedures and codes of practice"
+    },
+    {
+      "dutyID": "c6b07c89-4e89-4b86-80f5-86d9978edc00",
+      "dutyDetail": "Act as a consultee in relation to planning and licensing applications",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "99fff73d-eafa-4310-bebd-22567f4e39f0",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d"
+      ],
+      "mappedKnowledge": [
+        "ec13d5ba-cc20-46b9-bd73-6f3c7323bb07",
+        "9befde68-c346-4512-8600-c7bbb98e9966",
+        "aaabf6b4-a851-4f1b-970f-fe1b0a0e1f49",
+        "3f2a4811-ea34-4e1e-afce-f8cfa3ec509c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4a5da16d-2fde-4dce-a82a-d5545237cdf8",
+        "e2526a98-75ab-483c-aaea-e072c7ca36d4",
+        "ccfc8c99-2787-47a3-a289-4114f90de2b0",
+        "520f6916-51ed-41ee-a866-f353670f5cee",
+        "ec5ccfa9-b5d3-45c4-8905-2657672330cc",
+        "d3683171-02e1-47e7-807b-51495f2b100b",
+        "fb664661-c349-4e00-9ca6-e1b4c670bab5"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy"
+    },
+    {
+      "dutyID": "ff65f822-f40c-4b56-86a4-728c3236d5c5",
+      "dutyDetail": "Act as an advocate for promoting and improving the health, safety and wellbeing of the public",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c7310334-549e-4e72-a8be-97e6d8f7ef17",
+        "544caa4f-c44c-4911-a6f2-7cc1ab75da77",
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "cb40da68-a66f-4b10-84c6-f5cd41d77532",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "99fff73d-eafa-4310-bebd-22567f4e39f0",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d",
+        "d01c051e-f359-46b2-bafe-314e83c722e8"
+      ],
+      "mappedKnowledge": [
+        "4ca628f6-b5f3-4f7b-8cc8-fd5a53cbe85f",
+        "71f26c8d-b12d-4cf8-8b6c-8de19ecc9f57",
+        "9befde68-c346-4512-8600-c7bbb98e9966",
+        "934c9abf-cfdd-4603-8468-4fb55e829e35",
+        "d4f4b565-f1d8-4c0d-b340-600a74bb2605"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a74a301b-f679-4df1-906c-b66275cd97e8",
+        "4f9565a4-6ca7-494b-b9a1-92a4c4cc61bf",
+        "ecd66ee4-3308-4779-b0fd-60d83ab7fa80"
+      ],
+      "criteriaForMeasuringPerformance": "Excellent interpersonal skills"
+    },
+    {
+      "dutyID": "781e828e-91c9-4edd-88b8-3caa7fe3e928",
+      "dutyDetail": "Maintain accurate records and produce reports, including the preparation of evidence for court, where appropriate",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80c3b27c-984f-4ac2-822e-030b86c5b061",
+        "7c1a45cf-e121-44f1-b765-9cb1a46ad44a",
+        "45622a4c-df49-4d33-b82a-7143f368b7a4",
+        "99fff73d-eafa-4310-bebd-22567f4e39f0",
+        "ee2cdf59-561b-423b-8c29-0f8e093ccc5d"
+      ],
+      "mappedKnowledge": [
+        "980e979b-3952-4d58-92c8-f1224206e515",
+        "f2a51e32-b5a3-457a-9130-45fb36d2e7d7",
+        "aaabf6b4-a851-4f1b-970f-fe1b0a0e1f49",
+        "aa112698-9dc7-46a4-a1d6-711c7801ea62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fb664661-c349-4e00-9ca6-e1b4c670bab5",
+        "877fb49c-cb46-41ef-b264-9e078357a865"
+      ],
+      "criteriaForMeasuringPerformance": "Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy"
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-09-13T00:00:00"
+}
