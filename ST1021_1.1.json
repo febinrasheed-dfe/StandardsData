@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised",
-  "changedDate": "2025-09-29T00:00:00",
+  "changedDate": "2026-09-28T00:00:00",
   "earliestStartDate": "2025-09-29T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Apply an understanding of cyber security to protect from attacks and unauthorised access.",
   "level": 4,
@@ -300,7 +300,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0553",
-  "tbMainContact": "jpthorlby@qinetiq.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "QinetiQ\r\nCGI\r\nIASME\r\nSky\r\nSiemens\r\nDark Trace\r\nBT\r\nFujitsu\r\nDCMS\r\nCabinet Office\r\nJBC\r\nFoxRedRisk",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -321,7 +321,7 @@
   "clusterId": "185",
   "clusterDescription": "Detect security breaches and respond using alerts from automated tools to determine breach status and resolution working with the incident response team. Extended skills allow hazards, risks and controls to be managed",
   "createdDate": "2025-09-29T14:57:28 +00:00",
-  "lastUpdated": "2025-09-29T00:00:00 +00:00",
+  "lastUpdated": "2026-09-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-05-04T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1021",
@@ -1006,5 +1006,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-09-29T00:00:00"
+  "publishDate": "2027-03-24T00:00:00"
 }
