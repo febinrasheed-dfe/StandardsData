@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "Updated SSA",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-05-14T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Welding of metals in two welding positions, using more than one welding process, passing surface inspection.",
   "level": 2,
@@ -253,7 +253,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0368",
-  "tbMainContact": "trailblazer@twi.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "BAE Systems Maritime Submarines, Doosan Babcock, Alstom, Pall Europe, Liebherr, Graham Engineering Ltd, Hudson-Swan Engineering Ltd, TEi Ltd, Billington Structures Ltd, H Young Structures Ltd, William Haley, Engineering Ltd, The Welding Institute, British Constructional Steelwork Association, SEMTA, ECITB, Manufacturing Technology Centre",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -272,7 +272,7 @@
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
   "createdDate": "2025-12-08T09:40:00 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-05-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
   "banners": "Clarification: Level 2 Welder (ST0349)\nWelding Certificates. Certificates must be issued by a recognised third-party organisation (RTPO) and cover the welding processes to used at EPA. They do not need to match the welding positions assessed at EPA.\nGateway Evidence Requirements. The apprentice’s portfolio must evidence that they have welded materials in different positions including the welding positions to be assessed at EPA. Acceptable evidence may include welder qualification certificates, workplace records, supervisor statements, job logs, photographs, or other suitable proof of experience.",
   "occupationCode": "OCC0349",
@@ -616,5 +616,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2026-12-17T00:00:00"
 }
