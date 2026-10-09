@@ -1,0 +1,335 @@
+{
+  "id": "223858",
+  "referenceNumber": "AU0009",
+  "title": "AI leadership – AI strategy and opportunity - Apprenticeship unit ",
+  "introduction": "<p>Apprenticeship units are short flexible training courses designed to support employers to upskill their workforce in critical skill shortage areas. Units are for employed learners aged 19 and over, where their employer has identified that they need to upskill quickly to respond to emerging skills gaps and to support business growth and productivity.</p>\n<p>Apprenticeship units are based on relevant knowledge and skills in existing employer-led occupational standards to ensure relevant high-quality, targeted training. Each unit is short, with the length of training ranging from 30 and 140 hours delivered over a period of 1 to 16 weeks. This enables employers to have maximum flexibility to select a unit that meets their specific skill need and to deliver the training in a way that fits around their business.</p>",
+  "larsCode": "0",
+  "learningAimClassCode": "ZSC00009",
+  "apprenticeshipUnitUrl": "https://skillsengland.education.gov.uk/apprenticeship-units/AU0009-v1-0",
+  "route": "Digital",
+  "relatedRoutes": [
+    "Digital",
+    "Business and administration"
+  ],
+  "minimumHoursForCompliance": 30,
+  "maxFunding": 750,
+  "level": 5,
+  "reviewDetails": "",
+  "status": "Approved for delivery",
+  "version": "1.0",
+  "versionNumber": "1.0",
+  "createdDate": "2026-04-09T10:24:42 +00:00",
+  "lastUpdated": "2026-04-21T09:58:01 +00:00",
+  "publishDate": "2026-04-28T00:00:00 +00:00",
+  "approvedForDelivery": "2026-04-21T00:00:00 +00:00",
+  "earliestStartDate": "2026-04-28T00:00:00 +00:00",
+  "latestStartDate": "",
+  "latestEndDate": "",
+  "change": "",
+  "changedDate": "",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "keywords": [
+    "management",
+    "leadership",
+    "team leader",
+    "CMDA",
+    "chartered manager",
+    "manager",
+    "digital",
+    "machine learning",
+    "artificial intelligence",
+    "data",
+    "design",
+    "analysis",
+    "senior",
+    "business",
+    "business management",
+    "senior leader",
+    "leader"
+  ],
+  "typicalJobTitles": [
+    "Ai integration officer",
+    "Automation enablement consultant",
+    "Business process support executive",
+    "Digital automation specialist",
+    "Digital operations technician",
+    "Digital productivity consultant",
+    "Junior innovation consultant",
+    "Process automation analyst",
+    "Technology operations coordinator",
+    "Workflow solutions assistant",
+    "Manager",
+    "Senior Manager",
+    "Head of Department",
+    "Operations Manager",
+    "project manager",
+    "delivery manager",
+    "Ai engineer",
+    "Big data engineer",
+    "Machine learning engineer",
+    "Machine learning operations engineer",
+    "Associate director",
+    "Business unit head",
+    "Chief executive officer",
+    "Chief financial officer",
+    "Chief information officer",
+    "Chief operating officer",
+    "Divisional head",
+    "Executive director",
+    "He registrar",
+    "Head of department/faculty",
+    "Warrant officer"
+  ],
+  "greenJobTitles": [],
+  "entryRequirements": "<p>Learners must be employed and must be 19 years or over.<br><br>Must be working in a leadership position within an organisation with autonomy to deliver technological change and inform investment decisions.&nbsp;</p>",
+  "englishAndMathsQualifications": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "regulationDetail": [],
+  "technicalKnowledges": [
+    {
+      "id": "f21e6e65-930b-424e-88be-771633e21f05",
+      "detail": "AI and automation concepts and models that support leadership decision-making, and their limitations. The impact adoption may have on workplace culture and wellbeing.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "K9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e526358-4494-42b0-9965-44c8ec1d0805",
+      "detail": "The capabilities, benefits and risks of automation, AI and digital tools, including responsible use, ethical considerations and the potential impact on the workforce.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "K7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a0eeff83-e75c-4df4-9caf-43c488c1c7d9",
+      "detail": "The role of organisational leadership in responsible AI adoption, including setting values, policy, and strategy. The business case for ethical AI adoption, including reputational risk, staff engagement and morale, and long-term sustainability.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d41f43b-5e10-465b-91d3-e192bdd469cc",
+      "detail": "Understand how to develop and implement organisational AI strategy and plans, including approaches to, workforce development, taking and managing risk, monitoring and evaluation, and quality assurance.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Chartered manager (degree)",
+          "reference": "ST0272",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0272-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0021d9c4-04c6-4df2-b543-109d37062ceb",
+      "detail": "How to assess the viability of solutions when making acquisition decisions, for example, testing and evaluating solutions, using test data and results, feasibility (time, cost, data quality and process maturity), and user testing.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "K13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4dfdf24-9c3a-404e-b07f-0d77bd9d0461",
+      "detail": "Principles and application of testing methodologies and their application in practice.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "K14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8b07ea31-c7a1-4676-ac3a-d779abd9af7a",
+      "detail": "Principles of human oversight and human AI collaboration to achieve shared outcomes.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "K15"
+          ]
+        }
+      ]
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "3a7161bd-61f5-486d-8a17-6d2f72b4d25e",
+      "detail": "Identify organisational improvements and opportunities for innovation and growth, using qualitative and quantitative analysis of information and data.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Chartered manager (degree)",
+          "reference": "ST0272",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0272-v1-1",
+          "versionNumber": "1.1",
+          "relatedKsbs": [
+            "S5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9f896b7-bdb4-49c2-9847-f9d95957f0bc",
+      "detail": "Set strategic direction for AI and gain support for it from key stakeholders.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Senior leader",
+          "reference": "ST0480",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0480-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1291e7fe-8027-4d7f-be6a-15a085bbdac3",
+      "detail": "Commission analysis to identify if AI adoption is viable. Evaluate assessments of risks and unintended consequences of AI automation projects, such as the impact on job roles.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "S3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f32dc7f-49d3-44a7-8450-2eed408e2521",
+      "detail": "Review, establish, follow and or amend policies and procedures on data and information security.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41eeeaa2-bbbd-41b7-b6b1-1591a7ab99fd",
+      "detail": "Keep up to date with existing, evolving, and emerging technologies and sector trends in AI, automation and technology to support the evaluation of vendor and supplier solutions.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Artificial intelligence (AI) and automation practitioner",
+          "reference": "ST1512",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+          "versionNumber": "2.0",
+          "relatedKsbs": [
+            "S25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24ca0c31-ca3d-490c-990b-77d14d55d3bb",
+      "detail": "Horizon scan to identify new developments that have implications for AI use.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Machine learning engineer",
+          "reference": "ST1398",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st1398-v1-0",
+          "versionNumber": "1.0",
+          "relatedKsbs": [
+            "S31"
+          ]
+        }
+      ]
+    }
+  ],
+  "informationForProviders": "",
+  "whoIsItFor": "<p>This apprenticeship unit is for individuals in leadership roles responsible for setting direction, governance and oversight for AI use who, with the support of their employer, need upskilling in AI leadership literacy, including the capabilities and limitations of AI and the opportunities it presents to their organisation.<br>This unit is particularly relevant for individuals in organisations at an early or exploratory stage of AI adoption, where there is a need to build a foundational understanding and identify viable opportunities.</p>",
+  "learningOutcomes": "<p>A learning outcome is a concise statement that describes what an individual should be able to do by the end of their course. It summarises a cluster of knowledge and skills in the course and provides a foundation for assessment.<br><br><strong>Learning outcomes:<br></strong></p>\n<ul>\n<li>Organisational leadership in setting AI policy and strategy. Including business cases, detailing implications for the workforce, organisational perception and sustainability to inform decision making.</li>\n<li>Evaluate opportunities for AI-driven improvement using qualitative and quantitative evidence, including the assessment of risk.</li>\n<li>Define, document and communicate an AI strategy aligned to organisational goals, values and risk appetite.</li>\n<li>Assess viability and risk through AI use cases and pilots, identifying investment areas balancing productivity gains against feasibility, impact and organisational readiness.</li>\n<li>Engage stakeholders to build support for AI strategy and adoption, including non-technical audiences.</li>\n<li>Critically evaluate and monitor. Implementing adaptations, including responses to emerging AI technologies and trends.</li>\n</ul>",
+  "knowledgeAndSkillsMappingToOutcomes": "<table border=\"0\">\n<thead>\n<tr>\n<th><strong>Function</strong></th>\n<th><strong>Learning Outcome</strong></th>\n<th><strong>K &amp; S mapping</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Organisational leadership</strong></td>\n<td>Organisational leadership in setting AI policy and strategy. Including business cases detailing implications for the workforce, organisational perception and sustainability to inform decision making.</td>\n<td>K1, K2, K3, S1, S3, S4</td>\n</tr>\n<tr>\n<td><strong>Organisational development</strong></td>\n<td>Evaluate opportunities for AI-driven improvement using qualitative and quantitative evidence including the assessment of risk.</td>\n<td>K2, K3, K5, S1, S3</td>\n</tr>\n<tr>\n<td><strong>Organisational goals</strong></td>\n<td>Define, document and communicate an AI strategy aligned to organisational goals, values and risk appetite.</td>\n<td>K3, K4, K7, S2, S3, S4</td>\n</tr>\n<tr>\n<td><strong>Viability</strong></td>\n<td>Assess viability and risk through AI use cases and pilots, identifying investment areas balancing productivity gains against feasibility, impact and organisational readiness.</td>\n<td>K1, K2, K3, K4, K5, S1</td>\n</tr>\n<tr>\n<td><strong>Stakeholder engagement</strong></td>\n<td>Engage stakeholders to build support for AI strategy and adoption, including non-technical audiences.</td>\n<td>K3, S2</td>\n</tr>\n<tr>\n<td><strong>Horizon scanning &amp; implementation</strong></td>\n<td>Critically evaluate and monitor the implementation of adaptations, including responses to emerging AI technologies and trends.</td>\n<td>K4, K5, K6, S1, S3, S5, S6</td>\n</tr>\n</tbody>\n</table>",
+  "funding": "<p>This apprenticeship unit is currently eligible for public funding.</p>\n<p>Skills England will provide the Department for Work and Pensions with ongoing advice on critical skills needs, and the affordability and prioritisation of funding for apprenticeship units will remain under review.</p>\n<p>The Department will give notice if funding for this apprenticeship unit is to be withdrawn. Following which, funding for new starts will not be available after four weeks from that notice being given.</p>",
+  "assessment": "<p><strong>Mandatory:</strong> As a minimum, learners will need to pass a skills test delivered by the training provider, to demonstrate that they have acquired the skills and knowledge set out in the apprenticeship unit. &nbsp;Employers will need to validate the result to confirm the learner has been successful.<br><br><strong>Extended: </strong>In addition, employers (or learners) have the option to choose independent external assessment where they feel it is appropriate, for example through use of a non-mandatory qualification.<br>&nbsp;<br>If the apprenticeship unit is in a regulated occupation and the role requires adherence to industry recognised standards and procedures, we would expect employers to choose an extended assessment.<br><br></p>",
+  "relatedOccupations": [
+    {
+      "name": "Artificial intelligence (AI) and automation practitioner",
+      "reference": "OCC1512",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC1512",
+      "versionNumber": "2.1"
+    },
+    {
+      "name": "Chartered manager (degree)",
+      "reference": "OCC0272",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0272",
+      "versionNumber": "1.1"
+    },
+    {
+      "name": "Machine learning engineer",
+      "reference": "OCC1398",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC1398",
+      "versionNumber": "1.0"
+    },
+    {
+      "name": "Senior leader",
+      "reference": "OCC0480",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0480",
+      "versionNumber": "1.2"
+    }
+  ],
+  "banners": ""
+}
