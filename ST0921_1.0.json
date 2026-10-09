@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-12-02T00:00:00",
+  "changedDate": "2026-09-09T00:00:00",
   "earliestStartDate": "2021-09-14T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-06-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Undertake tree inspections and surveys.",
   "level": 4,
@@ -356,7 +356,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0223",
-  "tbMainContact": "steve.fowkes@forestrycommission.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Barcham The Tree Specialists\nBarrell Tree Consultancy\nBartlett Tree Experts\nBeachwood Trees and Landscape Ltd\nCapel Manor College\nCentral Tree Services Ltd\nCleveland Tree Surgeons\nCormac Ltd\nDorset Council\nEOS Contracting\nGA Butler & Sons Ltd\nGlendale Services\nGround Control\nHi Line\nKevin Patton Tree Surgeon Ltd\nLondon Borough Barnet\nLondon Borough Lambeth\nMartin Lennon Arboricultural and Forestry Consultants\nOxfordshire County Council\nPryor & Rickett\nRingrose Tree Services\nRob Keyzor Tree Surgeons & Arboricultural Consultants\nRoot and Branch Consultants\nRoyal Botanic Gardens, Kew\nSedgemoor Tree Services\nSeed Arboriculture Ltd\nStreet Tree Limited\nThe Environment Partnership\nSSE\nTotal Trees\nTree Life\nTree Maintenance Ltd\nTreework Environmental Practice\nTretech Arbboricultural Services\nTrueman Tree Services Ltd",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -379,7 +379,7 @@
   "clusterId": "156",
   "clusterDescription": "Supervise the establishment, maintenance, management and removal or harvesting of trees and/or woodland",
   "createdDate": "2025-02-10T11:40:31 +00:00",
-  "lastUpdated": "2022-12-02T00:00:00 +00:00",
+  "lastUpdated": "2026-09-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-09-14T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0921",
@@ -907,5 +907,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-12-02T00:00:00"
+  "publishDate": "2027-06-09T00:00:00"
 }
