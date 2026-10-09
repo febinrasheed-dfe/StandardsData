@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, End-point assessment plan and funding band revised.",
-  "changedDate": "2023-10-18T00:00:00",
+  "changedDate": "2026-06-18T00:00:00",
   "earliestStartDate": "2023-10-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "To support their organisation to identify costumes for short/long term performance plans and be responsible for the care, maintenance and usage of costumes, ensuring that all costume elements are at the standard of the designer’s specification.",
   "level": 3,
@@ -257,7 +257,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0392",
-  "tbMainContact": "ikenrick@nationaltheatre.org.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Almeida, Royal Court Theatre, Royal Opera House, Birmingham Rep, Nottingham Play House, Belgrade, Royal Exchange, AON, The Lyric, The Rambert, Birmingham Repertory Theatre, The Royal Central School of Speech & Drama, National Theatre, Young Vic, Royal Shakespeare Company, ITV, The Good Stitch, Creative and Cultural Skills, Screen Skills.",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -279,7 +279,7 @@
   "clusterId": "60",
   "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
   "createdDate": "2023-10-18T11:46:00 +00:00",
-  "lastUpdated": "2023-10-18T00:00:00 +00:00",
+  "lastUpdated": "2026-06-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-11-09T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0783",
@@ -569,5 +569,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-10-18T00:00:00"
+  "publishDate": "2026-12-09T00:00:00"
 }
