@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan, occupational standard and funding band revised but remained the same.",
-  "changedDate": "2026-02-01T00:00:00",
+  "changedDate": "2026-09-03T00:00:00",
   "earliestStartDate": "2026-02-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Ensuring the safety and quality of food and drink products.",
   "level": 6,
@@ -306,7 +306,7 @@
   "integration": "Degree-apprenticeship",
   "integratedDegree": "integrated degree",
   "tbReference": "TB0855",
-  "tbMainContact": "cian.short@kepak.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Kepak, Ornua, Premier Foods, Dairy Crest, Coca-Cola Europacific Partners Limited, Cranswick Plc, Saputo Dairy UK, Lucozade Ribena Suntory Limited, Harper Adams University, Nottingham Trent University",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -338,7 +338,7 @@
   "clusterId": "213",
   "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2025-08-11T13:47:11 +00:00",
-  "lastUpdated": "2026-02-01T00:00:00 +00:00",
+  "lastUpdated": "2026-09-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0197",
@@ -1083,5 +1083,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-02-01T00:00:00"
+  "publishDate": "2027-09-12T00:00:00"
 }
