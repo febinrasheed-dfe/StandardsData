@@ -1,21 +1,21 @@
 {
   "templateType": "Occupational Standard",
-  "shortAssessment": false,
+  "shortAssessment": true,
   "larsCode": 0,
   "referenceNumber": "ST1461",
   "learningAimClassCode": "",
   "title": "Senior pensions administrator",
-  "status": "Proposal in development",
+  "status": "In development",
   "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1461",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "0001-01-01T00:00:00",
+  "changedDate": "2026-09-28T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Provide in-depth pensions expertise and support to junior team members when administering pension schemes or plans",
   "level": 4,
   "ePALength": 0,
   "typicalDuration": 20,
@@ -23,35 +23,218 @@
   "maxFunding": 0,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
-  "keywords": [],
+  "keywords": [
+    "Senior Pensions Administrator",
+    "pensions",
+    "pension schemes",
+    "customer service",
+    "pension advice"
+  ],
   "jobRoles": [
     "Lead pensions administrator",
     "Senior pensions administrator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1461?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.1 Accounting and finance",
   "version": "0.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in organisations of all shapes and sizes that operate or oversee pension schemes or plans. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is the broad purpose of the senior pensions administrator is to provide in depth pensions expertise and support to junior team members when administering pension schemes or plans. Senior pensions administrators play a critical role in ensuring that the day-to-day operation of pension schemes or plans is carried out with the necessary rigour and in compliance with the specific rules of each plan. They are likely to be involved in supporting junior administrators in handling complex technical queries, calculations and communications. They process complex members’ benefits based on their entitlements under the rules of the pension scheme or plan and applicable regulations. They ensure that regulatory requirements are adhered to and risks escalated. They use their interpretation of scheme or plan documentation, regulations and independent judgement to make key decisions in pensions administration activities to achieve a regulatory compliant outcome and high levels of customer service. They undertake checks for reasonableness in pensions calculations and outcomes &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with multi-grade teams and will typically work under supervision by a senior leader. They will be responsible for managing their own workloads but and will manage others work on complex subject matters. Senior pensions administrators will often engage in training, mentoring and coaching junior staff on their areas of expertise. They may also be a subject matter expert within their team or wider areas and provide expert advice and updates on key changes. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for delivery of complex or non-standard pension administrative tasks to the required quality standards as set out by the organisation. They undertake technical administration and specialised administration processes. The senior pensions administrator also undertakes financial tasks. These may include quality reviews and assurance of key pension records such as scheme cash books, bank reconciliations and cash-flow forecasts. They ensure that customers receive accurate data on their pension position by reviewing complex pension data and drafting Administration Reports for clients . As part of providing an excellent customer service the senior pensions administrator ensures that member records are maintained and updated within their team. They respond to complex, multi-aspect pension scheme or plan specific enquiries from members or plan holders. This could include addressing disagreements arising from fund valuation requests and quality assuring pension data on investment options. They will assist junior colleagues in clarifying the benefits payable under the pension scheme or plan where there are complex matters. They interpret the rules and suggest solutions to problems arising with pension scheme or plan data and benefits payable.&lt;/p&gt;",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in organisations of all shapes and sizes that operate or oversee pension schemes or plans. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to provide in-depth pensions expertise and support to junior team members when administering pension schemes or plans. Senior pensions administrators play a critical role in ensuring that the day-to-day operation of pension schemes or plans is carried out with the necessary rigour and in compliance with the specific rules of each plan. They are likely to be involved in supporting junior administrators in handling complex technical queries, calculations and communications. They process complex members’ benefits based on their entitlements under the rules of the pension scheme or plan and applicable regulations. They ensure that regulatory requirements are adhered to and risks escalated. They use their interpretation of scheme or plan documentation, regulations and independent judgement to make key decisions in pensions administration activities to achieve a regulatory compliant outcome and high levels of customer service. They undertake checks for reasonableness in pensions calculations and outcomes &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with multi-grade teams and will typically work under supervision by a senior leader. They will be responsible for managing their own workloads and will manage the work of others on complex subject matters. Senior pensions administrators will often engage in training, mentoring and coaching junior staff in their areas of expertise. They may also be a subject matter expert within their team or wider areas and provide expert advice and updates on key changes. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for delivery of complex or non-standard pension administrative tasks to the required quality standards as set out by the organisation. They undertake technical administration and specialised administration processes. The senior pensions administrator also undertakes financial tasks. These may include quality reviews and assurance of key pension records such as scheme cash books, bank reconciliations and cash-flow forecasts. They ensure that customers receive accurate data on their pension position by reviewing complex pension data and drafting Administration Reports for clients. As part of providing excellent customer service the senior pensions administrator ensures that member records are maintained and updated within their team. They respond to complex, multi-aspect pension scheme, or plan specific enquiries from members or plan holders. This could include addressing disagreements arising from fund valuation requests and quality assuring pension data on investment options. They will assist junior colleagues in clarifying the benefits payable under the pension scheme or plan where there are complex matters. They interpret the rules and suggest solutions to problems arising with pension schemes or plans data and benefits payable.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "dbd3ab1f-f79d-42ad-8926-8fbb1873ed0c",
+      "detail": "Pension schemes or plans, including their detailed structure, the different roles and responsibilities involved in running a scheme or plan, and how they interact."
+    },
+    {
+      "knowledgeId": "0b8ecefb-a1ce-48ef-8141-2d4e3766e3cf",
+      "detail": "The regulatory and compliance landscape for pensions and how it affects the role of a senior pensions administrator, including interpreting and applying these regulations."
+    },
+    {
+      "knowledgeId": "20a147bf-3d0d-4200-9d59-3ed6610e919b",
+      "detail": "The governance of pension schemes and plans, such as the roles of trustees and trustee boards."
+    },
+    {
+      "knowledgeId": "c7c3417a-5a52-42cf-940d-c84e8f9cc5c8",
+      "detail": "Organisational strategy and the impact of external factors, such as the UK Budget, culture, and stakeholders, and how the role of the senior pensions administrator aligns within this."
+    },
+    {
+      "knowledgeId": "f846c4b5-f3c9-4f78-b22b-8cbc57206a42",
+      "detail": "The role of pension organisations within the pensions industry and how they interconnect with other organisations, including both public- and private-sector pension arrangements."
+    },
+    {
+      "knowledgeId": "f16215be-85c2-48de-9444-57826818a917",
+      "detail": "Complex and non-standard pensions processes and procedures, such as overseas transfers and the implementation of divorce orders."
+    },
+    {
+      "knowledgeId": "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3",
+      "detail": "Principles of scheme or plan benefits, including interpreting pension scheme or plan information and benefits payable, interpretation of scheme or plan documentation, and the performance of pension calculations and checks for reasonableness."
+    },
+    {
+      "knowledgeId": "6cbe8f55-cff8-44ba-94d6-aad9f140305f",
+      "detail": "Risks such as pension scams and other types of financial fraud."
+    },
+    {
+      "knowledgeId": "181643b8-ebbc-4d58-96ca-307eae94554a",
+      "detail": "Complaints procedures and processes, including the identification of complaints, approaches to resolution, the handling of escalated complaints, and referral to the Pensions Ombudsman."
+    },
+    {
+      "knowledgeId": "a82131eb-8124-457e-891c-038993dcc19a",
+      "detail": "Principles of software packages for pension administration, including how updates, such as ‘factors’, are applied."
+    },
+    {
+      "knowledgeId": "af428e65-b369-4285-bc9e-422f2a4c4a57",
+      "detail": "Approaches to data security within pensions administration, including the requirements of data protection legislation, its application in the pensions industry, and related risks, such as organisational processes for reporting a data breach."
+    },
+    {
+      "knowledgeId": "b3942b55-90df-4cc4-bb00-62888bdf32f3",
+      "detail": "Principles of safe and secure online working, including awareness of cyber security and specific vulnerabilities to cyber-attack for financial sector organisations."
+    },
+    {
+      "knowledgeId": "34e2fbdb-534e-4307-9f6c-5d47c523c293",
+      "detail": "Communication styles and language to be used when conveying pensions information to stakeholders."
+    },
+    {
+      "knowledgeId": "bc9b472d-a8cf-46fd-bba9-718696f9befe",
+      "detail": "Principles of continuous improvement within the organisation and approaches to raising suggestions for improvement."
+    },
+    {
+      "knowledgeId": "308c99e0-4364-420f-a81c-5223e5bd1240",
+      "detail": "Features of Responsible Investment (RI) and environmental, social, and governance (ESG) matters, including climate change, and the organisation’s approach to and policies for managing these issues."
+    },
+    {
+      "knowledgeId": "315eaf50-b4a7-4f59-a102-a4b3d72f0755",
+      "detail": "Equity, diversity, and inclusion in the workplace, including services available to support customers with specific needs, such as those who are non-English-speaking, non-verbal, or profoundly deaf."
+    },
+    {
+      "knowledgeId": "2fcea962-268c-4a32-9022-a1d20de4d854",
+      "detail": "The advantages and disadvantages of using automated systems compared with manual benefit calculations, and the methods used to check and validate pension benefit calculations, including manual checks."
+    },
+    {
+      "knowledgeId": "5225567f-495d-4279-aa8c-5fcb1ed56e0a",
+      "detail": "Approaches to monitoring and identifying development needs and opportunities."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "75181829-7e89-4b5a-bfbf-a3465807a207",
+      "detail": "Acts in a professional manner with integrity, demonstrating organisational values, empathy, and fairness, while treating others with respect."
+    },
+    {
+      "behaviourId": "bf1279f7-959f-405c-92d2-4b8587483b47",
+      "detail": "Is accountable, takes ownership of tasks and workload, and supports others to meet team and wider business objectives."
+    },
+    {
+      "behaviourId": "ca928fff-021c-4dd8-a828-5ac57b5b5eb2",
+      "detail": "Works flexibly and adapts to changing circumstances, suggesting improvements or solutions when necessary."
+    },
+    {
+      "behaviourId": "639c0c4e-6d70-45cf-a38c-ef46b1ab0b31",
+      "detail": "Maintains a growth mindset towards change, uses own initiative, learns from setbacks, and spots opportunities."
+    },
+    {
+      "behaviourId": "03fc4c15-1ac1-4347-a2aa-c6cb925ff0dd",
+      "detail": "Works with and supports collaboration with internal and external stakeholders, recognising different priorities and how actions affect the business."
+    },
+    {
+      "behaviourId": "557580e5-cb67-4cd3-a7c2-242add576608",
+      "detail": "Reflects on own practice, seeks learning opportunities for professional development, and supports others."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "da458fc3-822c-4c61-9dd4-62c59623efb0",
+      "detail": "Deliver expected customer service by establishing customer needs, in line with the organisation’s service standards and the regulatory framework."
+    },
+    {
+      "skillId": "f3cdf1cf-1c0b-4de0-bf6c-74e772e68cd8",
+      "detail": "Perform more complex or non-standard pensions administrative tasks that meet the required quality standards set out by the organisation."
+    },
+    {
+      "skillId": "d34cd019-4825-425a-8c52-9e0dbd6fcfd1",
+      "detail": "Handle technical pensions administrative procedures, such as undertaking technical administration and specialised processes."
+    },
+    {
+      "skillId": "d7de43b0-95e7-4f8a-b4b0-3e2529efe6cb",
+      "detail": "Tailor the use of interpersonal skills and communication channels to meet the needs of stakeholders."
+    },
+    {
+      "skillId": "c78838e1-3fd4-459f-bfe0-316849e2aee9",
+      "detail": "Identify and explain complex pensions matters to non-technical stakeholders to support informed decision-making."
+    },
+    {
+      "skillId": "5c30296b-4a74-4d11-a93f-587dd1369aa2",
+      "detail": "Work collaboratively within and across teams to support colleagues in achieving results, such as meeting or exceeding service standards and organisational goals."
+    },
+    {
+      "skillId": "d8f257bb-e142-4b6a-b39d-b67a2a0e77c5",
+      "detail": "Independently plan, manage, and prioritise own workload effectively, alongside the needs of colleagues."
+    },
+    {
+      "skillId": "04774805-cd21-4f8f-80ab-ab0083d33c07",
+      "detail": "Support less experienced colleagues to understand team workloads and targets."
+    },
+    {
+      "skillId": "fd151080-d8fc-484d-8e2d-919db44f49b0",
+      "detail": "Identify and resolve, within own remit, complex pensions problems, including identifying the appropriate course of action and recommending solutions."
+    },
+    {
+      "skillId": "4ed621bf-57e9-40eb-aa3f-57a219bd9b0e",
+      "detail": "Use digital systems to carry out and authorise pensions administrative tasks, and to generate and analyse key metrics, such as technical reports."
+    },
+    {
+      "skillId": "0e7c2d0e-d085-4059-9d3c-4289df0b4a4a",
+      "detail": "Use digital systems and applications safely and securely, in accordance with data security policies."
+    },
+    {
+      "skillId": "f50d8fb1-4276-4354-b5fd-4025882b5033",
+      "detail": "Review and validate the technical pensions work of other team members, such as calculations and the interpretation of regulations."
+    },
+    {
+      "skillId": "8caace78-4ef5-459d-afd8-8f8c16744b83",
+      "detail": "Maintain robust and accurate schedules, records, and systems for pensions administrative activities."
+    },
+    {
+      "skillId": "3f210363-290c-4eec-97a4-65c2be7db567",
+      "detail": "Train and develop colleagues in routine administration and pensions technical tasks."
+    },
+    {
+      "skillId": "ed70d246-2696-4e2d-a7a2-0c7ef6c21b35",
+      "detail": "Resolve customer service interactions, such as complaints or more complex pensions queries, as an escalation point."
+    },
+    {
+      "skillId": "4ec6bf2c-194a-4aea-8df0-49078f29eec4",
+      "detail": "Act as an escalation or referral point for colleagues on technical pensions matters."
+    },
+    {
+      "skillId": "28085ef6-6c3a-4588-8e90-218faf981b61",
+      "detail": "Use analysis to identify trends and evaluate pensions activities for potential areas of improvement and enhancement, recommending actions with consideration of the impact on the wider organisation."
+    },
+    {
+      "skillId": "fa8f2a96-6ee9-4feb-a1e3-8d8e31092285",
+      "detail": "Identify and monitor own development needs and opportunities."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
-  "standardPublished": "false",
+  "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
-  "integration": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0842",
-  "tbMainContact": "nick.walker@barnett-waddingham.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Barnett Waddingham, Cheshire & Chester Council, Davies Group, Mercer, Pensions Management Institute, PPF, Royal Mail, The Growth Company, Willis Towers Watson, XPS",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -68,8 +251,8 @@
   "cluster": "Financial technician",
   "clusterId": "244",
   "clusterDescription": "Model the financial needs of clients using a wide range of digital/IT skills. Give advise based on research and analysis directly to clients covering a wide range of financial services and products",
-  "createdDate": "2024-08-27T10:45:16 +00:00",
-  "lastUpdated": "",
+  "createdDate": "2026-09-28T13:31:16 +00:00",
+  "lastUpdated": "2026-09-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1461",
@@ -80,172 +263,406 @@
   "duties": [
     {
       "dutyID": "4e341882-0e3f-41b9-9c36-25f51acc4a0d",
-      "dutyDetail": "Provide customer service to pension scheme members or plan holders, dealing with more complex and non-standard situations.\u00A0 Be an escalation route for junior staff dealing with contentious issues.",
+      "dutyDetail": "Provide customer service to pension scheme members or plan holders, dealing with more complex and non-standard situations, and act as an escalation route for junior staff dealing with contentious issues.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "03fc4c15-1ac1-4347-a2aa-c6cb925ff0dd",
+        "557580e5-cb67-4cd3-a7c2-242add576608"
+      ],
+      "mappedKnowledge": [
+        "f16215be-85c2-48de-9444-57826818a917",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3",
+        "181643b8-ebbc-4d58-96ca-307eae94554a",
+        "34e2fbdb-534e-4307-9f6c-5d47c523c293",
+        "315eaf50-b4a7-4f59-a102-a4b3d72f0755",
+        "2fcea962-268c-4a32-9022-a1d20de4d854"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "da458fc3-822c-4c61-9dd4-62c59623efb0",
+        "f3cdf1cf-1c0b-4de0-bf6c-74e772e68cd8",
+        "c78838e1-3fd4-459f-bfe0-316849e2aee9",
+        "ed70d246-2696-4e2d-a7a2-0c7ef6c21b35",
+        "4ec6bf2c-194a-4aea-8df0-49078f29eec4"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "76e0cbc3-0dcc-47f4-a02c-1184c16c9a58",
-      "dutyDetail": "Communicate technical pensions information, both routine and ad hoc, to respond to customers, pension scheme members or plan holders’ needs.\u00A0 Provide an appropriate solution to non-routine pensions problems.\u00A0\u00A0",
+      "dutyDetail": "Communicate technical pensions information, both routine and ad hoc, to respond to the needs of customers, pension scheme members, or plan holders, and provide appropriate solutions to non-routine pensions problems.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2"
+      ],
+      "mappedKnowledge": [
+        "0b8ecefb-a1ce-48ef-8141-2d4e3766e3cf",
+        "f846c4b5-f3c9-4f78-b22b-8cbc57206a42",
+        "f16215be-85c2-48de-9444-57826818a917",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3",
+        "34e2fbdb-534e-4307-9f6c-5d47c523c293",
+        "315eaf50-b4a7-4f59-a102-a4b3d72f0755"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "f3cdf1cf-1c0b-4de0-bf6c-74e772e68cd8",
+        "d34cd019-4825-425a-8c52-9e0dbd6fcfd1",
+        "d7de43b0-95e7-4f8a-b4b0-3e2529efe6cb",
+        "fd151080-d8fc-484d-8e2d-919db44f49b0"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "8dddd613-9296-47ad-b12f-eb7ecce1f535",
-      "dutyDetail": "Resolve complex pension queries and requests using standard and non-standard letters by reference to procedures. ",
+      "dutyDetail": "Resolve complex pension queries and requests, such as benefit limits, with reference to procedures and customers’ pension schemes or plans.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2",
+        "03fc4c15-1ac1-4347-a2aa-c6cb925ff0dd"
+      ],
+      "mappedKnowledge": [
+        "f16215be-85c2-48de-9444-57826818a917",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3",
+        "34e2fbdb-534e-4307-9f6c-5d47c523c293"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "f3cdf1cf-1c0b-4de0-bf6c-74e772e68cd8",
+        "fd151080-d8fc-484d-8e2d-919db44f49b0"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "f58d4671-32b1-44e0-b541-f7ebccdf3dd3",
-      "dutyDetail": "Investigate, analyse and take ownership of potential problems or complaint cases in line with organisational procedures and escalate where required.",
+      "dutyDetail": "Investigate, analyse, and take ownership of potential problems or complaint cases in line with organisational procedures, and escalate where required.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2",
+        "639c0c4e-6d70-45cf-a38c-ef46b1ab0b31",
+        "03fc4c15-1ac1-4347-a2aa-c6cb925ff0dd",
+        "557580e5-cb67-4cd3-a7c2-242add576608"
+      ],
+      "mappedKnowledge": [
+        "20a147bf-3d0d-4200-9d59-3ed6610e919b",
+        "f846c4b5-f3c9-4f78-b22b-8cbc57206a42",
+        "f16215be-85c2-48de-9444-57826818a917",
+        "181643b8-ebbc-4d58-96ca-307eae94554a",
+        "af428e65-b369-4285-bc9e-422f2a4c4a57"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "fd151080-d8fc-484d-8e2d-919db44f49b0",
+        "ed70d246-2696-4e2d-a7a2-0c7ef6c21b35",
+        "4ec6bf2c-194a-4aea-8df0-49078f29eec4",
+        "28085ef6-6c3a-4588-8e90-218faf981b61"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "fc15b6dd-2eba-468c-95c1-2827be50a84a",
-      "dutyDetail": "Calculate, including manual calculations, and process complex members’ benefits based on their entitlements under the rules of the pension scheme or plan and applicable regulations.\u00A0",
+      "dutyDetail": "Calculate, including manual calculations, and process complex members’ benefits, based on their entitlements under the rules of the pension scheme or plan and applicable regulations.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "bf1279f7-959f-405c-92d2-4b8587483b47"
+      ],
+      "mappedKnowledge": [
+        "0b8ecefb-a1ce-48ef-8141-2d4e3766e3cf",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3",
+        "2fcea962-268c-4a32-9022-a1d20de4d854",
+        "5225567f-495d-4279-aa8c-5fcb1ed56e0a"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "f3cdf1cf-1c0b-4de0-bf6c-74e772e68cd8",
+        "d34cd019-4825-425a-8c52-9e0dbd6fcfd1",
+        "4ec6bf2c-194a-4aea-8df0-49078f29eec4"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "5199d0f8-992d-4135-9ce8-162a85dc3fac",
-      "dutyDetail": "Review and validate work of other team members, including standard pensions calculations and communications. Providing feedback and ensuring accuracy and compliance with scheme rules, procedures and legislation.\u00A0\u00A0",
+      "dutyDetail": "Review and validate the work of other team members, including standard pensions calculations and communications. Provide feedback and ensure accuracy and compliance with scheme rules, procedures, and legislation.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2",
+        "03fc4c15-1ac1-4347-a2aa-c6cb925ff0dd",
+        "557580e5-cb67-4cd3-a7c2-242add576608"
+      ],
+      "mappedKnowledge": [
+        "0b8ecefb-a1ce-48ef-8141-2d4e3766e3cf",
+        "f16215be-85c2-48de-9444-57826818a917",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3",
+        "34e2fbdb-534e-4307-9f6c-5d47c523c293",
+        "2fcea962-268c-4a32-9022-a1d20de4d854"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "5c30296b-4a74-4d11-a93f-587dd1369aa2",
+        "f50d8fb1-4276-4354-b5fd-4025882b5033",
+        "3f210363-290c-4eec-97a4-65c2be7db567"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "3aee9bed-2126-41f7-962f-b360a5dab259",
-      "dutyDetail": "Ensure that all organisational procedures are followed when undertaking work for customers to ensure that processes are carried out effectively and efficiently.\u00A0",
+      "dutyDetail": "Ensure that all organisational procedures are followed when undertaking work for customers, to ensure processes are carried out effectively and efficiently.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "03fc4c15-1ac1-4347-a2aa-c6cb925ff0dd"
+      ],
+      "mappedKnowledge": [
+        "f846c4b5-f3c9-4f78-b22b-8cbc57206a42",
+        "f16215be-85c2-48de-9444-57826818a917",
+        "af428e65-b369-4285-bc9e-422f2a4c4a57",
+        "b3942b55-90df-4cc4-bb00-62888bdf32f3",
+        "308c99e0-4364-420f-a81c-5223e5bd1240"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "da458fc3-822c-4c61-9dd4-62c59623efb0",
+        "f3cdf1cf-1c0b-4de0-bf6c-74e772e68cd8",
+        "d34cd019-4825-425a-8c52-9e0dbd6fcfd1",
+        "5c30296b-4a74-4d11-a93f-587dd1369aa2"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "a32be38d-6202-4766-a661-e052489a2234",
-      "dutyDetail": "Undertake specialised technical and non-standard administrative pensions processes and procedures which require interpretation and judgement to achieve satisfactory and required outcomes.\u00A0Continuously develop knowledge of customers’ pension schemes or plans to support delivery, such as benefit limits.\u00A0",
+      "dutyDetail": "Undertake specialised technical and non-standard pensions administration processes and procedures that require interpretation and judgement to achieve satisfactory and required outcomes.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2",
+        "639c0c4e-6d70-45cf-a38c-ef46b1ab0b31"
+      ],
+      "mappedKnowledge": [
+        "0b8ecefb-a1ce-48ef-8141-2d4e3766e3cf",
+        "f16215be-85c2-48de-9444-57826818a917",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "f3cdf1cf-1c0b-4de0-bf6c-74e772e68cd8",
+        "d34cd019-4825-425a-8c52-9e0dbd6fcfd1",
+        "5c30296b-4a74-4d11-a93f-587dd1369aa2"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "7c6a3dc8-c8b6-4fb1-baab-8e83bae4f56a",
-      "dutyDetail": "Use digital systems to deliver accurate and efficient pensions administration activities safely and securely.\u00A0",
+      "dutyDetail": "Use digital systems to deliver accurate and efficient pensions administration activities safely and securely.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47"
+      ],
+      "mappedKnowledge": [
+        "6cbe8f55-cff8-44ba-94d6-aad9f140305f",
+        "a82131eb-8124-457e-891c-038993dcc19a",
+        "af428e65-b369-4285-bc9e-422f2a4c4a57",
+        "b3942b55-90df-4cc4-bb00-62888bdf32f3"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "4ed621bf-57e9-40eb-aa3f-57a219bd9b0e",
+        "0e7c2d0e-d085-4059-9d3c-4289df0b4a4a"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "071655e5-2e52-4c9d-9521-7a554b72aa5e",
-      "dutyDetail": "Manage customer, member and pension scheme or plan data and information safely and securely.\u00A0",
+      "dutyDetail": "Manage customer, member, and pension scheme or plan data and information safely and securely.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47"
+      ],
+      "mappedKnowledge": [
+        "6cbe8f55-cff8-44ba-94d6-aad9f140305f",
+        "af428e65-b369-4285-bc9e-422f2a4c4a57",
+        "b3942b55-90df-4cc4-bb00-62888bdf32f3"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "8caace78-4ef5-459d-afd8-8f8c16744b83"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "c6cab6b4-efeb-46fc-a464-eb1411a8d6c5",
-      "dutyDetail": "Manage and prioritise your own workload, such as project work or scheme events alongside day-to-day tasks, whilst ensuring the Service Level Agreements (SLAs) are met.\u00A0\u00A0",
+      "dutyDetail": "Manage and prioritise personal workload, such as project work or pension scheme or plan events, alongside day-to-day tasks, while ensuring Service Level Agreements (SLAs) are met.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2"
+      ],
+      "mappedKnowledge": [
+        "0b8ecefb-a1ce-48ef-8141-2d4e3766e3cf"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "da458fc3-822c-4c61-9dd4-62c59623efb0",
+        "d8f257bb-e142-4b6a-b39d-b67a2a0e77c5"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "cc194dfa-b39a-45be-ade0-0ee19074af4a",
-      "dutyDetail": "Identify areas for continuous improvement within the organisation and recommend appropriate changes.\u00A0",
+      "dutyDetail": "Identify areas for continuous improvement within the organisation and recommend appropriate changes.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2",
+        "639c0c4e-6d70-45cf-a38c-ef46b1ab0b31",
+        "557580e5-cb67-4cd3-a7c2-242add576608"
+      ],
+      "mappedKnowledge": [
+        "f16215be-85c2-48de-9444-57826818a917",
+        "bc9b472d-a8cf-46fd-bba9-718696f9befe"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "fd151080-d8fc-484d-8e2d-919db44f49b0",
+        "28085ef6-6c3a-4588-8e90-218faf981b61"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "c8b024d5-c598-4f46-a9dd-e4c41538d7dd",
       "dutyDetail": "Take responsibility for personal and professional development in line with organisational expectations.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "639c0c4e-6d70-45cf-a38c-ef46b1ab0b31",
+        "557580e5-cb67-4cd3-a7c2-242add576608"
+      ],
+      "mappedKnowledge": [
+        "dbd3ab1f-f79d-42ad-8926-8fbb1873ed0c",
+        "a82131eb-8124-457e-891c-038993dcc19a",
+        "bc9b472d-a8cf-46fd-bba9-718696f9befe",
+        "308c99e0-4364-420f-a81c-5223e5bd1240"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "fa8f2a96-6ee9-4feb-a1e3-8d8e31092285"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "f0ecd2e9-606d-404d-aca9-e0bed912100f",
-      "dutyDetail": "Train, support and mentor junior colleagues, such as pensions administrators, providing feedback and supporting the wider development and knowledge of the team.",
+      "dutyDetail": "Train, support, and mentor colleagues, such as pensions administrators, providing feedback and supporting the wider development and knowledge of the team.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "639c0c4e-6d70-45cf-a38c-ef46b1ab0b31",
+        "557580e5-cb67-4cd3-a7c2-242add576608"
+      ],
+      "mappedKnowledge": [
+        "f846c4b5-f3c9-4f78-b22b-8cbc57206a42",
+        "f16215be-85c2-48de-9444-57826818a917",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3",
+        "bc9b472d-a8cf-46fd-bba9-718696f9befe",
+        "308c99e0-4364-420f-a81c-5223e5bd1240",
+        "315eaf50-b4a7-4f59-a102-a4b3d72f0755",
+        "2fcea962-268c-4a32-9022-a1d20de4d854"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "5c30296b-4a74-4d11-a93f-587dd1369aa2",
+        "04774805-cd21-4f8f-80ab-ab0083d33c07",
+        "f50d8fb1-4276-4354-b5fd-4025882b5033",
+        "3f210363-290c-4eec-97a4-65c2be7db567",
+        "4ec6bf2c-194a-4aea-8df0-49078f29eec4"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "9407bf1b-1cfe-47d3-8019-19b20b24fda0",
-      "dutyDetail": "Ensure technical communications are accurate, compliant with data legislation and secure, professional, and courteous and that complex technical issues are explained in clear, non-technical language.\u00A0",
+      "dutyDetail": "Ensure technical communications are accurate, compliant with data protection legislation, secure, professional, and courteous, and that complex technical issues are explained in clear, non-technical language.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2",
+        "03fc4c15-1ac1-4347-a2aa-c6cb925ff0dd",
+        "557580e5-cb67-4cd3-a7c2-242add576608"
+      ],
+      "mappedKnowledge": [
+        "0b8ecefb-a1ce-48ef-8141-2d4e3766e3cf",
+        "c7c3417a-5a52-42cf-940d-c84e8f9cc5c8",
+        "f16215be-85c2-48de-9444-57826818a917",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3",
+        "6cbe8f55-cff8-44ba-94d6-aad9f140305f",
+        "af428e65-b369-4285-bc9e-422f2a4c4a57",
+        "b3942b55-90df-4cc4-bb00-62888bdf32f3",
+        "34e2fbdb-534e-4307-9f6c-5d47c523c293",
+        "315eaf50-b4a7-4f59-a102-a4b3d72f0755",
+        "2fcea962-268c-4a32-9022-a1d20de4d854"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "f3cdf1cf-1c0b-4de0-bf6c-74e772e68cd8",
+        "d34cd019-4825-425a-8c52-9e0dbd6fcfd1",
+        "d7de43b0-95e7-4f8a-b4b0-3e2529efe6cb",
+        "c78838e1-3fd4-459f-bfe0-316849e2aee9",
+        "f50d8fb1-4276-4354-b5fd-4025882b5033"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "d9e070b6-16c9-4266-8db0-715eb951e43d",
-      "dutyDetail": "Build strong, effective customer and team working relationships.\u00A0",
+      "dutyDetail": "Build strong and effective customer and team-working relationships.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207"
+      ],
+      "mappedKnowledge": [
+        "dbd3ab1f-f79d-42ad-8926-8fbb1873ed0c",
+        "c7c3417a-5a52-42cf-940d-c84e8f9cc5c8",
+        "f846c4b5-f3c9-4f78-b22b-8cbc57206a42",
+        "34e2fbdb-534e-4307-9f6c-5d47c523c293",
+        "315eaf50-b4a7-4f59-a102-a4b3d72f0755"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "d7de43b0-95e7-4f8a-b4b0-3e2529efe6cb",
+        "5c30296b-4a74-4d11-a93f-587dd1369aa2"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "158884e4-3827-4149-a165-487e44e58ff4",
-      "dutyDetail": "Support team leaders on technical pensions matters, such as acting as lead administrator or Subject Matter Expert.",
+      "dutyDetail": "Support team leaders on technical pensions matters, such as acting as a lead administrator or Subject Matter Expert.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "75181829-7e89-4b5a-bfbf-a3465807a207",
+        "bf1279f7-959f-405c-92d2-4b8587483b47",
+        "ca928fff-021c-4dd8-a828-5ac57b5b5eb2",
+        "03fc4c15-1ac1-4347-a2aa-c6cb925ff0dd"
+      ],
+      "mappedKnowledge": [
+        "dbd3ab1f-f79d-42ad-8926-8fbb1873ed0c",
+        "0b8ecefb-a1ce-48ef-8141-2d4e3766e3cf",
+        "20a147bf-3d0d-4200-9d59-3ed6610e919b",
+        "c7c3417a-5a52-42cf-940d-c84e8f9cc5c8",
+        "f16215be-85c2-48de-9444-57826818a917",
+        "27ad4219-8bcf-42e5-b0c4-47c47e9ce5d3"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "5c30296b-4a74-4d11-a93f-587dd1369aa2",
+        "fd151080-d8fc-484d-8e2d-919db44f49b0",
+        "ed70d246-2696-4e2d-a7a2-0c7ef6c21b35",
+        "4ec6bf2c-194a-4aea-8df0-49078f29eec4"
+      ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
@@ -254,5 +671,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-08-27T10:45:16.413"
+  "publishDate": "2026-09-28T00:00:00"
 }
