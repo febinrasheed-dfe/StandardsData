@@ -1,6 +1,6 @@
 {
   "templateType": "Occupational Standard",
-  "shortAssessment": false,
+  "shortAssessment": true,
   "larsCode": 0,
   "referenceNumber": "ST1487",
   "learningAimClassCode": "",
@@ -11,50 +11,373 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2025-07-22T00:00:00",
+  "changedDate": "2026-09-28T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Provide independent, objective assurance and consultancy to add value and improve an organisation's operations ",
   "level": 6,
-  "ePALength": 0,
-  "typicalDuration": 0,
+  "ePALength": 3,
+  "typicalDuration": 36,
   "minimumHoursForCompliance": "",
   "maxFunding": 0,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "Certified Internal Auditor",
+    "auditors",
+    "Internal auditor",
+    "auditing",
+    "assurance"
+  ],
+  "jobRoles": [
+    "Certified Internal Auditor"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1487?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.1 Accounting and finance",
   "version": "0.0",
   "standardInformation": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;This occupation is found in all organisations that require oversight of their risk management and internal processes. Organisations that employ Certified Internal Auditors are typically medium to large public, third-sector or private organisations. This includes companies that deal in goods and services, financial institutions, and government departments. Accountancy firms employ Certified Internal Auditors to perform internal audits on behalf of their clients within those clients&#39; businesses and organisations. Companies may employ their own Certified Internal Auditors to perform in-house internal audits. Alternatively, they may choose to outsource their internal audit activities to third parties. In the public sector, an internal audit function will carry out in-house internal audits in organisations such as central government departments, local authorities, regulators, and higher education institutions. Certified Internal Auditors are qualified and recognised globally by the Institute of Internal Auditors (IIA) and in the UK and Ireland by the Chartered Institute of Internal Auditors (CIIA). They carry out their activities with reference to the Global Internal Audit Standards.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;The broad purpose of the occupation is to provide an independent and objective assurance and advisory service that adds value and improves an organisation&#39;s operations. Certified Internal Auditors support organisations in accomplishing their objectives by bringing a systematic and disciplined approach to evaluating and improving the effectiveness of governance, risk management, and control processes. Internal audit activities assess the adequacy and effectiveness of all areas of an organisation, including risk management, compliance, and financial functions. Internal audit must remain impartial and independent in its work across all areas of the organisation. Certified Internal Auditors are recognised professionals in risk management, internal audit, governance, and control. They are globally recognised as professional internal auditors. They communicate complex concepts to both technical and non-technical stakeholders, ensuring that stakeholders understand audit outcomes and areas for improvement. Certified Internal Auditors provide challenging and sometimes provocative insights into risks and internal controls. They always act independently and objectively, representing the interests of the organisation&#39;s stakeholders. They maintain the highest standards of professional conduct and competence, and they consistently uphold ethical behaviour and integrity.&lt;/span&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;In their daily work, an employee in this occupation interacts with an internal audit team and may manage other internal audit professionals. A Certified Internal Auditor typically reports to an Internal Audit Manager or Chief Audit Executive. They interact with stakeholders across the organisation who have an interest in audit activities, whether they are subject to internal audit activity, receive assurance, or own the outcomes.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt&quot;&gt;An employee in this occupation will work both independently and as part of a team to deliver internal audit engagements. This includes tasks such as planning, testing processes for design, effectiveness, and accuracy, and report writing. Their work is supervised to ensure quality, but they manage their workflow in line with a rigorous methodology and with reference to the Global Internal Audit Standards and sector-specific practice. They ensure that audits are conducted in accordance with the organisation&#39;s internal audit manual.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "248a4056-4826-4a51-b9c7-9f25437120f7",
+      "detail": "The purpose of internal auditing according to the Global Internal Audit Standards."
+    },
+    {
+      "knowledgeId": "ea7503cf-d5fe-429c-ade1-fc061766cc7e",
+      "detail": "The internal audit mandate and responsibilities of the board and chief audit executive."
+    },
+    {
+      "knowledgeId": "e8a21105-4f63-47e9-a64e-17f21f01753c",
+      "detail": "The requirements of an internal audit charter."
+    },
+    {
+      "knowledgeId": "3d48cef8-898f-4195-bc20-aee5dba02697",
+      "detail": "The differences between assurance services and advisory services provided by the internal audit function."
+    },
+    {
+      "knowledgeId": "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+      "detail": "The purpose and responsibilities of the audit committee."
+    },
+    {
+      "knowledgeId": "95a96691-1ef9-45b3-9a15-6f890b03046e",
+      "detail": "The types of assurance and advisory services performed by the internal audit function."
+    },
+    {
+      "knowledgeId": "d189a083-fa67-4a9c-b101-335f89866376",
+      "detail": "Situations in which the independence of the internal audit function may be impaired."
+    },
+    {
+      "knowledgeId": "e55de6d7-5474-4cd3-a493-56315ace96e4",
+      "detail": "The internal audit function's role in the organisation's risk management process."
+    },
+    {
+      "knowledgeId": "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+      "detail": "Ethics and professionalism in accordance with the Global Internal Audit Standards."
+    },
+    {
+      "knowledgeId": "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+      "detail": "The concept of organisational governance."
+    },
+    {
+      "knowledgeId": "30104473-90fe-4105-91ff-02986b181eea",
+      "detail": "The impact of organisational culture on the overall control environment and individual engagement risks and controls."
+    },
+    {
+      "knowledgeId": "043e73ba-b68a-42ac-b854-0bc56434e4e7",
+      "detail": "Fundamental concepts of risk types. "
+    },
+    {
+      "knowledgeId": "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+      "detail": "Fundamental concepts of the risk management process and its operation within organisations."
+    },
+    {
+      "knowledgeId": "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+      "detail": "Internal control concepts and types of controls, including the importance of the design, effectiveness, and efficiency of both financial and non-financial internal controls."
+    },
+    {
+      "knowledgeId": "1bc2e160-b352-4ae0-8e0f-295c7e441283",
+      "detail": "Concepts of fraud risk and types of fraud, and how to determine whether fraud risks require special consideration during an engagement."
+    },
+    {
+      "knowledgeId": "71eb9e4a-e4e8-4b93-ba81-319d4aef052f",
+      "detail": "The potential for fraud and how organisations detect, manage, and prevent fraud through controls. "
+    },
+    {
+      "knowledgeId": "2cef9645-893c-4f49-9e26-6f70e9d34d7a",
+      "detail": "Fraud investigation techniques and the internal audit function’s role in fraud investigations."
+    },
+    {
+      "knowledgeId": "b0da2b53-063b-4ae4-a8d8-a61947112081",
+      "detail": "Approaches to determine internal audit engagement objectives and scope."
+    },
+    {
+      "knowledgeId": "0810fdf6-e6f3-4c07-be13-12600760dc3d",
+      "detail": "Approaches to assessing key risks and controls and determining evaluation criteria. "
+    },
+    {
+      "knowledgeId": "c44afb1a-0644-4172-8676-ef9ef6830824",
+      "detail": "Principles of conducting detailed risk assessments of each activity under review."
+    },
+    {
+      "knowledgeId": "74756bbd-68a5-45f0-9525-2fdf3de91198",
+      "detail": "Approaches to engagement procedures and preparing an engagement work program."
+    },
+    {
+      "knowledgeId": "517acb98-b1e2-4d62-8ac4-cb7259528c36",
+      "detail": "Approaches to resource and skills planning needed for internal audit engagements."
+    },
+    {
+      "knowledgeId": "f523469d-4fd9-49cf-9b95-a434c44edba2",
+      "detail": "Approaches to identifying sources of information to support internal audit engagement objectives and procedures."
+    },
+    {
+      "knowledgeId": "af48d9f5-da86-40c4-8b37-a2dd3a2a943c",
+      "detail": "Approaches to evaluating the relevance, sufficiency, and reliability of evidence gathered to support internal audit engagement objectives. "
+    },
+    {
+      "knowledgeId": "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+      "detail": "The different types of technology internal auditors may use to develop and support engagement findings and conclusions, including emerging technologies such as artificial intelligence."
+    },
+    {
+      "knowledgeId": "ced576b4-f1c9-4081-b1da-f8c82fc5f4b7",
+      "detail": "Appropriate analytical approaches and process mapping techniques."
+    },
+    {
+      "knowledgeId": "b95f6b71-339d-4822-a371-2fb4f5c19ad7",
+      "detail": "Approaches to determining the difference between evaluation criteria and existing conditions, and to evaluating the significance of each finding."
+    },
+    {
+      "knowledgeId": "8b576dea-b2f6-4ab7-a410-4bcd3dcffb1c",
+      "detail": "Principles for the preparation of workpapers, including relevant information to support conclusions and engagement results."
+    },
+    {
+      "knowledgeId": "6bfe4b3b-d6c6-457f-b70e-95d03c17b69f",
+      "detail": "Approaches to summarising and developing engagement conclusions."
+    },
+    {
+      "knowledgeId": "a688a8e0-3483-4806-94e0-657d884b716c",
+      "detail": "Principles of appropriate supervision throughout internal audit engagements."
+    },
+    {
+      "knowledgeId": "19939aa0-165e-4760-945f-6b73596cea6c",
+      "detail": "Approaches to appropriate communication with stakeholders throughout internal audit engagements. "
+    },
+    {
+      "knowledgeId": "fc1a7641-7181-45d8-975d-cc246ba22747",
+      "detail": "Methodologies for the planning, organising, directing, and monitoring of internal audit operations, taking account of sustainability and the environment."
+    },
+    {
+      "knowledgeId": "804ca1f4-01fe-4286-ad9c-a3a73b507620",
+      "detail": "Key activities for managing financial, human, and IT resources within the internal audit function."
+    },
+    {
+      "knowledgeId": "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+      "detail": "The key elements required to align internal audit strategy to stakeholder expectations."
+    },
+    {
+      "knowledgeId": "3196ddbe-57f4-4cb6-94fb-b9535580cb45",
+      "detail": "The chief audit executive’s responsibilities for building relationships and communicating with senior management and the board on various matters."
+    },
+    {
+      "knowledgeId": "bf4d630f-4ec0-4135-8f27-6538d033f3b2",
+      "detail": "Sources of potential internal audit engagements."
+    },
+    {
+      "knowledgeId": "cd9cd10e-cc4c-465f-b85c-3d129909659c",
+      "detail": "The processes to develop a risk-based internal audit plan."
+    },
+    {
+      "knowledgeId": "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+      "detail": "The required elements of the quality assurance and improvement programme."
+    },
+    {
+      "knowledgeId": "b336ed0f-654d-4936-99c8-53b8287771e9",
+      "detail": "The importance for internal auditors to coordinate with other assurance providers and leverage their work."
+    },
+    {
+      "knowledgeId": "fc73c5dd-a148-464f-b91f-19492712c2b6",
+      "detail": "Practical methods for establishing internal audit key performance indicators (KPIs) and scorecard metrics that the chief audit executive communicates to senior management and the board."
+    },
+    {
+      "knowledgeId": "863025f2-0ee8-40bf-8512-6c12ad846be2",
+      "detail": "Appropriate disclosure of non-conformance with the Global Internal Audit Standards."
+    },
+    {
+      "knowledgeId": "367f6cf9-f7e2-4361-9776-05a9ce4341fa",
+      "detail": "Attributes of effective engagement results communication."
+    },
+    {
+      "knowledgeId": "b9272d3e-0ecc-49fd-8d65-5cb0adc69756",
+      "detail": "The concept and different approaches to root cause analysis."
+    },
+    {
+      "knowledgeId": "15ca9868-cb57-4a36-9880-3d3301873725",
+      "detail": "Approaches to developing recommendations, requesting action plans from management, or collaborating with management to agree on actions."
+    },
+    {
+      "knowledgeId": "e2511159-59d1-4c9d-bd1a-14c09712d221",
+      "detail": "The engagement closing communication and reporting process."
+    },
+    {
+      "knowledgeId": "8dc0c9a6-b73f-4f2d-9342-8fd54d7b6d61",
+      "detail": "The process for communicating risk acceptance when management has accepted a level of risk that may be unacceptable to the organisation."
+    },
+    {
+      "knowledgeId": "8e955b74-19d3-4eb7-acea-4ff4dd337810",
+      "detail": "The chief audit executive’s responsibility for assessing residual risk for the engagement."
+    },
+    {
+      "knowledgeId": "1b0a0f90-5316-4ff4-a138-4d48d4445423",
+      "detail": "The process for monitoring and confirming the implementation of management action plans."
+    },
+    {
+      "knowledgeId": "35bfc8e9-6b03-4fc4-b95b-2718ad2c3a29",
+      "detail": "The escalation process if management has not adequately implemented an action plan."
+    },
+    {
+      "knowledgeId": "35f001ce-416b-4c1a-b51f-824d673fe510",
+      "detail": "Approaches for the chief audit executive to assess and report an organisational-level opinion on governance, risk management, and internal control arrangements."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+      "detail": "Is honest in conducting internal audit activities, demonstrating integrity and professional courage."
+    },
+    {
+      "behaviourId": "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+      "detail": "Is rigorous in ensuring the factual accuracy of internal audit activities."
+    },
+    {
+      "behaviourId": "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+      "detail": "Is respectful when carrying out internal audit activities with stakeholders, including through communications."
+    },
+    {
+      "behaviourId": "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+      "detail": "Is compliant with policies, procedures, laws, and regulations relevant to the organisation, sector, and jurisdictions in which they operate."
+    },
+    {
+      "behaviourId": "acd53bfa-8d49-4369-9629-600881c078f4",
+      "detail": "Is ethical, demonstrating professional objectivity and an impartial, unbiased mindset when making judgements."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "477371c4-6cda-46d3-b652-af6618902743",
+      "detail": "Identify situations where the independence of the internal audit function may be impaired."
+    },
+    {
+      "skillId": "d6258cd4-d328-42e9-8ff5-ef72f1856782",
+      "detail": "Determine engagement objectives, scope, key risks, controls, and evaluation criteria."
+    },
+    {
+      "skillId": "288aeb8c-742e-4b28-b37c-df48c933d34f",
+      "detail": "Evaluate the potential for fraud in individual engagements and how the organisation could detect and manage fraud risks."
+    },
+    {
+      "skillId": "fc159211-cab9-4d14-8218-fd1d7542a848",
+      "detail": "Determine whether fraud risks require special consideration during an engagement."
+    },
+    {
+      "skillId": "a7bae160-0bc9-407c-b9bb-f850550218da",
+      "detail": "Identify sources of information to support engagement objectives."
+    },
+    {
+      "skillId": "51f962f8-29ce-42bf-8f6f-4801aefbfea2",
+      "detail": "Identify the level of resources and skills needed for the engagement."
+    },
+    {
+      "skillId": "48436909-0493-4b05-879a-13bf07af4902",
+      "detail": "Use appropriate technology options to develop and support engagement findings and conclusions."
+    },
+    {
+      "skillId": "e9e3ea75-74f7-4cc8-a261-038be6a980c5",
+      "detail": "Determine and prepare the engagement work programme."
+    },
+    {
+      "skillId": "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1",
+      "detail": "Complete a detailed risk assessment of each activity under review."
+    },
+    {
+      "skillId": "6b5de121-c701-41a6-9072-e540d20e0004",
+      "detail": "Evaluate the relevance, sufficiency, and reliability of evidence gathered to support engagement objectives."
+    },
+    {
+      "skillId": "806871a1-7fb5-4cb9-b294-750d546c6cbb",
+      "detail": "Apply appropriate analytical review and process mapping techniques."
+    },
+    {
+      "skillId": "999082ab-68bb-49f2-b106-eab75e94645b",
+      "detail": "Determine whether there is a difference between evaluation criteria and existing conditions, and evaluate the significance of each finding."
+    },
+    {
+      "skillId": "466daf78-66ca-4cc6-804e-3f8add58da4d",
+      "detail": "Undertake a root cause analysis of any differences between the evaluation criteria and existing conditions."
+    },
+    {
+      "skillId": "dc1a7d06-1ead-4340-97ad-9dc99d14fda1",
+      "detail": "Prepare workpapers, including relevant information to support conclusions and engagement results."
+    },
+    {
+      "skillId": "66e44279-dec4-4e7a-a1f8-67bfb354d26a",
+      "detail": "Summarise and develop engagement conclusions."
+    },
+    {
+      "skillId": "f060fe3e-f27e-4ded-91ad-c263b829636b",
+      "detail": "Communicate appropriately with stakeholders throughout the engagement."
+    },
+    {
+      "skillId": "13f1bc57-d874-4f11-993d-28b79dd9009c",
+      "detail": "Communicate engagement results with clarity and precision to ensure understanding."
+    },
+    {
+      "skillId": "21266ec0-daa8-44ac-96d6-411c1e8d4730",
+      "detail": "Develop recommendations, request action plans from management, or collaborate with management to agree on actions."
+    },
+    {
+      "skillId": "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+      "detail": "Undertake the engagement closing communication and reporting process."
+    },
+    {
+      "skillId": "5fad85c4-e433-4209-8952-c7c342afe23c",
+      "detail": "Evaluate management’s responses to recommendations or proposed action plans, identify any inappropriate levels of risk acceptance when management has accepted a level of risk that may be unacceptable to the organisation, and escalate accordingly."
+    },
+    {
+      "skillId": "d2359bea-acd5-4456-9811-fb9941050454",
+      "detail": "Monitor and confirm the implementation of management action plans."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
-  "standardPublished": "false",
+  "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
   "approvedForDelivery": "",
-  "integratedApprenticeship": null,
-  "integration": null,
-  "integratedDegree": "",
-  "tbReference": "",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "integratedApprenticeship": false,
+  "integration": "Mandatory qualification with apprenticeship assessment",
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "TB0879",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Ageas, Barclays, Clear Quality, Government Internal Audit Agency, Hertfordshire County Council, HSBC, Institute of Internal Auditors, JP Morgan, Kaplan, Lincolnshire County Council, LLoyds Banking, Lloyds Banking Group, London Borough of Lambeth, MBKB, MIAA , NHS York and Scarborough",
   "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Certified Internal Auditor"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
@@ -62,20 +385,810 @@
   "cluster": "Compliance or risk specialist",
   "clusterId": "239",
   "clusterDescription": "Provide high quality input and advice to employers based on specialism e.g. risk, financial crime, compliance, data modelling and analysis",
-  "createdDate": "2025-03-18T10:54:21 +00:00",
-  "lastUpdated": "2025-07-22T00:00:00 +00:00",
+  "createdDate": "2026-09-28T13:46:56 +00:00",
+  "lastUpdated": "2026-09-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1487",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1487?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1487",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
+  "qualifications": [
+    {
+      "qualificationId": "b46f5689-735d-48f7-a1a8-45116f69da57",
+      "title": "Certified Internal Auditor",
+      "level": "6 (non-degree qualification)",
+      "anyAdditionalInformation": "The qualification comprises three levels of examinations - CIA Part 1, CIA Part 2, and CIA Part 3. Successful completion of all three levels is required to attain Certified Internal Auditor status. Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Chartered Institute for Internal Auditors",
+      "level": "Professional Membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "7087dc7a-6d85-4fce-a84d-3f80aacbf0b1",
+      "dutyDetail": "Lead research and collate background information and documentation for assigned internal audit engagements as directed.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "043e73ba-b68a-42ac-b854-0bc56434e4e7",
+        "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "1bc2e160-b352-4ae0-8e0f-295c7e441283",
+        "71eb9e4a-e4e8-4b93-ba81-319d4aef052f",
+        "b0da2b53-063b-4ae4-a8d8-a61947112081",
+        "0810fdf6-e6f3-4c07-be13-12600760dc3d",
+        "c44afb1a-0644-4172-8676-ef9ef6830824",
+        "517acb98-b1e2-4d62-8ac4-cb7259528c36",
+        "f523469d-4fd9-49cf-9b95-a434c44edba2",
+        "af48d9f5-da86-40c4-8b37-a2dd3a2a943c",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "8b576dea-b2f6-4ab7-a410-4bcd3dcffb1c",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "bf4d630f-4ec0-4135-8f27-6538d033f3b2",
+        "cd9cd10e-cc4c-465f-b85c-3d129909659c",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "fc73c5dd-a148-464f-b91f-19492712c2b6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "d6258cd4-d328-42e9-8ff5-ef72f1856782",
+        "288aeb8c-742e-4b28-b37c-df48c933d34f",
+        "fc159211-cab9-4d14-8218-fd1d7542a848",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "51f962f8-29ce-42bf-8f6f-4801aefbfea2",
+        "48436909-0493-4b05-879a-13bf07af4902",
+        "e9e3ea75-74f7-4cc8-a261-038be6a980c5",
+        "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1",
+        "6b5de121-c701-41a6-9072-e540d20e0004",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "97a18b67-618e-47e7-a058-a39007379102",
+      "dutyDetail": "Plan and execute internal audit engagements, ensuring that engagement plans are achieved in accordance with agreed standards of quality, and agreed timescales and budgets.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "ea7503cf-d5fe-429c-ade1-fc061766cc7e",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "3d48cef8-898f-4195-bc20-aee5dba02697",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "1bc2e160-b352-4ae0-8e0f-295c7e441283",
+        "b0da2b53-063b-4ae4-a8d8-a61947112081",
+        "0810fdf6-e6f3-4c07-be13-12600760dc3d",
+        "c44afb1a-0644-4172-8676-ef9ef6830824",
+        "74756bbd-68a5-45f0-9525-2fdf3de91198",
+        "517acb98-b1e2-4d62-8ac4-cb7259528c36",
+        "f523469d-4fd9-49cf-9b95-a434c44edba2",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "b95f6b71-339d-4822-a371-2fb4f5c19ad7",
+        "a688a8e0-3483-4806-94e0-657d884b716c",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "fc1a7641-7181-45d8-975d-cc246ba22747",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "bf4d630f-4ec0-4135-8f27-6538d033f3b2",
+        "cd9cd10e-cc4c-465f-b85c-3d129909659c",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "b9272d3e-0ecc-49fd-8d65-5cb0adc69756"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "d6258cd4-d328-42e9-8ff5-ef72f1856782",
+        "288aeb8c-742e-4b28-b37c-df48c933d34f",
+        "fc159211-cab9-4d14-8218-fd1d7542a848",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "51f962f8-29ce-42bf-8f6f-4801aefbfea2",
+        "48436909-0493-4b05-879a-13bf07af4902",
+        "e9e3ea75-74f7-4cc8-a261-038be6a980c5",
+        "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ee026642-5429-446b-afa4-eaa5dc6ccb9b",
+      "dutyDetail": "Analyse and interpret quantitative and qualitative data, including financial information, to inform internal audit engagement activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "1bc2e160-b352-4ae0-8e0f-295c7e441283",
+        "b0da2b53-063b-4ae4-a8d8-a61947112081",
+        "0810fdf6-e6f3-4c07-be13-12600760dc3d",
+        "c44afb1a-0644-4172-8676-ef9ef6830824",
+        "74756bbd-68a5-45f0-9525-2fdf3de91198",
+        "f523469d-4fd9-49cf-9b95-a434c44edba2",
+        "af48d9f5-da86-40c4-8b37-a2dd3a2a943c",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "ced576b4-f1c9-4081-b1da-f8c82fc5f4b7",
+        "b95f6b71-339d-4822-a371-2fb4f5c19ad7",
+        "bf4d630f-4ec0-4135-8f27-6538d033f3b2",
+        "b9272d3e-0ecc-49fd-8d65-5cb0adc69756"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "d6258cd4-d328-42e9-8ff5-ef72f1856782",
+        "288aeb8c-742e-4b28-b37c-df48c933d34f",
+        "fc159211-cab9-4d14-8218-fd1d7542a848",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "48436909-0493-4b05-879a-13bf07af4902",
+        "e9e3ea75-74f7-4cc8-a261-038be6a980c5",
+        "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1",
+        "6b5de121-c701-41a6-9072-e540d20e0004",
+        "466daf78-66ca-4cc6-804e-3f8add58da4d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "df1ccd02-bfcc-470d-9b29-ed60a91fb5de",
+      "dutyDetail": "Lead risk-based internal audit engagements in accordance with relevant professional standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "ea7503cf-d5fe-429c-ade1-fc061766cc7e",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "3d48cef8-898f-4195-bc20-aee5dba02697",
+        "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "043e73ba-b68a-42ac-b854-0bc56434e4e7",
+        "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "1bc2e160-b352-4ae0-8e0f-295c7e441283",
+        "71eb9e4a-e4e8-4b93-ba81-319d4aef052f",
+        "2cef9645-893c-4f49-9e26-6f70e9d34d7a",
+        "0810fdf6-e6f3-4c07-be13-12600760dc3d",
+        "c44afb1a-0644-4172-8676-ef9ef6830824",
+        "74756bbd-68a5-45f0-9525-2fdf3de91198",
+        "f523469d-4fd9-49cf-9b95-a434c44edba2",
+        "af48d9f5-da86-40c4-8b37-a2dd3a2a943c",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "ced576b4-f1c9-4081-b1da-f8c82fc5f4b7",
+        "b95f6b71-339d-4822-a371-2fb4f5c19ad7",
+        "6bfe4b3b-d6c6-457f-b70e-95d03c17b69f",
+        "a688a8e0-3483-4806-94e0-657d884b716c",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "fc1a7641-7181-45d8-975d-cc246ba22747",
+        "3196ddbe-57f4-4cb6-94fb-b9535580cb45",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "b9272d3e-0ecc-49fd-8d65-5cb0adc69756"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "288aeb8c-742e-4b28-b37c-df48c933d34f",
+        "fc159211-cab9-4d14-8218-fd1d7542a848",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1",
+        "6b5de121-c701-41a6-9072-e540d20e0004",
+        "806871a1-7fb5-4cb9-b294-750d546c6cbb",
+        "999082ab-68bb-49f2-b106-eab75e94645b",
+        "466daf78-66ca-4cc6-804e-3f8add58da4d",
+        "dc1a7d06-1ead-4340-97ad-9dc99d14fda1",
+        "66e44279-dec4-4e7a-a1f8-67bfb354d26a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cf70a9e9-2585-49e8-a8a5-d38be5dd1431",
+      "dutyDetail": "Document sufficient, reliable, relevant, and useful information to support internal audit engagement results and conclusions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "043e73ba-b68a-42ac-b854-0bc56434e4e7",
+        "af48d9f5-da86-40c4-8b37-a2dd3a2a943c",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "b95f6b71-339d-4822-a371-2fb4f5c19ad7",
+        "8b576dea-b2f6-4ab7-a410-4bcd3dcffb1c",
+        "6bfe4b3b-d6c6-457f-b70e-95d03c17b69f",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "863025f2-0ee8-40bf-8512-6c12ad846be2",
+        "b9272d3e-0ecc-49fd-8d65-5cb0adc69756"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "6b5de121-c701-41a6-9072-e540d20e0004",
+        "806871a1-7fb5-4cb9-b294-750d546c6cbb",
+        "999082ab-68bb-49f2-b106-eab75e94645b",
+        "466daf78-66ca-4cc6-804e-3f8add58da4d",
+        "dc1a7d06-1ead-4340-97ad-9dc99d14fda1",
+        "66e44279-dec4-4e7a-a1f8-67bfb354d26a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "88523b58-5c7d-484a-9355-13be780fd3c7",
+      "dutyDetail": "Lead and maintain good working relationships with stakeholders to encourage engagement with the internal audit engagement process.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "ea7503cf-d5fe-429c-ade1-fc061766cc7e",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "3196ddbe-57f4-4cb6-94fb-b9535580cb45",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "fc73c5dd-a148-464f-b91f-19492712c2b6",
+        "863025f2-0ee8-40bf-8512-6c12ad846be2",
+        "367f6cf9-f7e2-4361-9776-05a9ce4341fa",
+        "15ca9868-cb57-4a36-9880-3d3301873725",
+        "e2511159-59d1-4c9d-bd1a-14c09712d221"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "f060fe3e-f27e-4ded-91ad-c263b829636b",
+        "13f1bc57-d874-4f11-993d-28b79dd9009c",
+        "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0168d49-37f7-409e-9321-6230ddd70030",
+      "dutyDetail": "Produce accurate, objective, clear, concise, constructive, complete, and timely engagement reports.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "043e73ba-b68a-42ac-b854-0bc56434e4e7",
+        "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+        "1bc2e160-b352-4ae0-8e0f-295c7e441283",
+        "71eb9e4a-e4e8-4b93-ba81-319d4aef052f",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "6bfe4b3b-d6c6-457f-b70e-95d03c17b69f",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "3196ddbe-57f4-4cb6-94fb-b9535580cb45",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "fc73c5dd-a148-464f-b91f-19492712c2b6",
+        "863025f2-0ee8-40bf-8512-6c12ad846be2",
+        "15ca9868-cb57-4a36-9880-3d3301873725",
+        "e2511159-59d1-4c9d-bd1a-14c09712d221",
+        "1b0a0f90-5316-4ff4-a138-4d48d4445423"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "dc1a7d06-1ead-4340-97ad-9dc99d14fda1",
+        "66e44279-dec4-4e7a-a1f8-67bfb354d26a",
+        "13f1bc57-d874-4f11-993d-28b79dd9009c",
+        "21266ec0-daa8-44ac-96d6-411c1e8d4730",
+        "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1534142c-54d5-4f6c-a31c-3b9d1cd932f6",
+      "dutyDetail": "Engage with relevant stakeholders to discuss observations, findings, and recommendations arising from internal audit engagement reviews.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "ea7503cf-d5fe-429c-ade1-fc061766cc7e",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "71eb9e4a-e4e8-4b93-ba81-319d4aef052f",
+        "2cef9645-893c-4f49-9e26-6f70e9d34d7a",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "3196ddbe-57f4-4cb6-94fb-b9535580cb45",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "fc73c5dd-a148-464f-b91f-19492712c2b6",
+        "863025f2-0ee8-40bf-8512-6c12ad846be2",
+        "367f6cf9-f7e2-4361-9776-05a9ce4341fa",
+        "15ca9868-cb57-4a36-9880-3d3301873725",
+        "e2511159-59d1-4c9d-bd1a-14c09712d221",
+        "8dc0c9a6-b73f-4f2d-9342-8fd54d7b6d61",
+        "1b0a0f90-5316-4ff4-a138-4d48d4445423",
+        "35f001ce-416b-4c1a-b51f-824d673fe510"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "f060fe3e-f27e-4ded-91ad-c263b829636b",
+        "13f1bc57-d874-4f11-993d-28b79dd9009c",
+        "21266ec0-daa8-44ac-96d6-411c1e8d4730",
+        "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8b3ab8f9-9d0a-472a-9fc4-d2ff255f927b",
+      "dutyDetail": "Lead meetings and communicate with stakeholders on matters relating to internal audit engagements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "ea7503cf-d5fe-429c-ade1-fc061766cc7e",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "71eb9e4a-e4e8-4b93-ba81-319d4aef052f",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "3196ddbe-57f4-4cb6-94fb-b9535580cb45",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "fc73c5dd-a148-464f-b91f-19492712c2b6",
+        "863025f2-0ee8-40bf-8512-6c12ad846be2",
+        "367f6cf9-f7e2-4361-9776-05a9ce4341fa",
+        "15ca9868-cb57-4a36-9880-3d3301873725",
+        "8dc0c9a6-b73f-4f2d-9342-8fd54d7b6d61",
+        "8e955b74-19d3-4eb7-acea-4ff4dd337810",
+        "1b0a0f90-5316-4ff4-a138-4d48d4445423",
+        "35f001ce-416b-4c1a-b51f-824d673fe510"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "f060fe3e-f27e-4ded-91ad-c263b829636b",
+        "13f1bc57-d874-4f11-993d-28b79dd9009c",
+        "21266ec0-daa8-44ac-96d6-411c1e8d4730",
+        "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "11cc6376-9789-4802-9e53-59412268de57",
+      "dutyDetail": "Lead follow-up reviews of internal audit engagement activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "ea7503cf-d5fe-429c-ade1-fc061766cc7e",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "3d48cef8-898f-4195-bc20-aee5dba02697",
+        "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "fc1a7641-7181-45d8-975d-cc246ba22747",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "3196ddbe-57f4-4cb6-94fb-b9535580cb45",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "fc73c5dd-a148-464f-b91f-19492712c2b6",
+        "863025f2-0ee8-40bf-8512-6c12ad846be2",
+        "367f6cf9-f7e2-4361-9776-05a9ce4341fa",
+        "15ca9868-cb57-4a36-9880-3d3301873725",
+        "8dc0c9a6-b73f-4f2d-9342-8fd54d7b6d61",
+        "8e955b74-19d3-4eb7-acea-4ff4dd337810",
+        "1b0a0f90-5316-4ff4-a138-4d48d4445423",
+        "35bfc8e9-6b03-4fc4-b95b-2718ad2c3a29"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "f060fe3e-f27e-4ded-91ad-c263b829636b",
+        "21266ec0-daa8-44ac-96d6-411c1e8d4730",
+        "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f7e8b75f-fb28-4935-8fc2-f15749db11a7",
+      "dutyDetail": "Promote an organisational culture that is ethical and risk aware.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "ea7503cf-d5fe-429c-ade1-fc061766cc7e",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "043e73ba-b68a-42ac-b854-0bc56434e4e7",
+        "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "1bc2e160-b352-4ae0-8e0f-295c7e441283",
+        "71eb9e4a-e4e8-4b93-ba81-319d4aef052f",
+        "2cef9645-893c-4f49-9e26-6f70e9d34d7a",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "3196ddbe-57f4-4cb6-94fb-b9535580cb45",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "fc73c5dd-a148-464f-b91f-19492712c2b6",
+        "863025f2-0ee8-40bf-8512-6c12ad846be2",
+        "15ca9868-cb57-4a36-9880-3d3301873725",
+        "8dc0c9a6-b73f-4f2d-9342-8fd54d7b6d61",
+        "8e955b74-19d3-4eb7-acea-4ff4dd337810",
+        "1b0a0f90-5316-4ff4-a138-4d48d4445423",
+        "35bfc8e9-6b03-4fc4-b95b-2718ad2c3a29",
+        "35f001ce-416b-4c1a-b51f-824d673fe510"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "fc159211-cab9-4d14-8218-fd1d7542a848",
+        "21266ec0-daa8-44ac-96d6-411c1e8d4730",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3b9f2b04-7489-435c-afa8-a072f7ced5fc",
+      "dutyDetail": "Manage workload using agreed management systems, and undertake review of casework to ensure progression is efficient and problems identified are escalated.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "517acb98-b1e2-4d62-8ac4-cb7259528c36",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "a688a8e0-3483-4806-94e0-657d884b716c",
+        "fc1a7641-7181-45d8-975d-cc246ba22747"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "d6258cd4-d328-42e9-8ff5-ef72f1856782",
+        "288aeb8c-742e-4b28-b37c-df48c933d34f",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "51f962f8-29ce-42bf-8f6f-4801aefbfea2",
+        "48436909-0493-4b05-879a-13bf07af4902",
+        "e9e3ea75-74f7-4cc8-a261-038be6a980c5",
+        "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1",
+        "6b5de121-c701-41a6-9072-e540d20e0004",
+        "806871a1-7fb5-4cb9-b294-750d546c6cbb",
+        "466daf78-66ca-4cc6-804e-3f8add58da4d",
+        "dc1a7d06-1ead-4340-97ad-9dc99d14fda1",
+        "66e44279-dec4-4e7a-a1f8-67bfb354d26a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "956fc100-8450-43e0-a6d8-2bc35dd05b00",
+      "dutyDetail": "Support others on internal audit matters using language appropriate to the audience.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "043e73ba-b68a-42ac-b854-0bc56434e4e7",
+        "2cef9645-893c-4f49-9e26-6f70e9d34d7a",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "a688a8e0-3483-4806-94e0-657d884b716c",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "fc1a7641-7181-45d8-975d-cc246ba22747",
+        "804ca1f4-01fe-4286-ad9c-a3a73b507620",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "367f6cf9-f7e2-4361-9776-05a9ce4341fa",
+        "15ca9868-cb57-4a36-9880-3d3301873725"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "d6258cd4-d328-42e9-8ff5-ef72f1856782",
+        "288aeb8c-742e-4b28-b37c-df48c933d34f",
+        "fc159211-cab9-4d14-8218-fd1d7542a848",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "51f962f8-29ce-42bf-8f6f-4801aefbfea2",
+        "48436909-0493-4b05-879a-13bf07af4902",
+        "e9e3ea75-74f7-4cc8-a261-038be6a980c5",
+        "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1",
+        "6b5de121-c701-41a6-9072-e540d20e0004",
+        "806871a1-7fb5-4cb9-b294-750d546c6cbb",
+        "999082ab-68bb-49f2-b106-eab75e94645b",
+        "466daf78-66ca-4cc6-804e-3f8add58da4d",
+        "66e44279-dec4-4e7a-a1f8-67bfb354d26a",
+        "13f1bc57-d874-4f11-993d-28b79dd9009c",
+        "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "03b11efe-e220-4ebc-80fe-ed93a67e982b",
+      "dutyDetail": "Provide leadership and support for stakeholders, and act as an escalation route for complex internal audit matters and difficult conversations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "3d48cef8-898f-4195-bc20-aee5dba02697",
+        "8953800c-8a2e-4f4d-be5f-4eb1b8aaa9b9",
+        "95a96691-1ef9-45b3-9a15-6f890b03046e",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "e55de6d7-5474-4cd3-a493-56315ace96e4",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "2c8261e0-c6ef-48d2-9dd8-679052132bb4",
+        "30104473-90fe-4105-91ff-02986b181eea",
+        "043e73ba-b68a-42ac-b854-0bc56434e4e7",
+        "636966c3-2eb3-4f8a-9546-bcbc6f656c1d",
+        "537c1f53-0b4a-4f5d-9b44-27bdf5012ec9",
+        "1bc2e160-b352-4ae0-8e0f-295c7e441283",
+        "71eb9e4a-e4e8-4b93-ba81-319d4aef052f",
+        "2cef9645-893c-4f49-9e26-6f70e9d34d7a",
+        "f63148cd-8ad1-41da-b4eb-55a39cc94b8b",
+        "a688a8e0-3483-4806-94e0-657d884b716c",
+        "19939aa0-165e-4760-945f-6b73596cea6c",
+        "fc1a7641-7181-45d8-975d-cc246ba22747",
+        "804ca1f4-01fe-4286-ad9c-a3a73b507620",
+        "39dfb958-e8a3-4ade-9b7d-f7e3e91e60bf",
+        "b336ed0f-654d-4936-99c8-53b8287771e9",
+        "fc73c5dd-a148-464f-b91f-19492712c2b6",
+        "863025f2-0ee8-40bf-8512-6c12ad846be2",
+        "367f6cf9-f7e2-4361-9776-05a9ce4341fa",
+        "15ca9868-cb57-4a36-9880-3d3301873725",
+        "8dc0c9a6-b73f-4f2d-9342-8fd54d7b6d61",
+        "8e955b74-19d3-4eb7-acea-4ff4dd337810",
+        "1b0a0f90-5316-4ff4-a138-4d48d4445423",
+        "35bfc8e9-6b03-4fc4-b95b-2718ad2c3a29",
+        "35f001ce-416b-4c1a-b51f-824d673fe510"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "d6258cd4-d328-42e9-8ff5-ef72f1856782",
+        "288aeb8c-742e-4b28-b37c-df48c933d34f",
+        "fc159211-cab9-4d14-8218-fd1d7542a848",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "51f962f8-29ce-42bf-8f6f-4801aefbfea2",
+        "48436909-0493-4b05-879a-13bf07af4902",
+        "e9e3ea75-74f7-4cc8-a261-038be6a980c5",
+        "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1",
+        "6b5de121-c701-41a6-9072-e540d20e0004",
+        "806871a1-7fb5-4cb9-b294-750d546c6cbb",
+        "999082ab-68bb-49f2-b106-eab75e94645b",
+        "466daf78-66ca-4cc6-804e-3f8add58da4d",
+        "66e44279-dec4-4e7a-a1f8-67bfb354d26a",
+        "f060fe3e-f27e-4ded-91ad-c263b829636b",
+        "13f1bc57-d874-4f11-993d-28b79dd9009c",
+        "21266ec0-daa8-44ac-96d6-411c1e8d4730",
+        "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f1365f7f-541d-4f39-8929-c2ab8b04500e",
+      "dutyDetail": "Work independently in line with the quality assurance and improvement programme to maintain professional standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [
+        "248a4056-4826-4a51-b9c7-9f25437120f7",
+        "e8a21105-4f63-47e9-a64e-17f21f01753c",
+        "3d48cef8-898f-4195-bc20-aee5dba02697",
+        "d189a083-fa67-4a9c-b101-335f89866376",
+        "1bd0ed0e-567a-44db-bc0a-97fa4c4e1afc",
+        "8b576dea-b2f6-4ab7-a410-4bcd3dcffb1c",
+        "a688a8e0-3483-4806-94e0-657d884b716c",
+        "cd9cd10e-cc4c-465f-b85c-3d129909659c",
+        "55e907b9-1ec4-48d8-beab-b2fbf8854f7b",
+        "b336ed0f-654d-4936-99c8-53b8287771e9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "477371c4-6cda-46d3-b652-af6618902743",
+        "d6258cd4-d328-42e9-8ff5-ef72f1856782",
+        "288aeb8c-742e-4b28-b37c-df48c933d34f",
+        "fc159211-cab9-4d14-8218-fd1d7542a848",
+        "a7bae160-0bc9-407c-b9bb-f850550218da",
+        "51f962f8-29ce-42bf-8f6f-4801aefbfea2",
+        "e9e3ea75-74f7-4cc8-a261-038be6a980c5",
+        "0a2fa266-7e2e-4b3d-ba63-dd98a4eccdc1",
+        "6b5de121-c701-41a6-9072-e540d20e0004",
+        "806871a1-7fb5-4cb9-b294-750d546c6cbb",
+        "999082ab-68bb-49f2-b106-eab75e94645b",
+        "dc1a7d06-1ead-4340-97ad-9dc99d14fda1",
+        "66e44279-dec4-4e7a-a1f8-67bfb354d26a",
+        "f060fe3e-f27e-4ded-91ad-c263b829636b",
+        "13f1bc57-d874-4f11-993d-28b79dd9009c",
+        "21266ec0-daa8-44ac-96d6-411c1e8d4730",
+        "d831a70b-7087-4b8f-a12f-2069a7b1d232",
+        "5fad85c4-e433-4209-8952-c7c342afe23c",
+        "d2359bea-acd5-4456-9811-fb9941050454"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f34f0c0c-1ae5-41fc-8620-73c4ca922203",
+      "dutyDetail": "Maintain continuing professional development (CPD) in accordance with professional body requirements. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12f6fd8d-771d-448d-a64c-4481bcaeed25",
+        "a9b68f83-34b2-4e4c-8e4b-98b9a5f3b89c",
+        "7f8d15c6-1108-4107-8850-b2b97cbd6475",
+        "2e68ff83-a8eb-4421-9fcb-c1b6a2194c30",
+        "acd53bfa-8d49-4369-9629-600881c078f4"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-22T00:00:00"
+  "publishDate": "2026-09-28T00:00:00"
 }
