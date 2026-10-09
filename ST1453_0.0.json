@@ -48,12 +48,12 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0895",
-  "tbMainContact": "asmith@anglianwater.co.uk; dchamberlai@anglianwater.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "",
   "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
-  "coreAndOptions": true,
+  "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
@@ -72,28 +72,7 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "options": [
-    {
-      "optionId": "24689e56-f578-4403-8afd-2edac089f61c",
-      "title": "Clean water network",
-      "occupationCode": "OCC1453A"
-    },
-    {
-      "optionId": "39d49361-9b74-4368-aeb2-714249b81d5e",
-      "title": "Waste water recycling network",
-      "occupationCode": "OCC1453C"
-    },
-    {
-      "optionId": "8d8ddfc1-104a-4c2a-a3d9-5a5287dd3fa6",
-      "title": "Waste water recycling treatment",
-      "occupationCode": "OCC1453D"
-    },
-    {
-      "optionId": "e08c8372-147d-4dba-9ce0-1e4756abe485",
-      "title": "Clean water treatment",
-      "occupationCode": "OCC1453B"
-    }
-  ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
