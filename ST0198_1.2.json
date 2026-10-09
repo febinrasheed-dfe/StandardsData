@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Updated SSA",
-  "changedDate": "2025-12-08T00:00:00",
+  "changedDate": "2026-08-12T00:00:00",
   "earliestStartDate": "2025-12-08T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-02-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Making sure food and drink products are of the right quality and safe to eat and drink.",
   "level": 3,
@@ -347,7 +347,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0855",
-  "tbMainContact": "secretariat@nsafd.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Barfoots of Botley Ltd, Coca-Cola Europacific Partners, Kepak Group, Lucozade Ribena Suntory Limited, Moy Park, Muller, National Skills Academy Food and Drink, Nestle UK&I, Nottingham Trent University, Premier Foods, Samworth Brothers, The Compleat Food Group, University of Lincoln",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -369,7 +369,7 @@
   "clusterId": "102",
   "clusterDescription": "Provide routine and non-routine laboratory testing, experimenting and support to a research brief",
   "createdDate": "2025-12-08T09:37:18 +00:00",
-  "lastUpdated": "2025-12-08T00:00:00 +00:00",
+  "lastUpdated": "2026-08-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-08-25T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0198",
@@ -980,5 +980,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-08T00:00:00"
+  "publishDate": "2027-02-24T00:00:00"
 }
