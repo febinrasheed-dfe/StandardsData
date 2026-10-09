@@ -5,7 +5,7 @@
   "introduction": "<p>Foundation apprenticeships are employed positions and are for younger people who will benefit from a wide range of experiences. Each foundation apprenticeship provides a mix of employability skills and behaviours, technical knowledge and skills, and associated English and maths. It combines valuable hands-on practice in the workplace with off-the-job learning. The apprentice’s experiences will not only help them to grow their skills but will also help to inform their next career steps. Completion of this foundation apprenticeship will certify achievement of all of the technical knowledge and skills, together with all of the employability skills and behaviours described. The typical progression routes will likely include employment or progression onto another skills product such as a level 2 or level 3 apprenticeship.</p>\n<p>Foundation apprenticeships benefit employers as they get to see the apprentice in work-based settings while the apprentice receives extra support. Employers also benefit from accessing a broader talent pool of young learners than they might otherwise do.</p>\n<p>Under DfE Apprenticeship funding Rules 25/26 the employer qualifies for up to £2,000 per foundation apprentice, subject to retention and progression.</p>",
   "larsCode": "807",
   "learningAimClassCode": "Z0001844",
-  "foundationApprenticeshipUrl": "https://skillsengland.education.gov.uk/foundation-apprenticeships/FA0003",
+  "foundationApprenticeshipUrl": "https://skillsengland.education.gov.uk/foundation-apprenticeships/FA0003-v1-0",
   "route": "Construction and the built environment",
   "relatedRoutes": [
     "Construction and the built environment"
@@ -32,7 +32,7 @@
   "assessmentDetails": "<p>This assessment plan sets out the requirements for the assessment of the level 2 Onsite Trades Foundation Apprenticeship. The assessment outcomes group and summarise the knowledge and skills that must be demonstrated in assessments and are of equal weighting. The assessment organisation must ensure that all assessment outcomes are met.</p>\n<p>It is important that the assessment of foundation apprentices is proportionate and supports the swift progression of learners onto their next destination, whether that be a further apprenticeship, entering the workplace, or another programme of study. As such, assessment organisations must design assessments to ensure there is no unnecessary delay in the progression of learners.</p>\n<p>This assessment plan does not prescribe when assessment takes place. Apprentices may be assessed at appropriate points (or milestones) throughout their Foundation Apprenticeship.</p>\n<p>This assessment plan does not prescribe assessment methods, but does require:</p>\n<ul>\n<li>a knowledge test</li>\n<li>a practical assessment</li>\n</ul>\n<p>The practical assessment must give the foundation apprentice the opportunity to demonstrate the practical application of the knowledge and skills they have acquired over the course of their training. This may take many forms, including (but not limited to) observation, undertaking a set task in a simulated environment, direct assessment of materials generated during their training, projects, presentations, compiling a portfolio of evidence.</p>\n<p>The assessment organisation must set Foundation Apprenticeship assessments. The assessment organisation may design the assessment to permit a centre to mark the assessment(s). The assessment organisation is responsible for ensuring all assessments are sufficiently reliable and valid, and the accuracy of any centre marking. Assessment organisations are permitted to sample within knowledge and skills statements, and evidence can be drawn from one or more occupations.</p>\n<h3>Assessment outcomes</h3>\n<div class=\"markdown-content markdown-render-area body-m\">\n<table border=\"0\">\n<thead>\n<tr>\n<th><strong>Assessment Outcome</strong></th>\n<th><strong>mapping</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>AO1 Health, safety, regulatory and environmental responsibilities </strong>- Demonstrates understanding of and compliance with health, safety and regulatory requirements, including the understanding of appropriate sustainability practices, and waste disposal.</td>\n<td>K1*, K2*, K3, K5*, K14*, K15, S1*, S2, S10</td>\n</tr>\n<tr>\n<td><strong>AO2 General construction practices </strong>– Demonstrates knowledge and skills in the use of common construction techniques, functional requirements, roles and responsibilities and ways of working.</td>\n<td>K4*, K6, K9*, K13, S3*, S9</td>\n</tr>\n<tr>\n<td><strong>AO3 Materials, tools and tasks </strong>- Demonstrates knowledge and skills in the use of materials, tools, and techniques used in onsite trades, and carries out simple tasks and repairs.</td>\n<td>K7*, K8, K10*, K11, K12, S4*, S5, S6, S7*, S8</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div>\n<p><strong>(*)</strong> English and maths are important to Foundation Apprenticeships. Knowledge and skills statements which offer opportunities to develop functional English and maths are identified with an asterisk . Please see the occupational standard for further details.</p>\n<h3>Performance descriptor</h3>\n<p>The performance descriptor for a Pass is:</p>\n<p>Foundation apprentices must demonstrate the requirements, as set out in the occupational standard:</p>\n<ul>\n<li>Reliably</li>\n<li>Effectively</li>\n<li>To an appropriate degree for the level of the standard</li>\n</ul>\n<p>Overall performance across the range of requirements for the foundation apprenticeship assessment is secure.</p>\n<h3>Assessment requirements</h3>\n<p><strong>Access to work: Regulation and safety in a construction environment</strong></p>\n<p><strong>AO1: Health, safety, regulatory and environmental responsibilities</strong></p>\n<p>Access to work knowledge and skills are fundamental to employment in occupations related to this Foundation Apprenticeship. These knowledge and skills are mapped to AO1. Where acquiring these knowledge and skills is required to access the workplace, this assessment should happen early in the programme.</p>\n<p>The assessment of knowledge in AO1 must be assessment organisation set and marked. This may be in a single assessment or more than one assessment, providing there is no duplication of content. Digital assessment methods should be prioritised, where appropriate.</p>\n<p><strong>Technical knowledge and skills</strong></p>\n<p><strong>AO2: General construction practices</strong></p>\n<p><strong>AO3: Materials, tools and tasks</strong></p>\n<p>Technical knowledge and skills are areas of technical ability in related occupations. These knowledge and skills are mapped to AO2 and AO3.</p>\n<p>AO2 describes those knowledge and skills associated with general construction practices, including knowledge of the broad range of occupations operating on a construction site. AO3 describes those knowledge and skills specifically associated with materials, tools, and the ability to complete simple tasks and repairs effectively.</p>\n<p>The assessment organisation must ensure that a foundation apprentice is assessed on AO2 and AO3. This may be in a single assessment or more than one assessment, providing there is no duplication of content.</p>\n<h3>Employability skills and behaviours</h3>\n<p>Employability skills and behaviours are highly transferable and universal across Foundation Apprenticeships. They support work-readiness. Employability Skills and Behaviour (EB) statements are not formally assessed. However, assessment organisations must confirm with employers that they have been suitably demonstrated over the course of the Foundation Apprenticeship before awarding the Foundation Apprenticeship. EB6 does not need to be confirmed by the employer but should form a key element of the apprentice’s off-the-job training package.</p>\n</div>",
   "assessmentChanged": false,
   "assessmentLength": 0,
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/foundation-apprenticeships/FA0003?view=assessment",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/foundation-apprenticeships/FA0003-v1-0?view=assessment",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "keywords": [
@@ -862,21 +862,27 @@
       "versionNumber": "1.2"
     },
     {
-      "name": "Plasterer - fibrous Plasterer",
-      "reference": "OCC0096A",
-      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0096A",
-      "versionNumber": "2.1"
-    },
-    {
-      "name": "Plasterer - solid Plasterer",
+      "name": "Plasterer - Solid plasterer",
       "reference": "OCC0096B",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0096B",
-      "versionNumber": "2.1"
+      "versionNumber": "2.2"
+    },
+    {
+      "name": "Plasterer - Fibrous plasterer",
+      "reference": "OCC0096A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0096A",
+      "versionNumber": "2.2"
     },
     {
       "name": "Carpentry and joinery - Site Carpenter",
       "reference": "OCC0264B",
       "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0264B",
+      "versionNumber": "1.4"
+    },
+    {
+      "name": "Carpentry and joinery - Architectural Joiner",
+      "reference": "OCC0264A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0264A",
       "versionNumber": "1.4"
     }
   ],
