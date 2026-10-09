@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2018-10-22T00:00:00",
+  "changedDate": "2026-09-08T00:00:00",
   "earliestStartDate": "2018-10-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -173,7 +173,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "",
-  "tbMainContact": "jj.nobrega@ward-security.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "G4S Secure Solutions UK Ltd, Shield Security Services Ltd, Royal Air Force, Mitie, GDF Suez Cofely, ICTS UK Ltd, Sodexo Ltd, Evolution Security Management, UKCMA, Calibre International Security Ltd, Corps Security PLC, FGH Security Ltd, Compass Group UK&amp;I, Showsec, Bilfinger Europa Facility Management Ltd, Special Investigations Unit, Britsafe Ltd",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -188,9 +188,9 @@
   "clusterId": "15",
   "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2017-11-14T17:09:43 +00:00",
-  "lastUpdated": "2018-10-22T00:00:00 +00:00",
+  "lastUpdated": "2026-09-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-10-22T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "banners": "New starts on this apprenticeship are not government funded from 1st September 2026. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship remains available for delivery for privately funded apprentices.; This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0330",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0330-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0330-v1-0",
@@ -202,5 +202,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2018-10-22T00:00:00"
+  "publishDate": "2026-09-08T00:00:00"
 }
