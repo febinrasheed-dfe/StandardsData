@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-06-17T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-13T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Specialist teaching assistants support provision related to special educational needs and disability (SEND), the social and emotional well-being, of learners, or within another area of specialist curriculum provision such as forest schools, EAL, subject-based interventions or music education.&nbsp;",
   "level": 5,
@@ -429,7 +429,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0877",
-  "tbMainContact": "diane.swift@open.ac.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Academies Enterprise Trust, Academy Transformation Trust, Ambition Institute, Aspiration Academies Trust, Barnsley College, Bridgewater & Taunton College, Central Bedfordshire Council, Church of England Education Office, City & Guilds, Department for Education (DfE), Edsential, Educational and Sporting Futures, ELA Training, Gateshead Council, Ixion, Keele and North Staffordshire Teacher Education (SCITT), Lift Schools, Manor Green School, NCFE, NQUAL, Norfolk County Council, Northumbria County Council, Northumbria University, Notra Dame High School,  Nottingham City Council, Oasis UK, Orange Moon Training, Phoenix Learning and Care Group, Real Group Ltd, Shaw Education Trust, Somerset Skills and Learning, South Devon College, South Gloucestershire and Stroud College, Tarka Learning Partnership, Tykes Teaching Alliance, Unison, TQUK, Walsall College",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -458,7 +458,7 @@
   "clusterId": "170",
   "clusterDescription": "Instruct, coach and assess a learners' education and development needs on a one-to-one basis. Teaching and instruction is usually a secondary set of skills building upon a vocational or academic subject specialism",
   "createdDate": "2025-12-08T09:39:33 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-06-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-10-14T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1414",
@@ -1104,5 +1104,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2026-12-13T00:00:00"
 }
