@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Updated SSA",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-10-06T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working with organisations to improve their information systems.",
   "level": 4,
@@ -347,7 +347,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0556",
-  "tbMainContact": "christina.lovelock@c22c.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Allianz, AssistKD, BUPA, NHS Digital, Zurich Insurance, Barclaycard, National Grid, Department of Work and Pensions, Co-operative Bank, Virgin Atlantic, Nationwide, Yorkshire Water",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -362,7 +362,7 @@
   "clusterId": "197",
   "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
   "createdDate": "2025-12-08T09:37:40 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-10-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-03-31T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0117",
@@ -1019,5 +1019,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2027-04-12T00:00:00"
 }
