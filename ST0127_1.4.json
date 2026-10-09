@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "End-point assessment plan revised.\nChange to Invigilator requirements in Component 1: Simulation .",
-  "changedDate": "2025-07-29T00:00:00",
+  "changedDate": "2026-06-05T00:00:00",
   "earliestStartDate": "2025-07-29T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-11-01T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "The broad purpose of the occupation is to install networks, maintain them, and to offer technical support to users, where necessary. ",
   "level": 4,
@@ -239,7 +239,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0552",
-  "tbMainContact": "marianne.burrows@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Virgin Media, Mod Army, Navy and Air force. BCS, Progress minded, QA, Accelerate people, BT, Firebrand, Hpecds, Talk talk, 1stforEPA, TC Partnership, ",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -265,7 +265,7 @@
   "clusterId": "186",
   "clusterDescription": "Design, install, maintain and support communication networks. Knowledge extends to network configuration, cloud, network administration and monitoring tools. Provides advice and guidance to internal and external customers",
   "createdDate": "2025-08-21T12:37:54 +00:00",
-  "lastUpdated": "2025-07-29T00:00:00 +00:00",
+  "lastUpdated": "2026-06-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2014-11-12T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0127",
@@ -548,5 +548,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-29T00:00:00"
+  "publishDate": "2026-11-01T00:00:00"
 }
