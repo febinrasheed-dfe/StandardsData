@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised",
-  "changedDate": "2024-09-30T00:00:00",
+  "changedDate": "2026-06-30T00:00:00",
   "earliestStartDate": "2024-09-30T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-27T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Deliver efficient operation and control of the IT.",
   "level": 3,
@@ -398,7 +398,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0547",
-  "tbMainContact": "Rebecca.plant@microsoft.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Royal Air Force\r\nRoyal Navy\r\nVodafone\r\nVirgin Media\r\nVirgin Media\r\nBT\r\nLloyds Bank\r\nRisual Ltd\r\nHalifax\r\nUKRI\r\nT2000\r\nFirstFinance",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -429,7 +429,7 @@
   "clusterId": "187",
   "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2024-09-30T09:48:44 +00:00",
-  "lastUpdated": "2024-09-30T00:00:00 +00:00",
+  "lastUpdated": "2026-06-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-05-04T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0973",
@@ -974,5 +974,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2024-09-30T00:00:00"
+  "publishDate": "2027-01-27T00:00:00"
 }
