@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "Occupational standard, end-point assessment plan and funding band revised but remained the same.",
-  "changedDate": "2025-06-03T00:00:00",
+  "changedDate": "2026-09-22T00:00:00",
   "earliestStartDate": "2025-06-02T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-21T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Preparing food and basic cooking tasks in a kitchen under supervision. ",
   "level": 2,
@@ -390,7 +390,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0510",
-  "tbMainContact": "deverett@shepherd-neame.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Shepherd Neame, Fullers, Marstons, Excelcare, Leonardo Hotels, Inn Collection, IHG, River Green Restaurant, Kew Green Hotels, Mitchells and Butler, James' Places, St Austell Brewery, Dakota Hotels, Alchemist Bars and Restaurants, The Belfry, the Compass Group, Chewton Glen, Elior, Marriot, Somerset Larder, Stonegate, Brook's Club, Garrick Club, Royal Academy of Culinary Arts. ",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -410,7 +410,7 @@
   "clusterId": "18",
   "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2025-02-18T14:10:49 +00:00",
-  "lastUpdated": "2025-06-03T00:00:00 +00:00",
+  "lastUpdated": "2026-09-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0228",
@@ -941,5 +941,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-06-03T00:00:00"
+  "publishDate": "2027-03-21T00:00:00"
 }
