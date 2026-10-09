@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Funding band, standard and End-point assessment plan revised. The funding band was revised but remained.",
-  "changedDate": "2023-02-15T00:00:00",
+  "changedDate": "2026-09-14T00:00:00",
   "earliestStartDate": "2020-12-22T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-14T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Making bakery products in a craft, plant or retail bakery.",
   "level": 2,
@@ -331,7 +331,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0005",
-  "tbMainContact": "secretariat@nsafd.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": " Fullers Bakery, Hovis, London Bread Company, Morrisons Plc, Park Cakes, Sainsbury’s, Warburtons",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -352,7 +352,7 @@
   "clusterId": "18",
   "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2020-12-22T08:40:38 +00:00",
-  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-09T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0191",
@@ -1017,5 +1017,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-15T00:00:00"
+  "publishDate": "2027-03-14T00:00:00"
 }
