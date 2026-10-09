@@ -1,0 +1,308 @@
+{
+  "id": "220088",
+  "referenceNumber": "AU0006",
+  "title": "Electric vehicle (EV) charging point installation and maintenance – Apprenticeship unit",
+  "introduction": "<p>Apprenticeship units are short flexible training courses designed to support employers to upskill their workforce in critical skill shortage areas. Units are for employed learners aged 19 and over, where their employer has identified that they need to upskill quickly to respond to emerging skills gaps and to support business growth and productivity.</p>\n<p>Apprenticeship units are based on relevant knowledge and skills in existing employer-led occupational standards to ensure relevant high-quality, targeted training. Each unit is short, with the length of training ranging from 30 and 140 hours delivered over a period of 1 to 16 weeks. This enables employers to have maximum flexibility to select a unit that meets their specific skill need and to deliver the training in a way that fits around their business.</p>",
+  "larsCode": "0",
+  "learningAimClassCode": "ZSC00006",
+  "apprenticeshipUnitUrl": "https://skillsengland.education.gov.uk/apprenticeship-units/AU0006-v1-0",
+  "route": "Construction and the built environment",
+  "relatedRoutes": [
+    "Construction and the built environment"
+  ],
+  "minimumHoursForCompliance": 35,
+  "maxFunding": 950,
+  "level": 3,
+  "reviewDetails": "",
+  "status": "Approved for delivery",
+  "version": "1.0",
+  "versionNumber": "1.0",
+  "createdDate": "2026-03-05T12:26:03 +00:00",
+  "lastUpdated": "2026-04-21T09:56:50 +00:00",
+  "publishDate": "2026-04-28T00:00:00 +00:00",
+  "approvedForDelivery": "2026-03-17T00:00:00 +00:00",
+  "earliestStartDate": "2026-04-28T00:00:00 +00:00",
+  "latestStartDate": "",
+  "latestEndDate": "",
+  "change": "",
+  "changedDate": "",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "keywords": [
+    "electrical systems",
+    "electricity",
+    "electrical",
+    "Installation Electrician",
+    "Maintenance Electrician"
+  ],
+  "typicalJobTitles": [
+    "Electrician",
+    "Installation electrician",
+    "Maintenance electrician"
+  ],
+  "greenJobTitles": [],
+  "entryRequirements": "<p>Learners must be employed and be 19 years of age or over. Learners must be a qualified electrician.</p>",
+  "englishAndMathsQualifications": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "regulationDetail": [],
+  "technicalKnowledges": [
+    {
+      "id": "84ed407e-eed7-4565-a1b4-b2b2b8cb1604",
+      "detail": "Health and safety legislation regulation and safe working practices\u202Frelevant to electric vehicle charge point installation and maintenance,\u202Fcovering hazards and risks\u202Fand how these can be avoided.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27b5af7a-5144-4b2f-ab56-8c3232d1d0cd",
+      "detail": "Mathematical and scientific techniques, formulae, and calculations\u202Fused\u202Fin electric vehicle charge point installation. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "558724e3-af90-43fd-8495-2707b43ddd63",
+      "detail": "The purpose of different charge point equipment and systems and their characteristics, features, and their electrical requirements in industrial, commercial and residential environments.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40db9670-3589-486f-8eaf-16ef977985e7",
+      "detail": "Processes and procedures including\u202Fthe design, planning, setting\u202Fup, and installing electric vehicle charge points in commercial, and residential environments.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be5dfe27-981a-490f-b093-b194486a82fc",
+      "detail": "Methods of\u202Fterminating\u202Fand connecting cables\u202Ffor electric vehicle charge systems in industrial, commercial, and residential environments.\u202F",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e9ec48d-7170-4995-b468-b59bcf6d9c91",
+      "detail": "Fault diagnosis and rectification of electric vehicle charge point system\u202Fusing different diagnostic and problem-solving techniques and the methods to find, assess, and resolve\u202Ffaults in industrial, commercial, and residential environments.\u202F",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b96e130f-e563-460f-8655-2aa48be388ec",
+      "detail": "Safe isolation, initial verification and appreciate periodic inspection, testing and reporting of electric vehicle charge point system\u202Fin commercial, and residential environments. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a21b8d6-41f6-48b7-904b-391f894cb5f2",
+      "detail": "Importance of accurate preparation, completion, and maintenance of relevant work documentation for electric vehicle charge point system\u202Fincluding observation, test results and certification documents.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "K16"
+          ]
+        }
+      ]
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "92b9dc9a-8858-4b71-bf59-55f609abe3a7",
+      "detail": "Comply with\u202Fall relevant legislation including environmental, regulations, codes of practice and other relevant information and guidance when planning and\u202Fcarrying out electric vehicle charge point system installation and maintenance activities.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0568838a-3f78-4be5-bdeb-d0f6c18b7d39",
+      "detail": "Inspect and test electric vehicle charge point systems in commercial and residential environments using test equipment.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "671bf1ec-07fb-48b3-bd0d-199b4433faaa",
+      "detail": "Apply diagnostic and problem-solving techniques to identify, assess and resolve electrical faults in industrial, commercial and residential environments.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "941795df-4e40-4323-ba75-829a7507ba2c",
+      "detail": "Install\u202Felectric vehicle charge point equipment and components.\u202F",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14773792-cbe1-4dee-83b8-3d1ff03db905",
+      "detail": "Maintain electric vehicle charge point systems using\u202Fappropriate testing\u202Fequipment and procedures. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2bb2d112-93af-454a-8ba2-ff9de9a7096a",
+      "detail": "Record work including the completion and maintenance of work documentation, recording of test results and preparation of appropriate certification.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6240c9b3-e380-4c22-b8b4-e919169ee6ea",
+      "detail": "Use relevant digital learning platforms and business communication and collaboration applications.\u00A0",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Installation and maintenance electrician",
+          "reference": "ST0152",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
+          "versionNumber": "1.2",
+          "relatedKsbs": [
+            "S15"
+          ]
+        }
+      ]
+    }
+  ],
+  "informationForProviders": "",
+  "whoIsItFor": "<p>This apprenticeship unit is for existing employed electricians who, with the support of their employer, need upskilling to install, inspect, test and maintain commercial electric vehicle charger units.</p>",
+  "learningOutcomes": "<p>A learning outcome is a concise statement that describes what an individual should be able to do by the end of their course. It summarises a cluster of knowledge and skills and provides a foundation for assessment.</p>\n<p><strong>Learning outcomes: </strong></p>\n<ul>\n<li>Demonstrate an overarching understanding of health and safety, legislation, and safe working practices relevant to electrical vehicle charge point work.</li>\n<li>Use core mathematical, electrical, and scientific principles to support installation, testing, fault finding, and maintenance.</li>\n<li>Understand equipment types, features, and requirements across commercial and residential environments.</li>\n<li>Carry out high-level design, planning, installation and commissioning processes in line with industry expectation</li>\n<li>Undertake fault‑finding, inspection, testing, and maintenance activities using appropriate tools and techniques.</li>\n<li>Maintain essential records and communicate professionally using digital platforms.</li>\n</ul>",
+  "knowledgeAndSkillsMappingToOutcomes": "<table border=\"0\">\n<thead>\n<tr>\n<th><strong>Function</strong></th>\n<th><strong>Learning Outcome</strong></th>\n<th><strong>K &amp; S mapping</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Legislation, standards, and sustainability</strong></td>\n<td>Demonstrate an overarching understanding of health and safety, legislation, and safe working practices relevant to electric vehicle charge point installation and maintenance work.</td>\n<td>K1, S1</td>\n</tr>\n<tr>\n<td><strong>Mathematical and scientific application</strong></td>\n<td>Use core mathematical, electrical, and scientific principles to support installation, testing, fault finding, and maintenance.</td>\n<td>K2</td>\n</tr>\n<tr>\n<td><strong>Electric vehicle charge point installation and maintenance</strong></td>\n<td>Understand equipment types, features, and requirements across commercial and residential environments.</td>\n<td>K3, K4, K5, S4</td>\n</tr>\n<tr>\n<td><strong>Diagnosis</strong></td>\n<td>Undertake fault‑finding, inspection, testing, and maintenance activities using appropriate tools and techniques.</td>\n<td>K6, K7, S2, S3, S5</td>\n</tr>\n<tr>\n<td><strong>Documentation</strong></td>\n<td>Maintain essential records and communicate professionally using digital platforms.</td>\n<td>K8, S6, S7</td>\n</tr>\n</tbody>\n</table>",
+  "funding": "<p>This apprenticeship unit is currently eligible for public funding.</p>\n<p>Skills England will provide the Department for Work and Pensions with ongoing advice on critical skills needs, and the affordability and prioritisation of funding for apprenticeship units will remain under review.</p>\n<p>The Department will give notice if funding for this apprenticeship unit is to be withdrawn. Following which, funding for new starts will not be available after four weeks from that notice being given.</p>",
+  "assessment": "<p><strong>Mandatory:</strong> As a minimum, learners will need to pass a skills test delivered by the training provider, to demonstrate that they have acquired the skills and knowledge set out in the apprenticeship unit. Employers will need to validate the result to confirm the learner has been successful.</p>\n<p><strong>Extended:</strong> In addition, employers (or learners) have the option to choose independent external assessment where they feel it is appropriate, for example through use of a non-mandatory qualification.</p>\n<p>If the apprenticeship unit is in a regulated occupation and the role requires adherence to industry recognised standards and procedures, we would expect employers to choose an extended assessment.</p>",
+  "relatedOccupations": [
+    {
+      "name": "Installation and maintenance electrician",
+      "reference": "OCC0152",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0152",
+      "versionNumber": "1.2"
+    }
+  ],
+  "banners": ""
+}
