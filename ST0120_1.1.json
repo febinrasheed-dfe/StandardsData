@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised",
-  "changedDate": "2022-08-26T00:00:00",
+  "changedDate": "2026-08-12T00:00:00",
   "earliestStartDate": "2022-08-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-10-28T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Maximising the effective use of digital office technologies, productivity software and digital communications in organisations.",
   "level": 3,
@@ -286,7 +286,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0046",
-  "tbMainContact": "kate.mooney@bt.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "BT, Ministry of Defence, Microsoft, Lloyds Banking, Computacenter, Tecman ",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -319,7 +319,7 @@
   "clusterId": "187",
   "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2023-04-05T08:21:04 +00:00",
-  "lastUpdated": "2022-08-26T00:00:00 +00:00",
+  "lastUpdated": "2026-08-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-11T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0120",
@@ -719,5 +719,5 @@
   ],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2022-08-26T00:00:00"
+  "publishDate": "2026-10-28T00:00:00"
 }
