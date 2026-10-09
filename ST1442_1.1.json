@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2025-10-15T00:00:00",
+  "changedDate": "2026-07-07T00:00:00",
   "earliestStartDate": "2025-10-15T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Supporting key parts of the publishing process from the conception to production.",
   "level": 4,
@@ -278,7 +278,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0306",
-  "tbMainContact": "berwyn.jones@pearson.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Cambridge University Press, Faber Faber, Penguin Random House, Harper Collins, Bloomsbury, Oxford University Press, Pearson, Taylor and Francis, Elsevier, Raintree, Nosy Crow, Dorling and Kindersley, North Staffordshire Press, Saraband",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -300,7 +300,7 @@
   "clusterId": "76",
   "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
   "createdDate": "2025-10-15T07:56:39 +00:00",
-  "lastUpdated": "2025-10-15T00:00:00 +00:00",
+  "lastUpdated": "2026-07-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1442",
@@ -488,5 +488,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-10-15T00:00:00"
+  "publishDate": "2027-01-31T00:00:00"
 }
