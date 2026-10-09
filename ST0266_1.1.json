@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-10T00:00:00",
+  "changedDate": "2026-09-14T00:00:00",
   "earliestStartDate": "2025-12-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -205,7 +205,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0578",
-  "tbMainContact": "sjbell@laingorourke.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Laing O’Rourke, Crown House Technologies, Expanded, Carillion, Balfour Beatty, BAM Nuttall, Skanska, Costain, Seddon, Lovell Homes, Institution of Civil Engineers, Institute of Engineering and Technology, Chartered Institute of Building Services Engineer, Chartered Institute of Building, Royal Institution of Chartered Surveyors, Imtech, Chartered institute of architectural technologists, BRE",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -220,9 +220,9 @@
   "clusterId": "54",
   "clusterDescription": "Design, analyse, plan for site engineering and construction projects. Specialisms are common (e.g. rail infrastructure, asbestos management). Significant capability in the use of IT/digital technology, data collection, analysis and presentation",
   "createdDate": "2025-12-08T09:36:42 +00:00",
-  "lastUpdated": "2025-12-10T00:00:00 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-09-18T00:00:00 +00:00",
-  "banners": "This apprenticeship standard is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards in revision are available in the revisions status report.",
+  "banners": "",
   "occupationCode": "OCC0266",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0266-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0266-v1-1",
@@ -234,5 +234,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-10T00:00:00"
+  "publishDate": "2026-09-14T00:00:00"
 }
