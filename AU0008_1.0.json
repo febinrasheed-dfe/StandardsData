@@ -1,0 +1,194 @@
+{
+  "id": "221553",
+  "referenceNumber": "AU0008",
+  "title": "Battery manufacturing - Apprenticeship unit",
+  "introduction": "<p>Apprenticeship units are short flexible training courses designed to support employers to upskill their workforce in critical skill shortage areas. Units are for employed learners aged 19 and over, where their employer has identified that they need to upskill quickly to respond to emerging skills gaps and to support business growth and productivity.</p>\n<p>Apprenticeship units are based on relevant knowledge and skills in existing employer-led occupational standards to ensure relevant high-quality, targeted training. Each unit is short, with the length of training ranging from 30 and 140 hours delivered over a period of 1 to 16 weeks. This enables employers to have maximum flexibility to select a unit that meets their specific skill need and to deliver the training in a way that fits around their business.</p>",
+  "larsCode": "0",
+  "learningAimClassCode": "ZSC00008",
+  "apprenticeshipUnitUrl": "https://skillsengland.education.gov.uk/apprenticeship-units/AU0008-v1-0",
+  "route": "Engineering and manufacturing",
+  "relatedRoutes": [],
+  "minimumHoursForCompliance": 70,
+  "maxFunding": 1650,
+  "level": 2,
+  "reviewDetails": "",
+  "status": "Approved for delivery",
+  "version": "1.0",
+  "versionNumber": "1.0",
+  "createdDate": "2026-03-18T09:10:41 +00:00",
+  "lastUpdated": "2026-04-21T09:57:05 +00:00",
+  "publishDate": "2026-04-28T00:00:00 +00:00",
+  "approvedForDelivery": "2026-03-24T00:00:00 +00:00",
+  "earliestStartDate": "2026-04-28T00:00:00 +00:00",
+  "latestStartDate": "",
+  "latestEndDate": "",
+  "change": "",
+  "changedDate": "",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "keywords": [],
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
+  "entryRequirements": "<p>Learners must be employed and be 19 years of age or older. Typically, this Apprenticeship Unit will be used to upskill new employees in a stage(s) of battery manufacturing.</p>",
+  "englishAndMathsQualifications": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "regulationDetail": [],
+  "technicalKnowledges": [
+    {
+      "id": "7196587b-9d97-44a9-9703-0892d71af936",
+      "detail": "Awareness of health and safety regulations, standards, and guidance and impact on role. Control of Substances Hazardous to Health (CoSHH). Fire safety. Hazards and risks. Health and Safety at Work Act (HASAWA), Isolation and emergency stop procedures, Manual handling operations regulations, Personal Protective Equipment (PPE), Safety equipment: guards, signage, fire extinguishers. Safety signage. Situational awareness. Slips, trips, and falls. Working at height, Working in confined spaces.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "7e24c306-d94f-4608-a80b-3b503088bfc1",
+      "detail": "Awareness of environment and sustainability regulations, standards and guidance and impact on role. Recycling, reuse, and safe disposal of waste.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "18dbff22-32a4-4951-9d90-623174a0ac6b",
+      "detail": "Methods of interpreting relevant information from battery manufacturing specifications, drawings and technical information.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "af82d359-cf86-4995-8d49-0bfd14129b5f",
+      "detail": "Planning, prioritisation, organisation, and time management techniques. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "c7c2f739-a261-4fba-928a-2441c63d5b92",
+      "detail": "Consumables, tools, equipment and machinery used during battery manufacturing activities.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "4e4f675e-119c-4570-a6d5-f1e4977aac4c",
+      "detail": "Workplace operating procedures. What they are and why they are important.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "2e197500-c0b4-4fc9-aaad-129c0fbd403f",
+      "detail": "First line maintenance principles for tools, equipment and machinery. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "08ad8637-8bc0-40df-9e30-3e694ddbfcf3",
+      "detail": "Battery manufacturing based safe working practices and procedures. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "2d7338fb-4ff0-4177-a980-533056959f08",
+      "detail": "Continuous improvement (CI) techniques.",
+      "tags": [],
+      "relatedApprenticeships": []
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "64c66be2-cb6d-4bc9-b396-84e34db13c89",
+      "detail": "Follow procedures in compliance with health and safety regulations, standards, and guidance.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "017e79e7-e709-4365-9e12-f9a25f978be7",
+      "detail": "Follow procedures in compliance with environmental and sustainability regulations, standards, and guidance. Identify and segregate resources for reuse, recycling and disposal.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "eb2c7fcb-ea5c-4882-b26c-2ac7ca8141ba",
+      "detail": "Read and interpret battery manufacturing specifications, drawings and technical information.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "7f6d3581-7a44-4940-8e4a-0d40d2690c83",
+      "detail": "Use planning, prioritising, organising, and time management techniques to plan battery manufacturing activities. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "839d5e22-665c-4287-a31d-0983ef10e88a",
+      "detail": "Select and use consumables, tools, equipment and machinery for battery manufacturing activities.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "ea3d912c-0f93-4139-9f92-28d2d737d0e9",
+      "detail": "Follow workplace operating procedures.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "aa863e5b-73b8-409f-9aba-816f468fdd96",
+      "detail": "Apply first line maintenance principles to tools, equipment and machinery. For example, checking tool condition, cleaning, lubrication, visual inspection, tool calibration.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "46122afb-3be6-43d3-ad92-8fca19c85dcd",
+      "detail": "Complete battery manufacturing operations in line with battery manufacturing based safe working practices and procedures.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "19977fb4-275c-4a18-a377-fb3619ee191a",
+      "detail": "Apply continuous improvement (CI) techniques, for example, contribute to the business by identifying possible opportunities for improving working practices, processes or procedures.",
+      "tags": [],
+      "relatedApprenticeships": []
+    }
+  ],
+  "informationForProviders": "",
+  "whoIsItFor": "<p>This apprenticeship unit is for new employees in the battery manufacturing sector, who, with the support of their employer, need to upskill in battery manufacturing.</p>",
+  "learningOutcomes": "<p>A learning outcome is a concise statement that describes what an individual should be able to do by the end of their course. It summarises a cluster of K&amp;S in the course and provides a foundation for assessing learning outcomes.</p>\n<p><strong>Learning outcomes</strong></p>\n<ul>\n<li>Apply health, safety and environmental legislation, regulations and safe systems of work to battery manufacturing activities and working environments.</li>\n<li>Interpret battery manufacturing and technical specifications and documentation to complete battery manufacturing activities.</li>\n<li>Plan and organise battery manufacturing activities using effective communication, collaboration, prioritisation and time management techniques.</li>\n<li>Select and use appropriate tools and equipment for battery manufacturing activities.</li>\n<li>Safely carry out battery manufacturing activities in accordance with requirements.</li>\n<li>Carry out quality checks throughout battery manufacturing activities to ensure that requirements are met</li>\n</ul>",
+  "knowledgeAndSkillsMappingToOutcomes": "<table border=\"0\">\n<thead>\n<tr>\n<th><strong>Function</strong></th>\n<th><strong>Learning Outcome</strong></th>\n<th><strong>K &amp; S mapping</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Health, Safety and Environment</strong></td>\n<td>Apply health, safety and environmental legislation, regulations and safe systems of work to battery manufacturing activities and working environments.</td>\n<td>K1, K2, S1, S2</td>\n</tr>\n<tr>\n<td><strong>Understanding battery materials and components</strong></td>\n<td>Interpret battery manufacturing and technical specifications and documentation to complete battery manufacturing activities.</td>\n<td>K3, S3</td>\n</tr>\n<tr>\n<td><strong>Planning and communicating in the battery manufacturing industry</strong></td>\n<td>Plan and organise battery manufacturing activities using effective communication, collaboration, prioritisation and time management techniques.</td>\n<td>K4, S4</td>\n</tr>\n<tr>\n<td><strong>Selecting tools and equipment</strong></td>\n<td>Select and use appropriate tools and equipment for battery manufacturing activities.</td>\n<td>K5, S5</td>\n</tr>\n<tr>\n<td><strong>Battery manufacturing processes</strong></td>\n<td>Safely carry out battery manufacturing activities in accordance with requirements.</td>\n<td>K6, K7, K8, S6, S7, S8</td>\n</tr>\n<tr>\n<td><strong>Quality assurance, compliance and continuous improvement</strong></td>\n<td>Carry out quality checks throughout battery manufacturing activities to ensure that requirements are met.</td>\n<td>K9, S9</td>\n</tr>\n</tbody>\n</table>",
+  "funding": "<p>This apprenticeship unit is currently eligible for public funding.</p>\n<p>Skills England will provide the Department for Work and Pensions with ongoing advice on critical skills needs, and the affordability and prioritisation of funding for apprenticeship units will remain under review.</p>\n<p>The Department will give notice if funding for this apprenticeship unit is to be withdrawn. Following which, funding for new starts will not be available after four weeks from that notice being given.</p>",
+  "assessment": "<p><strong>Mandatory:</strong> As a minimum, learners will need to pass a skills test delivered by the training provider, to demonstrate that they have acquired the skills and knowledge set out in the apprenticeship unit. Employers will need to validate the result to confirm the learner has been successful.</p>\n<p><strong>Extended: </strong>In addition, employers (or learners) have the option to choose independent external assessment where they feel it is appropriate, for example through use of a non-mandatory qualification.</p>\n<p>If the apprenticeship unit is in a regulated occupation and the role requires adherence to industry recognised standards and procedures, we would expect employers to choose an extended assessment.</p>",
+  "relatedOccupations": [
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within a Maintenance Role",
+      "reference": "OCC0537B",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537B",
+      "versionNumber": "1.5"
+    },
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within a Mechanical Manufacturing Engineering Role",
+      "reference": "OCC0537D",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537D",
+      "versionNumber": "1.5"
+    },
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within an Electrical & Electronic Engineering Role",
+      "reference": "OCC0537F",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537F",
+      "versionNumber": "1.5"
+    },
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within a Fabrication Role",
+      "reference": "OCC0537A",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537A",
+      "versionNumber": "1.5"
+    },
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within a Materials, Processing or Finishing Role",
+      "reference": "OCC0537C",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537C",
+      "versionNumber": "1.5"
+    },
+    {
+      "name": "Engineering operative - Engineering Operatives Working Within a Technical Support Role",
+      "reference": "OCC0537E",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0537E",
+      "versionNumber": "1.5"
+    }
+  ],
+  "banners": ""
+}
