@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "End-point assessment plan revised",
-  "changedDate": "2024-09-25T00:00:00",
+  "changedDate": "2026-09-04T00:00:00",
   "earliestStartDate": "2024-09-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -261,7 +261,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0870",
-  "tbMainContact": "tracey.horan@kiongroup.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Linde Material Handling UK Ltd, Salt Separation Services Limited, British Army, Turning Point, AJ Bell, Spire Healthcare, John Lewis and Partners, \nCo-operative Group, NSPCC, Alzheimer's Society, David Lloyd Leisure, Cabot Financial, Department for Work and Pensions (DWP), Sovereign Housing, Labcorp, \nWesleyan",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -283,9 +283,9 @@
   "clusterId": "45",
   "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
   "createdDate": "2025-06-13T07:58:52 +00:00",
-  "lastUpdated": "2024-09-25T00:00:00 +00:00",
+  "lastUpdated": "2026-09-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-06-01T00:00:00 +00:00",
-  "banners": "",
+  "banners": "New starts on this apprenticeship are not government funded from 1st September 2026. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship remains available for delivery for privately funded apprentices",
   "occupationCode": "OCC0384",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0384-v1-4?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0384-v1-4",
@@ -730,5 +730,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-09-25T00:00:00"
+  "publishDate": "2026-09-04T00:00:00"
 }
