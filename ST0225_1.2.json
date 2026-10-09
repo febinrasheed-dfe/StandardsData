@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard and end-point assessment plan revised",
-  "changedDate": "2025-04-16T00:00:00",
+  "changedDate": "2026-09-09T00:00:00",
   "earliestStartDate": "2024-11-14T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Building and managing parks, greenspaces and other areas.",
   "level": 2,
@@ -363,7 +363,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0223",
-  "tbMainContact": "ros@adrow.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Association of Professional Landscapers (APL), British Association of Landscape Industries (BALI), City of London, Continental Landscapes Ltd, English Heritage, Glendale Managed Services, Ground Control, Historic and Botanic Garden Training Programme, Holland Landscapes, Horticultural Trades Association (HTA), John O’Conner Grounds Maintenance, National Trust, idverde, Royal Botanic Gardens,  Kew, Royal Horticultural Society, Scarborough Borough Council, Wildlife Gardening Forum",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -383,7 +383,7 @@
   "clusterId": "161",
   "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2025-02-20T09:17:36 +00:00",
-  "lastUpdated": "2025-04-16T00:00:00 +00:00",
+  "lastUpdated": "2026-09-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0225",
@@ -904,5 +904,5 @@
   ],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-04-16T00:00:00"
+  "publishDate": "2027-03-10T00:00:00"
 }
