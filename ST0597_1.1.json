@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding revised",
-  "changedDate": "2023-04-03T00:00:00",
+  "changedDate": "2026-06-18T00:00:00",
   "earliestStartDate": "2023-04-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-13T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working in a laboratory and using various scientific techniques.",
   "level": 5,
@@ -238,7 +238,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0040",
-  "tbMainContact": "robert.ramsaygosling-kennedy@labcorp.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Astra Zeneca, Croda, Labcorp, Reading Scientific Services Limited, Sterling Pharma Solutions, UCB.Com, Vertex Pharmaceuticals Incorporated, Victrex, SABIC, Centre for Process Innovation, Fujifilm, HMG Paints\r\n",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -268,7 +268,7 @@
   "clusterId": "11",
   "clusterDescription": "Provide laboratory-based investigative and scientific experimentation analyses, interpretations and evaluations of scientific information",
   "createdDate": "2022-11-04T15:50:14 +00:00",
-  "lastUpdated": "2023-04-03T00:00:00 +00:00",
+  "lastUpdated": "2026-06-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0597",
@@ -488,5 +488,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-04-03T00:00:00"
+  "publishDate": "2027-01-13T00:00:00"
 }
