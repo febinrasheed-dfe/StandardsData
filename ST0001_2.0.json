@@ -11,16 +11,16 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Occupational standard and assessment plan revised.",
-  "changedDate": "2026-02-27T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2026-08-04T00:00:00",
+  "earliestStartDate": "2026-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide globally recognised, reliable, high-quality financial information, as well as technical accounting, management, and strategic advice",
   "level": 7,
   "ePALength": 0,
   "typicalDuration": 36,
-  "minimumHoursForCompliance": "",
-  "maxFunding": 0,
+  "minimumHoursForCompliance": "787",
+  "maxFunding": 26000,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
@@ -175,18 +175,18 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
+    "providerName": "Skills England",
     "contactName": "",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "",
-    "webLink": "https://contact.ofqual.gov.uk/"
+    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": null,
-  "integration": "None",
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification only",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0071",
-  "tbMainContact": "jcatlin@deloitte.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "AAT, ACCA, Access Training, Azets, BDO, Boots, BPP, Chartered Institute of Management Accountants, Deloitte, Ernst and Young, First Intuition, Fortus, Grant Thornton, Hampshire County Council, Hereford & Worcester Group Training Association, HMRC, ICAS, Institute of Chartered Accountants in England and Wales, Kaplan, KPMG, Kreston Reeves, Lexis Nexis, PWC, Siemens, Simmons Gainsford",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -209,10 +209,10 @@
   "cluster": "Professional accountant",
   "clusterId": "237",
   "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
-  "createdDate": "2026-02-27T09:42:48 +00:00",
-  "lastUpdated": "2026-02-27T00:00:00 +00:00",
+  "createdDate": "2026-10-07T10:37:28 +00:00",
+  "lastUpdated": "2026-08-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-11-07T00:00:00 +00:00",
-  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period of approximately 6 months will commence when the apprenticeship is approved for delivery with a funding band. At the end of the lead-in period, it will replace the current version for new starts. Until then, the current end-point assessment remains in place. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
+  "banners": "",
   "occupationCode": "OCC0001",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0001-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0001-in-revision",
@@ -222,14 +222,6 @@
       "title": "ACCA Chartered Certified Accountant",
       "level": "7 (non-degree qualification)",
       "anyAdditionalInformation": "Attainment of this apprenticeship means that an apprentice can apply for chartered certified accountant status with ACCA subject to meeting the 3 years Qualifying Work Experience requirement and any character or suitability tests that may be relevant to ACCA. Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
-      "qualificationEpaIntegration": "",
-      "mappedOptions": []
-    },
-    {
-      "qualificationId": "ff6e0c86-4841-43f6-bf4e-5340987ec478",
-      "title": "CIMA Chartered Global Management Accountant",
-      "level": "7 (non-degree qualification)",
-      "anyAdditionalInformation": "Attainment of this apprenticeship means that an apprentice can apply for chartered global management accountant status with CIMA subject to meeting the 3 years Qualifying Work Experience requirement and any character or suitability tests that may be relevant to CIMA. Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
@@ -264,12 +256,6 @@
       "level": "Chartered and Certified Accountant",
       "isPartial": "partial",
       "partialFreeText": "subject to 3 years qualifying work experience and any character or suitability tests that may be relevant to ACCA"
-    },
-    {
-      "bodyName": "Chartered Institute of Management Accountants (CIMA)",
-      "level": "Chartered Global Management Accountant",
-      "isPartial": "partial",
-      "partialFreeText": "subject to 3 years qualifying work experience and any character or suitability tests that may be relevant to CIMA"
     },
     {
       "bodyName": "Chartered Institute of Public Finance Accountants (CIPFA)",
@@ -820,5 +806,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-02-27T00:00:00"
+  "publishDate": "2026-12-18T00:00:00"
 }
