@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-04-23T00:00:00",
+  "changedDate": "2026-09-15T00:00:00",
   "earliestStartDate": "2024-04-19T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Provide early intervention, specialist advocacy, emotional and practical support to those who are experiencing and recovering from domestic abuse and or sexual violence.",
   "level": 4,
@@ -51,7 +51,7 @@
   "ssa2": "1.3 Health and social care",
   "version": "1.0",
   "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
-  "occupationalSummary": "&lt;p style=&quot;margin-bottom: 0; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11.5pt;&quot;&gt;This occupation is found in voluntary and statutory social care and protective services, to provide advocacy and support to those experiencing, at risk of, and recovering from, domestic abuse and or sexual violence This includes the provision of information and advice, raising awareness, signposting and referrals.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;margin-bottom: 0; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 71, 1);&quot;&gt;The broad purpose of the occupation is to provide early intervention, specialist advocacy, emotional and practical support to those who are experiencing and recovering from domestic abuse and or sexual violence at all levels of risk. This includes the provision of information and advice, emergency accommodation, awareness raising, signposting and referral.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;margin-bottom: 0; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 71, 1);&quot;&gt;In their daily work, an employee in this occupation interacts with survivors of domestic abuse and or sexual violence, and their children, as well as professionals in social care and protective services such as police, housing providers, local authorities, social workers, medical providers, education providers, legal professionals, civil and criminal court staff, and probation and prison staff.&#160;&lt;/span&gt;&lt;span style=&quot;color: rgba(51, 64, 71, 1);&quot;&gt;An employee in this occupation will be responsible for &lt;/span&gt;&lt;span style=&quot;font-size: 11.5pt;&quot;&gt;working as part of a co-ordinated community response, applying specialist knowledge and skills in a variety of contexts to provide advocacy and support to those facing or at risk from domestic and sexual violence and abuse to ensure safety, wellbeing, and recovery. They will carry out risk and needs assessments and undertake safety planning with survivors of domestic abuse and or sexual violence, and work within a multi-agency framework to ensure the safety of adult and child survivors of domestic abuse and or sexual violence, is prioritised. This may include supporting on a one-to-one or group level with survivors and perpetrators, updating and collating information from a range of service providers, updating own knowledge regarding legal, health, housing, finances and safety requirements related to domestic and sexual violence and abuse, recording case work and progressing case work through the application of knowledge and skills. There are many different job titles used for occupations in the domestic and sexual violence sector and it would be impossible to include all, especially as there are different job titles for those that carry out the same roles in different organisations. However, there are clear distinctions made between those that support adults, those that support children and those that only support victims of sexual violence. The options offered in this standard reflect this and enables all apprentices to gain an apprenticeship for their given job role.&lt;/span&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p style=&quot;margin-bottom: 0; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11.5pt;&quot;&gt;This occupation is found in voluntary and statutory social care and protective services, to provide advocacy and support to those experiencing, at risk of, and recovering from, domestic abuse and or sexual violence This includes the provision of information and advice, raising awareness, signposting and referrals.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;margin-bottom: 0; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 71, 1);&quot;&gt;The broad purpose of the occupation is to provide early intervention, specialist advocacy, emotional and practical support to those who are experiencing and recovering from domestic abuse and or sexual violence at all levels of risk. This includes the provision of information and advice, emergency accommodation, awareness raising, signposting and referral.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;margin-bottom: 0; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 71, 1);&quot;&gt;In their daily work, an employee in this occupation interacts with survivors of domestic abuse and or sexual violence, and their children, as well as professionals in social care and protective services such as police, housing providers, local authorities, social workers, medical providers, education providers, legal professionals, civil and criminal court staff, and probation and prison staff.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgba(51, 64, 71, 1);&quot;&gt;An employee in this occupation will be responsible for &lt;/span&gt;&lt;span style=&quot;font-size: 11.5pt;&quot;&gt;working as part of a co-ordinated community response, applying specialist knowledge and skills in a variety of contexts to provide advocacy and support to those facing or at risk from domestic and sexual violence and abuse to ensure safety, wellbeing, and recovery. They will carry out risk and needs assessments and undertake safety planning with survivors of domestic abuse and or sexual violence, and work within a multi-agency framework to ensure the safety of adult and child survivors of domestic abuse and or sexual violence, is prioritised. This may include supporting on a one-to-one or group level with survivors and perpetrators, updating and collating information from a range of service providers, updating own knowledge regarding legal, health, housing, finances and safety requirements related to domestic and sexual violence and abuse, recording case work and progressing case work through the application of knowledge and skills. There are many different job titles used for occupations in the domestic and sexual violence sector and it would be impossible to include all, especially as there are different job titles for those that carry out the same roles in different organisations. However, there are clear distinctions made between those that support adults, those that support children and those that only support victims of sexual violence. The options offered in this standard reflect this and enables all apprentices to gain an apprenticeship for their given job role.&lt;/span&gt;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "a487fc21-1ee0-4996-8004-07bdfa71409e",
@@ -449,7 +449,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0574",
-  "tbMainContact": "l.warner@pankhursttrust.org",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Birmingham Women's aid England, IDAS, My sisters place, Pankhurst Trust (incorporating Manchester Women's aid), Respect, Rape crisis, Skills for Justice, Solace, West Mercia rape and sexual abuse centre, Women's aid Federation of England, Workforce development trust \n\n\n",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -478,7 +478,7 @@
   "clusterId": "168",
   "clusterDescription": "Achieve a positive and lasting change in the status of client's lives and seek to raise the effectiveness of the services provided through regular reviews assisted by supervision",
   "createdDate": "2024-03-07T09:50:55 +00:00",
-  "lastUpdated": "2024-04-23T00:00:00 +00:00",
+  "lastUpdated": "2026-09-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-04-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0862",
@@ -1193,5 +1193,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-04-23T00:00:00"
+  "publishDate": "2027-03-24T00:00:00"
 }
