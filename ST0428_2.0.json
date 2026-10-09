@@ -1,0 +1,698 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 265,
+  "referenceNumber": "ST0428",
+  "learningAimClassCode": "",
+  "title": "Port marine operations officer",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0428",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard, assessment plan and funding band revised but funding band remained the same",
+  "changedDate": "2026-05-12T00:00:00",
+  "earliestStartDate": "2026-12-18T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Assists in ensuring the safe transit and handling of vessels into and out of the port.",
+  "level": 4,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "418",
+  "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Transport and logistics",
+  "keywords": [
+    "vessel",
+    "marine environment",
+    "port",
+    "marine operations",
+    "transport",
+    "Port marine",
+    "Operations officer"
+  ],
+  "jobRoles": [
+    "Berthing master",
+    "Port marine operations officer",
+    "Vessel traffic services officer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0428-in-revision?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.3 Transportation operations and maintenance",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Role Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As an island nation over 95% of trade by volume goes by ship through over 100 ports around the United Kingdom. UK ports employ around 118,000 people across a wide range of port types and activities; from container and bulk cargo ports to passenger terminals to leisure and marinas.&lt;/p&gt;\n&lt;p&gt;The port marine operations team assists in ensuring the safe transit and handling of vessels into and out of the port. A Port Marine Operations Officer may work as a leader or member of a port/harbour marine operations team and may be involved in: berthing of vessels, port control and marine services, operation of harbours and marinas, conservancy, environmental protection, statutory compliance and operation of harbour marine craft within the Harbour Authority area of jurisdiction. This is a highly responsible position with a key contribution to the safe and efficient operation of the harbour. The role may involve shift working and working in all environments.&lt;/p&gt;\n&lt;p&gt;Port Operation Officer apprenticeship is designed to give those interested in working in a marine environment the opportunity to learn about shipping and port operations, while working for a port operator. The apprenticeship is designed to give hands-on training in all aspects of port marine operations such as lock and dock operations, mooring boat operations, health and safety task within a port operation, radio room and marine control centre operations as well as role and responsibilities of Berthing Master, Dock Masters and deputies, Harbour Masters and their assistants.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Progression&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship could lead to specialist and senior roles within the port industry including but not limited to: Berthing Masters, port management, Assistant Harbour Master, Assistant Dock Masters, Hydrographer, Vessel Traffic Services.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship will require rigorous and substantial training, typically of around 24 – 30 months, depending on experience and qualifications at entry.&lt;/p&gt;\n&lt;h3 class=&quot;western&quot; align=&quot;LEFT&quot;&gt;&lt;strong&gt;Skills and Knowledge&lt;/strong&gt;&lt;/h3&gt;\n&lt;h4 class=&quot;western&quot; align=&quot;LEFT&quot;&gt;&lt;strong&gt;Skills &lt;/strong&gt;– The ability to:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;safely steer, manoeuvre, navigate and crew different types of marine craft, such as: pilot boats, work boats, survey boats, etc.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;conduct marine craft operations including basic towage, personnel transfer and recovery, hydrographic surveying, etc. in line with port specific guidelines&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;respond to fire and emergencies including on board vessels and use emergency equipment including oil spill response&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;administer basic first aid at work&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;lead, manage and engage with colleagues and others including, emergency services and other stakeholders in all marine activities within a port; take control of a situation, deliver reliable and dependable results in work outputs, quality, work ethics and self-development, as well as encouraging and supporting the development of others&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;safely moor and unmoor vessels of a range of type and size&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;safely handle loads manually and mechanically, including mooring lines, cargo, stores,e tc.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;demonstrate personal water safety around the harbour and sea survival skills&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;communicate clearly and use communications equipment including VHF radio&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;operate within health, safety and security systems and practice these in line with regulation, codes of practice and company policies and procedures&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;operate navigational systems and equipment such as: compasses, Global Navigation Satellite Systems, radar, Automatic Information Systems, etc.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;carry out port marine operations specific to the setting such as leisure, fishing, cargoes, passenger etc.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;contribute to the protection of the marine environment including protection of sites of special scientific interest and marine conservation zones&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4 class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;Knowledge and understanding of:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;vessel and shore based electronic navigation systems such as Global Navigation Satellite Systems&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;port specific Information Technology systems, such as vessel booking, traffic management, security systems&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;hydrographic survey, conservancy (including: buoyage, aids to navigation etc.) and dredging&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;basic routine maintenance of marine craft and equipment&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;safe management of vessel operations within harbours&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;marine meteorology and how to produce and interpret a weather forecast&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;marine navigation (including the International Regulations for Preventing Collisions at Sea), chart work, tides and buoyage&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;principles and practice of marine pilotage&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;marine propulsion and manoeuvring systems such as propellers, thrusters, rudder, anchors, etc.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;maritime emergency response within the port jurisdiction and procedures&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;maritime law including roles and responsibilities of the port authority such as: byelaws, general directions for navigation, local notices to mariners, etc.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;the basic principles of different types of vessel construction found in ports and of safe vessel stability&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;port control operations including local port service and or vessel traffic services&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;marine infrastructure such as jetties, quays, marinas, and operations such as cargo, fishing, leisure, passenger,roll-on/roll-off&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;relevant health, safety and security legislation such as: Health and Safety at Work Act 1974, International Ship and Port Facility Security Code, etc.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;port marine responsibilities, statutory powers, duties and codes (including Port Marine Safety Code and Guide to Good Practice)&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4 class=&quot;western&quot; align=&quot;LEFT&quot;&gt;&lt;strong&gt;Behaviours &lt;/strong&gt;- a Port Marine Operations Officer will:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;take ownership for own performance and training; strive to achieve the best results in all they do; maintain a positive attitude and approach to their work even when priorities and working patterns change&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p lang=&quot;en-GB&quot; align=&quot;LEFT&quot;&gt;take responsibility for own and others’ health, safety and security at all times; demonstrate integrity, credibility, honesty and personal drive; embody the organisation’s values, a belief in the services it offers and an interest in the industry&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4 class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;Entry requirements&lt;/h4&gt;\n&lt;p class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;Individual employers will determine their own entry requirements; but due to the nature of the role it is expected that candidates will meet certain medical standards of physical health.&lt;/p&gt;\n&lt;h4 class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;Qualification&lt;/h4&gt;\n&lt;p class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;Apprentices without Level 2 English and Maths will need to achieve this level prior to taking their end point assessment&lt;/p&gt;\n&lt;p class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;&lt;strong&gt;Level – &lt;/strong&gt;This is a level 4 apprenticeship&lt;/p&gt;\n&lt;p class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;&lt;strong&gt;Review – &lt;/strong&gt;This Standard will be reviewed in 3 years.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation can be found in a variety of ports, harbours and marinas.&amp;nbsp; The port industry is diverse, supporting a wide range of activities vital to many sectors of the UK economy. Ports are critical transportation networks that facilitate both international and domestic trade.&lt;/p&gt;\n&lt;p&gt;The UK port industry is the second largest in Europe, handling 500 million tonnes of freight each year as well as over 60 million international and domestic passenger journeys. There are about 120 commercial ports in the UK. These include major all-purpose ports such as London and Liverpool; ferry ports such as Dover; specialist container ports such as Felixstowe and ports that cater for specialised bulk traffic such as coal and oil.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;UK ports industry employs around 118,000 people across a wide range of port types and maritime activities: from container and bulk cargo ports to passenger terminals to leisure and marinas.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to assists in ensuring the safe transit and handling of vessels into and out of the port. A port marine operations officer may work as a leader or member of a port or marine operations team.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This is a highly responsible position with a key contribution to the safe, sustainable and efficient operation of the organisation. The role may involve shift working and working in all environments.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation will work alongside vessel traffic services officers, marine pilots, vessel crews, berthing masters, port operatives, resource planners and vessel planners. They will interact with users of the port’s waters, such as vessel masters, captains, leisure vessel users and the wider post customers.&amp;nbsp; &amp;nbsp;They may also have contact with third party bodies such as the Coast Guard, law enforcement agencies or other government agencies.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for berthing of vessels, port control and marine services, operation of harbours and marinas, conservancy, environmental protection, statutory compliance and operation of harbour marine craft within the harbour authority area.&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "99df03b8-bdf1-46a3-a73c-2b373f88aa77",
+      "detail": "Health and safety regulations, relevance to the occupation and responsibilities."
+    },
+    {
+      "knowledgeId": "9a3dda73-8df1-48e0-924a-a3e1dd187300",
+      "detail": "Methods of safe working including risk assessments, method statements, safe systems of work and control measure application. "
+    },
+    {
+      "knowledgeId": "20bf25db-6031-4f3a-88ae-39e178cce84e",
+      "detail": "Methods for managing identified or unforeseen risks. "
+    },
+    {
+      "knowledgeId": "37b8a3da-5df9-47b6-8ac8-a42ac72b0234",
+      "detail": "Maritime sector legislation, regulations, statutory powers and local port marine codes of practice. "
+    },
+    {
+      "knowledgeId": "077d51aa-6aff-44ee-8c07-2f198cb495a2",
+      "detail": "Port security legislation and the security levels that are associated with the port industry."
+    },
+    {
+      "knowledgeId": "639d3bdc-af31-4958-8562-e4e81a153cb1",
+      "detail": "Principles and considerations for responding to incidents and emergencies."
+    },
+    {
+      "knowledgeId": "a32a62f7-6736-43c6-a3fd-f75f3be10e8d",
+      "detail": "Port marine standard operating procedures (SOP). What they are and why they are important. "
+    },
+    {
+      "knowledgeId": "65b5f443-fb83-45a7-88e5-eb7ce5be2058",
+      "detail": "Service level agreements (SLA’s), key performance indicators (KPI’s) and business operation consideration principles, including efficiency, customer satisfaction, competitiveness and ethical practices. "
+    },
+    {
+      "knowledgeId": "dbf1e64f-2005-4ee3-9ebd-8d33efa3f5cd",
+      "detail": "Principles of sustainability and environment safeguarding. "
+    },
+    {
+      "knowledgeId": "4c8d3117-2039-4ee6-89c7-0d25a2eb752f",
+      "detail": "Environmental and sustainability regulations and legislation. Impact of the port marine sector on the environment. Special sites of scientific interest (SSSI) and marine conservation zones. "
+    },
+    {
+      "knowledgeId": "75493f69-0cbb-4dfe-b5a2-a91604f821bb",
+      "detail": "Principles and techniques of resource management including the impact of cost, quality, safety, security, the natural environment, and work scheduling. "
+    },
+    {
+      "knowledgeId": "7396ce32-a240-4d2d-b4b9-ad951db5544c",
+      "detail": "Quality assurance procedures and monitoring processes."
+    },
+    {
+      "knowledgeId": "eb79e5aa-a81d-4805-aace-71cccc74f98d",
+      "detail": "Principles and techniques of port control operations for example port services, vessel traffic systems and shore-based port marine services. "
+    },
+    {
+      "knowledgeId": "9c004ba5-a163-45fa-916c-34c5e2905b45",
+      "detail": "Types of port marine infrastructure, for example, locks, dry docks, river berths, ro-ro bridges. Principles and techniques of monitoring and recording condition and maintenance requirements."
+    },
+    {
+      "knowledgeId": "a80fa61b-c950-4dea-ba65-1940ceb85c5a",
+      "detail": "Principles and practice of vessel movements and berthing including pilotage."
+    },
+    {
+      "knowledgeId": "ee71d37f-f0e1-4fce-a480-0c55f269cb72",
+      "detail": "Principles of coordinating, planning and scheduling vessel movements and berthing. "
+    },
+    {
+      "knowledgeId": "46a9b251-bda9-431a-be45-468f0e3d55e5",
+      "detail": "Principles and practices of shore side support including third party support services. "
+    },
+    {
+      "knowledgeId": "4b619bbe-de7b-480a-a663-6c9adb8878d2",
+      "detail": "Types of marine craft and vessels and the operating limits of port authorities. "
+    },
+    {
+      "knowledgeId": "dde5ee1b-a7ca-4c77-96b1-916a249b30e1",
+      "detail": "Principles and techniques of hydrographic surveying and conservancy and interpreting the data and information."
+    },
+    {
+      "knowledgeId": "2a59547a-78fa-4f19-9faf-fc2c7b2bb13c",
+      "detail": "Principles and techniques of determining and reporting hydrological and meteorological conditions including tidal conditions and weather patterns."
+    },
+    {
+      "knowledgeId": "0c6abb6d-c6eb-4c88-abca-19c67b16f04d",
+      "detail": "Principles and techniques of adapting port marine operations in response to changing circumstances for example changing weather conditions. "
+    },
+    {
+      "knowledgeId": "8745592d-5473-4e27-8be1-bf3269b7d9c2",
+      "detail": "Principles and techniques of monitoring and operating vessel and shore-based navigation systems, equipment and aids to navigation (AtoN) including automatic identification system (AIS), tide gauges, navigation lights."
+    },
+    {
+      "knowledgeId": "e4f771cf-de4d-4b07-884c-71009438c466",
+      "detail": "Principles and techniques for using organisational and sector information technology and digital systems, complying with General Data Protection Regulation (GDPR) and cyber security requirements. "
+    },
+    {
+      "knowledgeId": "fb181d72-cf6b-489b-bc33-14b58f0bfa1c",
+      "detail": "Principles of equity, diversity, and inclusion in the workplace. Unconscious bias."
+    },
+    {
+      "knowledgeId": "572c5800-d440-4997-8e3e-ad85624d91a7",
+      "detail": "Personal wellbeing and mental health awareness."
+    },
+    {
+      "knowledgeId": "3034169c-9988-4ad2-be7a-e1176b91d757",
+      "detail": "Principles and methods of communicating using radio (VHF, UHF)  and signalling. "
+    },
+    {
+      "knowledgeId": "aba66693-4064-4aa5-8f8b-8b8b3eb7ac67",
+      "detail": "Collaborative working techniques with internal and external stakeholders."
+    },
+    {
+      "knowledgeId": "d27cb838-1546-4c65-bb6b-ed7c8ffeeb7a",
+      "detail": "Continuing professional development and recording methods."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "1158618a-a8d7-48d1-b719-92c97b37df69",
+      "detail": "Prioritise health and safety to support a safe working culture."
+    },
+    {
+      "behaviourId": "a4b06509-ffa1-44db-bc28-c454e1ed241a",
+      "detail": "Act professionally, considering operational, ethical, safety and sustainability."
+    },
+    {
+      "behaviourId": "6060e793-0f3d-4570-91e2-4eb1b019fe6a",
+      "detail": "Respond and adapt to changing work demands and situations."
+    },
+    {
+      "behaviourId": "3cbfd7ef-e8d7-48b3-a9e1-cac3a2ea1306",
+      "detail": "Contributes to equity, diversity, and inclusivity workplace culture. "
+    },
+    {
+      "behaviourId": "52fe296b-fe13-4ff5-b331-622aba6fa495",
+      "detail": "Collaborate within teams, across disciplines and with internal and external stakeholders."
+    },
+    {
+      "behaviourId": "f28c64c5-1bb4-4c44-81a7-4da206a92b31",
+      "detail": "Committed to maintaining and enhancing competence of self through Continued Professional Development (CPD)."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "85ed6053-96e7-4c43-a57b-e3b1d9b52ec7",
+      "detail": "Apply safe systems of work and comply with health and safety regulations and procedures."
+    },
+    {
+      "skillId": "29c5a505-7c43-4f4d-b6f5-4b4a9568eaf2",
+      "detail": "Promote safe working practices. "
+    },
+    {
+      "skillId": "f03fc49b-3e32-4344-8980-0e666c96fcc7",
+      "detail": "Develop and implement hazard and risk management systems, including risk assessments, method statements, safe systems of work and control measures."
+    },
+    {
+      "skillId": "47d4948c-4459-4089-9349-0a9ab4c38463",
+      "detail": "Comply with maritime sector legislation, regulations, statutory powers and local port marine codes of practice."
+    },
+    {
+      "skillId": "8706b257-fec2-4f14-ab78-bdd1d40db637",
+      "detail": "Comply with port security measures."
+    },
+    {
+      "skillId": "26e1d908-3382-4e8e-aa37-ebcd13f1c5cd",
+      "detail": "Apply port marine standard operating procedures (SOPs). "
+    },
+    {
+      "skillId": "8ab5c9f9-a672-4b6e-8431-c683772341c4",
+      "detail": "Apply principles and practices of sustainability and environment safeguarding."
+    },
+    {
+      "skillId": "c8723cce-c85e-4a8c-b438-467efafcc7f5",
+      "detail": "Identify, plan, prioritise, organise and use resources. "
+    },
+    {
+      "skillId": "a4749350-134d-42b7-9f7d-e19d30daa8ac",
+      "detail": "Apply quality assurance procedures and monitoring processes."
+    },
+    {
+      "skillId": "170c02a0-1093-4589-9596-c05f95d69c13",
+      "detail": "Coordinate and monitor port control operations."
+    },
+    {
+      "skillId": "2b37a1b1-e05c-423e-8668-91dd390ed937",
+      "detail": "Monitor and record the condition of port marine infrastructure. "
+    },
+    {
+      "skillId": "f17a2c45-224b-4485-a9e9-38d23d828e57",
+      "detail": "Monitor, coordinate and record vessel movements. "
+    },
+    {
+      "skillId": "941b4b9b-c63b-452f-991e-8f5cca65c559",
+      "detail": "Plan, schedule and coordinate berthing movements. "
+    },
+    {
+      "skillId": "81e80923-7ad0-4906-98f0-109025320316",
+      "detail": "Coordinate shore side support to vessels. "
+    },
+    {
+      "skillId": "70360e8b-cf2a-441f-94a6-057fa2a7333b",
+      "detail": "Interpret hydrographic survey results or data. "
+    },
+    {
+      "skillId": "6b4aff05-db91-4a52-a136-dfaf556a7320",
+      "detail": "Apply principles and techniques to determine and report hydrological and meteorological conditions, for example weather patterns or tidal conditions."
+    },
+    {
+      "skillId": "4305728a-96d8-4125-87cb-2738216ed133",
+      "detail": "Adapt port marine operations to changing circumstances, for example, changing weather conditions. "
+    },
+    {
+      "skillId": "78ad8cc0-0179-45a8-8b7c-3b64dd44c253",
+      "detail": "Monitor and operate navigational systems, equipment and aids to navigation (AtoN). "
+    },
+    {
+      "skillId": "7c62e436-f359-4da0-a466-59bb94bee4e0",
+      "detail": "Use organisational and sector information technology and digital systems. Comply with General Data Protection Regulation (GDPR) and cyber security."
+    },
+    {
+      "skillId": "dc16321a-7d64-4731-a66b-f0673e073fb7",
+      "detail": "Apply and promote policies and practices to support equity, diversity and inclusion."
+    },
+    {
+      "skillId": "a165e627-8823-4528-983f-d00b1ea4ca78",
+      "detail": "Communicate with others using a radio or signalling. "
+    },
+    {
+      "skillId": "dc36c429-4f3b-4549-b087-88c84c92f014",
+      "detail": "Work collaboratively with internal and external stakeholders, as part of a team. "
+    },
+    {
+      "skillId": "9290385c-098a-4033-823a-1d212ee8d9c5",
+      "detail": "Plan and undertake Continued Professional Development (CPD) to meet personal and organisational development. Evaluate CPD outcomes against any plans made."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0032",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Associated British Ports, DP World, International Association of Maritime Institutions (IAMI), Marine Society & Sea Cadets, Maritime Skills Alliance, Peel Ports, Port of Blyth, Port of Dover, Port Skills and Safety LTD, Svitzer, Tyne coast college",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Berthing master",
+    "Port marine operations officer",
+    "Vessel traffic services officer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Transport",
+  "cluster": "Transport operations manager",
+  "clusterId": "13",
+  "clusterDescription": "Manage and lead the operation of a transport facility",
+  "createdDate": "2026-05-12T07:33:04 +00:00",
+  "lastUpdated": "2026-05-12T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-05-01T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0428",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0428-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0428-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "67090b98-f008-4254-a04f-8fa32c5c024c",
+      "dutyDetail": "Perform and monitor safe working practices within the working environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1158618a-a8d7-48d1-b719-92c97b37df69",
+        "a4b06509-ffa1-44db-bc28-c454e1ed241a"
+      ],
+      "mappedKnowledge": [
+        "99df03b8-bdf1-46a3-a73c-2b373f88aa77",
+        "9a3dda73-8df1-48e0-924a-a3e1dd187300",
+        "20bf25db-6031-4f3a-88ae-39e178cce84e",
+        "639d3bdc-af31-4958-8562-e4e81a153cb1",
+        "2a59547a-78fa-4f19-9faf-fc2c7b2bb13c",
+        "0c6abb6d-c6eb-4c88-abca-19c67b16f04d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "85ed6053-96e7-4c43-a57b-e3b1d9b52ec7",
+        "29c5a505-7c43-4f4d-b6f5-4b4a9568eaf2",
+        "f03fc49b-3e32-4344-8980-0e666c96fcc7",
+        "6b4aff05-db91-4a52-a136-dfaf556a7320",
+        "4305728a-96d8-4125-87cb-2738216ed133"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e5818d86-37f1-438e-ae56-60ed522c5d5f",
+      "dutyDetail": "Comply with industry standards, relevant legislation, environmental regulations and standard organisational operating procedures. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1158618a-a8d7-48d1-b719-92c97b37df69",
+        "3cbfd7ef-e8d7-48b3-a9e1-cac3a2ea1306",
+        "f28c64c5-1bb4-4c44-81a7-4da206a92b31"
+      ],
+      "mappedKnowledge": [
+        "99df03b8-bdf1-46a3-a73c-2b373f88aa77",
+        "9a3dda73-8df1-48e0-924a-a3e1dd187300",
+        "20bf25db-6031-4f3a-88ae-39e178cce84e",
+        "37b8a3da-5df9-47b6-8ac8-a42ac72b0234",
+        "077d51aa-6aff-44ee-8c07-2f198cb495a2",
+        "639d3bdc-af31-4958-8562-e4e81a153cb1",
+        "a32a62f7-6736-43c6-a3fd-f75f3be10e8d",
+        "65b5f443-fb83-45a7-88e5-eb7ce5be2058",
+        "dbf1e64f-2005-4ee3-9ebd-8d33efa3f5cd",
+        "4c8d3117-2039-4ee6-89c7-0d25a2eb752f",
+        "e4f771cf-de4d-4b07-884c-71009438c466",
+        "fb181d72-cf6b-489b-bc33-14b58f0bfa1c",
+        "d27cb838-1546-4c65-bb6b-ed7c8ffeeb7a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "85ed6053-96e7-4c43-a57b-e3b1d9b52ec7",
+        "29c5a505-7c43-4f4d-b6f5-4b4a9568eaf2",
+        "f03fc49b-3e32-4344-8980-0e666c96fcc7",
+        "47d4948c-4459-4089-9349-0a9ab4c38463",
+        "8706b257-fec2-4f14-ab78-bdd1d40db637",
+        "26e1d908-3382-4e8e-aa37-ebcd13f1c5cd",
+        "8ab5c9f9-a672-4b6e-8431-c683772341c4",
+        "7c62e436-f359-4da0-a466-59bb94bee4e0",
+        "dc16321a-7d64-4731-a66b-f0673e073fb7",
+        "9290385c-098a-4033-823a-1d212ee8d9c5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "987028c4-63e7-43da-827e-31d3d3eefa77",
+      "dutyDetail": "Comply with port security; International ship and port facility (ISPS) code.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a4b06509-ffa1-44db-bc28-c454e1ed241a"
+      ],
+      "mappedKnowledge": [
+        "37b8a3da-5df9-47b6-8ac8-a42ac72b0234",
+        "077d51aa-6aff-44ee-8c07-2f198cb495a2",
+        "639d3bdc-af31-4958-8562-e4e81a153cb1",
+        "a32a62f7-6736-43c6-a3fd-f75f3be10e8d",
+        "65b5f443-fb83-45a7-88e5-eb7ce5be2058"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "47d4948c-4459-4089-9349-0a9ab4c38463",
+        "8706b257-fec2-4f14-ab78-bdd1d40db637",
+        "26e1d908-3382-4e8e-aa37-ebcd13f1c5cd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "52033c6d-58a5-4f21-8984-f46174dc75a8",
+      "dutyDetail": "Promote sustainable practices and reduce environmental impact in port marine operations. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a4b06509-ffa1-44db-bc28-c454e1ed241a"
+      ],
+      "mappedKnowledge": [
+        "37b8a3da-5df9-47b6-8ac8-a42ac72b0234",
+        "dbf1e64f-2005-4ee3-9ebd-8d33efa3f5cd",
+        "4c8d3117-2039-4ee6-89c7-0d25a2eb752f",
+        "dde5ee1b-a7ca-4c77-96b1-916a249b30e1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "47d4948c-4459-4089-9349-0a9ab4c38463",
+        "8ab5c9f9-a672-4b6e-8431-c683772341c4",
+        "2b37a1b1-e05c-423e-8668-91dd390ed937",
+        "70360e8b-cf2a-441f-94a6-057fa2a7333b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "730ef872-2412-47c3-86d2-cc4a1c194226",
+      "dutyDetail": "Plan and undertake port marine operations activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1158618a-a8d7-48d1-b719-92c97b37df69",
+        "6060e793-0f3d-4570-91e2-4eb1b019fe6a"
+      ],
+      "mappedKnowledge": [
+        "a32a62f7-6736-43c6-a3fd-f75f3be10e8d",
+        "65b5f443-fb83-45a7-88e5-eb7ce5be2058",
+        "7396ce32-a240-4d2d-b4b9-ad951db5544c",
+        "eb79e5aa-a81d-4805-aace-71cccc74f98d",
+        "9c004ba5-a163-45fa-916c-34c5e2905b45",
+        "a80fa61b-c950-4dea-ba65-1940ceb85c5a",
+        "ee71d37f-f0e1-4fce-a480-0c55f269cb72",
+        "46a9b251-bda9-431a-be45-468f0e3d55e5",
+        "4b619bbe-de7b-480a-a663-6c9adb8878d2",
+        "0c6abb6d-c6eb-4c88-abca-19c67b16f04d",
+        "8745592d-5473-4e27-8be1-bf3269b7d9c2",
+        "e4f771cf-de4d-4b07-884c-71009438c466"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "26e1d908-3382-4e8e-aa37-ebcd13f1c5cd",
+        "a4749350-134d-42b7-9f7d-e19d30daa8ac",
+        "170c02a0-1093-4589-9596-c05f95d69c13",
+        "2b37a1b1-e05c-423e-8668-91dd390ed937",
+        "f17a2c45-224b-4485-a9e9-38d23d828e57",
+        "81e80923-7ad0-4906-98f0-109025320316",
+        "4305728a-96d8-4125-87cb-2738216ed133",
+        "78ad8cc0-0179-45a8-8b7c-3b64dd44c253",
+        "7c62e436-f359-4da0-a466-59bb94bee4e0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "426dce82-c4cd-4235-bb0e-15cf24326748",
+      "dutyDetail": "Manage safe vessel operations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1158618a-a8d7-48d1-b719-92c97b37df69",
+        "6060e793-0f3d-4570-91e2-4eb1b019fe6a",
+        "3cbfd7ef-e8d7-48b3-a9e1-cac3a2ea1306"
+      ],
+      "mappedKnowledge": [
+        "99df03b8-bdf1-46a3-a73c-2b373f88aa77",
+        "75493f69-0cbb-4dfe-b5a2-a91604f821bb",
+        "eb79e5aa-a81d-4805-aace-71cccc74f98d",
+        "a80fa61b-c950-4dea-ba65-1940ceb85c5a",
+        "ee71d37f-f0e1-4fce-a480-0c55f269cb72",
+        "46a9b251-bda9-431a-be45-468f0e3d55e5",
+        "4b619bbe-de7b-480a-a663-6c9adb8878d2",
+        "dde5ee1b-a7ca-4c77-96b1-916a249b30e1",
+        "2a59547a-78fa-4f19-9faf-fc2c7b2bb13c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "85ed6053-96e7-4c43-a57b-e3b1d9b52ec7",
+        "c8723cce-c85e-4a8c-b438-467efafcc7f5",
+        "170c02a0-1093-4589-9596-c05f95d69c13",
+        "2b37a1b1-e05c-423e-8668-91dd390ed937",
+        "f17a2c45-224b-4485-a9e9-38d23d828e57",
+        "941b4b9b-c63b-452f-991e-8f5cca65c559",
+        "81e80923-7ad0-4906-98f0-109025320316",
+        "70360e8b-cf2a-441f-94a6-057fa2a7333b",
+        "6b4aff05-db91-4a52-a136-dfaf556a7320"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f9b27615-8804-4ddc-af9a-7e91dad25463",
+      "dutyDetail": "Monitor and organise vessel traffic movement inside and outside of the port.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1158618a-a8d7-48d1-b719-92c97b37df69"
+      ],
+      "mappedKnowledge": [
+        "75493f69-0cbb-4dfe-b5a2-a91604f821bb",
+        "eb79e5aa-a81d-4805-aace-71cccc74f98d",
+        "46a9b251-bda9-431a-be45-468f0e3d55e5",
+        "4b619bbe-de7b-480a-a663-6c9adb8878d2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c8723cce-c85e-4a8c-b438-467efafcc7f5",
+        "170c02a0-1093-4589-9596-c05f95d69c13",
+        "2b37a1b1-e05c-423e-8668-91dd390ed937",
+        "81e80923-7ad0-4906-98f0-109025320316"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4e57fff9-1e3e-47b3-b5bd-278e5a5486f5",
+      "dutyDetail": "Control and coordinate the movements of port craft to facilitate the safe movement inside and outside of the port. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1158618a-a8d7-48d1-b719-92c97b37df69"
+      ],
+      "mappedKnowledge": [
+        "a32a62f7-6736-43c6-a3fd-f75f3be10e8d",
+        "65b5f443-fb83-45a7-88e5-eb7ce5be2058",
+        "75493f69-0cbb-4dfe-b5a2-a91604f821bb",
+        "eb79e5aa-a81d-4805-aace-71cccc74f98d",
+        "4b619bbe-de7b-480a-a663-6c9adb8878d2",
+        "2a59547a-78fa-4f19-9faf-fc2c7b2bb13c",
+        "8745592d-5473-4e27-8be1-bf3269b7d9c2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "26e1d908-3382-4e8e-aa37-ebcd13f1c5cd",
+        "c8723cce-c85e-4a8c-b438-467efafcc7f5",
+        "170c02a0-1093-4589-9596-c05f95d69c13",
+        "2b37a1b1-e05c-423e-8668-91dd390ed937",
+        "6b4aff05-db91-4a52-a136-dfaf556a7320",
+        "78ad8cc0-0179-45a8-8b7c-3b64dd44c253"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d1479c14-a695-4fea-b6be-50d7776486e7",
+      "dutyDetail": "Monitor and review external information and data which would impact port marine operations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a4b06509-ffa1-44db-bc28-c454e1ed241a",
+        "6060e793-0f3d-4570-91e2-4eb1b019fe6a"
+      ],
+      "mappedKnowledge": [
+        "75493f69-0cbb-4dfe-b5a2-a91604f821bb",
+        "7396ce32-a240-4d2d-b4b9-ad951db5544c",
+        "9c004ba5-a163-45fa-916c-34c5e2905b45",
+        "4b619bbe-de7b-480a-a663-6c9adb8878d2",
+        "dde5ee1b-a7ca-4c77-96b1-916a249b30e1",
+        "2a59547a-78fa-4f19-9faf-fc2c7b2bb13c",
+        "0c6abb6d-c6eb-4c88-abca-19c67b16f04d",
+        "e4f771cf-de4d-4b07-884c-71009438c466",
+        "d27cb838-1546-4c65-bb6b-ed7c8ffeeb7a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c8723cce-c85e-4a8c-b438-467efafcc7f5",
+        "a4749350-134d-42b7-9f7d-e19d30daa8ac",
+        "170c02a0-1093-4589-9596-c05f95d69c13",
+        "2b37a1b1-e05c-423e-8668-91dd390ed937",
+        "941b4b9b-c63b-452f-991e-8f5cca65c559",
+        "70360e8b-cf2a-441f-94a6-057fa2a7333b",
+        "6b4aff05-db91-4a52-a136-dfaf556a7320",
+        "4305728a-96d8-4125-87cb-2738216ed133",
+        "7c62e436-f359-4da0-a466-59bb94bee4e0",
+        "9290385c-098a-4033-823a-1d212ee8d9c5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9ef26054-a398-4062-a662-7016d5f118ba",
+      "dutyDetail": "Monitor and revise operational plans.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6060e793-0f3d-4570-91e2-4eb1b019fe6a",
+        "f28c64c5-1bb4-4c44-81a7-4da206a92b31"
+      ],
+      "mappedKnowledge": [
+        "a32a62f7-6736-43c6-a3fd-f75f3be10e8d",
+        "65b5f443-fb83-45a7-88e5-eb7ce5be2058",
+        "75493f69-0cbb-4dfe-b5a2-a91604f821bb",
+        "7396ce32-a240-4d2d-b4b9-ad951db5544c",
+        "8745592d-5473-4e27-8be1-bf3269b7d9c2",
+        "e4f771cf-de4d-4b07-884c-71009438c466",
+        "d27cb838-1546-4c65-bb6b-ed7c8ffeeb7a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "26e1d908-3382-4e8e-aa37-ebcd13f1c5cd",
+        "c8723cce-c85e-4a8c-b438-467efafcc7f5",
+        "a4749350-134d-42b7-9f7d-e19d30daa8ac",
+        "170c02a0-1093-4589-9596-c05f95d69c13",
+        "78ad8cc0-0179-45a8-8b7c-3b64dd44c253",
+        "7c62e436-f359-4da0-a466-59bb94bee4e0",
+        "9290385c-098a-4033-823a-1d212ee8d9c5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f3522d6c-84fc-4869-805e-b51a518ed775",
+      "dutyDetail": "Work as part of a team supporting colleagues to meet customer expectations, quality requirements and deadlines.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1158618a-a8d7-48d1-b719-92c97b37df69",
+        "6060e793-0f3d-4570-91e2-4eb1b019fe6a",
+        "3cbfd7ef-e8d7-48b3-a9e1-cac3a2ea1306",
+        "52fe296b-fe13-4ff5-b331-622aba6fa495"
+      ],
+      "mappedKnowledge": [
+        "639d3bdc-af31-4958-8562-e4e81a153cb1",
+        "a32a62f7-6736-43c6-a3fd-f75f3be10e8d",
+        "65b5f443-fb83-45a7-88e5-eb7ce5be2058",
+        "75493f69-0cbb-4dfe-b5a2-a91604f821bb",
+        "eb79e5aa-a81d-4805-aace-71cccc74f98d",
+        "8745592d-5473-4e27-8be1-bf3269b7d9c2",
+        "fb181d72-cf6b-489b-bc33-14b58f0bfa1c",
+        "572c5800-d440-4997-8e3e-ad85624d91a7",
+        "3034169c-9988-4ad2-be7a-e1176b91d757",
+        "aba66693-4064-4aa5-8f8b-8b8b3eb7ac67"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "26e1d908-3382-4e8e-aa37-ebcd13f1c5cd",
+        "c8723cce-c85e-4a8c-b438-467efafcc7f5",
+        "2b37a1b1-e05c-423e-8668-91dd390ed937",
+        "78ad8cc0-0179-45a8-8b7c-3b64dd44c253",
+        "dc16321a-7d64-4731-a66b-f0673e073fb7",
+        "a165e627-8823-4528-983f-d00b1ea4ca78",
+        "dc36c429-4f3b-4549-b087-88c84c92f014"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d974abd5-c5ee-410d-8b6c-2469fb36f0d4",
+      "dutyDetail": "Communicate and liaise with own team, the vessel, along with internal and external stakeholder such as clients or specialist contractors.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3cbfd7ef-e8d7-48b3-a9e1-cac3a2ea1306",
+        "52fe296b-fe13-4ff5-b331-622aba6fa495",
+        "f28c64c5-1bb4-4c44-81a7-4da206a92b31"
+      ],
+      "mappedKnowledge": [
+        "75493f69-0cbb-4dfe-b5a2-a91604f821bb",
+        "a80fa61b-c950-4dea-ba65-1940ceb85c5a",
+        "ee71d37f-f0e1-4fce-a480-0c55f269cb72",
+        "46a9b251-bda9-431a-be45-468f0e3d55e5",
+        "4b619bbe-de7b-480a-a663-6c9adb8878d2",
+        "8745592d-5473-4e27-8be1-bf3269b7d9c2",
+        "e4f771cf-de4d-4b07-884c-71009438c466",
+        "fb181d72-cf6b-489b-bc33-14b58f0bfa1c",
+        "3034169c-9988-4ad2-be7a-e1176b91d757",
+        "aba66693-4064-4aa5-8f8b-8b8b3eb7ac67",
+        "d27cb838-1546-4c65-bb6b-ed7c8ffeeb7a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c8723cce-c85e-4a8c-b438-467efafcc7f5",
+        "170c02a0-1093-4589-9596-c05f95d69c13",
+        "f17a2c45-224b-4485-a9e9-38d23d828e57",
+        "941b4b9b-c63b-452f-991e-8f5cca65c559",
+        "81e80923-7ad0-4906-98f0-109025320316",
+        "78ad8cc0-0179-45a8-8b7c-3b64dd44c253",
+        "7c62e436-f359-4da0-a466-59bb94bee4e0",
+        "dc16321a-7d64-4731-a66b-f0673e073fb7",
+        "a165e627-8823-4528-983f-d00b1ea4ca78",
+        "dc36c429-4f3b-4549-b087-88c84c92f014",
+        "9290385c-098a-4033-823a-1d212ee8d9c5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-12-18T00:00:00"
+}
