@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment and funding band revised",
-  "changedDate": "2025-04-01T00:00:00",
+  "changedDate": "2026-09-22T00:00:00",
   "earliestStartDate": "2025-04-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-21T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working as part of a team in kitchen environments.",
   "level": 2,
@@ -295,7 +295,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0907",
-  "tbMainContact": "paul.stevenson@parkdean-resorts.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "1st Awards, Army Catering, Army Catering Training Trust (ACTT), Aspens-Services, Azzurri Central, City and Guilds, Compass Group, Elior UK, English Heritage, Excel Care Holdings, Greene King, HIT Training, Innovate Awarding, Inspiro Learning, James' Places, Leonardo Hotels UK and Ireland, Lifetime Training, Marstons, Mitchells and Butler, National Federation of Fish Friers, Nottinghamshire Healthcare NHS Foundation Trust, Parkdean Resorts UK Ltd, Professional Assessment Ltd., Royal Air Force, Royal Navy, Skills Education Group, St Austell Brewery, Stonegate, TGI Friday, Whitbread, SSP",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -314,7 +314,7 @@
   "clusterId": "18",
   "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2025-02-18T11:23:50 +00:00",
-  "lastUpdated": "2025-04-01T00:00:00 +00:00",
+  "lastUpdated": "2026-09-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-10-11T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0589",
@@ -694,5 +694,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-04-01T00:00:00"
+  "publishDate": "2027-03-21T00:00:00"
 }
