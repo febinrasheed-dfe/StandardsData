@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-07-27T00:00:00",
+  "changedDate": "2026-10-09T00:00:00",
   "earliestStartDate": "2023-07-27T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Leading the deployment of improvement strategies.",
   "level": 5,
@@ -261,7 +261,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "",
-  "tbMainContact": "felicity.fashade@baesystems.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "BT Group Plc, Toyota Motor Manufacturing (UK) Ltd, Capella Associates, Chartered Quality Institute, International Automotive Components Group Ltd, Jaguar Land Rover Ltd, SAIC Motor UK Technical Centre Ltd, Capella Associates Ltd, Wincanton Plc, GLAS Business Solutions Ltd, develop-u, National Skills Academy for Food & Drink, Britvic Soft Drinks Ltd, 2 Sisters Food Group, Ricoh Europe Plc, TUI Group Plc, Gleeds Management Services Ltd, Royal Mail Group Ltd, GlaxoSmithKline Plc, nuvia Limited, Bee Lighting Ltd, Clevedon Fasteners Ltd, Stadco Ltd, Kraft Heinz Company, British Standards Institution, Morson International Ltd, Testlink Services Ltd, Rolls-Royce Controls and Data Services Ltd, Leonardo – Helicopter division",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -300,7 +300,7 @@
   "clusterId": "25",
   "clusterDescription": "Lead and manage a project (business/process improvement), business support services and/or run a practice using the full range of business systems, procedures and accounting practice. Includes the ability to set-up and develop a new business",
   "createdDate": "2023-07-25T15:37:03 +00:00",
-  "lastUpdated": "2023-07-27T00:00:00 +00:00",
+  "lastUpdated": "2026-10-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-11-08T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0555",
@@ -314,5 +314,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-07-27T00:00:00"
+  "publishDate": "2027-04-12T00:00:00"
 }
