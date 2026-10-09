@@ -1,0 +1,3248 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 219,
+  "referenceNumber": "ST0267",
+  "learningAimClassCode": "",
+  "title": "Lifting technician",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0267",
+  "qualificationStandardUrl": null,
+  "versionNumber": "2.0",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-10T00:00:00",
+  "earliestStartDate": "2026-08-28T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "",
+  "level": 2,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "326",
+  "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "Lifting Technician",
+    "technician",
+    "lifting",
+    "tower crane",
+    "crawler crane",
+    "mobile crane"
+  ],
+  "jobRoles": [
+    "Crawler crane technician",
+    "Mobile crane technician",
+    "Tower crane technician",
+    "Overhead crane technician"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-v2-0?view=epa",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;Typical Job Roles - Tower Crane technician, Crawler Crane technician, Mobile Crane technician&lt;/p&gt;\n&lt;p&gt;Duration - Typically 18 – 24 months&lt;/p&gt;\n&lt;p&gt;Level 2&lt;/p&gt;\n&lt;h3&gt;&lt;br&gt;Occupation&lt;/h3&gt;\n&lt;p&gt;The Construction Lifting Technician has three occupations available as an outcome of this standard; each identified by the type of crane - Tower Crane, Crawler Crane and Mobile Crane.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tower Crane – Static cranes used predominantly on construction projects giving key benefits of height and&lt;/li&gt;\n&lt;li&gt;Crawler Crane – Cranes mounted on tracks used in a variety of applications including construction, ports and heavy engineering. Cranes are mobile and able to achieve heavy&lt;/li&gt;\n&lt;li&gt;Mobile Cranes – Wheeled cranes used in a large variety of applications where lifting is required. Cranes are mobile on wheels and often travel to the job site using the public&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;The employer will select which occupational route (either Tower Crane, Crawler Crane or Mobile Crane) the individual will follow but all individuals will undertake the slinger and signaller role as a core requirement of the standard.&lt;/p&gt;\n&lt;h3&gt;Occupational Profile&lt;/h3&gt;\n&lt;p&gt;The primary role of a construction Lifting Technician is to set up and operate cranes to lift and place a variety of loads in the workplace. They will play a vital role by supporting site projects in which they will have responsibility for operating the crane to lift materials and equipment to designated work areas on a construction site. The Lifting Technician will need to be able to interpret and comply with given contract information and work with the lifting team to carry out lifting activities. The specific job roles are:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tower Crane Operator –Prepare and operate tower cranes to lift and transfer loads&lt;/li&gt;\n&lt;li&gt;Crawler Crane Operator – Prepare and operate crawler cranes to lift and transfer loads&lt;/li&gt;\n&lt;li&gt;Mobile Crane Operator – Prepare and operate mobile cranes to lift and transfer loads&lt;/li&gt;\n&lt;/ul&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;479&quot; style=&quot;width: 479px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;479&quot;&gt;\n&lt;p&gt;On completion of this Lifting Technician apprenticeship in either Tower Crane, Crawler Crane or Mobile Crane, the individual will have the following skills and competencies to be able to demonstrate the ability to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comply with relevant legislation and official guidance (including the Health and Safety at Work Act, Lifting Operations Regulations 1998 and BS 7121) when lifting and transferring loads&lt;/li&gt;\n&lt;li&gt;Conform with manufacturer’s and the employer’s operational and health and safety requirements&lt;/li&gt;\n&lt;li&gt;Identify the sequence of lifting operations to be carried out, communicate and organise the work with others&lt;/li&gt;\n&lt;li&gt;Undertake all pre-use checks, configure and set the crane for lifting duties&lt;/li&gt;\n&lt;li&gt;Programme/set-up and conform with the crane’s electronic information systems&lt;/li&gt;\n&lt;li&gt;Lift various loads using up to the full radius and slewing capabilities of the crane&lt;/li&gt;\n&lt;li&gt;Accurately place load whilst minimising the swinging of loads and following signals and instructions&lt;/li&gt;\n&lt;li&gt;Maintain stability and safe working situations&lt;/li&gt;\n&lt;li&gt;Safely use, store and maintain and equipment.&lt;/li&gt;\n&lt;li&gt;Work at height following safety and working procedures&lt;/li&gt;\n&lt;li&gt;Place cranes out of service, and isolate and secure&lt;/li&gt;\n&lt;li&gt;Prepare and ready lifting accessories and the area of operation for the lifting of loads&lt;/li&gt;\n&lt;li&gt;Attach and secure various types of loads to a lifting hook ensuring balance, security and integrity&lt;/li&gt;\n&lt;li&gt;Direct and guide the movement of loads and accurately place loads using a variety of communication methods&lt;/li&gt;\n&lt;li&gt;Comply with specific legislation and guidance (inc. Lifting Operations Regulations 1998 and BS 7121) when slinging and signalling loads&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;479&quot; style=&quot;width: 479px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;479&quot;&gt;\n&lt;p&gt;On completion of this apprenticeship in either Tower Crane, Crawler Crane or Mobile Crane the Lifting Technician will have the following knowledge of:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;the principles of health, safety and welfare and how they must be applied in relation to lifting operations and to others&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;the responsibilities under legislation and guidance (including the Health and Safety at Work Act, Lifting Operations Regulations 1998 and BS 7121) to undertake the&lt;/li&gt;\n&lt;li&gt;how to communicate with others and follow organisational procedures to conform to productive work&lt;/li&gt;\n&lt;li&gt;the functions and basic construction of the crane, the operating controls and electronic read-out system and terminology for the crane including booms, jibs, stability equipment, hoisting equipment and safety systems&lt;/li&gt;\n&lt;li&gt;how to conform with manufacturers requirements as per the operators handbook, codes of practice, lift plans/method statements, ground loading charts and inspection and reporting forms&lt;/li&gt;\n&lt;li&gt;the need and how to undertake pre-use checks, regular and non-scheduled maintenance procedures, the sequence of pre-use checks and of defect reporting, and of setting the crane for work&lt;/li&gt;\n&lt;li&gt;different techniques, methods and safety issues of lifting, moving and placing a variety of loads&lt;/li&gt;\n&lt;li&gt;how to interpret and apply information for the sequence of lifting operations&lt;/li&gt;\n&lt;li&gt;how to comply with lift plan specifications and official guidance for the lifting of loads&lt;/li&gt;\n&lt;li&gt;safe working practices for setting up, configuring, lifting, moving and placing of loads whilst minimising the risk of damage to the work and surrounding area&lt;/li&gt;\n&lt;li&gt;the different techniques and methods on the moving, handling and storing of resources and equipment&lt;/li&gt;\n&lt;li&gt;the requirements of working at height and the use of access equipment, and the procedures to be followed&lt;/li&gt;\n&lt;li&gt;the actions required for proximity hazards (nearby structures) and environmental hazards (strong winds)&lt;/li&gt;\n&lt;li&gt;the principles and safety requirements for slinging and signalling duties&lt;/li&gt;\n&lt;li&gt;the need for pre-use checks on lifting accessories, how to identify non-serviceable items and the procedures for placing out-of service items&lt;/li&gt;\n&lt;li&gt;how to identify centres of gravity and estimate weight of loads for slinging of loads&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;479&quot; style=&quot;width: 479px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;479&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Effective communication: &lt;/strong&gt;oral, written, listening, body language, presentation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Team work: &lt;/strong&gt;work effectively with others with limited supervision.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Independent working: &lt;/strong&gt;take responsibility for completion of your own work.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Logical thinking: &lt;/strong&gt;use clear and valid reasoning when making decisions to undertake the work instructions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Working effectively: &lt;/strong&gt;undertake the work in a reliable and productive manner.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Time management: &lt;/strong&gt;use own time effectively to complete the work instructions to schedule.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Adaptability: &lt;/strong&gt;be able to adjust to changes to the work instructions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Assertiveness and confidence: &lt;/strong&gt;able to resist pressures to work following unsafe practices&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Respect: &lt;/strong&gt;apply equality, diversity and inclusion in dealing with others.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;br&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;Individuals undertaking this standard will need to achieve both of the following Level 2 National Vocational Qualifications (NVQ):&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;NVQ Level 2 Diploma in Plant Operations - with optional units in Mobile Crane or Tower Crane or Crawler Crane depending on which occupational route taken&lt;/li&gt;\n&lt;li&gt;NVQ Level 2 Diploma in Controlling Lifting Operations – Slinger/Signaller&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Progression and Professional Recognition&lt;/h3&gt;\n&lt;p&gt;Progression from the Level 2 Apprenticeship could lead to a crane supervisor role (at Level 4) within the construction industry.&lt;/p&gt;\n&lt;p&gt;This standard will deliver sufficient competence, underpinning knowledge and understanding in the identified job role to allow individuals to meet the requirements of the appropriate industry recognised card certification schemes.&lt;/p&gt;\n&lt;h3&gt;English and Maths&lt;/h3&gt;\n&lt;p&gt;Individuals without level 1 English and Maths will need to achieve this level and take the test for level 2 English and Maths prior to taking the end-point assessment.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Standard Review&lt;/h3&gt;\n&lt;p&gt;This standard will be reviewed after three years.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in Construction and the Built Environment and engineering and manufacturing industry.&lt;/p&gt;\n&lt;p&gt;Lifting technicians work in various settings where heavy machinery, equipment, or materials need to be moved or lifted. These could be construction sites, manufacturing facilities, power plants, transportation infrastructure, aerospace, and aviation.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to ensure the safe and efficient movement of heavy objects, machinery, or materials in various industries and settings.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Lifting technicians follow safety protocols and procedures to prevent accidents, injuries, and damage to property. They ensure that lifting operations comply with safety regulations and standards.&lt;/p&gt;\n&lt;p&gt;Lifting technicians operate cranes to lift, move, and position heavy loads safely and accurately. They perform routine maintenance and inspections on lifting equipment to ensure that it is in good working condition and meets safety standards.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Lifting technicians are skilled in slinging and load handling techniques, including selecting and attaching lifting accessories such as slings, shackles, and hooks to securely lift and move loads. They communicate effectively with team members, supervisors, customer, and other personnel involved in lifting operations to ensure lifting activities are safe and to avoid accidents.&lt;/p&gt;\n&lt;p&gt;Lifting technicians work collaboratively with others to troubleshoot and resolve technical issues, equipment malfunctions, and logistical challenges that may arise during lifting operations. They work efficiently to complete lifting tasks on schedule and within time constraints.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a wide range of different stakeholders, including clients, contractors, members of the public, supervisors, and other occupations. Lifting technicians often work under the supervision of managers or team leaders who oversee lifting operations, provide guidance, and ensure adherence to safety protocols and project requirements.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for facilitating the safe and efficient movement of loads in various industries and settings. Lifting Technicians combine technical skills, safety knowledge, and communication abilities to perform their duties effectively while prioritising the health and safety of personnel and property. This is a core and option apprenticeship standard. Apprentices will be trained and assessed against the core and one option occupation. There are four options.&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Mobile Crane Operators control cranes mounted on vehicles.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Crawler Crane Operator control cranes that move on tracks or crawlers instead of wheels.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Tower Crane Operators control tall, fixed position cranes.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Overhead Crane Operators control cranes with a moveable bridge carrying a moveable or fixed hoisting mechanism travelling on an overhead fixed runway structure.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+      "detail": "Core: Awareness of health and safety regulations, standards and guidance relevant to the occupation and the crane operator's role and responsibilities. "
+    },
+    {
+      "knowledgeId": "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+      "detail": "Core: Lifting industry regulations, guidance, manufacturer’s specifications, and employer’s guidance.  "
+    },
+    {
+      "knowledgeId": "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+      "detail": "Core: Personal protective equipment (PPE): types and use. "
+    },
+    {
+      "knowledgeId": "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+      "detail": "Core: Methods of interpreting and extracting relevant information from lift plans, method statements, specifications site plans, operator’s manual and risk assessments."
+    },
+    {
+      "knowledgeId": "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+      "detail": "Core: Purpose of workplace inductions, tools box talks and team briefings.  "
+    },
+    {
+      "knowledgeId": "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+      "detail": "Core: Crane electronic read out systems: purpose and use."
+    },
+    {
+      "knowledgeId": "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+      "detail": "Core: Crane inspection and examination  documentation requirements: data recording, documentation control, auditable records, insurance, warranty, or other protections, inspection and reporting forms. "
+    },
+    {
+      "knowledgeId": "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+      "detail": "Core: How own role contributes and impacts the wider team and project objectives. "
+    },
+    {
+      "knowledgeId": "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+      "detail": "Core: Awareness of issues, common symptoms and warning signs of stress, anxiety, and depression, plus where to go for help and the resources available. "
+    },
+    {
+      "knowledgeId": "2f780788-c839-479a-be69-160f7541a942",
+      "detail": "Core: Awareness of environmental and sustainability regulations, how to use resources efficiently. Principles of Recycling, reuse, and safe disposal of waste. "
+    },
+    {
+      "knowledgeId": "8409babd-825f-4eca-bf70-283769569343",
+      "detail": "Core: Employment types (self-employed and employed), small business startup principles, tax responsibilities, roles, and responsibilities. "
+    },
+    {
+      "knowledgeId": "47586ffc-6576-41c9-969e-30c2d4391eee",
+      "detail": "Core: Verbal communication techniques. "
+    },
+    {
+      "knowledgeId": "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+      "detail": "Core: Team working techniques. "
+    },
+    {
+      "knowledgeId": "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+      "detail": "Core: Communication techniques for the movement and placement of loads: verbal commands, visual commands, hand signals and radio. "
+    },
+    {
+      "knowledgeId": "87c562c2-d260-48ea-9408-9657d798e2a0",
+      "detail": "Core: Slinging techniques for the attachment of loads: fibre slings, chain slings  and specialist equipment - plate clamps, slippers, lifting beams, lifting cells, eye bolts and magnets. "
+    },
+    {
+      "knowledgeId": "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+      "detail": "Core: Principles of falls of rope and changing falls of rope.  "
+    },
+    {
+      "knowledgeId": "d4887363-5faa-4f90-a796-9da63a47530c",
+      "detail": "Core: Principles and application techniques of SWL (safe working load) limits & WLL (working load limit)."
+    },
+    {
+      "knowledgeId": "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+      "detail": "Core: Crane operation site safety information: layout of site traffic plans, the working areas, exclusion zones and authorised passages for movement. "
+    },
+    {
+      "knowledgeId": "712d2bcd-6135-48da-90e0-5ea612c12314",
+      "detail": "Core: Lifting accessory inspection: Function and methods of checks, inspections, and reporting forms procedures for lifting accessories. "
+    },
+    {
+      "knowledgeId": "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+      "detail": "Core: Reporting: importance and methods of reporting hazards and issues."
+    },
+    {
+      "knowledgeId": "bbc772e2-ca6d-4344-a980-ff0e96860f56",
+      "detail": "Mobile crane operator: Controls access techniques and industry safety procedures."
+    },
+    {
+      "knowledgeId": "75e2c833-4681-4ba2-910b-3f9ff8ada832",
+      "detail": "Mobile crane operator: Mobile Crane manoeuvring configuration principles."
+    },
+    {
+      "knowledgeId": "719a6fac-027f-42fa-a706-ae892127b83e",
+      "detail": "Mobile crane operator: Off highway positioning and manoeuvring requirements and techniques for pre and post operations. "
+    },
+    {
+      "knowledgeId": "64141d48-9a1b-4131-b763-a91619f7e155",
+      "detail": "Mobile crane operator: Highway travel: road travel legislative requirements and  local authority requirements."
+    },
+    {
+      "knowledgeId": "4a511e1e-d55a-429d-adf6-d4d52503fe9f",
+      "detail": "Mobile crane operator: Hazard identification: situational awareness, Ground condition requirements for travelling with mobile cranes, controlling traction on loose surfaces and inclines, Axle loadings for road travel and un-compacted ground, Height restrictions and markings and Limitations of vision when driving and manoeuvring a mobile crane, crane movement legislative requirements.  "
+    },
+    {
+      "knowledgeId": "ef8897ae-0b59-4bf0-9550-e2ac2d8edb93",
+      "detail": "Mobile crane operator: Factors that affect mobile crane stability: ground conditions, inclines, weather and environmental.  "
+    },
+    {
+      "knowledgeId": "8c5061bf-3684-4a34-8547-7cac97a1dab4",
+      "detail": "Mobile crane operator: Setting the mobile crane: Types of and use of the mobile crane outriggers, positioning,  plates and matts  "
+    },
+    {
+      "knowledgeId": "f464ad83-fbd1-4414-b240-b2ead59916ca",
+      "detail": "Mobile crane operator: Lift configuration techniques, including electronic information and operating system configuration."
+    },
+    {
+      "knowledgeId": "0af7d349-ea98-4212-a9d3-47f0102146e4",
+      "detail": "Mobile crane operator: Purpose and use of mobile crane electronic information and operating systems for lifting operations. "
+    },
+    {
+      "knowledgeId": "ade3b160-eb53-4dd6-81b8-858ebbc89895",
+      "detail": "Mobile crane operator: Hook positioning components, use and manipulation techniques., including boom extensions and angle and slew. "
+    },
+    {
+      "knowledgeId": "34ce33a4-88b1-4eea-ab43-d3d6f91855e4",
+      "detail": "Mobile crane operator: Risks associated with mobile crane when travelling with suspended loads.  "
+    },
+    {
+      "knowledgeId": "b4d8d65d-11ed-45df-8839-54038583301c",
+      "detail": "Mobile crane operator: Techniques to ensure load integrity and stability when lifting loads with mobile cranes, including swing correction."
+    },
+    {
+      "knowledgeId": "eb416436-03bd-4381-92cd-92b742dd4b0f",
+      "detail": "Mobile crane operator: Load lifting, moving and placing techniques."
+    },
+    {
+      "knowledgeId": "89c9a92a-4276-4207-aba5-41d927c09810",
+      "detail": "Mobile crane operator: Park, shutdown, isolate and securing methods. "
+    },
+    {
+      "knowledgeId": "1da14f45-7f90-42da-bf83-2f660e194f1c",
+      "detail": "Mobile crane operator: Lifting accessory types, preparation and use for mobile cranes."
+    },
+    {
+      "knowledgeId": "61558df7-b453-46c2-8b43-3ce177cc6c6f",
+      "detail": "Mobile crane operator: Characteristics of  power units, hydraulic systems, counterweights, different chassis types, different steering types, tyres and driving controls.  "
+    },
+    {
+      "knowledgeId": "93cbd69b-9bbf-4392-91c9-a17169d2a449",
+      "detail": "Mobile crane operator: Maintenance: Types, actions and the conducting of regular and non-scheduled checks, maintenance procedures and basic inspections. "
+    },
+    {
+      "knowledgeId": "af689a85-e4f0-4ab7-9293-2cc5e579aa15",
+      "detail": "Mobile crane operator: Extensions and jibs fitting and de-rigging procedures and techniques.  "
+    },
+    {
+      "knowledgeId": "9b740d5d-6386-4d91-b340-63679e590d70",
+      "detail": "Mobile crane operator:  Dismantling procedures.  "
+    },
+    {
+      "knowledgeId": "e9f14dee-4dbf-43fb-86f3-bba5726a698e",
+      "detail": "Crawler crane operator: Controls access techniques and industry safety procedures. "
+    },
+    {
+      "knowledgeId": "3411bcca-cb01-4fc7-b2eb-ef4360f98c56",
+      "detail": "Crawler Crane operator: Manoeuvring configuration techniques.  "
+    },
+    {
+      "knowledgeId": "afb948c6-37e0-4d0f-ba26-b60ba9ab3d89",
+      "detail": "Crawler Crane operator: Positioning and manoeuvring techniques for pre and post site operations. "
+    },
+    {
+      "knowledgeId": "a562e6f6-8385-43d1-bd71-b1488731bf76",
+      "detail": "Crawler crane operator: Hazard identification: situational awareness, ground condition requirements for travelling with crawler cranes, controlling traction on loose surfaces and inclines,  track loadings for  travel and un-compacted  and unsuitable ground, and limitations of vision when manoeuvring a crawler crane."
+    },
+    {
+      "knowledgeId": "a82a0967-7593-4f29-b44b-18b422d9b09e",
+      "detail": "Crawler crane operator: Factors that affect crawler crane stability: ground conditions, inclines, weather and environmental."
+    },
+    {
+      "knowledgeId": "5efec8b6-6a46-468f-aeb7-0b509148c467",
+      "detail": "Crawler crane operator: Lift configuration techniques including electronic information and operating system configuration. "
+    },
+    {
+      "knowledgeId": "67219133-44b8-49be-8b8c-0ed3f0614280",
+      "detail": "Crawler crane operator: Purpose and use of crawler crane electronic information and operating systems for lifting operations."
+    },
+    {
+      "knowledgeId": "c3ab7ab6-21e6-4682-a2db-ea102a835f42",
+      "detail": "Crawler crane operator: Hook positioning components, use and manipulation techniques, including extension boom, and angle and slew.  "
+    },
+    {
+      "knowledgeId": "4e019672-8bb5-46ab-9870-e2f95f520896",
+      "detail": "Crawler crane operator: Risks associated with crawler crane travelling with suspended loads.  "
+    },
+    {
+      "knowledgeId": "ca9be0c0-3a5a-437c-9f92-85579857747f",
+      "detail": "Crawler crane operator: Techniques to ensure load integrity and stability when carrying out lifting operations with crawler crane, including swing correction. "
+    },
+    {
+      "knowledgeId": "241a4d44-485d-4875-964e-83ae59e624fc",
+      "detail": "Crawler crane operator: Load lifting, moving and placing techniques."
+    },
+    {
+      "knowledgeId": "f80c5077-07b8-494e-8d75-34fff3c5aea1",
+      "detail": "Crawler crane operator: Park, shutdown, isolate and securing methods. "
+    },
+    {
+      "knowledgeId": "96b89918-381c-4be4-8563-a3a2ae5dd5fd",
+      "detail": "Crawler crane operator: Lifting accessory types, preparation and use for crawler cranes.  "
+    },
+    {
+      "knowledgeId": "fc4a7e5e-56e4-447f-9cbd-ff80712f7864",
+      "detail": "Crawler crane operator: Characteristics of power units, hydraulic systems, types of counterweights, different chassis types and different types of  tracking controls and steering.  "
+    },
+    {
+      "knowledgeId": "50a6acbb-6ea2-4906-83c7-ee66128f73cc",
+      "detail": "Crawler crane operator: Maintenance, types, actions and the conducting of regular and non-scheduled checks, maintenance procedures and basic inspections. "
+    },
+    {
+      "knowledgeId": "b8e3a906-7436-4ca3-bc1e-c995d1aadf34",
+      "detail": "Crawler crane operator: Extensions  and  jibs Fitting and de-rigging procedures and techniques.  "
+    },
+    {
+      "knowledgeId": "ffa771b1-cadf-47c3-9083-2adf1eeb7205",
+      "detail": "Crawler crane operator: Dismantling procedures.  "
+    },
+    {
+      "knowledgeId": "ee18120d-b845-4632-a90b-fd7104b61dec",
+      "detail": "Tower crane operator: Documentation types, interpretation, and use: operator’s manual, ground pressure material and duties charts.  "
+    },
+    {
+      "knowledgeId": "45289a79-a647-4b3f-8679-44a470d66e56",
+      "detail": "Tower crane operator: Characteristics and functions of counterweights and tower bases, including construction and securing."
+    },
+    {
+      "knowledgeId": "9963cf51-fffc-4701-8843-3010966f403e",
+      "detail": "Tower crane operator: Types and functions of tower crane Jibs, trolleys, and associated components."
+    },
+    {
+      "knowledgeId": "ece40f98-bebb-4c34-8a09-cff7181e53e3",
+      "detail": "Tower crane operator: Lifting accessory types, preparation and use for tower cranes.  "
+    },
+    {
+      "knowledgeId": "b2aa39e5-bdfe-4481-9fe1-965519133a75",
+      "detail": "Tower crane operator: Maintenance, types, actions and the conducting of regular and non-scheduled checks, maintenance procedures, inspections and predetermined inspections. "
+    },
+    {
+      "knowledgeId": "731f564c-00dc-42ae-ac26-a18a24a0be4e",
+      "detail": "Tower crane operator: Accessing arrangements for tower cranes: types and use of harnessing equipment, Recovery, and retrieval procedures and safety procedures."
+    },
+    {
+      "knowledgeId": "06a7fe5b-7d24-4724-a6d2-3e930dab38a6",
+      "detail": "Tower crane operator: Types of hook block and configuration methods."
+    },
+    {
+      "knowledgeId": "833e7f5d-c2f1-4175-b4c7-a8f625a00017",
+      "detail": "Tower crane operator: Lifting indictors, type and set up techniques: rated capacity indicators (RCI), load indicators and distance indicators.  "
+    },
+    {
+      "knowledgeId": "473e3b07-6bc4-4e39-bf30-8056df59804f",
+      "detail": "Tower crane operator: Methods of lifting for tower cranes including optimising radius and slewing capabilities."
+    },
+    {
+      "knowledgeId": "4e27abef-17b6-4990-8bce-573cb42e70d9",
+      "detail": "Tower crane operator: Hazards identification, situational awareness working in the vicinity of other cranes, zoning systems, Visibility issues and limitations during lifting operations."
+    },
+    {
+      "knowledgeId": "150deebb-640f-4425-b6c4-afe1339bd6b5",
+      "detail": "Tower crane operator: Factors that affect the stability of the tower crane: Centre of gravity, weather, and environment."
+    },
+    {
+      "knowledgeId": "20f63e09-44eb-481c-b4bb-d9aff8a805cb",
+      "detail": "Tower crane operator: Load moving, and placing techniques, including the use of horizon markers and electronic aids.   "
+    },
+    {
+      "knowledgeId": "42423fb8-f8c9-4113-9739-5bedf849a92f",
+      "detail": "Tower crane operator: Techniques to ensure load integrity and stability when carrying out lifting operations with tower crane, including swing correction."
+    },
+    {
+      "knowledgeId": "e57a1d8f-7e17-4f31-88c8-0896c3f65b29",
+      "detail": "Tower crane operator: Shutdown and securing procedures including slew mode placement.  "
+    },
+    {
+      "knowledgeId": "151bab28-48a3-4e75-86e6-6d4103dbc4db",
+      "detail": "Tower crane operator: Hook positioning components, use and manipulation techniques including trolley vs jib, radius, and slew. "
+    },
+    {
+      "knowledgeId": "484278ca-a300-416a-8f71-9eddad99a3af",
+      "detail": "Overhead crane operator: Controls access techniques and industry safety procedures.   "
+    },
+    {
+      "knowledgeId": "aad05af7-d196-4551-af0a-6c11c1daff22",
+      "detail": "Overhead crane operator: Configuration methods for travel pre and post operations.   "
+    },
+    {
+      "knowledgeId": "17cc349e-91e4-42d6-92fb-4bad59d05f27",
+      "detail": "Overhead crane operator: Hazard identification, situational awareness, working in the vicinity of other cranes and zoning systems. "
+    },
+    {
+      "knowledgeId": "9bf48e84-9df5-443e-8025-e9be99ba0bcc",
+      "detail": "Overhead Crane operator: Travelling and manoeuvring techniques for pre and post operation."
+    },
+    {
+      "knowledgeId": "78e0e207-aab2-4e16-9e37-1d0402bdda2d",
+      "detail": "Overhead crane operator: Factors that affect overhead crane stability – ground conditions, infrastructure, weather/environmental, pairing of cranes. "
+    },
+    {
+      "knowledgeId": "0012949c-de4b-4a1c-8972-b41060329869",
+      "detail": "Overhead crane operator: Lift configuration techniques including electronic information and operating system configuration. "
+    },
+    {
+      "knowledgeId": "39c6cc17-0acd-4f8a-acba-928d7278affd",
+      "detail": "Overhead crane operator: Purpose and use of overhead  crane electronic information and operating systems for lifting operations."
+    },
+    {
+      "knowledgeId": "7f49ab8d-7608-45a2-a22b-db4bc74bdebf",
+      "detail": "Overhead crane operator: Hook positioning components, use and manipulation techniques: pairing of two cranes, use of main and auxiliary hoist. "
+    },
+    {
+      "knowledgeId": "24834e5d-7760-4872-8a30-36a06670ca22",
+      "detail": "Overhead crane operator: Principles of travelling the overhead crane with suspended loads."
+    },
+    {
+      "knowledgeId": "254a1b05-5f00-421c-82ed-0e3bcccf7835",
+      "detail": "Overhead crane operator: Risks of travelling with suspended loads. "
+    },
+    {
+      "knowledgeId": "9e217fa7-6602-4e6d-acc9-0fa19d886ff9",
+      "detail": "Overhead crane operator: Techniques to ensure load integrity and stability when carrying out lifting operations with an overhead crane, including swing correction. "
+    },
+    {
+      "knowledgeId": "61e195ab-1205-4b8b-b3d3-0fdd91cdba00",
+      "detail": "Overhead crane operator: Load lifting, moving and placing techniques."
+    },
+    {
+      "knowledgeId": "514e741a-b972-4933-9733-8442acf608d9",
+      "detail": "Overhead crane operator: Park, shutdown, isolate and securing methods. "
+    },
+    {
+      "knowledgeId": "a328b293-3a6c-4746-b740-978b4541122b",
+      "detail": "Overhead crane operator: Lifting accessory types, preparation and use for overhead cranes. "
+    },
+    {
+      "knowledgeId": "545b504a-5875-4491-acc0-0bad9071dfde",
+      "detail": "Overhead crane operator: Characteristics of power units, hydraulic systems, counterweights and different control types.  "
+    },
+    {
+      "knowledgeId": "30d248e9-7edb-4e42-9080-61faf7a33065",
+      "detail": "Overhead crane operator: Maintenance, types, actions and the conducting of regular and non-scheduled checks, maintenance procedures and basic inspections.  "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+      "detail": "Core: Puts health safety and wellbeing first."
+    },
+    {
+      "behaviourId": "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+      "detail": "Core: Take ownership of given work within the limits of own competence knowing when to seek advice."
+    },
+    {
+      "behaviourId": "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+      "detail": "Core: Team-focused to meet work goals."
+    },
+    {
+      "behaviourId": "3468e48e-81c4-4f71-824f-aa34c2151112",
+      "detail": "Core: Committed to continued professional development (CPD) to maintain and enhance competence in their own area of practice. "
+    },
+    {
+      "behaviourId": "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+      "detail": "Core: Considers the environment and sustainability. "
+    },
+    {
+      "behaviourId": "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+      "detail": "Core: Apply equity, diversity, and inclusion principles in dealing with others."
+    },
+    {
+      "behaviourId": "57b71f59-cf27-4d50-a452-05b3ee60aeb6",
+      "detail": "Core: Adapt to new and changing situations. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "735c1095-4ff5-431a-8e5d-174215017104",
+      "detail": "Core: Comply with health and safety regulations, standards, and guidance. "
+    },
+    {
+      "skillId": "e279d420-0102-4e76-b484-77c4f08ccdb0",
+      "detail": "Core: Comply with industry regulations,  guidance, manufacturer’s specifications, and employer’s guidance.  "
+    },
+    {
+      "skillId": "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+      "detail": "Core: Identify and use personal protective equipment (PPE). "
+    },
+    {
+      "skillId": "6cda4c90-fb19-4993-be48-8f832890ff6e",
+      "detail": "Core: Interpret and use lifting operation information, for example lift plans, method statements, specifications site plans operator’s manual and risk assessment. "
+    },
+    {
+      "skillId": "2b84e9cf-bb81-470f-9a0f-097057216c71",
+      "detail": "Core: Use crane electronic read systems.  "
+    },
+    {
+      "skillId": "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+      "detail": "Core: Use site safety information.  "
+    },
+    {
+      "skillId": "183c4244-d335-4c10-bc80-ab7bda650ecf",
+      "detail": "Core: Comply with environmental and sustainability regulations, standards, and guidance. Segregate resources for reuse, recycling, and disposal."
+    },
+    {
+      "skillId": "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+      "detail": "Core: Communicate with others verbally for example, internal and external customers, colleagues, and managers. "
+    },
+    {
+      "skillId": "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+      "detail": "Core: Apply team working techniques.  "
+    },
+    {
+      "skillId": "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+      "detail": "Core: Follow equity, diversity and inclusion legislative guidance and principles. "
+    },
+    {
+      "skillId": "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+      "detail": "Core: Apply techniques to Direct and guide the movement and placement of loads. "
+    },
+    {
+      "skillId": "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+      "detail": "Core: Attach loads using slinging techniques for example fibre slings, chain slings and specialist equipment."
+    },
+    {
+      "skillId": "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+      "detail": "Core: Ensure loads are within SWL limits and WLL."
+    },
+    {
+      "skillId": "17adb537-b50c-470e-a858-a6b60ee324bb",
+      "detail": "Core: Inspect lifting accessories.  "
+    },
+    {
+      "skillId": "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+      "detail": "Core: Report hazards for example, equipment defects, general hazards or ground hazards."
+    },
+    {
+      "skillId": "2ae30ecb-00b0-4808-80ef-063d371b6971",
+      "detail": "Core: Escalates issues beyond their level of competence and authority. "
+    },
+    {
+      "skillId": "626a5f27-605e-44da-825b-193ad7213abd",
+      "detail": "Mobile crane operator: Access a mobile cranes operating platforms and controls.   "
+    },
+    {
+      "skillId": "76e49579-6d4c-4789-8f9a-161315bb562e",
+      "detail": "Mobile crane operator: Configure a mobile crane for manoeuvring. "
+    },
+    {
+      "skillId": "6ed55780-5c3f-40e1-8cb7-55ddd5067773",
+      "detail": "Mobile crane operator: Manoeuvre a mobile crane on site."
+    },
+    {
+      "skillId": "8d694acb-d1f5-4667-9d09-d56585f52bd4",
+      "detail": "Mobile crane operator: Identify and mitigate hazards associated with mobile crane operation.  "
+    },
+    {
+      "skillId": "241f85c4-6fd0-4fe5-bced-b348a8f4a2a4",
+      "detail": "Mobile crane operator: Set up a mobile crane for highway travel. "
+    },
+    {
+      "skillId": "c354273a-3e7d-4f31-ac3b-c6aa45a25cb1",
+      "detail": "Mobile crane operator: Position and set a mobile crane for lifting, including area stability checks and out riggers. "
+    },
+    {
+      "skillId": "047f5ea5-2a7f-419d-ae94-73615b3b83cf",
+      "detail": "Mobile crane operator: Configure a mobile crane for lifting including electronic information or operating systems set up. "
+    },
+    {
+      "skillId": "e0fcdf1d-e48e-4c31-9272-9d12f05285a4",
+      "detail": "Mobile crane operator: Use the mobile crane’s electronic information or operating systems when carrying out lifting operations. "
+    },
+    {
+      "skillId": "a6611f82-724a-446c-9a17-bf02d33ae711",
+      "detail": "Mobile crane operator: Use and manipulate mobile crane components to position the crane hook for example – boom extensions and angle and slew. "
+    },
+    {
+      "skillId": "0e571ca4-3291-4ea2-b875-1f93eefe3ee2",
+      "detail": "Mobile crane operator: Apply techniques to ensure load integrity and stability when carrying out lifting operations with mobile crane, including swing correction.   "
+    },
+    {
+      "skillId": "2f1f7ae3-38d9-4e74-b552-29f83027d9c0",
+      "detail": "Mobile crane operator: Apply techniques to lift, move and place a load using a mobile crane. "
+    },
+    {
+      "skillId": "3df03ec4-5390-47d7-a398-fe98a21d09cc",
+      "detail": "Mobile crane operator: Park, shutdown, isolate and secure a mobile crane.   "
+    },
+    {
+      "skillId": "467ff63e-e96b-41a5-8945-bc0cba8bb4f0",
+      "detail": "Mobile crane operator: Use mobile crane accessories."
+    },
+    {
+      "skillId": "02330bd8-99e4-4cdd-bbc7-3acf7442763d",
+      "detail": "Mobile crane operator: Conduct regular and non-scheduled checks, maintenance procedures and basic inspections on mobile cranes.  "
+    },
+    {
+      "skillId": "46e86a07-2254-4fac-acbd-a4622c9496c9",
+      "detail": "Mobile crane operator: Work collaboratively to fit and de-rigg mobile crane extensions and jibs.  "
+    },
+    {
+      "skillId": "711d27a0-cf4b-4dec-ae77-a9559acf2eae",
+      "detail": "Crawler crane operator: Access a crawler crane and controls. "
+    },
+    {
+      "skillId": "546292e5-1f42-4f87-944d-9562bc0c8bf7",
+      "detail": "Crawler crane operator: Configure a crawler crane for manoeuvring."
+    },
+    {
+      "skillId": "06c08982-2e7d-45cb-a9c7-7bb2de7a24c9",
+      "detail": "Crawler crane operator: Manoeuvre a crawler crane.\u00A0"
+    },
+    {
+      "skillId": "53858fc1-87da-4ac9-84a6-a47017b089d6",
+      "detail": "Crawler crane operator: Identify and mitigate hazards associated with crawler crane operation.  "
+    },
+    {
+      "skillId": "46bb12f9-ad8b-4307-a0c8-bd978edba8af",
+      "detail": "Crawler crane operator: Position and set crawler crane for lifting including area stability checks."
+    },
+    {
+      "skillId": "69e64826-f2bd-4eaa-a4bd-0ea765d8fc6a",
+      "detail": "Crawler crane operator: Configure a crawler crane for lifting including electronic information or operating systems set up. "
+    },
+    {
+      "skillId": "7f49e7c6-88d4-4926-aead-a26362392f65",
+      "detail": "Crawler crane operator: Use crawler crane’s electronic information or operating systems when carrying out lifting operations. "
+    },
+    {
+      "skillId": "d1a705f8-89a6-44da-935b-8f297f83bcca",
+      "detail": "Crawler crane operator: Use and Manipulate crawler crane components to position the crane hook, for example – extension boom and angle and slew.  "
+    },
+    {
+      "skillId": "2f7e9880-45a9-4765-842f-fc1c44193275",
+      "detail": "Crawler crane operator: Apply techniques to ensure load integrity and stability when carrying out lifting operations with crawler crane, including swing correction.   "
+    },
+    {
+      "skillId": "b1a3bb34-d391-4067-ba2b-c13d284d28fb",
+      "detail": "Crawler crane operator: Apply techniques to lift, move and place  loads using a crawler crane. "
+    },
+    {
+      "skillId": "26b9191d-4afc-479b-8600-80995acc1717",
+      "detail": "Crawler crane operator: Park, shutdown, isolate and secure a crawler crane.   "
+    },
+    {
+      "skillId": "e7f0f52b-3994-4ec0-a522-f9edd30ff64c",
+      "detail": "Crawler crane operator: Use crawler crane accessories."
+    },
+    {
+      "skillId": "ec715bc8-982f-4e0e-97bb-90217c8044bc",
+      "detail": "Crawler crane operator: Conduct regular and non-scheduled checks, maintenance procedures and basic inspections on crawler cranes.  "
+    },
+    {
+      "skillId": "7bb0a3c2-c6b2-47b7-8c3e-b9546be316c7",
+      "detail": "Crawler crane operator: Work collaboratively to fit and de- rigg crawler crane extensions and jibs. "
+    },
+    {
+      "skillId": "cf55cc52-cc45-4c4a-988b-94f3a25963e9",
+      "detail": "Tower crane operator: Interpret and Use tower crane documentation including operator’s manual, ground pressure material and duties charts.  "
+    },
+    {
+      "skillId": "352afa7e-bace-4e29-97ca-ee94c1623f9d",
+      "detail": "Tower crane operator: Use tower crane jibs and trolleys for lifting operations."
+    },
+    {
+      "skillId": "074e7445-9eec-4107-95a3-dc0c161f4090",
+      "detail": "Tower crane operator: Use tower crane accessories."
+    },
+    {
+      "skillId": "b7091d61-7971-45e6-a37c-9840e99e08ed",
+      "detail": "Tower crane operator: Access tower cranes, including with the use of harnessing equipment."
+    },
+    {
+      "skillId": "19a7fe7f-f216-4435-8756-07e5be40da18",
+      "detail": "Tower crane operator: Set up tower crane lift indicators: for example, rated capacity indicators (RCI), load indictors and distance indicators. "
+    },
+    {
+      "skillId": "5bf7812f-b2ab-4b00-9e01-d8fc1c15084c",
+      "detail": "Tower crane operator: Lift loads using the optimum radius and slewing capabilities of a tower crane. "
+    },
+    {
+      "skillId": "aef9a515-dc5f-4b80-b245-6ca8394a65f3",
+      "detail": "Tower crane operator: Identify and mitigate hazards associated with tower crane operation.   "
+    },
+    {
+      "skillId": "594fe296-049e-49e9-901c-69d188c7fa22",
+      "detail": "Tower crane operator: Apply techniques to ensure load integrity and stability when carrying out lifting operations with tower crane, including swing correction.   "
+    },
+    {
+      "skillId": "c48f2fe4-ebc9-4402-818a-bd82e4951b2f",
+      "detail": "Tower crane operator: Apply techniques to move and place a load, including the use of horizon markers and electronic aids.   "
+    },
+    {
+      "skillId": "e8df5d3e-bd87-492d-8615-a8fd5e9b2a16",
+      "detail": "Tower crane operator: Shutdown and secure a tower crane including placing the crane into free slew mode. "
+    },
+    {
+      "skillId": "8d4e8dca-a2bd-45e6-bf59-343e7ac61bc0",
+      "detail": "Tower crane operator: Use and Manipulate tower crane components to position the crane hook, for example – Trolley vs jib and radius and slew. "
+    },
+    {
+      "skillId": "d4ea05f5-cb2a-43da-bc0b-9c11317fae59",
+      "detail": "Tower crane operator: Conduct basic look over inspections."
+    },
+    {
+      "skillId": "b1a802ef-8166-444a-8e5c-d840045950ae",
+      "detail": "Overhead crane operator: Access an overhead crane and controls.  "
+    },
+    {
+      "skillId": "0e7b2fcf-448a-4d5f-8a3c-dbb5777f9b3d",
+      "detail": "Overhead crane operator: Configure the overhead crane for travelling. "
+    },
+    {
+      "skillId": "7024c63e-78a8-4e84-a0fd-6ea3bd867129",
+      "detail": "Overhead crane operator: Identify and mitigate hazards associated with overhead crane operation."
+    },
+    {
+      "skillId": "6a205bba-49be-407f-8412-89c883cd44b3",
+      "detail": "Overhead crane operator: Travel and manoeuvre an overhead crane with and without loads."
+    },
+    {
+      "skillId": "5ff6d65e-b5c2-4e24-920a-f27516f448d9",
+      "detail": "Overhead crane operator: Position and set overhead crane for lifting including area stability checks."
+    },
+    {
+      "skillId": "2ad14a03-6ed6-449a-a2f6-165acfc148ab",
+      "detail": "Overhead crane operator: Configure an overhead crane for lifting including electronic information or operating systems set up. "
+    },
+    {
+      "skillId": "44817ffb-e828-47fc-82a1-f56a9ebfa083",
+      "detail": "Overhead crane operator: Use an overhead crane’s electronic information or operating systems when carrying out lifting operations. "
+    },
+    {
+      "skillId": "bcef7044-a93b-4f39-9117-390c7926181f",
+      "detail": "Overhead crane operator: Use and manipulate components of the overhead crane to position the crane hook, for example – pairing of two cranes, use of main and auxiliary hoist. "
+    },
+    {
+      "skillId": "f67e9747-92cd-422f-bd23-cab7b46631a8",
+      "detail": "Overhead crane operator: Apply techniques to ensure load integrity and stability when carrying out lifting operations with overhead crane, including swing correction.   "
+    },
+    {
+      "skillId": "c8d00243-a951-431f-82c5-790445e5439b",
+      "detail": "Overhead crane operator: Apply techniques to lift, move and place a load using an overhead crane. "
+    },
+    {
+      "skillId": "17787e64-5390-4f92-b6a2-1da614c6a1cd",
+      "detail": "Overhead crane operator: Park, Shutdown, isolate and secure an overhead crane.   "
+    },
+    {
+      "skillId": "e7b64e3e-1f21-442e-957f-6b0fae12f5a9",
+      "detail": "Overhead crane operator: Use overhead crane accessories."
+    },
+    {
+      "skillId": "07537900-963d-465c-9f35-0d361fdc0de2",
+      "detail": "Overhead crane operator: Conduct regular and non-scheduled checks, maintenance procedures and basic inspections on overhead cranes.  "
+    }
+  ],
+  "optionsUnstructuredTemplate": [
+    "Crawler Crane Operator",
+    "Mobile Crane Operator",
+    "Tower Crane Operator"
+  ],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2017-12-01T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0912",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "BAE Systems, BAM Nuttall, CITB, CPA, HTC Wolffkran, Laing O' Rourke, Laing O'Rourke, Skanska",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Crawler crane technician",
+    "Mobile crane technician",
+    "Tower crane technician",
+    "Overhead crane technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Onsite Construction",
+  "cluster": "Construction specialist operative or technician",
+  "clusterId": "103",
+  "clusterDescription": "Prepare and operate specialist on-site plant and equipment, which could include lifting, pile driving, and pipe laying",
+  "createdDate": "2026-08-13T08:50:17 +00:00",
+  "lastUpdated": "2026-09-10T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2017-12-01T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0267",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-v2-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "a738047e-96dd-4042-84aa-142104f7a55b",
+      "dutyDetail": "Work in compliance with occupational health and safety and environmental legislation, relevant regulations, and recognised industry guidance to ensure the health, safety and wellbeing of self and others always. Report in a timely manner any non-compliances to the appropriate person.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2437174c-2070-4cfe-92f8-3e30df3fe73c",
+      "dutyDetail": "Deliver work in accordance with lift plans and specifications. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0c1008a6-0133-4ed7-99ec-13d12953eb91",
+      "dutyDetail": "Communicate effectively with team members to coordinate lifting activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a82093b1-a05c-4304-8b86-9543f12a5a58",
+      "dutyDetail": "Take appropriate action to resolve problems and minimise disruptions to lifting operations during crane operations. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0912d83-bd38-432f-ae38-593ff8372aab",
+      "dutyDetail": "Keep accurate records of lifting activities, including equipment inspections, maintenance procedures, safety checks, incidents, and near misses.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c94c2273-9499-4a3a-84fa-3bf011aaa52f",
+      "dutyDetail": "Prepare the work area, checking it is safe and in accordance with method statements and risk assessments and implement the necessary control measures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dca5238a-f5e8-4749-926f-f06402cc4b8f",
+      "dutyDetail": "Sling and signal the movement of suspended loads during lifting operations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "16c62cbf-16b7-4b97-85bb-62210c20ae87",
+      "dutyDetail": "Maintain a clear and tidy workspace and ensure that waste materials are disposed of in accordance with current legislation and sustainably.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a2e5d22f-9774-48de-9cfc-42e1f985033f",
+      "dutyDetail": "Work to the programme, adapting to changes in schedule and requirements where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9f72c6b0-a2ba-42f6-826a-e925849b4374",
+      "dutyDetail": "Conduct quality checks against specification and take remedial action where instructed.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31768cb6-ba87-4d78-b3fd-b6be9ce840a6",
+      "dutyDetail": "Collaborate with stakeholders. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c4afa927-2fba-467e-a243-e052a7d619ff",
+      "dutyDetail": "Conduct continuous professional development to maintain knowledge of current and future developments affecting the role.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "402ae96d-2744-485e-9ed1-fc7c702d4fc5",
+      "dutyDetail": "Position, prepare and configure mobile crane lifting equipment in readiness to conduct lifting activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "bbc772e2-ca6d-4344-a980-ff0e96860f56",
+        "75e2c833-4681-4ba2-910b-3f9ff8ada832",
+        "719a6fac-027f-42fa-a706-ae892127b83e",
+        "64141d48-9a1b-4131-b763-a91619f7e155",
+        "4a511e1e-d55a-429d-adf6-d4d52503fe9f",
+        "ef8897ae-0b59-4bf0-9550-e2ac2d8edb93",
+        "8c5061bf-3684-4a34-8547-7cac97a1dab4",
+        "f464ad83-fbd1-4414-b240-b2ead59916ca",
+        "0af7d349-ea98-4212-a9d3-47f0102146e4",
+        "ade3b160-eb53-4dd6-81b8-858ebbc89895",
+        "34ce33a4-88b1-4eea-ab43-d3d6f91855e4",
+        "b4d8d65d-11ed-45df-8839-54038583301c",
+        "eb416436-03bd-4381-92cd-92b742dd4b0f",
+        "89c9a92a-4276-4207-aba5-41d927c09810",
+        "1da14f45-7f90-42da-bf83-2f660e194f1c",
+        "61558df7-b453-46c2-8b43-3ce177cc6c6f",
+        "93cbd69b-9bbf-4392-91c9-a17169d2a449",
+        "af689a85-e4f0-4ab7-9293-2cc5e579aa15"
+      ],
+      "mappedOptions": [
+        "df6b122e-a096-4b61-a2a5-0940f2711d78"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "626a5f27-605e-44da-825b-193ad7213abd",
+        "76e49579-6d4c-4789-8f9a-161315bb562e",
+        "6ed55780-5c3f-40e1-8cb7-55ddd5067773",
+        "8d694acb-d1f5-4667-9d09-d56585f52bd4",
+        "c354273a-3e7d-4f31-ac3b-c6aa45a25cb1",
+        "047f5ea5-2a7f-419d-ae94-73615b3b83cf",
+        "e0fcdf1d-e48e-4c31-9272-9d12f05285a4",
+        "a6611f82-724a-446c-9a17-bf02d33ae711",
+        "0e571ca4-3291-4ea2-b875-1f93eefe3ee2",
+        "2f1f7ae3-38d9-4e74-b552-29f83027d9c0",
+        "3df03ec4-5390-47d7-a398-fe98a21d09cc",
+        "467ff63e-e96b-41a5-8945-bc0cba8bb4f0",
+        "02330bd8-99e4-4cdd-bbc7-3acf7442763d",
+        "46e86a07-2254-4fac-acbd-a4622c9496c9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4ffa86b7-6072-483a-b346-7132e6c86217",
+      "dutyDetail": "Conduct pre-operational checks on mobile cranes and lifting equipment to ensure they are in good working condition and meet safety standards.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "bbc772e2-ca6d-4344-a980-ff0e96860f56",
+        "75e2c833-4681-4ba2-910b-3f9ff8ada832",
+        "719a6fac-027f-42fa-a706-ae892127b83e",
+        "64141d48-9a1b-4131-b763-a91619f7e155",
+        "4a511e1e-d55a-429d-adf6-d4d52503fe9f",
+        "ef8897ae-0b59-4bf0-9550-e2ac2d8edb93",
+        "8c5061bf-3684-4a34-8547-7cac97a1dab4",
+        "f464ad83-fbd1-4414-b240-b2ead59916ca",
+        "0af7d349-ea98-4212-a9d3-47f0102146e4",
+        "ade3b160-eb53-4dd6-81b8-858ebbc89895",
+        "34ce33a4-88b1-4eea-ab43-d3d6f91855e4",
+        "b4d8d65d-11ed-45df-8839-54038583301c",
+        "eb416436-03bd-4381-92cd-92b742dd4b0f",
+        "89c9a92a-4276-4207-aba5-41d927c09810",
+        "1da14f45-7f90-42da-bf83-2f660e194f1c",
+        "61558df7-b453-46c2-8b43-3ce177cc6c6f",
+        "93cbd69b-9bbf-4392-91c9-a17169d2a449",
+        "af689a85-e4f0-4ab7-9293-2cc5e579aa15"
+      ],
+      "mappedOptions": [
+        "df6b122e-a096-4b61-a2a5-0940f2711d78"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "626a5f27-605e-44da-825b-193ad7213abd",
+        "76e49579-6d4c-4789-8f9a-161315bb562e",
+        "6ed55780-5c3f-40e1-8cb7-55ddd5067773",
+        "8d694acb-d1f5-4667-9d09-d56585f52bd4",
+        "241f85c4-6fd0-4fe5-bced-b348a8f4a2a4",
+        "c354273a-3e7d-4f31-ac3b-c6aa45a25cb1",
+        "047f5ea5-2a7f-419d-ae94-73615b3b83cf",
+        "e0fcdf1d-e48e-4c31-9272-9d12f05285a4",
+        "a6611f82-724a-446c-9a17-bf02d33ae711",
+        "0e571ca4-3291-4ea2-b875-1f93eefe3ee2",
+        "2f1f7ae3-38d9-4e74-b552-29f83027d9c0",
+        "3df03ec4-5390-47d7-a398-fe98a21d09cc",
+        "467ff63e-e96b-41a5-8945-bc0cba8bb4f0",
+        "02330bd8-99e4-4cdd-bbc7-3acf7442763d",
+        "46e86a07-2254-4fac-acbd-a4622c9496c9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d1696ceb-2feb-4ae1-bb12-156b5391d0ec",
+      "dutyDetail": "Determine the appropriate lifting technique for mobile cranes following lift plans to meet specific work requirements.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "bbc772e2-ca6d-4344-a980-ff0e96860f56",
+        "75e2c833-4681-4ba2-910b-3f9ff8ada832",
+        "719a6fac-027f-42fa-a706-ae892127b83e",
+        "64141d48-9a1b-4131-b763-a91619f7e155",
+        "4a511e1e-d55a-429d-adf6-d4d52503fe9f",
+        "ef8897ae-0b59-4bf0-9550-e2ac2d8edb93",
+        "8c5061bf-3684-4a34-8547-7cac97a1dab4",
+        "f464ad83-fbd1-4414-b240-b2ead59916ca",
+        "0af7d349-ea98-4212-a9d3-47f0102146e4",
+        "ade3b160-eb53-4dd6-81b8-858ebbc89895",
+        "34ce33a4-88b1-4eea-ab43-d3d6f91855e4",
+        "b4d8d65d-11ed-45df-8839-54038583301c",
+        "eb416436-03bd-4381-92cd-92b742dd4b0f",
+        "89c9a92a-4276-4207-aba5-41d927c09810",
+        "1da14f45-7f90-42da-bf83-2f660e194f1c",
+        "61558df7-b453-46c2-8b43-3ce177cc6c6f",
+        "93cbd69b-9bbf-4392-91c9-a17169d2a449",
+        "af689a85-e4f0-4ab7-9293-2cc5e579aa15",
+        "9b740d5d-6386-4d91-b340-63679e590d70"
+      ],
+      "mappedOptions": [
+        "df6b122e-a096-4b61-a2a5-0940f2711d78"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "626a5f27-605e-44da-825b-193ad7213abd",
+        "76e49579-6d4c-4789-8f9a-161315bb562e",
+        "6ed55780-5c3f-40e1-8cb7-55ddd5067773",
+        "8d694acb-d1f5-4667-9d09-d56585f52bd4",
+        "241f85c4-6fd0-4fe5-bced-b348a8f4a2a4",
+        "c354273a-3e7d-4f31-ac3b-c6aa45a25cb1",
+        "047f5ea5-2a7f-419d-ae94-73615b3b83cf",
+        "e0fcdf1d-e48e-4c31-9272-9d12f05285a4",
+        "a6611f82-724a-446c-9a17-bf02d33ae711",
+        "0e571ca4-3291-4ea2-b875-1f93eefe3ee2",
+        "2f1f7ae3-38d9-4e74-b552-29f83027d9c0",
+        "3df03ec4-5390-47d7-a398-fe98a21d09cc",
+        "467ff63e-e96b-41a5-8945-bc0cba8bb4f0",
+        "02330bd8-99e4-4cdd-bbc7-3acf7442763d",
+        "46e86a07-2254-4fac-acbd-a4622c9496c9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7444fe74-ba38-493f-b322-f59ecac72c48",
+      "dutyDetail": "Operate mobile cranes using controls to lift, lower, and manoeuvre loads. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "bbc772e2-ca6d-4344-a980-ff0e96860f56",
+        "75e2c833-4681-4ba2-910b-3f9ff8ada832",
+        "719a6fac-027f-42fa-a706-ae892127b83e",
+        "64141d48-9a1b-4131-b763-a91619f7e155",
+        "4a511e1e-d55a-429d-adf6-d4d52503fe9f",
+        "ef8897ae-0b59-4bf0-9550-e2ac2d8edb93",
+        "8c5061bf-3684-4a34-8547-7cac97a1dab4",
+        "f464ad83-fbd1-4414-b240-b2ead59916ca",
+        "0af7d349-ea98-4212-a9d3-47f0102146e4",
+        "ade3b160-eb53-4dd6-81b8-858ebbc89895",
+        "34ce33a4-88b1-4eea-ab43-d3d6f91855e4",
+        "b4d8d65d-11ed-45df-8839-54038583301c",
+        "eb416436-03bd-4381-92cd-92b742dd4b0f",
+        "89c9a92a-4276-4207-aba5-41d927c09810",
+        "1da14f45-7f90-42da-bf83-2f660e194f1c",
+        "61558df7-b453-46c2-8b43-3ce177cc6c6f",
+        "93cbd69b-9bbf-4392-91c9-a17169d2a449",
+        "af689a85-e4f0-4ab7-9293-2cc5e579aa15",
+        "9b740d5d-6386-4d91-b340-63679e590d70"
+      ],
+      "mappedOptions": [
+        "df6b122e-a096-4b61-a2a5-0940f2711d78"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "626a5f27-605e-44da-825b-193ad7213abd",
+        "76e49579-6d4c-4789-8f9a-161315bb562e",
+        "6ed55780-5c3f-40e1-8cb7-55ddd5067773",
+        "8d694acb-d1f5-4667-9d09-d56585f52bd4",
+        "241f85c4-6fd0-4fe5-bced-b348a8f4a2a4",
+        "c354273a-3e7d-4f31-ac3b-c6aa45a25cb1",
+        "047f5ea5-2a7f-419d-ae94-73615b3b83cf",
+        "e0fcdf1d-e48e-4c31-9272-9d12f05285a4",
+        "a6611f82-724a-446c-9a17-bf02d33ae711",
+        "0e571ca4-3291-4ea2-b875-1f93eefe3ee2",
+        "2f1f7ae3-38d9-4e74-b552-29f83027d9c0",
+        "3df03ec4-5390-47d7-a398-fe98a21d09cc",
+        "467ff63e-e96b-41a5-8945-bc0cba8bb4f0",
+        "02330bd8-99e4-4cdd-bbc7-3acf7442763d",
+        "46e86a07-2254-4fac-acbd-a4622c9496c9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0e0feb24-fe5a-492d-9857-57d69584f748",
+      "dutyDetail": "Perform routine maintenance on mobile cranes.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "bbc772e2-ca6d-4344-a980-ff0e96860f56",
+        "75e2c833-4681-4ba2-910b-3f9ff8ada832",
+        "719a6fac-027f-42fa-a706-ae892127b83e",
+        "64141d48-9a1b-4131-b763-a91619f7e155",
+        "4a511e1e-d55a-429d-adf6-d4d52503fe9f",
+        "ef8897ae-0b59-4bf0-9550-e2ac2d8edb93",
+        "8c5061bf-3684-4a34-8547-7cac97a1dab4",
+        "f464ad83-fbd1-4414-b240-b2ead59916ca",
+        "0af7d349-ea98-4212-a9d3-47f0102146e4",
+        "ade3b160-eb53-4dd6-81b8-858ebbc89895",
+        "34ce33a4-88b1-4eea-ab43-d3d6f91855e4",
+        "b4d8d65d-11ed-45df-8839-54038583301c",
+        "eb416436-03bd-4381-92cd-92b742dd4b0f",
+        "89c9a92a-4276-4207-aba5-41d927c09810",
+        "1da14f45-7f90-42da-bf83-2f660e194f1c",
+        "61558df7-b453-46c2-8b43-3ce177cc6c6f",
+        "93cbd69b-9bbf-4392-91c9-a17169d2a449",
+        "af689a85-e4f0-4ab7-9293-2cc5e579aa15",
+        "9b740d5d-6386-4d91-b340-63679e590d70"
+      ],
+      "mappedOptions": [
+        "df6b122e-a096-4b61-a2a5-0940f2711d78"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "626a5f27-605e-44da-825b-193ad7213abd",
+        "76e49579-6d4c-4789-8f9a-161315bb562e",
+        "6ed55780-5c3f-40e1-8cb7-55ddd5067773",
+        "8d694acb-d1f5-4667-9d09-d56585f52bd4",
+        "241f85c4-6fd0-4fe5-bced-b348a8f4a2a4",
+        "c354273a-3e7d-4f31-ac3b-c6aa45a25cb1",
+        "047f5ea5-2a7f-419d-ae94-73615b3b83cf",
+        "e0fcdf1d-e48e-4c31-9272-9d12f05285a4",
+        "a6611f82-724a-446c-9a17-bf02d33ae711",
+        "0e571ca4-3291-4ea2-b875-1f93eefe3ee2",
+        "2f1f7ae3-38d9-4e74-b552-29f83027d9c0",
+        "3df03ec4-5390-47d7-a398-fe98a21d09cc",
+        "467ff63e-e96b-41a5-8945-bc0cba8bb4f0",
+        "02330bd8-99e4-4cdd-bbc7-3acf7442763d",
+        "46e86a07-2254-4fac-acbd-a4622c9496c9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eb13b5c0-0c02-46b5-8ad8-a017a0f21c24",
+      "dutyDetail": "Position, prepare and configure crawler crane lifting equipment in readiness to conduct lifting activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "e9f14dee-4dbf-43fb-86f3-bba5726a698e",
+        "3411bcca-cb01-4fc7-b2eb-ef4360f98c56",
+        "afb948c6-37e0-4d0f-ba26-b60ba9ab3d89",
+        "a562e6f6-8385-43d1-bd71-b1488731bf76",
+        "a82a0967-7593-4f29-b44b-18b422d9b09e",
+        "5efec8b6-6a46-468f-aeb7-0b509148c467",
+        "67219133-44b8-49be-8b8c-0ed3f0614280",
+        "c3ab7ab6-21e6-4682-a2db-ea102a835f42",
+        "4e019672-8bb5-46ab-9870-e2f95f520896",
+        "ca9be0c0-3a5a-437c-9f92-85579857747f",
+        "241a4d44-485d-4875-964e-83ae59e624fc",
+        "f80c5077-07b8-494e-8d75-34fff3c5aea1",
+        "96b89918-381c-4be4-8563-a3a2ae5dd5fd",
+        "fc4a7e5e-56e4-447f-9cbd-ff80712f7864",
+        "50a6acbb-6ea2-4906-83c7-ee66128f73cc",
+        "b8e3a906-7436-4ca3-bc1e-c995d1aadf34",
+        "ffa771b1-cadf-47c3-9083-2adf1eeb7205"
+      ],
+      "mappedOptions": [
+        "a38767b9-6236-420b-8223-d7c13e2daa5d"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "711d27a0-cf4b-4dec-ae77-a9559acf2eae",
+        "546292e5-1f42-4f87-944d-9562bc0c8bf7",
+        "06c08982-2e7d-45cb-a9c7-7bb2de7a24c9",
+        "53858fc1-87da-4ac9-84a6-a47017b089d6",
+        "46bb12f9-ad8b-4307-a0c8-bd978edba8af",
+        "69e64826-f2bd-4eaa-a4bd-0ea765d8fc6a",
+        "7f49e7c6-88d4-4926-aead-a26362392f65",
+        "d1a705f8-89a6-44da-935b-8f297f83bcca",
+        "2f7e9880-45a9-4765-842f-fc1c44193275",
+        "b1a3bb34-d391-4067-ba2b-c13d284d28fb",
+        "26b9191d-4afc-479b-8600-80995acc1717",
+        "e7f0f52b-3994-4ec0-a522-f9edd30ff64c",
+        "ec715bc8-982f-4e0e-97bb-90217c8044bc",
+        "7bb0a3c2-c6b2-47b7-8c3e-b9546be316c7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "670dface-b6b3-472c-a581-28b0b58e8246",
+      "dutyDetail": "Conduct pre-operational checks on crawler cranes and lifting equipment to ensure they are in good working condition and meet safety standards.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "e9f14dee-4dbf-43fb-86f3-bba5726a698e",
+        "3411bcca-cb01-4fc7-b2eb-ef4360f98c56",
+        "afb948c6-37e0-4d0f-ba26-b60ba9ab3d89",
+        "a562e6f6-8385-43d1-bd71-b1488731bf76",
+        "a82a0967-7593-4f29-b44b-18b422d9b09e",
+        "5efec8b6-6a46-468f-aeb7-0b509148c467",
+        "67219133-44b8-49be-8b8c-0ed3f0614280",
+        "c3ab7ab6-21e6-4682-a2db-ea102a835f42",
+        "4e019672-8bb5-46ab-9870-e2f95f520896",
+        "ca9be0c0-3a5a-437c-9f92-85579857747f",
+        "241a4d44-485d-4875-964e-83ae59e624fc",
+        "f80c5077-07b8-494e-8d75-34fff3c5aea1",
+        "96b89918-381c-4be4-8563-a3a2ae5dd5fd",
+        "fc4a7e5e-56e4-447f-9cbd-ff80712f7864",
+        "50a6acbb-6ea2-4906-83c7-ee66128f73cc",
+        "b8e3a906-7436-4ca3-bc1e-c995d1aadf34",
+        "ffa771b1-cadf-47c3-9083-2adf1eeb7205"
+      ],
+      "mappedOptions": [
+        "a38767b9-6236-420b-8223-d7c13e2daa5d"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "711d27a0-cf4b-4dec-ae77-a9559acf2eae",
+        "546292e5-1f42-4f87-944d-9562bc0c8bf7",
+        "06c08982-2e7d-45cb-a9c7-7bb2de7a24c9",
+        "53858fc1-87da-4ac9-84a6-a47017b089d6",
+        "46bb12f9-ad8b-4307-a0c8-bd978edba8af",
+        "69e64826-f2bd-4eaa-a4bd-0ea765d8fc6a",
+        "7f49e7c6-88d4-4926-aead-a26362392f65",
+        "d1a705f8-89a6-44da-935b-8f297f83bcca",
+        "2f7e9880-45a9-4765-842f-fc1c44193275",
+        "b1a3bb34-d391-4067-ba2b-c13d284d28fb",
+        "26b9191d-4afc-479b-8600-80995acc1717",
+        "e7f0f52b-3994-4ec0-a522-f9edd30ff64c",
+        "ec715bc8-982f-4e0e-97bb-90217c8044bc",
+        "7bb0a3c2-c6b2-47b7-8c3e-b9546be316c7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7654e117-df4b-45ab-bd1e-bdd5aeb7e281",
+      "dutyDetail": "Determine the appropriate lifting technique for crawler cranes following lift plans to meet specific work requirements.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "e9f14dee-4dbf-43fb-86f3-bba5726a698e",
+        "3411bcca-cb01-4fc7-b2eb-ef4360f98c56",
+        "afb948c6-37e0-4d0f-ba26-b60ba9ab3d89",
+        "a562e6f6-8385-43d1-bd71-b1488731bf76",
+        "a82a0967-7593-4f29-b44b-18b422d9b09e",
+        "5efec8b6-6a46-468f-aeb7-0b509148c467",
+        "67219133-44b8-49be-8b8c-0ed3f0614280",
+        "c3ab7ab6-21e6-4682-a2db-ea102a835f42",
+        "4e019672-8bb5-46ab-9870-e2f95f520896",
+        "ca9be0c0-3a5a-437c-9f92-85579857747f",
+        "241a4d44-485d-4875-964e-83ae59e624fc",
+        "f80c5077-07b8-494e-8d75-34fff3c5aea1",
+        "96b89918-381c-4be4-8563-a3a2ae5dd5fd",
+        "fc4a7e5e-56e4-447f-9cbd-ff80712f7864",
+        "50a6acbb-6ea2-4906-83c7-ee66128f73cc",
+        "b8e3a906-7436-4ca3-bc1e-c995d1aadf34",
+        "ffa771b1-cadf-47c3-9083-2adf1eeb7205"
+      ],
+      "mappedOptions": [
+        "a38767b9-6236-420b-8223-d7c13e2daa5d"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "711d27a0-cf4b-4dec-ae77-a9559acf2eae",
+        "546292e5-1f42-4f87-944d-9562bc0c8bf7",
+        "06c08982-2e7d-45cb-a9c7-7bb2de7a24c9",
+        "53858fc1-87da-4ac9-84a6-a47017b089d6",
+        "46bb12f9-ad8b-4307-a0c8-bd978edba8af",
+        "69e64826-f2bd-4eaa-a4bd-0ea765d8fc6a",
+        "7f49e7c6-88d4-4926-aead-a26362392f65",
+        "d1a705f8-89a6-44da-935b-8f297f83bcca",
+        "2f7e9880-45a9-4765-842f-fc1c44193275",
+        "b1a3bb34-d391-4067-ba2b-c13d284d28fb",
+        "26b9191d-4afc-479b-8600-80995acc1717",
+        "e7f0f52b-3994-4ec0-a522-f9edd30ff64c",
+        "ec715bc8-982f-4e0e-97bb-90217c8044bc",
+        "7bb0a3c2-c6b2-47b7-8c3e-b9546be316c7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f3018df9-2034-4061-a378-73a68aa79fad",
+      "dutyDetail": "Operate crawler cranes, using controls to lift, lower, and manoeuvre loads.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "e9f14dee-4dbf-43fb-86f3-bba5726a698e",
+        "3411bcca-cb01-4fc7-b2eb-ef4360f98c56",
+        "afb948c6-37e0-4d0f-ba26-b60ba9ab3d89",
+        "a562e6f6-8385-43d1-bd71-b1488731bf76",
+        "a82a0967-7593-4f29-b44b-18b422d9b09e",
+        "5efec8b6-6a46-468f-aeb7-0b509148c467",
+        "67219133-44b8-49be-8b8c-0ed3f0614280",
+        "c3ab7ab6-21e6-4682-a2db-ea102a835f42",
+        "4e019672-8bb5-46ab-9870-e2f95f520896",
+        "ca9be0c0-3a5a-437c-9f92-85579857747f",
+        "241a4d44-485d-4875-964e-83ae59e624fc",
+        "f80c5077-07b8-494e-8d75-34fff3c5aea1",
+        "96b89918-381c-4be4-8563-a3a2ae5dd5fd",
+        "fc4a7e5e-56e4-447f-9cbd-ff80712f7864",
+        "50a6acbb-6ea2-4906-83c7-ee66128f73cc",
+        "b8e3a906-7436-4ca3-bc1e-c995d1aadf34",
+        "ffa771b1-cadf-47c3-9083-2adf1eeb7205"
+      ],
+      "mappedOptions": [
+        "a38767b9-6236-420b-8223-d7c13e2daa5d"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "711d27a0-cf4b-4dec-ae77-a9559acf2eae",
+        "546292e5-1f42-4f87-944d-9562bc0c8bf7",
+        "06c08982-2e7d-45cb-a9c7-7bb2de7a24c9",
+        "53858fc1-87da-4ac9-84a6-a47017b089d6",
+        "46bb12f9-ad8b-4307-a0c8-bd978edba8af",
+        "69e64826-f2bd-4eaa-a4bd-0ea765d8fc6a",
+        "7f49e7c6-88d4-4926-aead-a26362392f65",
+        "d1a705f8-89a6-44da-935b-8f297f83bcca",
+        "2f7e9880-45a9-4765-842f-fc1c44193275",
+        "b1a3bb34-d391-4067-ba2b-c13d284d28fb",
+        "26b9191d-4afc-479b-8600-80995acc1717",
+        "e7f0f52b-3994-4ec0-a522-f9edd30ff64c",
+        "ec715bc8-982f-4e0e-97bb-90217c8044bc",
+        "7bb0a3c2-c6b2-47b7-8c3e-b9546be316c7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5fe4bfb2-1b85-4943-a346-67ac14ce1c00",
+      "dutyDetail": "Perform routine maintenance on crawler cranes.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "e9f14dee-4dbf-43fb-86f3-bba5726a698e",
+        "3411bcca-cb01-4fc7-b2eb-ef4360f98c56",
+        "afb948c6-37e0-4d0f-ba26-b60ba9ab3d89",
+        "a562e6f6-8385-43d1-bd71-b1488731bf76",
+        "a82a0967-7593-4f29-b44b-18b422d9b09e",
+        "5efec8b6-6a46-468f-aeb7-0b509148c467",
+        "67219133-44b8-49be-8b8c-0ed3f0614280",
+        "c3ab7ab6-21e6-4682-a2db-ea102a835f42",
+        "4e019672-8bb5-46ab-9870-e2f95f520896",
+        "ca9be0c0-3a5a-437c-9f92-85579857747f",
+        "241a4d44-485d-4875-964e-83ae59e624fc",
+        "f80c5077-07b8-494e-8d75-34fff3c5aea1",
+        "96b89918-381c-4be4-8563-a3a2ae5dd5fd",
+        "fc4a7e5e-56e4-447f-9cbd-ff80712f7864",
+        "50a6acbb-6ea2-4906-83c7-ee66128f73cc",
+        "b8e3a906-7436-4ca3-bc1e-c995d1aadf34",
+        "ffa771b1-cadf-47c3-9083-2adf1eeb7205"
+      ],
+      "mappedOptions": [
+        "a38767b9-6236-420b-8223-d7c13e2daa5d"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "711d27a0-cf4b-4dec-ae77-a9559acf2eae",
+        "546292e5-1f42-4f87-944d-9562bc0c8bf7",
+        "06c08982-2e7d-45cb-a9c7-7bb2de7a24c9",
+        "53858fc1-87da-4ac9-84a6-a47017b089d6",
+        "46bb12f9-ad8b-4307-a0c8-bd978edba8af",
+        "69e64826-f2bd-4eaa-a4bd-0ea765d8fc6a",
+        "7f49e7c6-88d4-4926-aead-a26362392f65",
+        "d1a705f8-89a6-44da-935b-8f297f83bcca",
+        "2f7e9880-45a9-4765-842f-fc1c44193275",
+        "b1a3bb34-d391-4067-ba2b-c13d284d28fb",
+        "26b9191d-4afc-479b-8600-80995acc1717",
+        "e7f0f52b-3994-4ec0-a522-f9edd30ff64c",
+        "ec715bc8-982f-4e0e-97bb-90217c8044bc",
+        "7bb0a3c2-c6b2-47b7-8c3e-b9546be316c7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "55bb46ee-ec26-40b2-a4c9-bc885017c1e7",
+      "dutyDetail": "Prepare and configure tower crane lifting equipment in readiness to conduct lifting activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "ee18120d-b845-4632-a90b-fd7104b61dec",
+        "45289a79-a647-4b3f-8679-44a470d66e56",
+        "9963cf51-fffc-4701-8843-3010966f403e",
+        "ece40f98-bebb-4c34-8a09-cff7181e53e3",
+        "b2aa39e5-bdfe-4481-9fe1-965519133a75",
+        "731f564c-00dc-42ae-ac26-a18a24a0be4e",
+        "06a7fe5b-7d24-4724-a6d2-3e930dab38a6",
+        "833e7f5d-c2f1-4175-b4c7-a8f625a00017",
+        "473e3b07-6bc4-4e39-bf30-8056df59804f",
+        "4e27abef-17b6-4990-8bce-573cb42e70d9",
+        "150deebb-640f-4425-b6c4-afe1339bd6b5",
+        "20f63e09-44eb-481c-b4bb-d9aff8a805cb",
+        "42423fb8-f8c9-4113-9739-5bedf849a92f",
+        "e57a1d8f-7e17-4f31-88c8-0896c3f65b29",
+        "151bab28-48a3-4e75-86e6-6d4103dbc4db"
+      ],
+      "mappedOptions": [
+        "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "cf55cc52-cc45-4c4a-988b-94f3a25963e9",
+        "352afa7e-bace-4e29-97ca-ee94c1623f9d",
+        "074e7445-9eec-4107-95a3-dc0c161f4090",
+        "b7091d61-7971-45e6-a37c-9840e99e08ed",
+        "19a7fe7f-f216-4435-8756-07e5be40da18",
+        "5bf7812f-b2ab-4b00-9e01-d8fc1c15084c",
+        "aef9a515-dc5f-4b80-b245-6ca8394a65f3",
+        "594fe296-049e-49e9-901c-69d188c7fa22",
+        "c48f2fe4-ebc9-4402-818a-bd82e4951b2f",
+        "e8df5d3e-bd87-492d-8615-a8fd5e9b2a16",
+        "8d4e8dca-a2bd-45e6-bf59-343e7ac61bc0",
+        "d4ea05f5-cb2a-43da-bc0b-9c11317fae59"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "64269474-395b-4977-8a21-f8a85193fe6f",
+      "dutyDetail": "Conduct pre-operational checks on tower cranes and lifting equipment to ensure they are in good working condition and meet safety standards.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "ee18120d-b845-4632-a90b-fd7104b61dec",
+        "45289a79-a647-4b3f-8679-44a470d66e56",
+        "9963cf51-fffc-4701-8843-3010966f403e",
+        "ece40f98-bebb-4c34-8a09-cff7181e53e3",
+        "b2aa39e5-bdfe-4481-9fe1-965519133a75",
+        "731f564c-00dc-42ae-ac26-a18a24a0be4e",
+        "06a7fe5b-7d24-4724-a6d2-3e930dab38a6",
+        "833e7f5d-c2f1-4175-b4c7-a8f625a00017",
+        "473e3b07-6bc4-4e39-bf30-8056df59804f",
+        "4e27abef-17b6-4990-8bce-573cb42e70d9",
+        "150deebb-640f-4425-b6c4-afe1339bd6b5",
+        "20f63e09-44eb-481c-b4bb-d9aff8a805cb",
+        "42423fb8-f8c9-4113-9739-5bedf849a92f",
+        "e57a1d8f-7e17-4f31-88c8-0896c3f65b29",
+        "151bab28-48a3-4e75-86e6-6d4103dbc4db"
+      ],
+      "mappedOptions": [
+        "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "cf55cc52-cc45-4c4a-988b-94f3a25963e9",
+        "352afa7e-bace-4e29-97ca-ee94c1623f9d",
+        "074e7445-9eec-4107-95a3-dc0c161f4090",
+        "b7091d61-7971-45e6-a37c-9840e99e08ed",
+        "19a7fe7f-f216-4435-8756-07e5be40da18",
+        "5bf7812f-b2ab-4b00-9e01-d8fc1c15084c",
+        "aef9a515-dc5f-4b80-b245-6ca8394a65f3",
+        "594fe296-049e-49e9-901c-69d188c7fa22",
+        "c48f2fe4-ebc9-4402-818a-bd82e4951b2f",
+        "e8df5d3e-bd87-492d-8615-a8fd5e9b2a16",
+        "8d4e8dca-a2bd-45e6-bf59-343e7ac61bc0",
+        "d4ea05f5-cb2a-43da-bc0b-9c11317fae59"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8d520cf1-1d10-43eb-a592-d9cf981b7e46",
+      "dutyDetail": "Determine the appropriate lifting technique for tower cranes following lift plans to meet specific work requirements.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "ee18120d-b845-4632-a90b-fd7104b61dec",
+        "45289a79-a647-4b3f-8679-44a470d66e56",
+        "9963cf51-fffc-4701-8843-3010966f403e",
+        "ece40f98-bebb-4c34-8a09-cff7181e53e3",
+        "b2aa39e5-bdfe-4481-9fe1-965519133a75",
+        "731f564c-00dc-42ae-ac26-a18a24a0be4e",
+        "06a7fe5b-7d24-4724-a6d2-3e930dab38a6",
+        "833e7f5d-c2f1-4175-b4c7-a8f625a00017",
+        "473e3b07-6bc4-4e39-bf30-8056df59804f",
+        "4e27abef-17b6-4990-8bce-573cb42e70d9",
+        "150deebb-640f-4425-b6c4-afe1339bd6b5",
+        "20f63e09-44eb-481c-b4bb-d9aff8a805cb",
+        "42423fb8-f8c9-4113-9739-5bedf849a92f",
+        "e57a1d8f-7e17-4f31-88c8-0896c3f65b29",
+        "151bab28-48a3-4e75-86e6-6d4103dbc4db"
+      ],
+      "mappedOptions": [
+        "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "cf55cc52-cc45-4c4a-988b-94f3a25963e9",
+        "352afa7e-bace-4e29-97ca-ee94c1623f9d",
+        "074e7445-9eec-4107-95a3-dc0c161f4090",
+        "b7091d61-7971-45e6-a37c-9840e99e08ed",
+        "19a7fe7f-f216-4435-8756-07e5be40da18",
+        "5bf7812f-b2ab-4b00-9e01-d8fc1c15084c",
+        "aef9a515-dc5f-4b80-b245-6ca8394a65f3",
+        "594fe296-049e-49e9-901c-69d188c7fa22",
+        "c48f2fe4-ebc9-4402-818a-bd82e4951b2f",
+        "e8df5d3e-bd87-492d-8615-a8fd5e9b2a16",
+        "8d4e8dca-a2bd-45e6-bf59-343e7ac61bc0",
+        "d4ea05f5-cb2a-43da-bc0b-9c11317fae59"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c5971b74-2082-4837-9a59-28a274d0e096",
+      "dutyDetail": "Operate tower cranes, using controls to lift, lower, and manoeuvre loads.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "ee18120d-b845-4632-a90b-fd7104b61dec",
+        "45289a79-a647-4b3f-8679-44a470d66e56",
+        "9963cf51-fffc-4701-8843-3010966f403e",
+        "ece40f98-bebb-4c34-8a09-cff7181e53e3",
+        "b2aa39e5-bdfe-4481-9fe1-965519133a75",
+        "731f564c-00dc-42ae-ac26-a18a24a0be4e",
+        "06a7fe5b-7d24-4724-a6d2-3e930dab38a6",
+        "833e7f5d-c2f1-4175-b4c7-a8f625a00017",
+        "473e3b07-6bc4-4e39-bf30-8056df59804f",
+        "4e27abef-17b6-4990-8bce-573cb42e70d9",
+        "150deebb-640f-4425-b6c4-afe1339bd6b5",
+        "20f63e09-44eb-481c-b4bb-d9aff8a805cb",
+        "42423fb8-f8c9-4113-9739-5bedf849a92f",
+        "e57a1d8f-7e17-4f31-88c8-0896c3f65b29",
+        "151bab28-48a3-4e75-86e6-6d4103dbc4db"
+      ],
+      "mappedOptions": [
+        "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "cf55cc52-cc45-4c4a-988b-94f3a25963e9",
+        "352afa7e-bace-4e29-97ca-ee94c1623f9d",
+        "074e7445-9eec-4107-95a3-dc0c161f4090",
+        "b7091d61-7971-45e6-a37c-9840e99e08ed",
+        "19a7fe7f-f216-4435-8756-07e5be40da18",
+        "5bf7812f-b2ab-4b00-9e01-d8fc1c15084c",
+        "aef9a515-dc5f-4b80-b245-6ca8394a65f3",
+        "594fe296-049e-49e9-901c-69d188c7fa22",
+        "c48f2fe4-ebc9-4402-818a-bd82e4951b2f",
+        "e8df5d3e-bd87-492d-8615-a8fd5e9b2a16",
+        "8d4e8dca-a2bd-45e6-bf59-343e7ac61bc0",
+        "d4ea05f5-cb2a-43da-bc0b-9c11317fae59"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "19ecd30e-72c5-40e5-a029-f319fc068fca",
+      "dutyDetail": "Perform routine maintenance on tower cranes.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "ee18120d-b845-4632-a90b-fd7104b61dec",
+        "45289a79-a647-4b3f-8679-44a470d66e56",
+        "9963cf51-fffc-4701-8843-3010966f403e",
+        "ece40f98-bebb-4c34-8a09-cff7181e53e3",
+        "b2aa39e5-bdfe-4481-9fe1-965519133a75",
+        "731f564c-00dc-42ae-ac26-a18a24a0be4e",
+        "06a7fe5b-7d24-4724-a6d2-3e930dab38a6",
+        "833e7f5d-c2f1-4175-b4c7-a8f625a00017",
+        "473e3b07-6bc4-4e39-bf30-8056df59804f",
+        "4e27abef-17b6-4990-8bce-573cb42e70d9",
+        "150deebb-640f-4425-b6c4-afe1339bd6b5",
+        "20f63e09-44eb-481c-b4bb-d9aff8a805cb",
+        "42423fb8-f8c9-4113-9739-5bedf849a92f",
+        "e57a1d8f-7e17-4f31-88c8-0896c3f65b29",
+        "151bab28-48a3-4e75-86e6-6d4103dbc4db"
+      ],
+      "mappedOptions": [
+        "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "cf55cc52-cc45-4c4a-988b-94f3a25963e9",
+        "352afa7e-bace-4e29-97ca-ee94c1623f9d",
+        "074e7445-9eec-4107-95a3-dc0c161f4090",
+        "b7091d61-7971-45e6-a37c-9840e99e08ed",
+        "19a7fe7f-f216-4435-8756-07e5be40da18",
+        "5bf7812f-b2ab-4b00-9e01-d8fc1c15084c",
+        "aef9a515-dc5f-4b80-b245-6ca8394a65f3",
+        "594fe296-049e-49e9-901c-69d188c7fa22",
+        "c48f2fe4-ebc9-4402-818a-bd82e4951b2f",
+        "e8df5d3e-bd87-492d-8615-a8fd5e9b2a16",
+        "8d4e8dca-a2bd-45e6-bf59-343e7ac61bc0",
+        "d4ea05f5-cb2a-43da-bc0b-9c11317fae59"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8645bf17-0bf0-4e71-9b44-f17c1512ee32",
+      "dutyDetail": "Prepare and configure overhead crane lifting equipment in readiness to conduct lifting activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "484278ca-a300-416a-8f71-9eddad99a3af",
+        "aad05af7-d196-4551-af0a-6c11c1daff22",
+        "17cc349e-91e4-42d6-92fb-4bad59d05f27",
+        "9bf48e84-9df5-443e-8025-e9be99ba0bcc",
+        "78e0e207-aab2-4e16-9e37-1d0402bdda2d",
+        "0012949c-de4b-4a1c-8972-b41060329869",
+        "39c6cc17-0acd-4f8a-acba-928d7278affd",
+        "7f49ab8d-7608-45a2-a22b-db4bc74bdebf",
+        "24834e5d-7760-4872-8a30-36a06670ca22",
+        "254a1b05-5f00-421c-82ed-0e3bcccf7835",
+        "9e217fa7-6602-4e6d-acc9-0fa19d886ff9",
+        "61e195ab-1205-4b8b-b3d3-0fdd91cdba00",
+        "514e741a-b972-4933-9733-8442acf608d9",
+        "a328b293-3a6c-4746-b740-978b4541122b",
+        "545b504a-5875-4491-acc0-0bad9071dfde",
+        "30d248e9-7edb-4e42-9080-61faf7a33065"
+      ],
+      "mappedOptions": [
+        "96127b99-50d7-4700-948c-6c01b80f9504"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "b1a802ef-8166-444a-8e5c-d840045950ae",
+        "0e7b2fcf-448a-4d5f-8a3c-dbb5777f9b3d",
+        "7024c63e-78a8-4e84-a0fd-6ea3bd867129",
+        "6a205bba-49be-407f-8412-89c883cd44b3",
+        "5ff6d65e-b5c2-4e24-920a-f27516f448d9",
+        "2ad14a03-6ed6-449a-a2f6-165acfc148ab",
+        "44817ffb-e828-47fc-82a1-f56a9ebfa083",
+        "bcef7044-a93b-4f39-9117-390c7926181f",
+        "f67e9747-92cd-422f-bd23-cab7b46631a8",
+        "c8d00243-a951-431f-82c5-790445e5439b",
+        "17787e64-5390-4f92-b6a2-1da614c6a1cd",
+        "e7b64e3e-1f21-442e-957f-6b0fae12f5a9",
+        "07537900-963d-465c-9f35-0d361fdc0de2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84567c1e-cc72-45a9-8e11-f79471a966a4",
+      "dutyDetail": "Conduct pre-operational checks on overhead cranes and lifting equipment to ensure they are in good working condition and meet safety standards.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "484278ca-a300-416a-8f71-9eddad99a3af",
+        "aad05af7-d196-4551-af0a-6c11c1daff22",
+        "17cc349e-91e4-42d6-92fb-4bad59d05f27",
+        "9bf48e84-9df5-443e-8025-e9be99ba0bcc",
+        "78e0e207-aab2-4e16-9e37-1d0402bdda2d",
+        "0012949c-de4b-4a1c-8972-b41060329869",
+        "39c6cc17-0acd-4f8a-acba-928d7278affd",
+        "7f49ab8d-7608-45a2-a22b-db4bc74bdebf",
+        "24834e5d-7760-4872-8a30-36a06670ca22",
+        "254a1b05-5f00-421c-82ed-0e3bcccf7835",
+        "9e217fa7-6602-4e6d-acc9-0fa19d886ff9",
+        "61e195ab-1205-4b8b-b3d3-0fdd91cdba00",
+        "514e741a-b972-4933-9733-8442acf608d9",
+        "a328b293-3a6c-4746-b740-978b4541122b",
+        "545b504a-5875-4491-acc0-0bad9071dfde",
+        "30d248e9-7edb-4e42-9080-61faf7a33065"
+      ],
+      "mappedOptions": [
+        "96127b99-50d7-4700-948c-6c01b80f9504"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "b1a802ef-8166-444a-8e5c-d840045950ae",
+        "0e7b2fcf-448a-4d5f-8a3c-dbb5777f9b3d",
+        "7024c63e-78a8-4e84-a0fd-6ea3bd867129",
+        "6a205bba-49be-407f-8412-89c883cd44b3",
+        "5ff6d65e-b5c2-4e24-920a-f27516f448d9",
+        "2ad14a03-6ed6-449a-a2f6-165acfc148ab",
+        "44817ffb-e828-47fc-82a1-f56a9ebfa083",
+        "bcef7044-a93b-4f39-9117-390c7926181f",
+        "f67e9747-92cd-422f-bd23-cab7b46631a8",
+        "c8d00243-a951-431f-82c5-790445e5439b",
+        "17787e64-5390-4f92-b6a2-1da614c6a1cd",
+        "e7b64e3e-1f21-442e-957f-6b0fae12f5a9",
+        "07537900-963d-465c-9f35-0d361fdc0de2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a3c65775-61fc-41b9-9585-47bae9b2904a",
+      "dutyDetail": "Determine the appropriate lifting technique for overhead cranes following lift plans to meet specific work requirements.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "484278ca-a300-416a-8f71-9eddad99a3af",
+        "aad05af7-d196-4551-af0a-6c11c1daff22",
+        "17cc349e-91e4-42d6-92fb-4bad59d05f27",
+        "9bf48e84-9df5-443e-8025-e9be99ba0bcc",
+        "78e0e207-aab2-4e16-9e37-1d0402bdda2d",
+        "0012949c-de4b-4a1c-8972-b41060329869",
+        "39c6cc17-0acd-4f8a-acba-928d7278affd",
+        "7f49ab8d-7608-45a2-a22b-db4bc74bdebf",
+        "24834e5d-7760-4872-8a30-36a06670ca22",
+        "254a1b05-5f00-421c-82ed-0e3bcccf7835",
+        "9e217fa7-6602-4e6d-acc9-0fa19d886ff9",
+        "61e195ab-1205-4b8b-b3d3-0fdd91cdba00",
+        "514e741a-b972-4933-9733-8442acf608d9",
+        "a328b293-3a6c-4746-b740-978b4541122b",
+        "545b504a-5875-4491-acc0-0bad9071dfde",
+        "30d248e9-7edb-4e42-9080-61faf7a33065"
+      ],
+      "mappedOptions": [
+        "96127b99-50d7-4700-948c-6c01b80f9504"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "b1a802ef-8166-444a-8e5c-d840045950ae",
+        "0e7b2fcf-448a-4d5f-8a3c-dbb5777f9b3d",
+        "7024c63e-78a8-4e84-a0fd-6ea3bd867129",
+        "6a205bba-49be-407f-8412-89c883cd44b3",
+        "5ff6d65e-b5c2-4e24-920a-f27516f448d9",
+        "2ad14a03-6ed6-449a-a2f6-165acfc148ab",
+        "44817ffb-e828-47fc-82a1-f56a9ebfa083",
+        "bcef7044-a93b-4f39-9117-390c7926181f",
+        "f67e9747-92cd-422f-bd23-cab7b46631a8",
+        "c8d00243-a951-431f-82c5-790445e5439b",
+        "17787e64-5390-4f92-b6a2-1da614c6a1cd",
+        "e7b64e3e-1f21-442e-957f-6b0fae12f5a9",
+        "07537900-963d-465c-9f35-0d361fdc0de2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d2159d44-4ee4-4e6a-8853-84290edb253f",
+      "dutyDetail": "Operate overhead cranes, using controls to lift, lower, and manoeuvre loads.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "484278ca-a300-416a-8f71-9eddad99a3af",
+        "aad05af7-d196-4551-af0a-6c11c1daff22",
+        "17cc349e-91e4-42d6-92fb-4bad59d05f27",
+        "9bf48e84-9df5-443e-8025-e9be99ba0bcc",
+        "78e0e207-aab2-4e16-9e37-1d0402bdda2d",
+        "0012949c-de4b-4a1c-8972-b41060329869",
+        "39c6cc17-0acd-4f8a-acba-928d7278affd",
+        "7f49ab8d-7608-45a2-a22b-db4bc74bdebf",
+        "24834e5d-7760-4872-8a30-36a06670ca22",
+        "254a1b05-5f00-421c-82ed-0e3bcccf7835",
+        "9e217fa7-6602-4e6d-acc9-0fa19d886ff9",
+        "61e195ab-1205-4b8b-b3d3-0fdd91cdba00",
+        "514e741a-b972-4933-9733-8442acf608d9",
+        "a328b293-3a6c-4746-b740-978b4541122b",
+        "545b504a-5875-4491-acc0-0bad9071dfde",
+        "30d248e9-7edb-4e42-9080-61faf7a33065"
+      ],
+      "mappedOptions": [
+        "96127b99-50d7-4700-948c-6c01b80f9504"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "b1a802ef-8166-444a-8e5c-d840045950ae",
+        "0e7b2fcf-448a-4d5f-8a3c-dbb5777f9b3d",
+        "7024c63e-78a8-4e84-a0fd-6ea3bd867129",
+        "6a205bba-49be-407f-8412-89c883cd44b3",
+        "5ff6d65e-b5c2-4e24-920a-f27516f448d9",
+        "2ad14a03-6ed6-449a-a2f6-165acfc148ab",
+        "44817ffb-e828-47fc-82a1-f56a9ebfa083",
+        "bcef7044-a93b-4f39-9117-390c7926181f",
+        "f67e9747-92cd-422f-bd23-cab7b46631a8",
+        "c8d00243-a951-431f-82c5-790445e5439b",
+        "17787e64-5390-4f92-b6a2-1da614c6a1cd",
+        "e7b64e3e-1f21-442e-957f-6b0fae12f5a9",
+        "07537900-963d-465c-9f35-0d361fdc0de2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3f8862dc-59fd-4bf6-9a7c-638caeca1248",
+      "dutyDetail": "Perform routine maintenance on overhead cranes.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "597ab09b-8873-4f53-b81f-4907a62e1ebf",
+        "70813f6b-4f1e-4d11-bec6-437b2c0e51ee",
+        "2f5fab6b-e6b3-4889-a53c-8657c6e6ba07",
+        "3468e48e-81c4-4f71-824f-aa34c2151112",
+        "108be0c4-f174-40dd-9b6c-58aa19c4d9d0",
+        "539102a6-2cae-4a12-b2e2-73e0e9a39d6b",
+        "57b71f59-cf27-4d50-a452-05b3ee60aeb6"
+      ],
+      "mappedKnowledge": [
+        "b856ad2e-bda2-40fb-a5e0-5e840557af78",
+        "0e3f100b-6eaf-4f02-a4e9-1318fcf77142",
+        "b6463573-6f08-41ed-a1f8-d51e5739a0c8",
+        "e0d7bc8e-1818-46e8-b8bc-eddf6898fa7d",
+        "a3916ed1-6120-4d4a-8ca6-8ff568008ae6",
+        "f2daa5ce-8caa-4ebf-b172-a949d6cf03a9",
+        "d518dddf-1a4b-4c95-9238-fde7827de0ac",
+        "1f20a9cc-b04a-4804-b5af-dd7a0bb973c5",
+        "fd3ab7b4-3a51-4b90-94fa-71074e935b9e",
+        "2f780788-c839-479a-be69-160f7541a942",
+        "8409babd-825f-4eca-bf70-283769569343",
+        "47586ffc-6576-41c9-969e-30c2d4391eee",
+        "48304a6d-aa76-47b7-9dc1-51f0c2eb12d7",
+        "3d3bb542-0f2b-4d46-914a-3f919cb952f0",
+        "87c562c2-d260-48ea-9408-9657d798e2a0",
+        "e165b1d3-ba36-4666-894e-b0ca2fbc90f8",
+        "d4887363-5faa-4f90-a796-9da63a47530c",
+        "a15977c9-3cdb-4025-8ce6-56e3569822c6",
+        "712d2bcd-6135-48da-90e0-5ea612c12314",
+        "4ef96d19-a4f3-4150-a81e-21ee436620ad",
+        "484278ca-a300-416a-8f71-9eddad99a3af",
+        "aad05af7-d196-4551-af0a-6c11c1daff22",
+        "17cc349e-91e4-42d6-92fb-4bad59d05f27",
+        "9bf48e84-9df5-443e-8025-e9be99ba0bcc",
+        "78e0e207-aab2-4e16-9e37-1d0402bdda2d",
+        "0012949c-de4b-4a1c-8972-b41060329869",
+        "39c6cc17-0acd-4f8a-acba-928d7278affd",
+        "7f49ab8d-7608-45a2-a22b-db4bc74bdebf",
+        "24834e5d-7760-4872-8a30-36a06670ca22",
+        "254a1b05-5f00-421c-82ed-0e3bcccf7835",
+        "9e217fa7-6602-4e6d-acc9-0fa19d886ff9",
+        "61e195ab-1205-4b8b-b3d3-0fdd91cdba00",
+        "514e741a-b972-4933-9733-8442acf608d9",
+        "a328b293-3a6c-4746-b740-978b4541122b",
+        "545b504a-5875-4491-acc0-0bad9071dfde",
+        "30d248e9-7edb-4e42-9080-61faf7a33065"
+      ],
+      "mappedOptions": [
+        "96127b99-50d7-4700-948c-6c01b80f9504"
+      ],
+      "mappedSkills": [
+        "735c1095-4ff5-431a-8e5d-174215017104",
+        "e279d420-0102-4e76-b484-77c4f08ccdb0",
+        "a6ddebe9-f2e3-4868-a059-d58ad685ca86",
+        "6cda4c90-fb19-4993-be48-8f832890ff6e",
+        "2b84e9cf-bb81-470f-9a0f-097057216c71",
+        "637acb20-ea75-4e18-a8a0-9cbf9cadc6ab",
+        "183c4244-d335-4c10-bc80-ab7bda650ecf",
+        "ffd73662-b6c2-4d13-a047-5d7bdeb51c68",
+        "587d2627-02a0-4e79-85d8-b7f71d9c5469",
+        "f2f7805d-6a95-4280-bdc2-3a92eb9c7e60",
+        "740f4e18-2a04-4b49-ba31-1de91c2cd15f",
+        "6d7d253b-b06d-45ad-a51b-d3b2381a8989",
+        "287a6a7b-64d2-47e9-aa06-ae963b26bffc",
+        "17adb537-b50c-470e-a858-a6b60ee324bb",
+        "a678b03f-c4a9-4580-9418-7e5a8195ab12",
+        "2ae30ecb-00b0-4808-80ef-063d371b6971",
+        "b1a802ef-8166-444a-8e5c-d840045950ae",
+        "0e7b2fcf-448a-4d5f-8a3c-dbb5777f9b3d",
+        "7024c63e-78a8-4e84-a0fd-6ea3bd867129",
+        "6a205bba-49be-407f-8412-89c883cd44b3",
+        "5ff6d65e-b5c2-4e24-920a-f27516f448d9",
+        "2ad14a03-6ed6-449a-a2f6-165acfc148ab",
+        "44817ffb-e828-47fc-82a1-f56a9ebfa083",
+        "bcef7044-a93b-4f39-9117-390c7926181f",
+        "f67e9747-92cd-422f-bd23-cab7b46631a8",
+        "c8d00243-a951-431f-82c5-790445e5439b",
+        "17787e64-5390-4f92-b6a2-1da614c6a1cd",
+        "e7b64e3e-1f21-442e-957f-6b0fae12f5a9",
+        "07537900-963d-465c-9f35-0d361fdc0de2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "a38767b9-6236-420b-8223-d7c13e2daa5d",
+      "title": "crawler Crane Operator",
+      "occupationCode": "OCC0267A"
+    },
+    {
+      "optionId": "df6b122e-a096-4b61-a2a5-0940f2711d78",
+      "title": "mobile Crane Operator",
+      "occupationCode": "OCC0267B"
+    },
+    {
+      "optionId": "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30",
+      "title": "tower Crane Operator",
+      "occupationCode": "OCC0267C"
+    },
+    {
+      "optionId": "96127b99-50d7-4700-948c-6c01b80f9504",
+      "title": "overhead Crane Operator",
+      "occupationCode": "OCC0267D"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Crawler Crane Operator",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Mobile Crane Operator",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Tower Crane Operator",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-09-10T00:00:00"
+}
