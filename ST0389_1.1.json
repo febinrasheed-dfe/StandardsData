@@ -367,7 +367,7 @@
     },
     {
       "skillId": "ac0c1916-9c2f-41ff-b8bb-f6410a6ef103",
-      "detail": "Assists  with rearing birds to suitable target weight and condition for breeding, (Grow out)"
+      "detail": "Assists  with rearing birds to suitable target weight and condition. (Grow out)"
     },
     {
       "skillId": "ba5800c0-25ec-4634-a3bf-34fe502b7361",
@@ -483,7 +483,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0288",
-  "tbMainContact": "andrew.brodie@avarafoods.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Avara Foods, Moy Park, NFU, PD Hook Group, Poultec Training Ltd, Red Tractor Assurance, TQUK",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -499,7 +499,7 @@
   "cluster": "Agricultural operative or technician",
   "clusterId": "143",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
-  "createdDate": "2025-04-03T12:09:27 +00:00",
+  "createdDate": "2026-10-02T14:26:50 +00:00",
   "lastUpdated": "2025-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-07T00:00:00 +00:00",
   "banners": "",
