@@ -1,0 +1,438 @@
+{
+  "id": "220102",
+  "referenceNumber": "AU0004",
+  "title": "Welding (mechanised) – Apprenticeship unit",
+  "introduction": "<p>Apprenticeship units are short flexible training courses designed to support employers to upskill their workforce in critical skill shortage areas. Units are for employed learners aged 19 and over, where their employer has identified that they need to upskill quickly to respond to emerging skills gaps and to support business growth and productivity.</p>\n<p>Apprenticeship units are based on relevant knowledge and skills in existing employer-led occupational standards to ensure relevant high-quality, targeted training. Each unit is short, with the length of training ranging from 30 and 140 hours delivered over a period of 1 to 16 weeks. This enables employers to have maximum flexibility to select a unit that meets their specific skill need and to deliver the training in a way that fits around their business.</p>",
+  "larsCode": "0",
+  "learningAimClassCode": "ZSC00004",
+  "apprenticeshipUnitUrl": "https://skillsengland.education.gov.uk/apprenticeship-units/AU0004-v1-0",
+  "route": "Engineering and manufacturing",
+  "relatedRoutes": [
+    "Engineering and manufacturing"
+  ],
+  "minimumHoursForCompliance": 90,
+  "maxFunding": 2100,
+  "level": 2,
+  "reviewDetails": "",
+  "status": "Approved for delivery",
+  "version": "1.0",
+  "versionNumber": "1.0",
+  "createdDate": "2026-03-05T13:29:04 +00:00",
+  "lastUpdated": "2026-04-21T09:56:29 +00:00",
+  "publishDate": "2026-04-28T00:00:00 +00:00",
+  "approvedForDelivery": "2026-03-17T00:00:00 +00:00",
+  "earliestStartDate": "2026-04-28T00:00:00 +00:00",
+  "latestStartDate": "",
+  "latestEndDate": "",
+  "change": "",
+  "changedDate": "",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "keywords": [
+    "welding",
+    "arc weld",
+    "metalwork",
+    "general welder",
+    "arc processes",
+    "welder",
+    "weld"
+  ],
+  "typicalJobTitles": [
+    "General welder",
+    "Weld setter",
+    "Welding fabricator"
+  ],
+  "greenJobTitles": [],
+  "entryRequirements": "<ul>\n<li>Learners must be employed and be 19 years of age or over.</li>\n<li>Level 1 Award in Welding or evidence of equivalent industry experience.</li>\n<li>Good eyesight and physical steadiness are required, to safely partake in this course.</li>\n</ul>",
+  "englishAndMathsQualifications": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "regulationDetail": [],
+  "technicalKnowledges": [
+    {
+      "id": "e11efa6a-4e97-4c44-96d9-3b642e320e32",
+      "detail": "Awareness of health and safety regulations, standards and guidance and impact on role. Control of Substances Hazardous to Health (CoSHH). Fire safety. Health and Safety at Work Act. Safety equipment: guards, signage, fire extinguishers. Safety signage. Slips, trips, and falls. Working in confined spaces. Working at height. Manual handling. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9211b219-899d-4976-ae88-c8b4a32367f5",
+      "detail": "Safe systems of work, hazards and risks, isolation and emergency stop procedures, situational awareness.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92378c55-4313-48b1-a42f-86ddd7690c3b",
+      "detail": "Welding power sources: invertor, rectifier, transformer, alternating and direct currents and positive and negative polarities.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "854329a0-6aa4-43f9-aee4-13cc53d33b0d",
+      "detail": "Ancillary equipment: cabling and their assembly, interconnecting communications cables, torches and tongs. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6fdf681b-8a3d-421f-8ec4-19a20f2c39ed",
+      "detail": "Welding gases and equipment: cylinder colours, regulators, storage.\u00A0",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c61ad1a-1b01-4c37-b9a4-7c2cce0a74a8",
+      "detail": "Mechanised welding processes and techniques.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e196260-6945-4e34-84a2-cca26418571d",
+      "detail": "Welded joints: types, preparation, permanent and temporary backing.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e4e1101-4d91-4bb8-b884-bbb68e8b5289",
+      "detail": "Material preparation and removal methods using both powered and non-powered tools.\u00A0",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b93843b7-e457-4554-bfbe-09726ce6321f",
+      "detail": "Control of weld settings.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "024003ad-c045-4f41-9596-60a8ea49aebd",
+      "detail": "Weld visual inspection, dimensional tolerances and alignment of the welded component. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13279d49-138c-4567-bf2c-2879942e5a04",
+      "detail": "Causes and prevention of welding defects and distortion.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a458343-f073-4a02-bc86-3c1906bc614c",
+      "detail": "Personal protective equipment (PPE).\u00A0",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e85a7e4-7b5b-418e-ad32-a6edac249677",
+      "detail": "Principles and practices of restoring the work area on completion of welding.  ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "K22"
+          ]
+        }
+      ]
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "51a6bf86-d8c2-43ec-b0b3-5fa158e62e34",
+      "detail": "Apply health and safety procedures including the use of personal protective equipment (PPE).",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ac6e71d-6e41-4683-b6dc-d81813f1dc2e",
+      "detail": "Prepare welding materials and work area: sourcing, checking and protecting.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47f8853e-2ec2-42a2-b271-ca37d2d3e0d4",
+      "detail": "Check and use or operate tools and equipment.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d97a6815-1152-4ff7-bf7c-b83cf0b1a100",
+      "detail": "Set, modify and monitor welding controls, for example, current, arc voltage, wire feed speed, gas flow rates, polarity, mechanised tractor units. ",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3736935-ad93-405f-98f4-d03dca6dfd7d",
+      "detail": "Weld using processes, for example, submerged arc welding (SAW), tractor-mounted metal inert or metal active gas (MIG or MAG), tractor-mounted flux cored arc welding (FCAW), tractor-mounted or orbital tungsten inert gas (TIG), tractor-mounted or orbital plasma arc welding (PAW).",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c081787d-cb0f-4648-b3d5-d81b351b82c7",
+      "detail": "Weld materials in different joint configurations, for example, butt, T-butt, fillet, cladding or buttering.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6f610a4-f854-451f-8a36-298ae4761238",
+      "detail": "Adapt welding techniques to weld materials in different positions, for example, down-hand, horizontal-vertical, horizontal, vertical-up, vertical-down, overhead, inclined.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a2ac51c-4a5c-4726-9c40-d9375166f103",
+      "detail": "Identify surface defects.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "705262b9-ddcd-45f5-80b3-28af5c13ab4a",
+      "detail": "Apply visual inspection, dimensional and alignment checks.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0337ae18-9632-4110-876f-d38a3d60be03",
+      "detail": "Restore the work area on completion of the welding activity, for example, clean equipment and machinery, tidy the work area, return excess resources and consumables.",
+      "tags": [],
+      "relatedApprenticeships": [
+        {
+          "title": "Welder",
+          "reference": "ST0349",
+          "url": "https://skillsengland.education.gov.uk/apprenticeships/st0349-v1-4",
+          "versionNumber": "1.4",
+          "relatedKsbs": [
+            "S15"
+          ]
+        }
+      ]
+    }
+  ],
+  "informationForProviders": "",
+  "whoIsItFor": "<p>This apprenticeship unit is for existing welders who, with the support of their employer, need to upskill to mechanised welding.</p>",
+  "learningOutcomes": "<p>A learning outcome is a concise statement that describes what an individual should be able to do by the end of their course. It summarises a cluster of knowledge and skills in the course and provides a foundation for assessment.</p>\n<p><strong>Learning outcomes:</strong></p>\n<ul>\n<li>Demonstrate compliance with health and safety regulations, including correct use of PPE and safe working practices.</li>\n<li>Prepare welding materials and work area, ensuring correct sourcing, checking, and protection.</li>\n<li>Check, set, and operate welding tools and equipment, adjusting controls as required.</li>\n<li>Carry out welding using appropriate mechanised processes for different joint configurations and positions.</li>\n<li>Identify surface defects and apply visual inspection and dimensional checks to ensure quality standards.</li>\n</ul>",
+  "knowledgeAndSkillsMappingToOutcomes": "<table border=\"0\">\n<thead>\n<tr>\n<th><strong>Function</strong></th>\n<th><strong>Learning Outcomes</strong></th>\n<th><strong>K &amp; S mapping</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Apply health and safety Principles</strong></td>\n<td>Demonstrate compliance with health and safety regulations, including correct use of PPE and safe working practices.</td>\n<td>K1, K2, K12, S1</td>\n</tr>\n<tr>\n<td><strong>Prepare materials and work area</strong></td>\n<td>Prepare welding materials and work area, ensuring correct sourcing, checking, and protection.</td>\n<td>K8, K13, S2, S10</td>\n</tr>\n<tr>\n<td><strong>Operate welding equipment safely</strong></td>\n<td>Check, set, and operate welding tools and equipment, adjusting controls as required.</td>\n<td>K3, K4, K5, S3, S4</td>\n</tr>\n<tr>\n<td><strong>Perform welding processes</strong></td>\n<td>Carry out welding using appropriate mechanised processes for different joint configurations and positions.</td>\n<td>K6, K7, K9, S5, S6, S7</td>\n</tr>\n<tr>\n<td><strong>Inspect and maintain quality</strong></td>\n<td>Identify surface defects and apply visual inspection and dimensional checks to ensure quality standards.</td>\n<td>K10, K11, S8, S9</td>\n</tr>\n</tbody>\n</table>",
+  "funding": "<p>This apprenticeship unit is currently eligible for public funding.</p>\n<p>Skills England will provide the Department for Work and Pensions with ongoing advice on critical skills needs, and the affordability and prioritisation of funding for apprenticeship units will remain under review.</p>\n<p>The Department will give notice if funding for this apprenticeship unit is to be withdrawn. Following which, funding for new starts will not be available after four weeks from that notice being given.</p>",
+  "assessment": "<p><strong>Mandatory:</strong> As a minimum, learners will need to pass a skills test delivered by the training provider, to demonstrate that they have acquired the skills and knowledge set out in the apprenticeship unit. Employers will need to validate the result to confirm the learner has been successful.</p>\n<p><strong>Extended:</strong> In addition, employers (or learners) have the option to choose independent external assessment where they feel it is appropriate, for example through use of a non-mandatory qualification.</p>\n<p>If the apprenticeship unit is in a regulated occupation and the role requires adherence to industry recognised standards and procedures, we would expect employers to choose an extended assessment.</p>\n<p><strong>Welder approval certification</strong></p>\n<p>Learners must attain a recognised welder approval certificate to complete the apprenticeship unit, demonstrating competence in the required welding processes.</p>\n<p><strong>Welder approval certificate: </strong></p>\n<p>ISO 14732 Welding personnel - Approval of welding operator</p>",
+  "relatedOccupations": [
+    {
+      "name": "Welder",
+      "reference": "OCC0349",
+      "occupationalMapUrl": "https://occupational-maps.skillsengland.education.gov.uk/maps/occupation/OCC0349",
+      "versionNumber": "1.4"
+    }
+  ],
+  "banners": ""
+}
