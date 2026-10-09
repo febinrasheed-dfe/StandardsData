@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00",
+  "changedDate": "2026-09-09T00:00:00",
   "earliestStartDate": "2019-03-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -156,7 +156,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0304",
-  "tbMainContact": "stephen.martin1@hmrc.gov.uk ",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "HMRC, Environment Agency, Gambling Commission, Office of the Public Guardian, Care Quality Commission, Gambling Commission, Dept. for Work & Pensions",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -178,9 +178,9 @@
   "clusterId": "45",
   "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
   "createdDate": "2019-09-12T14:14:41 +00:00",
-  "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "lastUpdated": "2026-09-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-03-01T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "banners": "New starts on this apprenticeship are not government funded from 1st September 2026. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship remains available for delivery for privately funded apprentices.; This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0708",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0708-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0708-v1-0",
@@ -486,5 +486,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-04-08T00:00:00"
+  "publishDate": "2026-09-09T00:00:00"
 }
