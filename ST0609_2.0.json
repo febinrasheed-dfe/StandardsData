@@ -1,0 +1,545 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 307,
+  "referenceNumber": "ST0609",
+  "learningAimClassCode": "",
+  "title": "Clinical trials specialist",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0609",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-03T00:00:00",
+  "earliestStartDate": "2027-09-13T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Contributing to the delivery of different stages of clinical trials to advance research and improve participant outcomes",
+  "level": 6,
+  "ePALength": 0,
+  "typicalDuration": 54,
+  "minimumHoursForCompliance": "1392",
+  "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Health and science",
+  "keywords": [
+    "clinical trials specialist",
+    "degree",
+    "clinical research",
+    "data analysis",
+    "medical"
+  ],
+  "jobRoles": [
+    "Clinical or global study associate, co-ordinator, manager or officer",
+    "Clinical project associate, coordinator, manager, or specialist",
+    "Clinical project manager or specialist",
+    "Clinical research assistant, associate, coordinator, manager, or specialist",
+    "Clinical study administrator, associate, coordinator, delivery specialist, manager, start-up specialist",
+    "Clinical team manager",
+    "Clinical trials assistant, associate, coordinator, manager, officer, or specialist",
+    "Clinical trials data manager",
+    "Clinical trials safety specialist",
+    "Patient engagement specialist",
+    "Regulatory specialist",
+    "Site activation partner",
+    "Trial master file specialist"
+  ],
+  "entryRequirements": "&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt;Individual employers will set their own selection criteria for clinical trial specialist apprentices based on their job role. Typically, this will include a level 3 qualification or equivalent including a science-based subject providing the required number of UCAS points for HE entry. Other relevant prior experience may also be considered as an alternative.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;This standard is a logical progression route from:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li class=&quot;MsoNormal&quot;&gt;Level 3-5 science based apprenticeships&lt;/li&gt;\n&lt;li class=&quot;MsoNormal&quot;&gt;T Level and A Level qualifications in science based subjects&lt;/li&gt;\n&lt;li class=&quot;MsoNormal&quot;&gt;Other qualifications in science based subjects&amp;nbsp;for example, BTECs, higher technicals&lt;/li&gt;\n&lt;/ul&gt;",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0609-in-revision?view=epa",
+  "ssa1": "2 Science and Mathematics",
+  "ssa2": "2.1 Science",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;The Clinical Trial Specialist works in Public or Private Clinical Research Organisations, generally in Pharmaceutical or Biotechnology Industries. They are part of a multi-disciplinary team focused on the delivery and execution of Phase I-IV clinical trials in humans. They are mainly office-based but travel to sites (hospitals, pharmacology units and General Practitioners) to conduct monitoring activities. Clinical Trial Specialists work initially with significant oversight as required by external regulations but over time gain increasing autonomy to monitor and deliver clinical trials consistently to the right quality and within budget. Typical job roles may include: Clinical Trials Assistant/Administrator, Clinical Research Associate and Study Coordinator with development to Clinical Project Manager.&lt;/p&gt;\n&lt;h3&gt;The main duties and tasks of a Clinical Trials Specialist are:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as site Monitor on assigned studies. Conduct all stages of site management from set up through to close out, develop recruitment strategies and conduct Source Document Verification (SDV). This process ensures that the record of activity and data at a site are consistent with data collection systems.&lt;/li&gt;\n&lt;li&gt;Produce high quality documentation to include site monitoring visit reports, site agreements, risk based monitoring plans, meeting minutes, risk/mitigation and action logs and effective presentations.&lt;/li&gt;\n&lt;li&gt;File study documentation to the Trial Master File (TMF) consistent with company SOPs and regulatory guidelines. Maintain all documentation per current quality standards.&amp;nbsp; Participate in TMF and site audits as requested.&lt;/li&gt;\n&lt;li&gt;Provide support to Clinical Project Managers e.g. produce reports on data quality, track equipment distribution and return, follow up delayed sample shipments, generate consulting/ confidentiality agreements., liaise with Clinical Research Associates (CRAs) and external contractors&lt;/li&gt;\n&lt;li&gt;Maintain study tracking systems, e.g. eClinical Trial Management Systems (eCTMS), finance and budget management systems, eCase Report Form (eCRF) and trial status reports.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Entry Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Apprentices without Level 2 English and Maths will need to achieve this level prior to taking the endpoint assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship English and Maths minimum requirement is entry Level 3 and British Sign Language qualifications are an alternative to an English qualification for whom this is their primary language.&lt;/p&gt;\n&lt;p&gt;Typically apprentices will hold Level 3 qualifications providing the appropriate number of UCAS points for HE entry as defined by individual employers/HE providers and will have completed A levels/B-Tech in one science related subject.&lt;/p&gt;\n&lt;h3&gt;Knowledge - The Clinical Trials Specialist will have knowledge of the following:&lt;/h3&gt;\n&lt;ol&gt;\n&lt;li&gt;&lt;strong&gt;Good Clinical Practice (GCP), Regulations and Corporate Ethics:&lt;/strong&gt; Ethical, regulatory and data integrity/privacy principles and their application to human clinical trials, consent and be able to apply these requirements to ensure patients’ rights, safety and wellbeing in clinical trials are not compromised.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Clinical Systems:&lt;/strong&gt; eSource, Electronic Medical Records, eConsent, data visualisation technologies and other technologies within the clinical trial setting.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Trial Master File (TMF)&lt;/strong&gt; and document management requirements with respect to confidentiality and traceability of documentation in a clinical trial.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Sample Management:&lt;/strong&gt; Handling, labeling, storage and transport procedures for bio-samples and investigational product(IP). Include appropriate strategies for maintenance of the blind/unblinding and for investigational product accountability.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Statistical principles&lt;/strong&gt; used in the analysis of clinical trial data: power and sample size, randomisation, odds ratios, confidence intervals, p values, significance, intention-to-treat and per protocol analysis, multiplicity, equivalence and non-inferiority, and futility. Basic understanding of questionnaire design, analysis and interpretation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Drug Development&lt;/strong&gt; process, clinical governance and variability in protocol design in different indications and in different phases of research. Must understand the scientific terminology, method and critical evaluation applied to clinical trial design and interpretation of trial data.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Scientific Knowledge&lt;/strong&gt; required to conduct clinical trials, including: &lt;strong&gt;Physiology &lt;/strong&gt;(study of the systems that keep a body alive) including renal, hepatic, cardiovascular, gastro-intestinal, endocrine, lymphatic and neurological systems. &lt;strong&gt;Pharmacology&lt;/strong&gt; (the study of the action of drugs) including &lt;a href=&quot;https://en.wikipedia.org/wiki/Neuropharmacology&quot;&gt;neuro-&lt;/a&gt; and renal pharmacology, human &lt;a href=&quot;https://en.wikipedia.org/wiki/Metabolism&quot;&gt;metabolism&lt;/a&gt;, intracellular metabolism, and intracellular regulation. &lt;strong&gt;Biochemistry&lt;/strong&gt; (chemical and physio-chemical processes and substances which occur within living organisms) and&lt;strong&gt; Genetics&lt;/strong&gt; (the study of genes, genetic variation hereditary), including the role of personalised medicines in healthcare setting.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Commercial and Business Issues&lt;/strong&gt; including intellectual property and the commercial demands of the business environment.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;h3&gt;&lt;strong&gt;Skill - A Clinical Trials Specialist can:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ol&gt;\n&lt;li&gt;&lt;strong&gt;Monitor and Source Document Verification&lt;/strong&gt; Develop, write and implement centralised and site monitoring plans. Conduct SDV and implement recruitment strategies for clinical trials. Assess suitability of trials at sites based on detailed understanding of protocol requirements and create appropriate feasibility questionnaires at country and site level. Conduct all site monitoring activities: site selection, initiation, maintenance and close out per national and local requirements. Record and report compliance deviations such as Serious Breaches and Product Complaints. Utilise information from clinical systems to oversee accuracy and contemporariness of trial data.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Clinical Trial Management Systems&lt;/strong&gt; Use clinical trial systems including; electronic Clinical Trial Management Systems (eCTMS), electronic Case Report Forms (eCRF), Interactive Response Technology (IRT), electronic Patient/Physician Reported Outcomes systems and electronic Trial Master Files (eTMF). Develop documentation to support set up, programming, maintenance and oversight of these systems to be to be compliant with the protocol and Good Clinical Practice.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Project Management and Leadership:&lt;/strong&gt; Generate effective project plans to include management of scope, schedules, and risk. Organise resources, tasks and people.&amp;nbsp; Co-ordinate team activities to meet project requirements and quality processes. Adapt clinical strategy/delivery to be consistent with variations in national, local and Ethics Committee requirements when conducting trials across multiple regions/countries.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Collection and Reporting:&lt;/strong&gt; Input into the development of data management documentation, including design of Case Report Forms, Data Management Plans, Data Review Plans, edit checks and User Acceptance Testing Plans.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communication Skills:&lt;/strong&gt; Write extended reports and critique others&#39; work across a range of documentation, e.g. protocols, consent forms and clinical study reports. Deliver oral presentations and answer questions about their work and/or the work of their team. Utilise interpersonal skills, communication and assertiveness to persuade and motivate.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Critical Thinking:&lt;/strong&gt; Conceptualise, evaluate and analyse information to solve problems.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;h3&gt;&lt;strong&gt;Behaviour&lt;/strong&gt;&lt;strong&gt; - &lt;/strong&gt;&lt;strong&gt;A Clinical Trials Specialist demonstrates:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ol&gt;\n&lt;li&gt;&lt;strong&gt;Integrity and Reliability:&lt;/strong&gt; Respect for the confidentiality of patients and sponsor information.&amp;nbsp; An intrinsic ethical stance to all aspects of day to day activities&lt;strong&gt;.&amp;nbsp;&lt;/strong&gt;Reputation of trust internally and externally.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Flexibility and Adaptability:&lt;/strong&gt; Responsiveness to change, adjusting to different conditions, technologies, situations and environments.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Team Working:&lt;/strong&gt; Collaboration, influence, and respect for others and an understanding of the importance of team diversity and impact on others.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Management of Expectations:&lt;/strong&gt; of senior management, study sponsor, vendors, investigational sites and key opinion leaders, knowing when to escalate issues.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;“Patients First” Attitude:&lt;/strong&gt; Accountability for self and others to ensure that actions are in the best interest of patients in accordance with GCP.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Planning, Prioritisation and Organisation:&lt;/strong&gt; Effective time management, knows how to apply techniques to prioritise work and delegate study related duties.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Continuing Professional Development (CPD): &lt;/strong&gt;Accountability of own and others development needs, undertaking CPD.Curiosity of science and proactively develops knowledge to ensure that scientific and business decisions are based on strong science.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;h4&gt;&lt;strong&gt;Duration&lt;/strong&gt;:&lt;/h4&gt;\n&lt;p&gt;Typically 5 years&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Qualifications: &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;A BSc (Hons) degree including but not limited to biological science in Physiology, Anatomy, Pharmacology, Pharmacy or Biochemistry.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Level : &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Review date : &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;3 years&lt;/p&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt;This occupation is found in the health and science sector.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt;The UK is among the world-leading countries in clinical research. Clinical trials test a wide range of products for people, to assess their safety and effectiveness. Trials may be for new products including drugs, medical devices and dietary supplements, or products already available on the market that are being tested for new medical indications or in new forms of administration. &lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt;There are many different aspects to clinical trials, which may involve multiple organisations including pharmaceutical companies, clinical research organisations, and medical settings. Clinical trial specialists work across these organisations. &lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt;The broad purpose of the occupation is to contribute to the successful delivery of different stages of clinical trials to advance research and improve participant outcomes. The role will vary depending on the type and size of organisation and phase of trial etc.&amp;nbsp; However, central to all roles is ensuring quality and compliance with clinical trial regulations and inspection readiness. This includes working with clinical trial documents, records, and data. They plan and manage work activities on clinical trial tasks or projects, liaising and co-ordinating work across stakeholders. Contributing to problem solving and continuous improvement is also part of the role.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoBodyText2&quot; style=&quot;margin-bottom: 8pt; line-height: 115%&quot;&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt;They are usually desk-based but may work remotely and,&lt;/span&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt; this could include travel to clinical sites or medical sites to conduct monitoring activities. This may include hospitals, pharmacology units and General Practitioners.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoBodyText2&quot; style=&quot;margin-bottom: 8pt; line-height: 115%&quot;&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt;Clinical trial specialists are part of a multi-disciplinary team. In their daily work, an employee in this occupation may interact with research teams, sponsors, regulatory authorities and other stakeholders, and site personnel. &lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoBodyText2&quot; style=&quot;margin-bottom: 8pt; line-height: 115%&quot;&gt;&lt;span style=&quot;color: rgba(38, 38, 38, 1)&quot;&gt;An employee in this occupation will be responsible for ensuring that their work adheres to regulatory standards, timelines, and budgets. They initially work with significant oversight as required by external regulations but over time gain increasing autonomy.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "edf08ff4-9470-4446-9fab-81e286334549",
+      "detail": "Ethical guidelines, regulations and data protection rules for working on clinical trials."
+    },
+    {
+      "knowledgeId": "b05c32e0-7c18-46d6-aab0-9dbbb9b6dd67",
+      "detail": "Requirement for participants to provide informed consent, and how to protect their rights, safety and wellbeing throughout the trial."
+    },
+    {
+      "knowledgeId": "e419ba6e-db19-4d09-a484-7479409405e7",
+      "detail": "Drug development processes, clinical guidelines, and variability in study design in different indications and phases of research. "
+    },
+    {
+      "knowledgeId": "3e526e2e-9fbf-489c-8602-83fb04dff908",
+      "detail": "Different types of study monitoring and oversight including site selection, initiation, maintenance and close out. "
+    },
+    {
+      "knowledgeId": "2e045dee-849d-4812-a615-35564bd76ea2",
+      "detail": "Investigational product processes including handling and labelling, storage and transport, blind maintenance and unblinding, and investigational product accountability."
+    },
+    {
+      "knowledgeId": "1e1fafff-83ea-4302-8dc2-62509db23a84",
+      "detail": "Project management methodologies and techniques for clinical trials. "
+    },
+    {
+      "knowledgeId": "48f6bc53-3c7b-4e6a-8932-ce3105a963c6",
+      "detail": "Verification requirements for source documents."
+    },
+    {
+      "knowledgeId": "7f41fbc8-bb45-4569-a5cf-28f96134b64b",
+      "detail": "Scientific information and terminology applied when conducting clinical trials including physiology and disease, pharmacology, biochemistry, genetics and the link to personalised medicines."
+    },
+    {
+      "knowledgeId": "cdcf5ee5-1945-40c3-951b-2a2f9eb24148",
+      "detail": "The range and operational processes of bespoke digital systems used for clinical trials, including eSource, Electronic Medical Records, eConsent, data visualisation tools and emerging technologies."
+    },
+    {
+      "knowledgeId": "61031b4e-7a0b-4fdb-a670-a8d0030656f1",
+      "detail": "Retention and archiving of clinical trial records including the document management requirements of the Trial Master File. "
+    },
+    {
+      "knowledgeId": "bcb27f07-1756-4857-b78a-ef042a2b02db",
+      "detail": "The ALCOA (Attributable, Legible, Contemporaneous, Original and Accurate) principles for ensuring data integrity.  "
+    },
+    {
+      "knowledgeId": "86286b83-6339-4725-b271-7ed8ff03e31b",
+      "detail": "Methods and techniques used to capture, process, analyse, and evaluate data in clinical trials."
+    },
+    {
+      "knowledgeId": "c17baf13-bb0e-4440-ab75-ce738685e205",
+      "detail": "Statistical principles used in the analysis of quantitative and qualitative clinical trial data  as defined in the study protocol, including power, sample size and p-values"
+    },
+    {
+      "knowledgeId": "24c0647b-f981-4d1b-88df-22db9ba48ab6",
+      "detail": "Bio-sample management including handling, labelling, storage and transport procedures, result dissemination and review."
+    },
+    {
+      "knowledgeId": "66716100-ba38-457c-90bd-7f2c888824f9",
+      "detail": "How operational, scientific, and commercial factors interact across the development lifecycle."
+    },
+    {
+      "knowledgeId": "16c50e72-6662-4d72-acd6-f0af43da9a21",
+      "detail": "Key stakeholders within the clinical trials and health and care systems landscape, their roles and relationships. "
+    },
+    {
+      "knowledgeId": "c87b8311-5641-4cb1-805b-bf0544689d4a",
+      "detail": " Approaches and strategies to stakeholder management."
+    },
+    {
+      "knowledgeId": "3a12b4a9-7295-4552-ad69-a6cc8755765f",
+      "detail": "Collaborative teamworking practices and how own role fits with, and supports, organisation strategy and objectives. "
+    },
+    {
+      "knowledgeId": "6ff6e4e8-eb5f-42a8-8b11-fa54ab2c1216",
+      "detail": "Methods and techniques used to communicate with, and present to diverse audiences, adapting communication techniques accordingly. "
+    },
+    {
+      "knowledgeId": "13f31d96-ef2e-41bb-977f-cdb63d0dc7c1",
+      "detail": "Own organisation’s requirement for collaboration across functions and geographies, policies and decision pathways, networks and communication channels. "
+    },
+    {
+      "knowledgeId": "e85fa051-092f-4a83-8e30-aff6972724bc",
+      "detail": "Critical thinking, problem-solving, and continuous improvement principles. "
+    },
+    {
+      "knowledgeId": "b73f59da-7dc3-4056-af05-d2c440af0932",
+      "detail": "Why seeking feedback on your work practices and evaluating areas for development and continuous improvement is important."
+    },
+    {
+      "knowledgeId": "ff8f731c-ed6b-4b93-8976-aabcdfde85ed",
+      "detail": "The vision and strategy, structure and governance of own organisation."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "8f7bb968-e786-46cc-afb4-985204a58b24",
+      "detail": "Proactive and reacts positively to emerging trends; is curious, forward-looking, open to change and looks to find ways which will enhance the trials process. "
+    },
+    {
+      "behaviourId": "842cfcdc-1f98-47b5-b427-4c228320ce8c",
+      "detail": "Adapts positively to challenging situations and changing work priorities and patterns, demonstrating resilience and ensuring deadlines continue to be met in critical situations. "
+    },
+    {
+      "behaviourId": "8caec132-653b-453d-9465-f1dcf7e56c50",
+      "detail": "Embraces sustainability and encourages others to achieve sustainability goals within scope of responsibility."
+    },
+    {
+      "behaviourId": "415df515-bdbd-4eb4-a65f-81a922358a77",
+      "detail": "Acts inclusively when collaborating with internal and external team and stakeholders, embracing equity, diversity and inclusion, showing respect for others. "
+    },
+    {
+      "behaviourId": "a917c677-29e2-4095-b059-afeaf197d3ca",
+      "detail": "Take ownership of own development needs updating their knowledge and skills in relation to areas that influence their work. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e8cb7d57-314a-42bc-8551-e087ff1e4301",
+      "detail": "Apply ethical and regulatory guidelines and data protection procedures in clinical trials to ensure quality standards are met."
+    },
+    {
+      "skillId": "f053761e-d147-4577-a776-60ded65477ef",
+      "detail": "Apply processes to protect participants’ rights in clinical trials, including report deviations."
+    },
+    {
+      "skillId": "67998606-39d2-4298-a784-2edc49184fb4",
+      "detail": "Uphold participants rights and promote compliance and ethical practice in line with industry standards and regulatory codes of practice. "
+    },
+    {
+      "skillId": "f785ce6e-6a66-48fe-a539-f5083eb0d976",
+      "detail": "Assess and incorporate clinical trial and drug development concepts and processes in decision making and actions. "
+    },
+    {
+      "skillId": "7778a82c-21ec-4bf7-bedd-96b3fe69adc4",
+      "detail": "Interpret and apply scientific information and terminology, to inform decision making, optimise clinical trial execution, and communicate evidence to stakeholders. "
+    },
+    {
+      "skillId": "60c300e6-60b6-4611-8674-f84e8da26cb7",
+      "detail": "Adhere to ALCOA principles when producing and managing documents and records including, electronic Clinical Trial Management Systems, electronic Trial Master Files, and site monitoring visit reports. "
+    },
+    {
+      "skillId": "fd607224-aed2-4197-afa4-8bfffb1cafa1",
+      "detail": "Analyse and evaluate clinical trial operational data and information to understand relevance and limitations. "
+    },
+    {
+      "skillId": "88a0b82c-6046-4276-9ac3-68d3664a313c",
+      "detail": "Utilise information from clinical systems to ensure data quality and timeliness."
+    },
+    {
+      "skillId": "f76a7fe9-7d15-4fb7-9a09-b28cee1dee3c",
+      "detail": "Plan, prioritise and organise work to meet deadlines."
+    },
+    {
+      "skillId": "98d0448a-89bd-4191-822b-04f51e631b6f",
+      "detail": "Monitor and report on progress against plans, identify any elements requiring support or action. "
+    },
+    {
+      "skillId": "7e98b663-a8d5-4ff5-8b21-58552c66a7a7",
+      "detail": "Apply stakeholder management theories and techniques to build and sustain collaborative working relationships. "
+    },
+    {
+      "skillId": "eeb9285a-1681-4ae5-b246-e55acc1804a2",
+      "detail": "Coordinate, negotiate with and manage expectations of diverse stakeholders and multi-disciplinary teams with conflicting priorities, interests and timescales."
+    },
+    {
+      "skillId": "64efd26a-2d75-4187-a4b1-c5c235e1e853",
+      "detail": "Use digital tools and technologies to improve efficiency, outcomes, and solve problems, while learning and adapting to new ways of working."
+    },
+    {
+      "skillId": "f8d2d498-4b26-4a70-8e77-9a5bc09c5869",
+      "detail": "Communicate information to technical and non-technical audiences either verbally, through presentation or in written form, using supporting information when required. "
+    },
+    {
+      "skillId": "2536e502-1872-48ad-a096-67a4399f1210",
+      "detail": "Review and critique the work of others making judgements free from bias. "
+    },
+    {
+      "skillId": "77c14c27-2ee0-411c-89a1-5b449a9e91e6",
+      "detail": "Evaluate and apply problem solving and continuous improvement principles within own area of responsibility."
+    },
+    {
+      "skillId": "188fe8cd-74bb-4427-a580-0fee693a00f2",
+      "detail": "Recognise limits of own competence and seek advice and support."
+    },
+    {
+      "skillId": "f2a2f8a1-a35c-4d1b-a921-3be96e63a12c",
+      "detail": "Plan and undertake development opportunities to meet compliance, organisational, and personal objectives."
+    },
+    {
+      "skillId": "2c041335-4c15-44b5-95cd-9b56a232b427",
+      "detail": "Contribute to the development of others, enabling training, knowledge transfer, and peer support."
+    },
+    {
+      "skillId": "2aa5403e-46dd-4e13-ada2-5a6f9c79543a",
+      "detail": "Take personal responsibility and prioritise sustainable outcomes. "
+    },
+    {
+      "skillId": "ff6f71fa-47fb-4360-bcb0-1d35df30a896",
+      "detail": "Comply with equality, diversity, and inclusion policies and procedures in the workplace. "
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0931",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "AstraZeneca, Syneos Health, Roche, The Christie NHS Foundation, GSK, Pfizer, EMS Healthcare, Fortrea, Evinona",
+  "otherInvolvedStakeholders": "NU London, University of Kent, Salford University, Marshal Assessment, NHS England, NIHR, Science Council, SBSA",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Clinical or global study associate, co-ordinator, manager or officer",
+    "Clinical project associate, coordinator, manager, or specialist",
+    "Clinical project manager or specialist",
+    "Clinical research assistant, associate, coordinator, manager, or specialist",
+    "Clinical study administrator, associate, coordinator, delivery specialist, manager, start-up specialist",
+    "Clinical team manager",
+    "Clinical trials assistant, associate, coordinator, manager, officer, or specialist",
+    "Clinical trials data manager",
+    "Clinical trials safety specialist",
+    "Patient engagement specialist",
+    "Regulatory specialist",
+    "Site activation partner",
+    "Trial master file specialist"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Healthcare science",
+  "cluster": "Healthcare science professional",
+  "clusterId": "21",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
+  "createdDate": "2026-09-03T12:02:48 +00:00",
+  "lastUpdated": "2026-09-03T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-06-28T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0609",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0609-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0609-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "c581f439-023e-4a96-a08d-e21758cc4f98",
+      "title": "A Bachelor’s degree that fully aligns to the knowledge and skills in the clinical trials specialist occupational standard.",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Science Council",
+      "level": "Registered Scientist (RSci). [TBC] Upon successful completion of the apprenticeship and upon receipt of the apprenticeship certificate, individuals are eligible to apply for RSci through a shortened application route. Individuals also need to be a member of a professional body that is licensed by the Science Council to be awarded this status and provide evidence of a relevant qualification at level 5 or above or demonstrate equivalence. Further information is on the Science Council’s website",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "2856973f-0c50-4eac-b4fd-678f803432b2",
+      "dutyDetail": "Contribute to the delivery of different stages of clinical trials; ensuring quality and compliance with regulations and inspection readiness. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "842cfcdc-1f98-47b5-b427-4c228320ce8c"
+      ],
+      "mappedKnowledge": [
+        "edf08ff4-9470-4446-9fab-81e286334549",
+        "b05c32e0-7c18-46d6-aab0-9dbbb9b6dd67",
+        "e419ba6e-db19-4d09-a484-7479409405e7",
+        "3e526e2e-9fbf-489c-8602-83fb04dff908",
+        "24c0647b-f981-4d1b-88df-22db9ba48ab6",
+        "ff8f731c-ed6b-4b93-8976-aabcdfde85ed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e8cb7d57-314a-42bc-8551-e087ff1e4301",
+        "f053761e-d147-4577-a776-60ded65477ef",
+        "67998606-39d2-4298-a784-2edc49184fb4",
+        "f785ce6e-6a66-48fe-a539-f5083eb0d976",
+        "7778a82c-21ec-4bf7-bedd-96b3fe69adc4",
+        "f8d2d498-4b26-4a70-8e77-9a5bc09c5869",
+        "188fe8cd-74bb-4427-a580-0fee693a00f2",
+        "ff6f71fa-47fb-4360-bcb0-1d35df30a896"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "03b4e858-592f-406e-a604-14b269d0d861",
+      "dutyDetail": "Assist with the preparation, dissemination, and tracking of clinical trial documents and records. For example, site monitoring visit reports, site agreements, risk-based monitoring plans, risk and mitigation action logs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "edf08ff4-9470-4446-9fab-81e286334549",
+        "b05c32e0-7c18-46d6-aab0-9dbbb9b6dd67",
+        "e419ba6e-db19-4d09-a484-7479409405e7",
+        "3e526e2e-9fbf-489c-8602-83fb04dff908",
+        "2e045dee-849d-4812-a615-35564bd76ea2",
+        "48f6bc53-3c7b-4e6a-8932-ce3105a963c6",
+        "7f41fbc8-bb45-4569-a5cf-28f96134b64b",
+        "cdcf5ee5-1945-40c3-951b-2a2f9eb24148",
+        "61031b4e-7a0b-4fdb-a670-a8d0030656f1",
+        "bcb27f07-1756-4857-b78a-ef042a2b02db",
+        "86286b83-6339-4725-b271-7ed8ff03e31b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e8cb7d57-314a-42bc-8551-e087ff1e4301",
+        "f053761e-d147-4577-a776-60ded65477ef",
+        "67998606-39d2-4298-a784-2edc49184fb4",
+        "f785ce6e-6a66-48fe-a539-f5083eb0d976",
+        "7778a82c-21ec-4bf7-bedd-96b3fe69adc4",
+        "60c300e6-60b6-4611-8674-f84e8da26cb7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "05992a30-c838-4a30-9c6b-b651ba7c0e1c",
+      "dutyDetail": "Ensure accuracy, completeness, and integrity of clinical trial data, clinical study management monitoring and reporting in line with testing requirements in a timely manner.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "edf08ff4-9470-4446-9fab-81e286334549",
+        "e419ba6e-db19-4d09-a484-7479409405e7",
+        "3e526e2e-9fbf-489c-8602-83fb04dff908",
+        "2e045dee-849d-4812-a615-35564bd76ea2",
+        "48f6bc53-3c7b-4e6a-8932-ce3105a963c6",
+        "7f41fbc8-bb45-4569-a5cf-28f96134b64b",
+        "cdcf5ee5-1945-40c3-951b-2a2f9eb24148",
+        "61031b4e-7a0b-4fdb-a670-a8d0030656f1",
+        "bcb27f07-1756-4857-b78a-ef042a2b02db",
+        "86286b83-6339-4725-b271-7ed8ff03e31b",
+        "c17baf13-bb0e-4440-ab75-ce738685e205",
+        "24c0647b-f981-4d1b-88df-22db9ba48ab6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "60c300e6-60b6-4611-8674-f84e8da26cb7",
+        "fd607224-aed2-4197-afa4-8bfffb1cafa1",
+        "88a0b82c-6046-4276-9ac3-68d3664a313c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3bc75ed5-80da-451d-bbac-a18638a8d306",
+      "dutyDetail": "Take responsibility for planning, prioritising and managing work activities on clinical trial tasks or projects. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "842cfcdc-1f98-47b5-b427-4c228320ce8c",
+        "8caec132-653b-453d-9465-f1dcf7e56c50"
+      ],
+      "mappedKnowledge": [
+        "2e045dee-849d-4812-a615-35564bd76ea2",
+        "1e1fafff-83ea-4302-8dc2-62509db23a84",
+        "c17baf13-bb0e-4440-ab75-ce738685e205",
+        "24c0647b-f981-4d1b-88df-22db9ba48ab6",
+        "66716100-ba38-457c-90bd-7f2c888824f9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f76a7fe9-7d15-4fb7-9a09-b28cee1dee3c",
+        "98d0448a-89bd-4191-822b-04f51e631b6f",
+        "64efd26a-2d75-4187-a4b1-c5c235e1e853",
+        "f8d2d498-4b26-4a70-8e77-9a5bc09c5869",
+        "2aa5403e-46dd-4e13-ada2-5a6f9c79543a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bee89edd-7970-4ff7-99d8-d22fc16370fe",
+      "dutyDetail": "Collaborate across multiple functions, groups or stakeholders to deliver clinical trials.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "415df515-bdbd-4eb4-a65f-81a922358a77"
+      ],
+      "mappedKnowledge": [
+        "1e1fafff-83ea-4302-8dc2-62509db23a84",
+        "66716100-ba38-457c-90bd-7f2c888824f9",
+        "16c50e72-6662-4d72-acd6-f0af43da9a21",
+        "c87b8311-5641-4cb1-805b-bf0544689d4a",
+        "3a12b4a9-7295-4552-ad69-a6cc8755765f",
+        "6ff6e4e8-eb5f-42a8-8b11-fa54ab2c1216",
+        "13f31d96-ef2e-41bb-977f-cdb63d0dc7c1",
+        "ff8f731c-ed6b-4b93-8976-aabcdfde85ed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7778a82c-21ec-4bf7-bedd-96b3fe69adc4",
+        "f76a7fe9-7d15-4fb7-9a09-b28cee1dee3c",
+        "98d0448a-89bd-4191-822b-04f51e631b6f",
+        "7e98b663-a8d5-4ff5-8b21-58552c66a7a7",
+        "eeb9285a-1681-4ae5-b246-e55acc1804a2",
+        "f8d2d498-4b26-4a70-8e77-9a5bc09c5869",
+        "2536e502-1872-48ad-a096-67a4399f1210",
+        "ff6f71fa-47fb-4360-bcb0-1d35df30a896"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4297be31-0b3b-44e7-93e3-453846ade19b",
+      "dutyDetail": "Contribute to problem solving-activities in collaboration with internal and external stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "415df515-bdbd-4eb4-a65f-81a922358a77"
+      ],
+      "mappedKnowledge": [
+        "1e1fafff-83ea-4302-8dc2-62509db23a84",
+        "66716100-ba38-457c-90bd-7f2c888824f9",
+        "16c50e72-6662-4d72-acd6-f0af43da9a21",
+        "c87b8311-5641-4cb1-805b-bf0544689d4a",
+        "3a12b4a9-7295-4552-ad69-a6cc8755765f",
+        "6ff6e4e8-eb5f-42a8-8b11-fa54ab2c1216",
+        "13f31d96-ef2e-41bb-977f-cdb63d0dc7c1",
+        "e85fa051-092f-4a83-8e30-aff6972724bc",
+        "ff8f731c-ed6b-4b93-8976-aabcdfde85ed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7e98b663-a8d5-4ff5-8b21-58552c66a7a7",
+        "eeb9285a-1681-4ae5-b246-e55acc1804a2",
+        "2536e502-1872-48ad-a096-67a4399f1210",
+        "77c14c27-2ee0-411c-89a1-5b449a9e91e6",
+        "2c041335-4c15-44b5-95cd-9b56a232b427"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ba44b289-d626-4782-813c-66ec1a1289ec",
+      "dutyDetail": "Develop, support, or contribute to continuous improvement initiatives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8caec132-653b-453d-9465-f1dcf7e56c50",
+        "415df515-bdbd-4eb4-a65f-81a922358a77"
+      ],
+      "mappedKnowledge": [
+        "e85fa051-092f-4a83-8e30-aff6972724bc",
+        "b73f59da-7dc3-4056-af05-d2c440af0932"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2536e502-1872-48ad-a096-67a4399f1210",
+        "77c14c27-2ee0-411c-89a1-5b449a9e91e6",
+        "188fe8cd-74bb-4427-a580-0fee693a00f2",
+        "2c041335-4c15-44b5-95cd-9b56a232b427"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d26a11a0-003a-4ca1-9aef-e014d99127dc",
+      "dutyDetail": "Evidence continuous professional development; maintaining knowledge and skills in relation to clinical trials that influence their work, including emerging trends, innovations, technologies, tools and techniques, environmental sustainability and sustainable practices.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8f7bb968-e786-46cc-afb4-985204a58b24",
+        "8caec132-653b-453d-9465-f1dcf7e56c50",
+        "a917c677-29e2-4095-b059-afeaf197d3ca"
+      ],
+      "mappedKnowledge": [
+        "b73f59da-7dc3-4056-af05-d2c440af0932"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "64efd26a-2d75-4187-a4b1-c5c235e1e853",
+        "f2a2f8a1-a35c-4d1b-a921-3be96e63a12c",
+        "2aa5403e-46dd-4e13-ada2-5a6f9c79543a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-09-13T00:00:00"
+}
