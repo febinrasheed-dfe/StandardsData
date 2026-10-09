@@ -1,0 +1,533 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 439,
+  "referenceNumber": "ST0120",
+  "learningAimClassCode": "",
+  "title": "Digital support technician",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0120",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-08-12T00:00:00",
+  "earliestStartDate": "2026-10-29T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Maximising the effective use of digital office technologies, productivity software and digital communications in organisations.",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 15,
+  "minimumHoursForCompliance": "370",
+  "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "ICT",
+    "Digital",
+    "software",
+    "communications",
+    "support technician",
+    "IT",
+    "technologies"
+  ],
+  "jobRoles": [
+    "Applications and on-line service executive",
+    "Data administrator",
+    "Database administrator",
+    "Digital applications specialist",
+    "Digital champion",
+    "Digital coach",
+    "Digital service advisor",
+    "Digital service agent",
+    "Digital service support",
+    "Digital support professional",
+    "Digital systems operator",
+    "Digital transformation associate",
+    "Ict support analyst",
+    "It operations technician",
+    "Operations technical specialist",
+    "Service centre operator",
+    "Technical support professional"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-in-revision?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupational Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This occupation is found in organisations, large and small, in all sectors, and within public, private and voluntary organisations. &amp;nbsp;Organisations of all types are increasing applying digital technologies across all their business functions to maximise productivity.&amp;nbsp; The demand for people who can support and implement these digital operations and digital transformation projects is increasing. Similarly, organisations of all types are increasingly supporting their service users though online and digital channels, as they develop omni-channel approaches to meeting customer needs, deflect traditional telephone and face-to-face contacts and to reduce costs.&lt;/p&gt;\n&lt;p&gt;The broad purpose of a &lt;strong&gt;Digital Support Technician&lt;/strong&gt; is to maximise the effective use of digital office technologies, productivity software, digital communications, including collaborative technologies, and digital information systems to achieve objectives. They will select one of the following two options:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;A Digital Applications Technician&lt;/strong&gt; helps their organisation and its internal users to maximise the use of digital technologies and adapt to and exploit changes in technology to meet organisation objectives and maximise productivity ensure effective use of digital office technologies, productivity software, digital communications, including collaborative technologies, and digital information systems to achieve objectives&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;A Digital Service Technician&lt;/strong&gt; supports the external customers and clients of their organisation though a wide variety of digital channels, to help them access and receive services, to coach and support them in their use of the digital systems; to support them to complete and submit information remotely and to diagnose and resolve their problems in relation to their access to and use of the digital technologies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;In their daily work, &lt;strong&gt;Digital Support Technicians&lt;/strong&gt; interact with a wide variety of internal or external users of digital systems, through digital channels, by phone and/or face to face.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Digital Support Technicians &lt;/strong&gt;have the following levels of responsibility&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Autonomy: working under general direction, using discretion in identifying and responding to complex issues and assignments, usually receiving clear instructions and having work reviewed at frequent milestones, and determining when issues should be escalated to a higher level.&lt;/li&gt;\n&lt;li&gt;Influence: interacting with and influencing others, having working level contact with colleagues or customers, and may supervise others or make decisions which impact the work assigned to others or to other phases of projects.&lt;/li&gt;\n&lt;li&gt;Business: contributing fully to the work of teams, planning, scheduling and monitoring their own work within limited deadlines and according to relevant legislation, standards and procedures.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;All &lt;strong&gt;Digital Support Technicians&lt;/strong&gt; have the following core duties&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Apply relevant digital technologies effectively to achieve objectives&lt;/li&gt;\n&lt;li&gt;Monitor and operate complex digital information and intelligence systems&lt;/li&gt;\n&lt;li&gt;Respond to user enquiries&lt;/li&gt;\n&lt;li&gt;Maintain data, digital resources and data systems&lt;/li&gt;\n&lt;li&gt;Communicate effectively though digital channels&lt;/li&gt;\n&lt;li&gt;Learn through digital resources&lt;/li&gt;\n&lt;li&gt;Work as a member of a team&lt;/li&gt;\n&lt;li&gt;Maintain an awareness of current, emerging and fringe digital technologies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Digital Applications Technicians&lt;/strong&gt; also&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Devise technology-based productivity solutions, and implement these in the organisation&lt;/li&gt;\n&lt;li&gt;Work as digital champions - training and supporting colleagues to make the best use of technology-based productivity tools&lt;/li&gt;\n&lt;li&gt;Diagnose digital problems and provide internal end-user application support&lt;/li&gt;\n&lt;li&gt;Assist with digital operations and digital change projects&lt;/li&gt;\n&lt;li&gt;Support digital transformation projects.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Digital Service Technicians&lt;/strong&gt; also&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Help customers and clients register for and access information, products and services through online and digital channels as part of a sales or customer service process&lt;/li&gt;\n&lt;li&gt;Support and coach external users in their use of these digital technologies&lt;/li&gt;\n&lt;li&gt;Diagnose and resolve external users’ digital problems with accessing and using the digital technologies and advising on related hardware and software problems&lt;/li&gt;\n&lt;li&gt;Utilise software packages and tools such as collaborative technologies, to interface effectively with external end-users&lt;/li&gt;\n&lt;li&gt;Use a variety of digital channels to maximise effective external user support and to resolve external end-user problems&lt;/li&gt;\n&lt;li&gt;Use and maintain information systems such as Customer Relationship Management tools to manage service delivery, improve user experience and increase organisational productivity&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Typical Job Roles:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;For Digital Applications Technicians:&amp;nbsp; Digital Coach, Digital Transformation Associate; ICT Support Analyst, Digital Champion, Database Administrator, Data Administrator, IT Operations Technician, Digital Applications Specialist and Digital Systems Operator.&lt;/p&gt;\n&lt;p&gt;For Digital Service Technicians: Service Centre Operator, Digital Service Advisor, Digital Service Support, Digital Service Agent; Applications and On-line Service Executive, Technical Support Professional, Digital Support Professional, and Operations Technical Specialist&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Entry Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Individual employers will set the selection criteria including relevant qualifications and experience. The apprentice is likely to be required to demonstrate an aptitude for functional maths and competence in written and spoken English.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Technical Skills &lt;/strong&gt;&lt;/h3&gt;\n&lt;h4&gt;&lt;strong&gt;Core&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Digital technologies: uses a range of digital office technologies, including collaborative tools, appropriately for internal and external communications, including, for example, office suites, conferencing facilities and mass email tools; survey tools; social media tools for business; SMS; live chat and video chat; web conferencing to support the delivery of services and to share information with customers and colleagues&lt;/li&gt;\n&lt;li&gt;Data management: uses data systems effectively, appropriately and securely to meet business requirements and in line with organisational procedures and legislation&lt;/li&gt;\n&lt;li&gt;Digital security: applies information security principles to information transfer, deletion, storage, usage and communications – using mobile devices where appropriate&lt;/li&gt;\n&lt;li&gt;Digital services support: responds appropriately and effectively to internal or external enquiries; providing support and information using utilising digital channels where appropriate and responding according to organisation protocols&lt;/li&gt;\n&lt;li&gt;Digital Information Management Systems: operates a range of digital information systems and tools to maintain information and to support service delivery, whether Client Management Systems (CMS), Customer Relationship Management systems (CRM), finance or human systems or other bespoke digital systems or databases. This includes searching, storing, integrating and organisating data; data entry and maintainance; data modelling; relationship modelling and data analysis to identify trends and insights&lt;/li&gt;\n&lt;li&gt;Communication: communicates effectively in writing, verbally and face to face appropriately through different digital channels, including e-mail, telephone and collaborative technologies, including digital specialists and others, using technical terminology and non-technical terminology as appropriate, whether for internal or external communication&lt;/li&gt;\n&lt;li&gt;Digital learning: studies using digital resources to extend knowledge and skills in the use of new digital systems or features and other skills&lt;/li&gt;\n&lt;li&gt;Organisational policies and standards: operates in line with organisational polices, standards, legislation, professional ethics, privacy and confidentiality and knows where to source these and when and how to escalate any issues&lt;/li&gt;\n&lt;li&gt;Thinking skills: thinks logically and creatively to resolve digital problems&lt;/li&gt;\n&lt;li&gt;Business and decision-making skills: demonstrates an understanding of the organisational impact of decisions that they take&lt;/li&gt;\n&lt;li&gt;Continuous improvement: effectively uses complex management information systems to drive productivity and performance of self and department, whilst proactively looking for ways to develop digital systems and processes to drive efficiency&lt;/li&gt;\n&lt;li&gt;Teamwork: competently uses digital technologies to operate effectively as part of a team, and with other stakeholders, enabling sharing of information and best practice&lt;/li&gt;\n&lt;li&gt;Work environment: maintains a productive, professional and secure working environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Option 1 – Digital Applications Technician&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Digital Technologies: applies sophisticated digital technologies effectively to achieve objectives&lt;/li&gt;\n&lt;li&gt;Information Systems: monitors and operates complex information systems&lt;/li&gt;\n&lt;li&gt;Digital Implementation: supports digital operations and/or digital change and transformation by championing and demonstrating best practices&lt;/li&gt;\n&lt;li&gt;Digital problem solving: identifies and resolves digital problems independently for self and colleagues to maintain productivity and improve quality of service&lt;/li&gt;\n&lt;li&gt;Digital skills support: coaches and guides less experienced colleagues to develop their digital skills and to use digital systems effectively&lt;/li&gt;\n&lt;li&gt;Productivity software: uses a range of digital applications appropriate to the role to create, update, edit, manage, analyse and present data and information&lt;/li&gt;\n&lt;li&gt;Working with colleagues: works with internal colleagues across the organisation – whether digital specialists or otherwise&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Option 2 – Digital Service Technician&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Customer service: helps customers and clients register for and access information, products and services through online digital channels and represents the organisations brand through digital channels&lt;/li&gt;\n&lt;li&gt;Digital problem solving: diagnoses and resolves customers and client’s problems with accessing and using digital technologies and applies the organisation’s diagnostic processes for fault finding escalating and reporting problems with the digital technologies, using content management systems as appropriate&lt;/li&gt;\n&lt;li&gt;Software applications and operating systems: installs and configures software on to end-user devices, including operating systems and applications and demonstrates deployment of software applications and operating systems remotely&lt;/li&gt;\n&lt;li&gt;Multi-tasking: applies excellent multi-tasking capability to be able to capture information at a conversational pace whilst navigating numerous systems&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Customer service: takes responsibility for customer service and uses diagnostic tools and digital systems to manage external end-user dissatisfaction through to resolution&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;Business skills: demonstrates first point resolution whilst balancing customer and business needs to secure the appropriate solution&lt;/li&gt;\n&lt;li&gt;Working with customers: works with a very wide range of customers and external users – from a wide variety of backgrounds, with a wide variety of needs and with a wide variety of digital competence, including dealing with difficult and challenging situations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Technical Knowledge and Understanding&lt;/strong&gt;&lt;/h3&gt;\n&lt;h4&gt;&lt;strong&gt;Core&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Understands&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;the most common digital office technologies, including collaborative tools, that are used by organisations for internal and external communications and best working practices&lt;/li&gt;\n&lt;li&gt;modern digital infrastructure, incuding computer systems fundamentals including physical, virtual and cloud; physical systems including hardware peripherals; operating software and software devices; servers; the internet of things; networking fundamentals; virtualisation technologies and cloud&lt;/li&gt;\n&lt;li&gt;the importance of and the technologies for backing up data securely&lt;/li&gt;\n&lt;li&gt;how to apply the processes and procedures for the secure handling of data&lt;/li&gt;\n&lt;li&gt;the concepts and fundamentals of data, including searching, storing, integrating and organising data; how organisations use various types of data; the key features and functions of information systems; data formats and their importance for analysis; data entry and maintenance; visualisation and presentation of data; data modelling; relationship modelling and data analysis to identify trends and insights&lt;/li&gt;\n&lt;li&gt;the organisational importance of information security and its management including following policies and procedures and key legislative requirements&lt;/li&gt;\n&lt;li&gt;the major types of threats and risk that apply to any organisation with a working understanding of those that apply to their role and the associated best practice for their own secure working&lt;/li&gt;\n&lt;li&gt;operational aspects of risk including maintaining steady state/business as usual security principals for individuals and systems including personal data, access, identity management, encryption and passwords&lt;/li&gt;\n&lt;li&gt;the individual and company risks, responsibilities and requirements in relation to legislation, professional ethics, privacy and confidentiality and the implications for their role&lt;/li&gt;\n&lt;li&gt;the principles behind an organisation’s digital presence and delivery and the techniques required to maintain this and how to represent and safeguard the brand and reputation in relation to the digital offer&lt;/li&gt;\n&lt;li&gt;how best to communicate using the different digital communication channels and how to adapt appropriately to different audiences&lt;/li&gt;\n&lt;li&gt;the limitations and extent of the internet to be able to connect to, research, locate and access information securely&lt;/li&gt;\n&lt;li&gt;how to plan and organise own learning activities to maintain and develop digital skills&lt;/li&gt;\n&lt;li&gt;the importance of effective time management and the need to prioritise effectively&lt;/li&gt;\n&lt;li&gt;the need for continuous improvement with the application and use of digital technologies and how this benefits the organisation&lt;/li&gt;\n&lt;li&gt;awareness of current, emerging and fringe digital technologies and the implications for work&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Option 1 – Digital Applications Technician&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Understands&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;the most common productivity software applications used to create, update, edit, manage, analyse and present data and information and best working practices&lt;/li&gt;\n&lt;li&gt;the main features and benefits of digital information systems and how these are used to maintain information and to support service delivery and best working practices&lt;/li&gt;\n&lt;li&gt;the basic working practices for productive use and maintenance of business hardware, software and networks&lt;/li&gt;\n&lt;li&gt;agile methodologies and work practices, Continuous Innovation with Continuous Development (CIDC)&lt;/li&gt;\n&lt;li&gt;how organisations incorporate digital technologies into key business functions, such as finance, sales and marketing, operations and HR and the implications for their role&lt;/li&gt;\n&lt;li&gt;how to assist with digital operations and digital change projects&lt;/li&gt;\n&lt;li&gt;how to train and support internal colleagues to make the best use of the organisation’s technology-based productivity tools.&lt;/li&gt;\n&lt;li&gt;the features and key differences between different data storage systems including the Cloud and databases&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Option 2 – Digital Service Technician&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Understands&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;how to use databases, CRM packages, content management systems, office systems, web technologies; e mail and mass e mail tools, SMS, live chat, video chat and messaging platforms; survey tools; social media tools for business; and other collaborative tools, including web conferencing&lt;/li&gt;\n&lt;li&gt;the importance of and the key principles and features of processes for diagnosing users’ digital problems&lt;/li&gt;\n&lt;li&gt;end-user systems; operating systems; application types and deployment methods; support processes such as password management, access control and connection to remote resources; version management, including patching; mobile device management including segregation of provide and business use; and software licenses and approved software&lt;/li&gt;\n&lt;li&gt;the processes and principles of content management systems to identify and resolve uses’ digital problems&lt;/li&gt;\n&lt;li&gt;how best to communicate to different users though digital channels and how to adapt appropriate to different audiences&lt;/li&gt;\n&lt;li&gt;what is meant by a CRM system, how to use it for accessing and maintaining the customers’ digital information and the contribution of CRM to an organisations performance and customer service&lt;/li&gt;\n&lt;li&gt;sales and customer service support processes, and their role within it including in relation to digital impact and possible damage to brand reputation&lt;/li&gt;\n&lt;li&gt;how the organisation’s legal and ethical position fits with organisational needs and customer expectations&lt;/li&gt;\n&lt;li&gt;the key features and importance of escalation and reporting procedures when dealing with users’ digital problems&lt;/li&gt;\n&lt;li&gt;how to coach and support a wide variety of external users to help them make the best use of digital technologies to access information, services or products and conduct transactions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Core Behaviours&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Works independently and takes responsibility maintains productive and professional working environment with secure working practices&lt;/li&gt;\n&lt;li&gt;Uses own initiative when implementing digital technologies and when finding solutions&lt;/li&gt;\n&lt;li&gt;Resilient and positive mental attitude when dealing with difficult situations&lt;/li&gt;\n&lt;li&gt;Maintains thorough and organised approach to work when working with digital technologies and prioritising as appropriate&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Professional Recognition: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Those completing the Digital Support Technician apprenticeship will be recognised for entry onto the BCS, the Chartered Institute for IT, Register of IT Technicians confirming SFIA level 3 professional competence. Those completing the apprenticeship can apply for registration&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;English and Maths: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Level 2 English and Maths will need to be achieved, if not already, prior to taking the end point assessment. For those with an education, health and care plan or a legacy statement the apprenticeship’s English and maths minimum requirement is Entry Level 3 and British Sign Language qualification is an alternative to English qualifications for whom this is their primary language&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The duration of this apprenticeship is typically 15 months&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is a level 3 apprenticeship&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review Date:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This standard will be reviewed in three years&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in organisations, large and small, in all sectors, and within public, private and voluntary organisations. Organisations of all types are increasing applying digital technologies across all their business functions to maximise productivity. The demand for people who can support and implement these digital operations and digital change projects is increasing. Organisations of all types are increasingly supporting their service users through online and digital channels. Organisations are developing omni-channel approaches to meeting customer needs to deflect telephone and face-to-face contacts and so reduce costs.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;A Digital Support Technician DST helps the organisation&#39;s stakeholders maximise the use of, and value they receive from, digital technologies, services or products. They will help the stakeholders to exploit the technology, by a variety of techniques including: providing coaching and instruction, recommending changes to products and systems. They will also provide support by diagnosing system and stakeholder issues, recommending solutions and or workarounds. They will utilise professional customer support techniques and communication to support the stakeholder through a variety of digital and or social channels. They will also utilise and improve support knowledge bases and agents, including artificial intelligence models.&lt;/p&gt;\n&lt;p&gt;A DST will use and maintain information systems such as Customer Relationship Management tools to manage service delivery, improve user experience and increase efficiency.&lt;/p&gt;\n&lt;p&gt;Due to the varied nature of the role and variety of organisations which employ DST for training and assessment purposes, interpretation can be applied. Tooling, testing, diagnostics, fault finding and applications could be either AI, automated and or traditional methods. Flexibility is designed to aid longevity, enabling the standard to evolve with technologies and adoption.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "6709c8b1-6553-4c62-9ffe-48a125ed9b11",
+      "detail": "Types of digital office automation to create, update, edit, manage and present data."
+    },
+    {
+      "knowledgeId": "88d4e758-2d45-48dc-ba07-f7a63d54a07d",
+      "detail": "Types of digital architecture and how it relates to their organisation, such as physical storage, cloud, operating systems and servers."
+    },
+    {
+      "knowledgeId": "a7ee3647-ef14-4fbf-9924-8dbbe4ded0ce",
+      "detail": "The importance of securely backing up data, the technologies that support it and its relevance to business continuity."
+    },
+    {
+      "knowledgeId": "8d49aa44-d091-44ea-a07f-89f5cfc2e970",
+      "detail": "The principles, processes and procedures for the secure handling of data in compliance with legislation including Confidentially Integrity Availability CIA Triad and or People Process Product"
+    },
+    {
+      "knowledgeId": "2e278104-ac80-4d75-8267-d0108b77fc38",
+      "detail": "The concepts and fundamentals of data lifecycle: Creating, Processing, Analysing, Storing and Destruction"
+    },
+    {
+      "knowledgeId": "d194cb60-36c5-489c-975c-8f4e1333c73d",
+      "detail": "The importance of data types and formats for example structured, unstructured, qualitative and quantitative."
+    },
+    {
+      "knowledgeId": "215cb41d-72f0-430e-b037-f7d61b55dc16",
+      "detail": "Techniques for diagnosing stakeholder’s digital problems for example problem solving life cycle."
+    },
+    {
+      "knowledgeId": "57117cc1-3dbb-4bec-9bd2-181ae4808517",
+      "detail": "Functions and features of digital management system to maintain stakeholder information for example helpdesk, CRMs"
+    },
+    {
+      "knowledgeId": "b819cd39-45e3-4fe9-bdde-0e755489ed24",
+      "detail": "Approaches to communication and how to adapt to different audiences and situations."
+    },
+    {
+      "knowledgeId": "b261be55-50ea-4c62-8042-8464268788b9",
+      "detail": "Constraints when searching for reliable and suitable information for example Currency- Relevance- Authority- Accuracy- Purpose  "
+    },
+    {
+      "knowledgeId": "bfc7fcfd-48b0-4f75-a3a0-0caa85ae7d4f",
+      "detail": "Approaches to planning and organising own learning activities to develop digital skills CPD for example AI and sustainability"
+    },
+    {
+      "knowledgeId": "53853c46-73eb-43a5-a3e7-e1f4441c5cdd",
+      "detail": "Approaches to time management and prioritisation"
+    },
+    {
+      "knowledgeId": "84a323e0-69c1-41e9-81f6-cd61d30ae0c1",
+      "detail": "Approaches to improving digital services, tools, and systems as part of continuous improvement "
+    },
+    {
+      "knowledgeId": "ac6c932f-140c-41c4-ab4b-840278cc6f4e",
+      "detail": "Current and emerging digital technologies including the impacts of digital technologies for climate change, sustainability and moving to net carbon zero"
+    },
+    {
+      "knowledgeId": "5917d930-6586-447f-805d-4470f05fe8f1",
+      "detail": "Approaches to assessing the risk and impact of their actions on other stakeholders"
+    },
+    {
+      "knowledgeId": "0988a58e-6691-4c1e-8e11-0e297654d436",
+      "detail": "Digital tools and information systems that are used to create, manage, and present data and information, and how to support stakeholders in using these systems effectively."
+    },
+    {
+      "knowledgeId": "984e2fb1-7e89-4b79-8cf5-9b3a24100095",
+      "detail": "Working practices for supporting and or administering digital systems, including how to minimise disruption and communicate the impact of technical procedures. "
+    },
+    {
+      "knowledgeId": "3f7fc675-2dfd-414f-a298-5094e3273511",
+      "detail": "Organisational approaches to incorporating different digital systems across business functions and the implications for their stakeholders."
+    },
+    {
+      "knowledgeId": "5b07f2dc-b56f-4451-b2e6-e85dc4c2f86c",
+      "detail": "Approaches to training and supporting stakeholders to make the best use of the organisation’s digital tools. "
+    },
+    {
+      "knowledgeId": "50182738-0cc9-4c1a-9afc-de9c9d0d35e0",
+      "detail": "Research techniques to gather information for example prompt engineering "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "d98ab540-b921-4487-8712-83d24405b09e",
+      "detail": "Work independently and take responsibility to maintain productive and professional working environment with secure working practices."
+    },
+    {
+      "behaviourId": "db5b8b0f-9630-4928-845b-a07062d0ded9",
+      "detail": "Self-motivated and uses own initiative when implementing digital technologies and finding solutions to stakeholder’s problems."
+    },
+    {
+      "behaviourId": "1aaa8477-169b-493e-b01b-08c7043ee68e",
+      "detail": "Professional approach to dealing with stakeholder’s problems."
+    },
+    {
+      "behaviourId": "8d54a6e4-0681-4cf3-ba2e-930490856ab6",
+      "detail": "Considers the organisational impact of their actions and decisions on other stakeholders"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e8983867-3bae-404f-8baf-6db31aff3e15",
+      "detail": "Use digital channels and technologies, to work collaboratively when sharing information, best practice and supporting stakeholders."
+    },
+    {
+      "skillId": "7d308517-f201-49de-ba9d-0e9a271a3a93",
+      "detail": "Use data accurately and securely to meet business requirements and in line with organisational procedures and legislation."
+    },
+    {
+      "skillId": "87741164-9155-4363-b307-e9f06384ef92",
+      "detail": "Apply confidentiality, integrity and availability principles to the handling, processing and storage of data and or information."
+    },
+    {
+      "skillId": "db53529a-02c6-430c-a0d6-94fdf86ba64c",
+      "detail": "Respond to enquiries, providing support and information utilising digital channels and in line with organisation process"
+    },
+    {
+      "skillId": "54d971f6-3813-4857-b8d5-f5b01f3a664d",
+      "detail": "Operate digital information systems, for example• Management- Finance Human Resources• Bespoke departmental or organisational systems or databases"
+    },
+    {
+      "skillId": "648d6165-dbad-41a6-8dc4-30bbb0b7e6b4",
+      "detail": "Adapt communication techniques for different audiences and or situations."
+    },
+    {
+      "skillId": "142a81b7-321a-4cf2-910e-eee726574fa1",
+      "detail": "Undertake CPD to develop digital skills and knowledge required in their role for example AI and sustainability. "
+    },
+    {
+      "skillId": "ade8c60a-4a3b-4071-a668-974310c382e8",
+      "detail": "Risk assess the organisational impact of decisions that they take"
+    },
+    {
+      "skillId": "13343594-8e15-4e16-89c5-cf7a0d7f7649",
+      "detail": "Use digital services, tools, and or systems as part of continuous improvement "
+    },
+    {
+      "skillId": "e9d38007-417d-427c-ad1f-ece2fa9c7b46",
+      "detail": "Apply techniques for diagnosing stakeholder’s digital problems and record outcomes"
+    },
+    {
+      "skillId": "c578f797-7b77-48e7-bbf0-1fa531ff495f",
+      "detail": "Communicate with, and or advise end users in the use of digital systems or resources "
+    },
+    {
+      "skillId": "7e835e5d-e03d-47bc-bb2c-6a9ac9826a0d",
+      "detail": "Support end-user systems physically or remotely. For example: software, hardware, operating systems or applications"
+    }
+  ],
+  "optionsUnstructuredTemplate": [
+    "Digital Applications Technician",
+    "Digital Service Technician"
+  ],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0046",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "BT, Ministry of Defence, Microsoft, Lloyds Banking, Computacenter, Tecman, JCB, York county council. NHS, Government legal department, DWP, Home Office, Amazon, Post Office, BBC ",
+  "otherInvolvedStakeholders": "Firebrand, City and Guilds, Wiseorigin, Learntech, Progressminded, Accelerate people, BCS,  TC Partnership, Academy4pm, Apprenitfy, Istforassessing",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Applications and on-line service executive",
+    "Data administrator",
+    "Database administrator",
+    "Digital applications specialist",
+    "Digital champion",
+    "Digital coach",
+    "Digital service advisor",
+    "Digital service agent",
+    "Digital service support",
+    "Digital support professional",
+    "Digital systems operator",
+    "Digital transformation associate",
+    "Ict support analyst",
+    "It operations technician",
+    "Operations technical specialist",
+    "Service centre operator",
+    "Technical support professional"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Support and Services",
+  "cluster": "IT support and services technician",
+  "clusterId": "187",
+  "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
+  "createdDate": "2026-08-12T13:21:28 +00:00",
+  "lastUpdated": "2026-08-12T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-04-11T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0120",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Register of IT Technicians",
+      "level": "Level 3",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "4c6ce6f9-575b-46bb-9630-c7b286743705",
+      "dutyDetail": "Provide technical support to customers through a range of communication channels adapting language for the intended audience.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d98ab540-b921-4487-8712-83d24405b09e",
+        "db5b8b0f-9630-4928-845b-a07062d0ded9"
+      ],
+      "mappedKnowledge": [
+        "6709c8b1-6553-4c62-9ffe-48a125ed9b11",
+        "d194cb60-36c5-489c-975c-8f4e1333c73d",
+        "57117cc1-3dbb-4bec-9bd2-181ae4808517",
+        "b819cd39-45e3-4fe9-bdde-0e755489ed24",
+        "53853c46-73eb-43a5-a3e7-e1f4441c5cdd",
+        "984e2fb1-7e89-4b79-8cf5-9b3a24100095"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e8983867-3bae-404f-8baf-6db31aff3e15",
+        "db53529a-02c6-430c-a0d6-94fdf86ba64c",
+        "c578f797-7b77-48e7-bbf0-1fa531ff495f",
+        "7e835e5d-e03d-47bc-bb2c-6a9ac9826a0d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7963bb2e-8dbb-405e-bc69-1db969fb210c",
+      "dutyDetail": "Manage their time, prioritising their digital support workflow to meet critical milestones.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d98ab540-b921-4487-8712-83d24405b09e",
+        "db5b8b0f-9630-4928-845b-a07062d0ded9"
+      ],
+      "mappedKnowledge": [
+        "53853c46-73eb-43a5-a3e7-e1f4441c5cdd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7d308517-f201-49de-ba9d-0e9a271a3a93",
+        "13343594-8e15-4e16-89c5-cf7a0d7f7649"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "09f9cdbe-e546-4eaf-a663-578ab753dfe8",
+      "dutyDetail": "Apply organisational policies, legislation and escalation procedure to their role, and allocated tasks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d98ab540-b921-4487-8712-83d24405b09e",
+        "8d54a6e4-0681-4cf3-ba2e-930490856ab6"
+      ],
+      "mappedKnowledge": [
+        "8d49aa44-d091-44ea-a07f-89f5cfc2e970"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "87741164-9155-4363-b307-e9f06384ef92",
+        "db53529a-02c6-430c-a0d6-94fdf86ba64c",
+        "ade8c60a-4a3b-4071-a668-974310c382e8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2b7fc96f-30ae-469e-b56c-5f2d98f68177",
+      "dutyDetail": "Maintain physical and personal security by applying policies and complying with legislation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d98ab540-b921-4487-8712-83d24405b09e"
+      ],
+      "mappedKnowledge": [
+        "a7ee3647-ef14-4fbf-9924-8dbbe4ded0ce",
+        "8d49aa44-d091-44ea-a07f-89f5cfc2e970",
+        "57117cc1-3dbb-4bec-9bd2-181ae4808517",
+        "b261be55-50ea-4c62-8042-8464268788b9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "87741164-9155-4363-b307-e9f06384ef92"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f79692c8-ade7-4f59-965b-3e4f8b3a86f3",
+      "dutyDetail": "Undertake analysis to identify insights, make changes or recommend improvements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8d54a6e4-0681-4cf3-ba2e-930490856ab6"
+      ],
+      "mappedKnowledge": [
+        "215cb41d-72f0-430e-b037-f7d61b55dc16",
+        "84a323e0-69c1-41e9-81f6-cd61d30ae0c1",
+        "50182738-0cc9-4c1a-9afc-de9c9d0d35e0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13343594-8e15-4e16-89c5-cf7a0d7f7649"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2e06d872-485f-4918-9d04-47d411f168b9",
+      "dutyDetail": "Support organisational continuous improvement activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "db5b8b0f-9630-4928-845b-a07062d0ded9"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7e835e5d-e03d-47bc-bb2c-6a9ac9826a0d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e049cfdf-52ee-4d0e-9654-7ef4de45423d",
+      "dutyDetail": "Resolve digital issues using different tools and technologies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "db5b8b0f-9630-4928-845b-a07062d0ded9"
+      ],
+      "mappedKnowledge": [
+        "984e2fb1-7e89-4b79-8cf5-9b3a24100095"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "db53529a-02c6-430c-a0d6-94fdf86ba64c",
+        "54d971f6-3813-4857-b8d5-f5b01f3a664d",
+        "c578f797-7b77-48e7-bbf0-1fa531ff495f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fb006b92-1a1a-4515-9ade-332f577fef11",
+      "dutyDetail": " Collaborate with stakeholders to manage expectations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1aaa8477-169b-493e-b01b-08c7043ee68e",
+        "8d54a6e4-0681-4cf3-ba2e-930490856ab6"
+      ],
+      "mappedKnowledge": [
+        "88d4e758-2d45-48dc-ba07-f7a63d54a07d",
+        "5917d930-6586-447f-805d-4470f05fe8f1",
+        "984e2fb1-7e89-4b79-8cf5-9b3a24100095"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e8983867-3bae-404f-8baf-6db31aff3e15",
+        "ade8c60a-4a3b-4071-a668-974310c382e8",
+        "c578f797-7b77-48e7-bbf0-1fa531ff495f",
+        "7e835e5d-e03d-47bc-bb2c-6a9ac9826a0d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b56f270e-ff91-4af2-8985-0f9736c81123",
+      "dutyDetail": "Take responsibility for own continuous professional development CPD by keeping up to date with technological developments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "db5b8b0f-9630-4928-845b-a07062d0ded9"
+      ],
+      "mappedKnowledge": [
+        "b261be55-50ea-4c62-8042-8464268788b9",
+        "bfc7fcfd-48b0-4f75-a3a0-0caa85ae7d4f",
+        "ac6c932f-140c-41c4-ab4b-840278cc6f4e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "142a81b7-321a-4cf2-910e-eee726574fa1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0c6eb543-bdfe-44e8-ab80-cc5373236684",
+      "dutyDetail": "Document actions to ensure a clear audit trail and progression of issues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "2e278104-ac80-4d75-8267-d0108b77fc38",
+        "84a323e0-69c1-41e9-81f6-cd61d30ae0c1",
+        "984e2fb1-7e89-4b79-8cf5-9b3a24100095"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "54d971f6-3813-4857-b8d5-f5b01f3a664d",
+        "648d6165-dbad-41a6-8dc4-30bbb0b7e6b4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "43601576-f647-495c-9745-8a0390c30a79",
+      "dutyDetail": "Determine the root cause of issues to identify the potential solutions and act when problems are identified. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d98ab540-b921-4487-8712-83d24405b09e",
+        "1aaa8477-169b-493e-b01b-08c7043ee68e"
+      ],
+      "mappedKnowledge": [
+        "0988a58e-6691-4c1e-8e11-0e297654d436"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e9d38007-417d-427c-ad1f-ece2fa9c7b46"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e80e9b1b-9dc4-42d6-8240-69d5bf3bfab7",
+      "dutyDetail": "Source and provide information and advice to help upskill users.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "db5b8b0f-9630-4928-845b-a07062d0ded9"
+      ],
+      "mappedKnowledge": [
+        "0988a58e-6691-4c1e-8e11-0e297654d436",
+        "3f7fc675-2dfd-414f-a298-5094e3273511",
+        "5b07f2dc-b56f-4451-b2e6-e85dc4c2f86c",
+        "50182738-0cc9-4c1a-9afc-de9c9d0d35e0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c578f797-7b77-48e7-bbf0-1fa531ff495f",
+        "7e835e5d-e03d-47bc-bb2c-6a9ac9826a0d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Digital Applications Technician",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Digital Service Technician",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
+  "careerStarter": true,
+  "coronationEmblem": false,
+  "publishDate": "2026-10-29T00:00:00"
+}
