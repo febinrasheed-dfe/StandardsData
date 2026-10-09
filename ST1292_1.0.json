@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-07-14T00:00:00",
+  "changedDate": "2026-09-24T00:00:00",
   "earliestStartDate": "2022-09-13T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Water industry network technicians respond to incidents and monitor water or waste water networks, resolving issues or identifying action required.",
   "level": 3,
@@ -550,7 +550,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0682",
-  "tbMainContact": "dchamberlai@anglianwater.co.uk; aleck.bruce@nwl.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Anglian Water, Northumbrian Water, Severn Trent Water,  United Utilities, Wessex Water",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -576,7 +576,7 @@
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2024-10-25T13:15:22 +00:00",
-  "lastUpdated": "2025-07-14T00:00:00 +00:00",
+  "lastUpdated": "2026-09-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-09-13T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1292",
@@ -2328,5 +2328,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-14T00:00:00"
+  "publishDate": "2027-03-24T00:00:00"
 }
