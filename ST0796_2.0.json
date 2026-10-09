@@ -1,0 +1,672 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 531,
+  "referenceNumber": "ST0796",
+  "learningAimClassCode": "",
+  "title": "Senior professional economist",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0796",
+  "qualificationStandardUrl": null,
+  "versionNumber": "2.0",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-15T00:00:00",
+  "earliestStartDate": "2026-09-15T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Design, implement, and lead programmes of economic analysis to support decision-making.",
+  "level": 7,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "509",
+  "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Legal, finance and accounting",
+  "keywords": [
+    "Economic",
+    "professional",
+    "programmes",
+    "banks",
+    "design",
+    "implement"
+  ],
+  "jobRoles": [
+    "Economic adviser",
+    "Economic consultant",
+    "Financial economist",
+    "Industrial economist",
+    "International economist",
+    "Labour economist",
+    "Macroeconomist",
+    "Senior economist",
+    "Senior professional economist",
+    "Trade economist",
+    "Agricultural economist",
+    "Climate change economist",
+    "Development economist",
+    "Energy economist",
+    "Environmental economist"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0796-v2-0?view=epa",
+  "ssa1": "11 Social Sciences",
+  "ssa2": "11.4 Economics",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;no legacy content&lt;/p&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;This occupation is found in both the public and private sectors. Senior professional economists (SPEcs) may work in industries such as energy, telecommunications, banking, finance, and pensions. They may also work as consultants within specialist consulting firms.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;The broad purpose of the SPEc role is to design, implement, and lead programmes of economic analysis that support decision-making and improve outcomes for clients and stakeholders.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;SPEcs deliver high-quality economic advice and analysis to both internal and external stakeholders. They communicate their findings in a variety of formats, tailored to the needs and levels of understanding of their audience. They use economic models to demonstrate relationships between key variables and may develop business cases for board approval, setting out the economic impacts of different courses of action.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;SPEcs apply advanced economic knowledge and skills across a wide and often unpredictable range of contexts. They provide advice on the impacts of policy decisions and propose measures to mitigate risks or maximise benefits. Their work may support major spending programmes, investment decisions, commercial activities such as mergers and acquisitions, and legal proceedings. For example, they may assess the likely outcomes of investment in a new factory or the effects of proposed government legislation.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;In their daily work, a SPEc interacts with a wide range of stakeholders, including lawyers, senior leaders, board members, local leaders, Permanent Secretaries, and Ministers. They also work closely with finance professionals and other specialists such as social researchers, statisticians, operational researchers, scientists, and engineers.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;SPEcs draw on the expertise of colleagues and specialists, including statisticians and corporate financiers, to inform and strengthen their advice. They frequently engage with stakeholders, manage projects, contribute to team activities, and undertake leadership responsibilities. Depending on the nature of the organisation and project, they may commission work from others, oversee analysis, and conduct their own desk-based research.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;They work independently as well as collaboratively, often leading teams and influencing others through their expertise. In larger organisations, they may manage or coach junior staff. In smaller organisations, they may work with greater autonomy and less professional oversight, and may be managed by a non-economist.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;A SPEc is responsible for developing and implementing programmes of analysis that underpin policy and business decisions. They design and carry out research across a range of areas, such as assessing the value of non-market goods and services or evaluating the impacts of climate change in specific contexts. They operate in complex environments and must understand the wider strategic context in which their advice is used.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;They take a critical approach to analysing, interpreting, and evaluating complex data. They have a strong understanding of a broad range of economic methodologies and select the most appropriate techniques for the task, including econometrics and data science methods.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: &quot; segoe=&quot;&quot; ui&quot;,=&quot;&quot; sans-serif;=&quot;&quot; color:=&quot;&quot; rgba(0,=&quot;&quot; 0,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;SPEcs develop specialist knowledge and are recognised as experts in their field. They demonstrate thought leadership and often specialise in particular areas of economics. They manage client relationships on a day-to-day basis, identify opportunities where analysis can add value, and communicate their conclusions with conviction and impact. They may also manage research or programme budgets and typically have substantial autonomy over their work.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "a131e045-48c2-4394-9d3e-43157d2b80a3",
+      "detail": "Economic theory, including micro-economic and macro-economic theories, and approaches to their application in analysing and solving complex problems in diverse contexts."
+    },
+    {
+      "knowledgeId": "4b727ca1-6378-46e5-a4e9-b3c1e76a7b02",
+      "detail": "Advanced econometric techniques, such as micro-econometric methods, time series analysis, and panel data analysis, recognising their limitations and the appropriate contexts for their use."
+    },
+    {
+      "knowledgeId": "11e67079-9428-4f84-83af-d1ab0f34bf87",
+      "detail": "Data quality and robustness, including approaches to assessing the robustness and quality of economic statistics, model-generated data, and external information."
+    },
+    {
+      "knowledgeId": "69ec3e1c-69dc-4cd7-85d5-3bc6d549eee5",
+      "detail": "Data visualisation and presentation, including advanced approaches to data visualisation and presentation, and approaches to the use of digital tools and channels to communicate complex information effectively."
+    },
+    {
+      "knowledgeId": "76757d90-ab6b-4b1c-8808-26de72ba5c45",
+      "detail": "Appraisal and evaluation techniques, such as cost-benefit analysis, cost-effectiveness analysis, multi-criteria decision analysis, and non-market valuation."
+    },
+    {
+      "knowledgeId": "8dfee3ad-6bce-4541-84da-f134eefe8600",
+      "detail": "Features of economic models and policy implications, including competing economic models and their implications for policymaking, such as market failures, rationales for intervention, and business strategies."
+    },
+    {
+      "knowledgeId": "258204d4-b695-420d-a358-1ffc42a3f8a1",
+      "detail": "Quality assurance in analysis, including approaches to developing and implementing quality assurance techniques to identify and mitigate risks to the quality of economic analysis."
+    },
+    {
+      "knowledgeId": "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a",
+      "detail": "The wider context affecting economic analysis, including political, economic, social, technological, legal, and environmental factors, the broader economics of biodiversity and climate change, and approaches to assessing their impact on stakeholders and analytical outcomes."
+    },
+    {
+      "knowledgeId": "f1fdf596-789a-4aa5-9a1b-9106085e627c",
+      "detail": "Strategic business objectives, including how to formulate and implement high-level business objectives and strategies to anticipate and meet the demands for economic analysis."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "e22e3030-9af9-41df-99bb-4f78e86078e2",
+      "detail": "Demonstrates ethical conduct when carrying out analysis, including attributing sources and ideas to their originators, and provides honest advice on all relevant aspects of an issue while avoiding bias."
+    },
+    {
+      "behaviourId": "545d1147-c0be-4ee5-8c41-8aededb974ae",
+      "detail": "Is proactive when solving problems, and seeks ideas for improvements and opportunities to apply analysis within the relevant organisational context."
+    },
+    {
+      "behaviourId": "ea9b84f4-ed28-47a3-8532-5109d803b254",
+      "detail": "Advocates for analysis and uses professional judgement to reach conclusions, even when evidence is incomplete."
+    },
+    {
+      "behaviourId": "c43d0544-b896-4e07-bec3-21759375d226",
+      "detail": "Works collaboratively, including understanding others' points of view and adapting approaches accordingly, seeks to reconcile different views, builds trust with colleagues and clients, and shares ideas and work with other professionals."
+    },
+    {
+      "behaviourId": "783fd071-9a5b-4836-a831-f76a464a7a91",
+      "detail": "Respects and appreciates diversity by listening to others' points of view, however challenging, inviting and considering feedback, and demonstrating awareness of the impact of language and non-verbal behaviour on others."
+    },
+    {
+      "behaviourId": "a2b1bf8e-362a-417e-816f-c38efcaa479f",
+      "detail": "Takes a rigorous approach to analysis that strives for accuracy and detail in analytical outputs."
+    },
+    {
+      "behaviourId": "d59c71f0-fe5f-46b2-8bf2-68b38cb1ba2a",
+      "detail": "Leads others to deliver economic analysis outcomes."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "3a4fdb81-b751-49f3-9df2-4ff8dba51688",
+      "detail": "Apply micro-economic and macro-economic theories and modelling, including econometrics, to inform recommendations for decision-makers."
+    },
+    {
+      "skillId": "ed32052f-981b-449e-a04a-7777e1280a81",
+      "detail": "Analyse policy or other questions by selecting the most appropriate analytical method, including consideration of key economic approaches where appropriate, such as non-market valuation methods, the counterfactual, opportunity cost, risk and uncertainty, and the estimation of discount rates and costs of capital."
+    },
+    {
+      "skillId": "a0ca887e-4f10-4337-b43c-d908105df21f",
+      "detail": "Use digital tools and technologies, such as coding, Artificial Intelligence, and software packages, safely and securely, as relevant to the role."
+    },
+    {
+      "skillId": "eae7a0fb-18a8-4b45-a64f-a49dc658b012",
+      "detail": "Document, use, record, and store data and information relating to individuals securely and in line with legal and regulatory requirements, and local and national policies, including the safe use of digital technologies."
+    },
+    {
+      "skillId": "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+      "detail": "Carry out data analysis, including cleansing and manipulating data, identifying data limitations, and explaining them to stakeholders."
+    },
+    {
+      "skillId": "c93812da-13e4-41d4-9b2a-4e1125fa7e52",
+      "detail": "Use data visualisation techniques to explain concepts and implications to stakeholders to aid their understanding and facilitate decision-making."
+    },
+    {
+      "skillId": "b597fe32-cff4-49b8-ade2-821e2284d58c",
+      "detail": "Communicate economic principles and concepts to technical and non-technical stakeholders, present trade-offs and uncertainties and articulate these clearly, and frame advice, drawing on knowledge of stakeholders' positions, for maximum impact."
+    },
+    {
+      "skillId": "859e111b-0d13-459e-9433-c66e65a2c8e9",
+      "detail": "Research and critically assess available information sources, and judge their validity and usefulness in responding to economic challenges."
+    },
+    {
+      "skillId": "f1751dcf-ce82-4f17-bcbe-90f9eea32306",
+      "detail": "Critically assess economic analysis produced by others and suggest improvements."
+    },
+    {
+      "skillId": "3c6f80b3-9bbd-47c1-9daf-d169fa026e48",
+      "detail": "Design and implement quality assurance processes, following organisational best practice and drawing on sources of external expertise."
+    },
+    {
+      "skillId": "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+      "detail": "Research and anticipate new trends, opportunities, technologies, and challenges that may influence outcomes of interest to clients."
+    },
+    {
+      "skillId": "c167889e-cb2a-4896-9336-686f931b4a91",
+      "detail": "Build and maintain relationships with stakeholders, including developing and utilising internal and external professional networks."
+    },
+    {
+      "skillId": "f0eeb012-d7c9-4fb0-ba4e-330d9ce7cebf",
+      "detail": "Deploy project management techniques, including managing delivery risks."
+    },
+    {
+      "skillId": "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+      "detail": "Promote compliance with regulations, legislation, and policies that support and promote equity, diversity, and inclusion in the workplace."
+    },
+    {
+      "skillId": "e1f9f592-707d-4df4-a158-a9faf933daf1",
+      "detail": "Identify, analyse, and communicate how impacts may vary across different social groups, including those with protected characteristics."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2026-08-06T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2019-12-20T00:00:00 +00:00",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0153",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Bank of England, Council of the society of professional economists, Department of Business and Trade, Department of Energy Security , Food Standards Agency (FSA), HM Treasury, HMRC, Institute for Fiscal Studies, OXERA, UKRI",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Economic adviser",
+    "Economic consultant",
+    "Financial economist",
+    "Industrial economist",
+    "International economist",
+    "Labour economist",
+    "Macroeconomist",
+    "Senior economist",
+    "Senior professional economist",
+    "Trade economist",
+    "Agricultural economist",
+    "Climate change economist",
+    "Development economist",
+    "Energy economist",
+    "Environmental economist"
+  ],
+  "greenJobTitles": [
+    "Agricultural economist",
+    "Climate change economist",
+    "Development economist",
+    "Energy economist",
+    "Environmental economist"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Financial",
+  "cluster": "Financial services professional",
+  "clusterId": "243",
+  "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
+  "createdDate": "2026-09-15T10:56:05 +00:00",
+  "lastUpdated": "2026-09-15T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-12-20T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0796",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0796-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0796-v2-0",
+  "qualifications": [
+    {
+      "qualificationId": "891de2df-2b9a-48fb-b232-d2d0dea0f051",
+      "title": "Senior Professional Economist Masters Degree ",
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "Please refer to the Higher Education Provider to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Society of Professional Economists",
+      "level": "Full Membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "8af7941d-5349-4123-8c44-c89669e3ac20",
+      "dutyDetail": "Analyse stakeholder needs and manage their expectations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [
+        "a131e045-48c2-4394-9d3e-43157d2b80a3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ed32052f-981b-449e-a04a-7777e1280a81",
+        "b597fe32-cff4-49b8-ade2-821e2284d58c",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "c167889e-cb2a-4896-9336-686f931b4a91",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5cf3bc6b-1d0e-41b1-a547-78fed91f4880",
+      "dutyDetail": "Anticipate analytical requirements and proactively scope potential work programmes for clients and colleagues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "545d1147-c0be-4ee5-8c41-8aededb974ae",
+        "ea9b84f4-ed28-47a3-8532-5109d803b254",
+        "c43d0544-b896-4e07-bec3-21759375d226"
+      ],
+      "mappedKnowledge": [
+        "11e67079-9428-4f84-83af-d1ab0f34bf87",
+        "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ed32052f-981b-449e-a04a-7777e1280a81",
+        "b597fe32-cff4-49b8-ade2-821e2284d58c",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9bdd7973-29c8-4b04-a8ec-3f1fb04f240c",
+      "dutyDetail": "Analyse problems using economic techniques.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e22e3030-9af9-41df-99bb-4f78e86078e2",
+        "545d1147-c0be-4ee5-8c41-8aededb974ae",
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [
+        "a131e045-48c2-4394-9d3e-43157d2b80a3",
+        "4b727ca1-6378-46e5-a4e9-b3c1e76a7b02",
+        "11e67079-9428-4f84-83af-d1ab0f34bf87",
+        "69ec3e1c-69dc-4cd7-85d5-3bc6d549eee5",
+        "8dfee3ad-6bce-4541-84da-f134eefe8600",
+        "258204d4-b695-420d-a358-1ffc42a3f8a1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a4fdb81-b751-49f3-9df2-4ff8dba51688",
+        "ed32052f-981b-449e-a04a-7777e1280a81",
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b1403e03-79cb-4ad2-84ec-9a072f8c2aea",
+      "dutyDetail": "Improve analytical techniques to address economic questions, setting new standards for model performance, such as more accurate or more extensive predictions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [
+        "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ed32052f-981b-449e-a04a-7777e1280a81",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8b95b10d-79a6-45fd-adc8-96396661b9d7",
+      "dutyDetail": "Develop new techniques, or adapt existing ones, when faced with novel analytical questions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ed32052f-981b-449e-a04a-7777e1280a81",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "c167889e-cb2a-4896-9336-686f931b4a91"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "527933cd-b4ee-46b2-9fe3-6740073ded2c",
+      "dutyDetail": "Create or commission appropriate economic models to inform advice and decision-making, including policy and business decisions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e22e3030-9af9-41df-99bb-4f78e86078e2",
+        "545d1147-c0be-4ee5-8c41-8aededb974ae",
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [
+        "a131e045-48c2-4394-9d3e-43157d2b80a3",
+        "11e67079-9428-4f84-83af-d1ab0f34bf87",
+        "69ec3e1c-69dc-4cd7-85d5-3bc6d549eee5",
+        "76757d90-ab6b-4b1c-8808-26de72ba5c45",
+        "8dfee3ad-6bce-4541-84da-f134eefe8600",
+        "258204d4-b695-420d-a358-1ffc42a3f8a1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a4fdb81-b751-49f3-9df2-4ff8dba51688",
+        "ed32052f-981b-449e-a04a-7777e1280a81",
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "b597fe32-cff4-49b8-ade2-821e2284d58c",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "996a6e5b-efb9-4a0c-aa49-64353e0c6443",
+      "dutyDetail": "Review and critically evaluate published information, such as literature reviews, reports, statistics, and databases, relevant to the task or project.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e22e3030-9af9-41df-99bb-4f78e86078e2",
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [
+        "4b727ca1-6378-46e5-a4e9-b3c1e76a7b02",
+        "11e67079-9428-4f84-83af-d1ab0f34bf87",
+        "258204d4-b695-420d-a358-1ffc42a3f8a1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "f1751dcf-ce82-4f17-bcbe-90f9eea32306",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1ead7ab1-b439-4c5a-8e67-6f1dc9d988c2",
+      "dutyDetail": "Structure, clean, and manipulate data and, where appropriate, design and oversee data collection and transformation. Evaluate results, testing for robust statistical and economic conclusions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e22e3030-9af9-41df-99bb-4f78e86078e2",
+        "ea9b84f4-ed28-47a3-8532-5109d803b254",
+        "a2b1bf8e-362a-417e-816f-c38efcaa479f"
+      ],
+      "mappedKnowledge": [
+        "11e67079-9428-4f84-83af-d1ab0f34bf87",
+        "258204d4-b695-420d-a358-1ffc42a3f8a1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "00bdda38-06c8-4e37-8799-e40a20f3a79f",
+      "dutyDetail": "Evaluate weaknesses in the quality of evidence bases, identify data gaps, and develop approaches to addressing them.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [
+        "11e67079-9428-4f84-83af-d1ab0f34bf87"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "f1751dcf-ce82-4f17-bcbe-90f9eea32306",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4c065a5e-4f0e-4b3c-b598-e5d6ca365265",
+      "dutyDetail": "Contextualise and adapt analysis, considering relevant wider political, social, economic, and environmental issues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "545d1147-c0be-4ee5-8c41-8aededb974ae",
+        "ea9b84f4-ed28-47a3-8532-5109d803b254",
+        "c43d0544-b896-4e07-bec3-21759375d226"
+      ],
+      "mappedKnowledge": [
+        "11e67079-9428-4f84-83af-d1ab0f34bf87",
+        "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a",
+        "f1fdf596-789a-4aa5-9a1b-9106085e627c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "c93812da-13e4-41d4-9b2a-4e1125fa7e52",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "f1751dcf-ce82-4f17-bcbe-90f9eea32306",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f5603753-5bed-409d-92bc-d4f6f7bfff10",
+      "dutyDetail": "Build relationships with others and collaborate effectively to deliver high-quality economic analysis that influences and informs decision-making.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254",
+        "c43d0544-b896-4e07-bec3-21759375d226",
+        "783fd071-9a5b-4836-a831-f76a464a7a91",
+        "d59c71f0-fe5f-46b2-8bf2-68b38cb1ba2a"
+      ],
+      "mappedKnowledge": [
+        "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c93812da-13e4-41d4-9b2a-4e1125fa7e52",
+        "b597fe32-cff4-49b8-ade2-821e2284d58c",
+        "f1751dcf-ce82-4f17-bcbe-90f9eea32306",
+        "3c6f80b3-9bbd-47c1-9daf-d169fa026e48",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "c167889e-cb2a-4896-9336-686f931b4a91",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6a21c71c-a9b9-4a25-9f21-78cf2eb799bb",
+      "dutyDetail": "Develop and implement strategies to communicate complex economic ideas, arguments, and solutions to senior stakeholders and clients, and provide technical advice and support to technical and non-technical colleagues with influence and impact, using the most effective styles and tools for their needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [
+        "11e67079-9428-4f84-83af-d1ab0f34bf87"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "c93812da-13e4-41d4-9b2a-4e1125fa7e52",
+        "b597fe32-cff4-49b8-ade2-821e2284d58c",
+        "f1751dcf-ce82-4f17-bcbe-90f9eea32306",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "c167889e-cb2a-4896-9336-686f931b4a91",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9a9f9d0d-b66b-4d08-85e0-6d54e1e07166",
+      "dutyDetail": "Deliver value-for-money outputs, taking account of trade-offs between the quality of analysis, impact, resources, and time.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "545d1147-c0be-4ee5-8c41-8aededb974ae",
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [
+        "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "f1751dcf-ce82-4f17-bcbe-90f9eea32306",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "c167889e-cb2a-4896-9336-686f931b4a91",
+        "f0eeb012-d7c9-4fb0-ba4e-330d9ce7cebf",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5aeaef9a-2fb4-4096-a3b0-7005cd033fe5",
+      "dutyDetail": "Lead approaches to the quality assurance of economic analysis.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254",
+        "783fd071-9a5b-4836-a831-f76a464a7a91",
+        "a2b1bf8e-362a-417e-816f-c38efcaa479f",
+        "d59c71f0-fe5f-46b2-8bf2-68b38cb1ba2a"
+      ],
+      "mappedKnowledge": [
+        "258204d4-b695-420d-a358-1ffc42a3f8a1",
+        "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f1751dcf-ce82-4f17-bcbe-90f9eea32306",
+        "3c6f80b3-9bbd-47c1-9daf-d169fa026e48",
+        "c167889e-cb2a-4896-9336-686f931b4a91",
+        "f0eeb012-d7c9-4fb0-ba4e-330d9ce7cebf",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "269d2f7e-8f26-46ea-bfe6-fb0f41118246",
+      "dutyDetail": "Deliver economic analysis services using digital technology safely and securely to protect the organisation from cyber security risks and reputational harm, with an awareness of the benefits and risks to the organisation and its clients.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "eae7a0fb-18a8-4b45-a64f-a49dc658b012",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "c93812da-13e4-41d4-9b2a-4e1125fa7e52",
+        "b597fe32-cff4-49b8-ade2-821e2284d58c",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "f0eeb012-d7c9-4fb0-ba4e-330d9ce7cebf",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "05d71527-ea95-4db8-8096-22f097357e41",
+      "dutyDetail": "Source, handle, and store confidential and sensitive information and digital data safely and securely.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ea9b84f4-ed28-47a3-8532-5109d803b254"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "eae7a0fb-18a8-4b45-a64f-a49dc658b012",
+        "25c260c1-75d6-49ff-b94b-3b6c6d1953b1",
+        "c93812da-13e4-41d4-9b2a-4e1125fa7e52",
+        "b597fe32-cff4-49b8-ade2-821e2284d58c",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c89b73a3-de96-4b74-8bcf-81c7f4a2c571",
+      "dutyDetail": "Maintain professional knowledge and development, including developments in data science; digital tools, including software packages such as Excel, SPSS, STATA, R, and SAS; and techniques such as behavioural insights.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "545d1147-c0be-4ee5-8c41-8aededb974ae",
+        "ea9b84f4-ed28-47a3-8532-5109d803b254",
+        "c43d0544-b896-4e07-bec3-21759375d226"
+      ],
+      "mappedKnowledge": [
+        "11e67079-9428-4f84-83af-d1ab0f34bf87"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0ca887e-4f10-4337-b43c-d908105df21f",
+        "c93812da-13e4-41d4-9b2a-4e1125fa7e52",
+        "b597fe32-cff4-49b8-ade2-821e2284d58c",
+        "859e111b-0d13-459e-9433-c66e65a2c8e9",
+        "bb7ba428-70ff-4cdd-abe9-9c7d9d343bb0",
+        "c167889e-cb2a-4896-9336-686f931b4a91",
+        "d73a26e4-e72c-4d91-a3d5-4dea3863cb6d",
+        "e1f9f592-707d-4df4-a158-a9faf933daf1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-09-15T00:00:00"
+}
