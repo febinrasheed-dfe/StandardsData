@@ -1,6 +1,6 @@
 {
   "templateType": "Occupational Standard",
-  "shortAssessment": false,
+  "shortAssessment": true,
   "larsCode": 0,
   "referenceNumber": "ST1468",
   "learningAimClassCode": "",
@@ -11,53 +11,316 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2025-07-22T00:00:00",
+  "changedDate": "2026-09-28T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Helping to shape a company's financial strategy and being responsible for managing its financial risks and investments",
   "level": 6,
-  "ePALength": 0,
-  "typicalDuration": 36,
+  "ePALength": 2,
+  "typicalDuration": 24,
   "minimumHoursForCompliance": "",
   "maxFunding": 0,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
-  "keywords": [],
+  "keywords": [
+    "Corporate Treasurer",
+    "investments",
+    "financial strategy",
+    "treasurer",
+    "financial"
+  ],
   "jobRoles": [
-    "Corporate Treasurer"
+    "Assistant treasurer",
+    "Corporate treasurer",
+    "Group treasurer",
+    "Group treasury manager",
+    "Head of treasury",
+    "Senior treasury analyst",
+    "Treasury manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1468?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.1 Accounting and finance",
   "version": "0.0",
   "standardInformation": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in all corporate organisations that require oversight and management of their finances including cash management, loans, investments, foreign exchange transactions and risk management. Organisations that employ corporate treasurers are typically medium to large organisations such as commercial entities, financial institutions, public bodies and third sector organisations.&lt;/p&gt;\n&lt;p&gt;Accountancy firms employ corporate treasurers to perform activities on behalf of their clients within their clients&#39; businesses and organisations.&lt;/p&gt;\n&lt;p&gt;Companies may employ their own corporate treasurers to perform treasury activities within the business.&lt;/p&gt;\n&lt;p&gt;In the public sector, the treasury function will carry out treasury activities in organisations such as central government departments, local authorities, regulators and higher education institutions.&lt;/p&gt;\n&lt;p&gt;Corporate treasurers are qualified and recognised by the Association of Corporate Treasurers (ACT) and carry out their activities by reference to professional standards. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to lead and assure the corporate treasury function and its activities. Activities include knowing how much cash the organisation has and how it is being used, such as relevant currencies, bank accounts and cash flow. They also need to advise and predict how cash may be used or needed in the short, medium and long term future on a scheduled basis.&lt;/p&gt;\n&lt;p&gt;Corporate treasurers ensure that financial transactions and underpinning information are supported by high quality data reporting and recording regimes. They use digital tools such as treasury management software to analyse data, manage workflows and ensure that key organisation financial data is accurate. This can include cash receipts, payments, transfers, deposits, loan drawdowns and foreign exchange deals. They advise on and implement the use of excess cash and loans and other financial instruments, to enable organisations to function effectively and sustainably. They devise and set up rules, controls and reporting strategies and drive change through continuous process improvements and re-engineering cash management processes. They are subject matter experts on treasury matters and respond to other stakeholders needs for appropriate support. They also coach and guide junior staff in managing cash and debt of the organisation. They ensure that idle balances and interest costs are minimised. They ensure that compliance and risk awareness is embedded in the organisational culture and consider sustainability and green finance principles. Corporate treasurers are communicators who share complex financial information tailored to stakeholder&#39;s needs to help them make evidence-based decisions. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with junior team members, accountants, senior leaders, auditors, financial institutions and public bodies such as HMRC. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for overseeing the day-to-day work of the treasury function team and its effective contribution to the financial efficiency of the organisation aligned to its risk appetite and strategic aims and objectives.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+      "detail": "The importance of appropriate governance structures and stakeholder management for treasury and the wider business."
+    },
+    {
+      "knowledgeId": "9cb9e87b-540e-4dde-bd52-670161e35648",
+      "detail": "Principles of recommending optimal capital structures, examining the use of equity markets as a source of capital, and the importance of managing shareholders."
+    },
+    {
+      "knowledgeId": "f7a37678-1baa-4142-b72c-cedd391bf04a",
+      "detail": "The range of debt funding sources that treasury could use."
+    },
+    {
+      "knowledgeId": "c9c8b670-815b-49be-a8a1-62a051385511",
+      "detail": "Appropriate valuation and project appraisal models, and the ongoing management of projects, acquisitions, and disposals."
+    },
+    {
+      "knowledgeId": "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+      "detail": "Risk management frameworks, and evaluating tools used to identify and assess risks for which treasury has responsibility."
+    },
+    {
+      "knowledgeId": "843b1db4-25dc-443a-83df-4cd64db8c249",
+      "detail": "Principles of treasury and interrelated risks, including techniques for evaluation, risk management, business continuity planning, and appropriate risk reporting to enhance the risk management process."
+    },
+    {
+      "knowledgeId": "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+      "detail": "The role of treasury in supporting the achievement of corporate objectives."
+    },
+    {
+      "knowledgeId": "10605017-282e-4a68-b233-aaac0bf98303",
+      "detail": "Approaches to objective setting and problem solving. "
+    },
+    {
+      "knowledgeId": "dee9c231-7488-4dce-b76d-07a034e8cb63",
+      "detail": "Principles of project management."
+    },
+    {
+      "knowledgeId": "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+      "detail": "Tools and techniques to analyse and improve treasury performance in support of organisational objectives."
+    },
+    {
+      "knowledgeId": "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+      "detail": "Principles of leadership and management in building stakeholder relationships and optimising performance."
+    },
+    {
+      "knowledgeId": "f8d6b13c-fed2-47da-837c-66eafa6c50c8",
+      "detail": "Communication skills and methods, and the importance of adapting communication style to facilitate understanding of technical information for the intended audience."
+    },
+    {
+      "knowledgeId": "5a9f4d21-bbee-4f34-830e-b95bd6347fc0",
+      "detail": "Negotiation and influencing techniques. "
+    },
+    {
+      "knowledgeId": "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+      "detail": "Approaches to developing and maintaining collaborative working relationships with internal and external stakeholders, balancing diverse needs to ensure organisational value is delivered."
+    },
+    {
+      "knowledgeId": "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+      "detail": "Approaches to developing commercial acumen and identifying opportunities for the application of innovation within treasury."
+    },
+    {
+      "knowledgeId": "7b869566-5006-4b4d-96d5-c309b37f37ce",
+      "detail": "The impact of organisational structure on accounting for treasury operations and transactions, including approaches to analysing how treasury transactions should be reported and structured, and the impact of tax regulation."
+    },
+    {
+      "knowledgeId": "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+      "detail": "The requirements and implications of the regulatory environment on treasury transactions, strategy, and reporting."
+    },
+    {
+      "knowledgeId": "42d5950c-03dd-4913-aee6-d10144023080",
+      "detail": "Practices, procedures, and risks inherent in domestic and international trade."
+    },
+    {
+      "knowledgeId": "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+      "detail": "Techniques to manage risk in domestic and international trade.  "
+    },
+    {
+      "knowledgeId": "89f68c52-fc3e-4b4b-b983-60664fa07509",
+      "detail": "Approaches to assessing policies and techniques to optimise accounts receivable, accounts payable, supply chain, and inventory control."
+    },
+    {
+      "knowledgeId": "1b507e38-0aa3-4f74-bae1-aac42f5b536b",
+      "detail": "Principles of cash management structures, and techniques to manage cash efficiently within an organisation."
+    },
+    {
+      "knowledgeId": "fb86007a-0b96-4180-bad6-fced8fec0d92",
+      "detail": "The evolving role of treasury in managing working capital and international trade, including contemporary developments and counterparty risk. "
+    },
+    {
+      "knowledgeId": "ba499fd5-7b8f-49f0-9138-184206af1525",
+      "detail": "Principles of continuous improvement."
+    },
+    {
+      "knowledgeId": "1f3efced-4e99-44fa-8900-5c117cbfeea0",
+      "detail": "Areas of specialism within treasury, such as financial reporting, tax and regulation for treasury, working capital, and trade finance."
+    },
+    {
+      "knowledgeId": "2f19a805-0acf-46d8-b797-b3417ac4d2ec",
+      "detail": "Approaches to data visualisation to assist with treasury-related problem solving and decision making, and when presenting and disseminating information to technical and non-technical stakeholders."
+    },
+    {
+      "knowledgeId": "d408ebf4-43aa-47c9-a3ab-773f291dfcd0",
+      "detail": "Policies and procedures for managing information safely and securely."
+    },
+    {
+      "knowledgeId": "1c0f788d-822e-4e2e-8bcc-ba75619f6d75",
+      "detail": "The importance of continuing professional development (CPD) to improve own professional practice, including keeping up to date with developments in treasury, such as legislation, releases from standard setters, advances in digital technology applicable to treasury and finance, and guidance from regulatory bodies."
+    },
+    {
+      "knowledgeId": "622b32d1-ac7c-4151-a014-100b7e844b75",
+      "detail": "Equity, diversity, and inclusion policies in the workplace, and their impact on the organisation and the team."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "46f11d05-c966-4d9d-bac3-a8604939c488",
+      "detail": "Demonstrates diligent attention to detail, striving for completeness and accuracy."
+    },
+    {
+      "behaviourId": "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+      "detail": "Applies a rigorous and empirical approach to data analysis and research, gathering expert opinion before recommending action."
+    },
+    {
+      "behaviourId": "df7bd428-b19b-43a1-afde-2f0e10ab8c89",
+      "detail": "Applies ethical standards to inform decisions about courses of action that align with the organisational strategy, context, and culture, including acting in the public interest."
+    },
+    {
+      "behaviourId": "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+      "detail": "Applies business acumen when seeking solutions to organisational needs. "
+    },
+    {
+      "behaviourId": "8813efbb-5bf2-431f-9dbf-1834de18cdc1",
+      "detail": "Works collaboratively with others, contributing to cultivating an open, honest, and empathetic work environment, and actively encourages this behaviour with colleagues in their team."
+    },
+    {
+      "behaviourId": "59f9cf43-5005-4c9f-a7c4-135acc316433",
+      "detail": "Is self-motivated and works independently when required."
+    },
+    {
+      "behaviourId": "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+      "detail": "Works flexibly and adapts to changing circumstances, responding positively to feedback and need for change."
+    },
+    {
+      "behaviourId": "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+      "detail": "Reflects on own practice and actively seeks learning opportunities for continuing professional development."
+    },
+    {
+      "behaviourId": "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+      "detail": "Demonstrates professional scepticism with a questioning mind, critically assessing and remaining alert to conditions that may indicate possible misstatement due to error or fraud."
+    },
+    {
+      "behaviourId": "c2a07cb0-d94f-433b-952e-0dba974ecda9",
+      "detail": "Delivers treasury tasks with a critical eye on transactions and trends for reasonableness, demonstrating a right-first-time approach."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "d555e216-4110-43bc-a6ca-f411b01d1339",
+      "detail": "Perform critical reviews of the preparation of financial reports in accordance with corporate treasury principles and standards, for example daily cash position reports covering relevant currencies and bank accounts, regular cash flow forecasts, cash movements, and treasury transactions."
+    },
+    {
+      "skillId": "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+      "detail": "Use appropriate digital technology to produce treasury reports and analysis."
+    },
+    {
+      "skillId": "1f688a59-cff9-4045-a0b6-145af996d144",
+      "detail": "Identify risks associated with digital treasury systems, and collaborate with digital teams to maintain data and cybersecurity."
+    },
+    {
+      "skillId": "1dbaf034-61ef-4789-a18e-89076a72db82",
+      "detail": "Analyse, review, and interpret financial and non-financial internal data, and compare it with benchmark data, such as competitor, stakeholder, and market trend data, to make appropriate recommendations."
+    },
+    {
+      "skillId": "7672bab6-edad-4c23-9a29-278a400bd00d",
+      "detail": "Analyse, review, interpret, and quality assure the processes by which internal and external treasury data is collected, extracted, analysed, and reported, taking appropriate action to address risks or problems."
+    },
+    {
+      "skillId": "8c588ae3-7118-4dd6-8784-5d1a7ae0a7ca",
+      "detail": "Communicate evidence-based recommendations derived from data analytics tools to technical and non-technical stakeholders to inform future action."
+    },
+    {
+      "skillId": "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+      "detail": "Adopt approaches to ensure compliance with laws and regulations relating to treasury matters."
+    },
+    {
+      "skillId": "aa86a1b7-640b-42eb-9415-01b2b190f38b",
+      "detail": "Ensure treasury services are delivered in compliance with professional and ethical standards."
+    },
+    {
+      "skillId": "46d5a137-2b3e-4759-a980-4785d2dbe529",
+      "detail": "Oversee the creation of cash flow and treasury forecasts, selecting appropriate tools and techniques to evaluate reliability and identify variances requiring further action."
+    },
+    {
+      "skillId": "1aab84aa-ca55-4b53-8758-73f3098a2aee",
+      "detail": "Interpret forecasting data and improve forecasting approaches as necessary."
+    },
+    {
+      "skillId": "d24433b1-5731-438c-b015-b98f32608e59",
+      "detail": "Evaluate strategic options for treasury activities and transactions, considering the impact of internal and external factors, and apply treasury management techniques and optimal financial and treasury principles to support organisational decision making."
+    },
+    {
+      "skillId": "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+      "detail": "Identify, evaluate, and recommend effective approaches and options to raising finance, considering the impact of different sources of finance on an organisation, including risk and the maintenance of credit relationships."
+    },
+    {
+      "skillId": "c77b554c-80f5-4d19-a5eb-b5b726d7bc12",
+      "detail": "Develop others within the treasury and finance function to grow and maintain technical professionalism."
+    },
+    {
+      "skillId": "315ddc7d-49c9-4803-b38a-a32e9b2dd097",
+      "detail": "Review internal control policies and procedures for managing treasury risk, and ensure compliance."
+    },
+    {
+      "skillId": "3093adfc-84b7-442e-b981-81c8dc16118d",
+      "detail": "Make practical recommendations for improving treasury processes."
+    },
+    {
+      "skillId": "5b3af9d6-9181-4b87-a793-71825a03e47b",
+      "detail": "Develop, communicate, and deliver operational treasury plans to meet strategic objectives."
+    },
+    {
+      "skillId": "81a6836a-0193-4c88-be93-382f2a5d8169",
+      "detail": "Set targets and or key performance indicators (KPIs), manage resources, and monitor and measure outcomes to establish effective and efficient treasury operations."
+    },
+    {
+      "skillId": "133c6509-5751-4447-a109-468adc73ad3a",
+      "detail": "Organise and manage workflow to progress work within service level expectations while working in the organisation's best interests, such as financial reconciliations, treasury files, workflow management, and accounting systems."
+    },
+    {
+      "skillId": "ba4bff50-85ac-4af3-ad3c-293bcb9b4a12",
+      "detail": "Develop and maintain collaborative, professional relationships with internal and external stakeholders, including professional third parties, to progress treasury activities."
+    },
+    {
+      "skillId": "0e5c63c1-609d-47b7-af1b-0a901285688c",
+      "detail": "Communicate finance and treasury principles and advice to technical and non-technical stakeholders, adapting language and approach to clarify and explain processes, risks, and standard terms."
+    },
+    {
+      "skillId": "fd0042d5-439b-4329-a07b-8bb8f6324370",
+      "detail": "Apply policies that support and promote equity, diversity, and inclusion in the workplace, and monitor their impact on treasury activities and the wider team."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
-  "standardPublished": "false",
+  "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
   "approvedForDelivery": "",
-  "integratedApprenticeship": null,
-  "integration": null,
-  "integratedDegree": "",
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification with apprenticeship assessment",
+  "integratedDegree": "non-degree qualification",
   "tbReference": "TB0902",
-  "tbMainContact": "helen.dalton@education.gov.uk",
-  "involvedEmployers": "",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "ABRI, Association of Corporate Treasurers, BAE Systems, BT Group, Burberry, EMH, GlaxoSmithKline (GSK), Longhurst Group, Nationwide Building Society, Rentokil, Tesco",
   "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
-    "Corporate Treasurer"
+    "Assistant treasurer",
+    "Corporate treasurer",
+    "Group treasurer",
+    "Group treasury manager",
+    "Head of treasury",
+    "Senior treasury analyst",
+    "Treasury manager"
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
@@ -66,27 +329,766 @@
   "cluster": "Financial services professional",
   "clusterId": "243",
   "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
-  "createdDate": "2024-09-05T15:14:11 +00:00",
-  "lastUpdated": "2025-07-22T00:00:00 +00:00",
+  "createdDate": "2026-09-28T13:39:30 +00:00",
+  "lastUpdated": "2026-09-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1468",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1468?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1468",
-  "qualifications": [],
+  "qualifications": [
+    {
+      "qualificationId": "280adf71-02da-48ef-bb26-7dabdfa92ec9",
+      "title": "Association of Corporate Treasurers Diploma in Treasury Management ",
+      "level": "6 (non-degree qualification)",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
   "professionalRecognition": [
     {
       "bodyName": "Association of Corporate Treasurers",
-      "level": "member",
+      "level": "associate member",
       "isPartial": "full",
       "partialFreeText": ""
     }
   ],
-  "duties": [],
+  "duties": [
+    {
+      "dutyID": "175ae6e2-83f9-447a-b054-873dfb7fbdcd",
+      "dutyDetail": "Oversee and review the production of daily cash position reports covering relevant currencies, bank accounts, and regular cash flow forecasts in line with treasury policy and procedures.\t\t",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "89f68c52-fc3e-4b4b-b983-60664fa07509",
+        "1b507e38-0aa3-4f74-bae1-aac42f5b536b",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d555e216-4110-43bc-a6ca-f411b01d1339",
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "1f688a59-cff9-4045-a0b6-145af996d144",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "46d5a137-2b3e-4759-a980-4785d2dbe529",
+        "1aab84aa-ca55-4b53-8758-73f3098a2aee",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1cbf8670-6a79-4eaf-9afa-60fb961dc943",
+      "dutyDetail": "Oversee, and quality assure the compilation of cash forecasts, and improve the accuracy of the organisation's submissions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "89f68c52-fc3e-4b4b-b983-60664fa07509",
+        "1b507e38-0aa3-4f74-bae1-aac42f5b536b",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d555e216-4110-43bc-a6ca-f411b01d1339",
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "46d5a137-2b3e-4759-a980-4785d2dbe529",
+        "1aab84aa-ca55-4b53-8758-73f3098a2aee",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cf72df26-9e09-4c88-84db-62815e6c4851",
+      "dutyDetail": "Establish and maintain timely and accurate daily, weekly, monthly standard reporting and other ad-hoc reporting as required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "89f68c52-fc3e-4b4b-b983-60664fa07509",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d555e216-4110-43bc-a6ca-f411b01d1339",
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9d0b8150-e2c9-4f20-b265-4e16ca769b1a",
+      "dutyDetail": "Supervise, review, and quality assure the accurate recording of all treasury transactions in treasury management software, such as cash receipts, payments, transfers, deposits, loan drawdowns, and foreign exchange deals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "89f68c52-fc3e-4b4b-b983-60664fa07509",
+        "1b507e38-0aa3-4f74-bae1-aac42f5b536b",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d555e216-4110-43bc-a6ca-f411b01d1339",
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "69b71628-16f3-4db9-b004-b9e18e938070",
+      "dutyDetail": "Supervise and review cash management, such as internal transfers, deposit of surplus funds and request debt drawdown as required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "89f68c52-fc3e-4b4b-b983-60664fa07509",
+        "1b507e38-0aa3-4f74-bae1-aac42f5b536b",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d555e216-4110-43bc-a6ca-f411b01d1339",
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "945536b8-c713-447c-bb06-ffd681c5e4b9",
+      "dutyDetail": "Supervise and review activities to monitor and anticipate any potential breaches to transactions, such as covenants or overdraft limits, and ensure they are escalated efficiently and robustly. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "89f68c52-fc3e-4b4b-b983-60664fa07509",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d555e216-4110-43bc-a6ca-f411b01d1339",
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3f448c82-66b3-45aa-9d0e-fc91de2269a5",
+      "dutyDetail": "Devise and set up rules, controls, and reporting for managing risks, such as hedging strategies, and financial or operational risks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "9cb9e87b-540e-4dde-bd52-670161e35648",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "10605017-282e-4a68-b233-aaac0bf98303",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "89f68c52-fc3e-4b4b-b983-60664fa07509",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d555e216-4110-43bc-a6ca-f411b01d1339",
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "1f688a59-cff9-4045-a0b6-145af996d144",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "315ddc7d-49c9-4803-b38a-a32e9b2dd097",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7658e564-fd9f-4270-a4e9-7df20751ca3c",
+      "dutyDetail": "Strengthen the control environment and drive change through continuous process improvements and oversee implementation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "10605017-282e-4a68-b233-aaac0bf98303",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "89f68c52-fc3e-4b4b-b983-60664fa07509",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d555e216-4110-43bc-a6ca-f411b01d1339",
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "1f688a59-cff9-4045-a0b6-145af996d144",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "315ddc7d-49c9-4803-b38a-a32e9b2dd097",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4c5f067d-cb02-402e-ad03-7f09f4c6746f",
+      "dutyDetail": "Be a point of contact within the organisation to provide subject matter expertise on treasury matters, ensuring that appropriate support is provided and queries are resolved appropriately.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "9cb9e87b-540e-4dde-bd52-670161e35648",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "f8d6b13c-fed2-47da-837c-66eafa6c50c8",
+        "5a9f4d21-bbee-4f34-830e-b95bd6347fc0",
+        "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "ba499fd5-7b8f-49f0-9138-184206af1525",
+        "1f3efced-4e99-44fa-8900-5c117cbfeea0",
+        "d408ebf4-43aa-47c9-a3ab-773f291dfcd0",
+        "622b32d1-ac7c-4151-a014-100b7e844b75"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "3093adfc-84b7-442e-b981-81c8dc16118d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "67dc465c-8154-43f1-a8ab-9ce080d68827",
+      "dutyDetail": "Provide coaching, support, and guidance for junior staff in their role.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8813efbb-5bf2-431f-9dbf-1834de18cdc1",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5"
+      ],
+      "mappedKnowledge": [
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "ba499fd5-7b8f-49f0-9138-184206af1525",
+        "1f3efced-4e99-44fa-8900-5c117cbfeea0",
+        "622b32d1-ac7c-4151-a014-100b7e844b75"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c77b554c-80f5-4d19-a5eb-b5b726d7bc12",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "81a6836a-0193-4c88-be93-382f2a5d8169",
+        "fd0042d5-439b-4329-a07b-8bb8f6324370"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "aa62c555-d1dc-4659-8dbe-29185c266e3b",
+      "dutyDetail": "Collaborate with internal and external stakeholders and specialists to build strong working relations, including auditors, government bodies, regulators and financial institutions.\t\t",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "8813efbb-5bf2-431f-9dbf-1834de18cdc1",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "9cb9e87b-540e-4dde-bd52-670161e35648",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+        "dee9c231-7488-4dce-b76d-07a034e8cb63",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "f8d6b13c-fed2-47da-837c-66eafa6c50c8",
+        "5a9f4d21-bbee-4f34-830e-b95bd6347fc0",
+        "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "ba499fd5-7b8f-49f0-9138-184206af1525",
+        "2f19a805-0acf-46d8-b797-b3417ac4d2ec",
+        "622b32d1-ac7c-4151-a014-100b7e844b75"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8c588ae3-7118-4dd6-8784-5d1a7ae0a7ca",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "315ddc7d-49c9-4803-b38a-a32e9b2dd097",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "5b3af9d6-9181-4b87-a793-71825a03e47b",
+        "ba4bff50-85ac-4af3-ad3c-293bcb9b4a12",
+        "fd0042d5-439b-4329-a07b-8bb8f6324370"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a0f01c20-5321-4016-a182-ccec77ca599f",
+      "dutyDetail": "Use digital tools to gather, evaluate, and analyse evidence to inform decisions, including use of data analytics.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "dee9c231-7488-4dce-b76d-07a034e8cb63",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "f8d6b13c-fed2-47da-837c-66eafa6c50c8",
+        "7b869566-5006-4b4d-96d5-c309b37f37ce",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "ba499fd5-7b8f-49f0-9138-184206af1525",
+        "2f19a805-0acf-46d8-b797-b3417ac4d2ec",
+        "d408ebf4-43aa-47c9-a3ab-773f291dfcd0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "1f688a59-cff9-4045-a0b6-145af996d144",
+        "1dbaf034-61ef-4789-a18e-89076a72db82",
+        "7672bab6-edad-4c23-9a29-278a400bd00d",
+        "8c588ae3-7118-4dd6-8784-5d1a7ae0a7ca",
+        "1aab84aa-ca55-4b53-8758-73f3098a2aee",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "35e346af-1418-45fd-ace0-cea7a3f371b9",
+      "dutyDetail": "Provide flexible and innovative financial solutions for stakeholders.\t",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "9cb9e87b-540e-4dde-bd52-670161e35648",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+        "dee9c231-7488-4dce-b76d-07a034e8cb63",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "5a9f4d21-bbee-4f34-830e-b95bd6347fc0",
+        "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "42d5950c-03dd-4913-aee6-d10144023080",
+        "f99227c3-4ab8-463c-a425-8f77ff34dd91",
+        "fb86007a-0b96-4180-bad6-fced8fec0d92",
+        "ba499fd5-7b8f-49f0-9138-184206af1525",
+        "2f19a805-0acf-46d8-b797-b3417ac4d2ec"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1dbaf034-61ef-4789-a18e-89076a72db82",
+        "7672bab6-edad-4c23-9a29-278a400bd00d",
+        "8c588ae3-7118-4dd6-8784-5d1a7ae0a7ca",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "5b3af9d6-9181-4b87-a793-71825a03e47b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "88ca0e1b-4ee5-4d4f-8ae7-2320131b6091",
+      "dutyDetail": "Consider sustainability and green finance principles and practice within treasury strategy.\t\t",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "9cb9e87b-540e-4dde-bd52-670161e35648",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+        "dee9c231-7488-4dce-b76d-07a034e8cb63",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "5b3af9d6-9181-4b87-a793-71825a03e47b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "00b42473-34c6-49b8-97b5-b3e7380cc427",
+      "dutyDetail": "Collaborate with leaders and other relevant influencers to embed a culture of compliance within the organisation, including fraud awareness, know your customer activity, and anti-money laundering legislation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "8813efbb-5bf2-431f-9dbf-1834de18cdc1",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "9cb9e87b-540e-4dde-bd52-670161e35648",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+        "dee9c231-7488-4dce-b76d-07a034e8cb63",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "f8d6b13c-fed2-47da-837c-66eafa6c50c8",
+        "5a9f4d21-bbee-4f34-830e-b95bd6347fc0",
+        "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "ba499fd5-7b8f-49f0-9138-184206af1525",
+        "2f19a805-0acf-46d8-b797-b3417ac4d2ec",
+        "d408ebf4-43aa-47c9-a3ab-773f291dfcd0",
+        "622b32d1-ac7c-4151-a014-100b7e844b75"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1dbaf034-61ef-4789-a18e-89076a72db82",
+        "7672bab6-edad-4c23-9a29-278a400bd00d",
+        "8c588ae3-7118-4dd6-8784-5d1a7ae0a7ca",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "5b3af9d6-9181-4b87-a793-71825a03e47b",
+        "ba4bff50-85ac-4af3-ad3c-293bcb9b4a12",
+        "fd0042d5-439b-4329-a07b-8bb8f6324370"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b5d6cde6-0c7d-49e7-9974-7e5b0ec09955",
+      "dutyDetail": "Communicate complex financial information in different formats using language tailored to stakeholders' needs, such as to report and advise on current financial issues affecting the organisation and the industry.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "9cb9e87b-540e-4dde-bd52-670161e35648",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "f8d6b13c-fed2-47da-837c-66eafa6c50c8",
+        "5a9f4d21-bbee-4f34-830e-b95bd6347fc0",
+        "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "fb86007a-0b96-4180-bad6-fced8fec0d92",
+        "ba499fd5-7b8f-49f0-9138-184206af1525",
+        "1f3efced-4e99-44fa-8900-5c117cbfeea0",
+        "2f19a805-0acf-46d8-b797-b3417ac4d2ec",
+        "d408ebf4-43aa-47c9-a3ab-773f291dfcd0",
+        "622b32d1-ac7c-4151-a014-100b7e844b75"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b60a1a0f-fc7b-487c-b2d0-71a2e1df3d9f",
+        "1dbaf034-61ef-4789-a18e-89076a72db82",
+        "7672bab6-edad-4c23-9a29-278a400bd00d",
+        "8c588ae3-7118-4dd6-8784-5d1a7ae0a7ca",
+        "1aab84aa-ca55-4b53-8758-73f3098a2aee",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "5b3af9d6-9181-4b87-a793-71825a03e47b",
+        "0e5c63c1-609d-47b7-af1b-0a901285688c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "af67efb5-3f73-4684-a372-a8862bb08289",
+      "dutyDetail": "Deliver against individual and team performance measures.\t",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+        "10605017-282e-4a68-b233-aaac0bf98303",
+        "dee9c231-7488-4dce-b76d-07a034e8cb63",
+        "20a25ff2-9c20-48e1-89d7-1b701f0cd849",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "ba499fd5-7b8f-49f0-9138-184206af1525"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "c77b554c-80f5-4d19-a5eb-b5b726d7bc12",
+        "315ddc7d-49c9-4803-b38a-a32e9b2dd097",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "81a6836a-0193-4c88-be93-382f2a5d8169",
+        "133c6509-5751-4447-a109-468adc73ad3a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a6efea36-9d3b-446d-9739-1321203a673c",
+      "dutyDetail": "Undertake all treasury activities with reference to professional ethics, organisational standards, and policies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "46f11d05-c966-4d9d-bac3-a8604939c488",
+        "6a14a45a-8e54-4ff0-85c7-311655690ec3",
+        "df7bd428-b19b-43a1-afde-2f0e10ab8c89",
+        "d7ffde0e-4b53-4c4b-8eef-a1d80d1d05b3",
+        "8813efbb-5bf2-431f-9dbf-1834de18cdc1",
+        "59f9cf43-5005-4c9f-a7c4-135acc316433",
+        "2148b58b-81a0-4d3a-b0b8-91d7ecfab8e2",
+        "46aa500a-2866-48a2-be8a-5a4d518e42a5",
+        "b31fdfef-fdf6-41c0-b185-b8de18fc9e0f",
+        "c2a07cb0-d94f-433b-952e-0dba974ecda9"
+      ],
+      "mappedKnowledge": [
+        "128ce705-9fc5-4330-ab0d-997bb56a47a8",
+        "9cb9e87b-540e-4dde-bd52-670161e35648",
+        "f7a37678-1baa-4142-b72c-cedd391bf04a",
+        "c9c8b670-815b-49be-a8a1-62a051385511",
+        "e19f77ae-76da-43b1-a5d2-d48ba769bc8b",
+        "843b1db4-25dc-443a-83df-4cd64db8c249",
+        "267d4fd6-3edf-4b52-a53a-b71decb3b4a1",
+        "d00bb5fd-a769-4c6f-989b-dd1f2fbbea91",
+        "5a9f4d21-bbee-4f34-830e-b95bd6347fc0",
+        "6b9ce787-37e3-40c9-b08b-f7ae10c6c20d",
+        "687d6263-98b4-45ed-8b59-644fa68f6f1d",
+        "61928d54-1d4e-4f6b-8377-6807ba2caaa6",
+        "fb86007a-0b96-4180-bad6-fced8fec0d92",
+        "ba499fd5-7b8f-49f0-9138-184206af1525",
+        "1f3efced-4e99-44fa-8900-5c117cbfeea0",
+        "d408ebf4-43aa-47c9-a3ab-773f291dfcd0",
+        "1c0f788d-822e-4e2e-8bcc-ba75619f6d75",
+        "622b32d1-ac7c-4151-a014-100b7e844b75"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1f688a59-cff9-4045-a0b6-145af996d144",
+        "1dbaf034-61ef-4789-a18e-89076a72db82",
+        "7672bab6-edad-4c23-9a29-278a400bd00d",
+        "d6abdfb4-5654-42c0-9d8b-1b31ad663213",
+        "aa86a1b7-640b-42eb-9415-01b2b190f38b",
+        "1aab84aa-ca55-4b53-8758-73f3098a2aee",
+        "d24433b1-5731-438c-b015-b98f32608e59",
+        "2ccf556d-ff0b-48ee-a050-f9eea68990b8",
+        "c77b554c-80f5-4d19-a5eb-b5b726d7bc12",
+        "315ddc7d-49c9-4803-b38a-a32e9b2dd097",
+        "3093adfc-84b7-442e-b981-81c8dc16118d",
+        "5b3af9d6-9181-4b87-a793-71825a03e47b",
+        "ba4bff50-85ac-4af3-ad3c-293bcb9b4a12",
+        "fd0042d5-439b-4329-a07b-8bb8f6324370"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-22T00:00:00"
+  "publishDate": "2026-09-28T00:00:00"
 }
