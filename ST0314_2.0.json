@@ -1,0 +1,616 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 36,
+  "referenceNumber": "ST0314",
+  "learningAimClassCode": "",
+  "title": "Public service operational delivery officer",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0314",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard, assessment plan and funding band revised,",
+  "changedDate": "2026-09-14T00:00:00",
+  "earliestStartDate": "2027-01-14T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Operational delivery officers are the face of public sector organisations, working directly with the public or supporting colleagues who do.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "minimumHoursForCompliance": "278",
+  "maxFunding": 4500,
+  "maxFundingAdditionalInformation": "",
+  "route": "Business and administration",
+  "keywords": [
+    "public services",
+    "protection",
+    "government",
+    "operational delivery",
+    "operational"
+  ],
+  "jobRoles": [
+    "Advisor",
+    "Border force officer",
+    "Case worker",
+    "Debt collector",
+    "Decision maker",
+    "Delivery officer",
+    "Driving examiner",
+    "Enforcement officer",
+    "Standards assessor"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0314-in-revision?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.4 Public services",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;Operational Delivery Officers have the vital job of keeping the country running. They make sure that citizens get the services and protection they need, and help people understand what is available and what they need to do to comply with the rules. Operational Delivery Officers make a difference every day to the lives of millions of people. They do hundreds of jobs in most departments and agencies in central government. They also work in local government, delivering services for towns, cities, boroughs or counties.&lt;/p&gt;\n&lt;p&gt;This apprenticeship will give you great development opportunities to equip you to be an internationally-recognised professional in the part of the Civil Service that really makes things happen for customers and businesses.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What Apprentices will do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;A career in operational delivery is varied and involves working on the front line in different public-facing environments. You will be dealing with different types of customers and delivering a range of public services, but the skills and behaviours you need will be the same whatever you do.&lt;/p&gt;\n&lt;p&gt;Operational Delivery Officer roles include bringing data and evidence together, and making sure it is correct. You may also be considering applications, analysing information and making decisions.&lt;/p&gt;\n&lt;p&gt;Duties will depend on who the public service employer is and what they are responsible for: you could find yourself working in any occupational delivery area of central or local government. As an Operational Delivery Officer you could be:&lt;/p&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 353px;&quot; width=&quot;353&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Services&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;width: 350px;&quot; width=&quot;350&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Protection&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;353&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;managing cases and resolving customer enquiries&lt;/li&gt;\n&lt;li&gt;assessing and collecting various taxes across central and local government&lt;/li&gt;\n&lt;li&gt;giving people welfare or pensions advice, or supporting them to get back to work&lt;/li&gt;\n&lt;li&gt;issuing UK passports and making decisions about who has the right to visit or to stay in the country&lt;/li&gt;\n&lt;li&gt;processing driving licence applications&lt;/li&gt;\n&lt;li&gt;supporting citizens in court&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;td width=&quot;350&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;validating peoples’ identities, and carrying out background checks or interviews&lt;/li&gt;\n&lt;li&gt;carrying out searches on people, vehicles, freight and baggage&lt;/li&gt;\n&lt;li&gt;collecting outstanding debts&lt;/li&gt;\n&lt;li&gt;stopping entitlements for people who should not be getting them&lt;/li&gt;\n&lt;li&gt;rehabilitating offenders and supporting victims and witnesses&lt;/li&gt;\n&lt;li&gt;responding to outbreaks and incidents, co-ordinating information and deploying resources&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;When trained, you may move around roles or departments to develop and make the most of your skills.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Values, Knowledge, Skills and Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;table style=&quot;width: 666px;&quot; border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr style=&quot;height: 18px;&quot;&gt;\n&lt;th style=&quot;width: 139.122px; height: 18px;&quot;&gt;&lt;strong&gt;Values&lt;/strong&gt;&lt;/th&gt;\n&lt;th style=&quot;width: 486.878px; height: 18px;&quot;&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 20px;&quot;&gt;\n&lt;td style=&quot;width: 139.122px; height: 20px;&quot;&gt;Integrity&lt;/td&gt;\n&lt;td style=&quot;width: 486.878px; height: 20px;&quot;&gt;&lt;span&gt;Putting the obligations of public service above your own personal interests&lt;/span&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 20px;&quot;&gt;\n&lt;td style=&quot;width: 139.122px; height: 20px;&quot;&gt;Honesty&lt;/td&gt;\n&lt;td style=&quot;width: 486.878px; height: 20px;&quot;&gt;&lt;span&gt;Being truthful and open&lt;/span&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 18.5764px;&quot;&gt;\n&lt;td style=&quot;width: 139.122px; height: 18.5764px;&quot;&gt;Objectivity&lt;/td&gt;\n&lt;td style=&quot;width: 486.878px; height: 18.5764px;&quot;&gt;\n&lt;p&gt;&lt;span&gt;Basing your advice and decisions on rigorous analysis of evidence&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 18.5764px;&quot;&gt;\n&lt;td style=&quot;width: 139.122px; height: 18.5764px;&quot;&gt;Impartiality&lt;/td&gt;\n&lt;td style=&quot;width: 486.878px; height: 18.5764px;&quot;&gt;\n&lt;p&gt;&lt;span&gt; Acting according to the merits of each case and serving the government of the day impartially&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table style=&quot;width: 663px;&quot; border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 137.934px;&quot;&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/th&gt;\n&lt;th style=&quot;width: 485.066px;&quot;&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.934px;&quot;&gt;Legislation, policies and procedure&lt;/td&gt;\n&lt;td style=&quot;width: 485.066px;&quot;&gt;\n&lt;p&gt;Understanding the principles, practices, regulations and law in your own area of operational delivery, and how it is applied and the effect it has, from supporting the needs of the most vulnerable individuals to keeping the UK’s borders secure&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.934px;&quot;&gt;Customers&lt;/td&gt;\n&lt;td style=&quot;width: 485.066px;&quot;&gt;Understanding the diverse range of customers and communities, and their needs, rights and expectations, from individuals to the biggest multi-national businesses&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.934px;&quot;&gt;Range of services&lt;/td&gt;\n&lt;td style=&quot;width: 485.066px;&quot;&gt;Having an appreciation of the range of public services available that are delivered across government, from ensuring money is available to fund public services to making payments to pensioners&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table style=&quot;width: 666px;&quot; border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 137.108px;&quot;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/th&gt;\n&lt;th style=&quot;width: 488.892px;&quot;&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.108px;&quot;&gt;Customer service&lt;/td&gt;\n&lt;td style=&quot;width: 488.892px;&quot;&gt;Delivering&amp;nbsp; services to a wide range of customers, including those most in need and vulnerable, recognising that some customers will need extra support to access and use&amp;nbsp;services. You will be providing a professional service at the right time and in a non- judgmental way. This includes carrying out calculations based on information received and giving accurate advice and guidance to help citizens understand what they need to do&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.108px;&quot;&gt;Working together&lt;/td&gt;\n&lt;td style=&quot;width: 488.892px;&quot;&gt;Working well with your team, colleagues and others and developing productive working relationships to achieve individual, team and business results&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.108px;&quot;&gt;Gathering and managing information&lt;/td&gt;\n&lt;td style=&quot;width: 488.892px;&quot;&gt;\n&lt;p&gt;Complying with data protection principles. Accurately reviewing, validating, processing and storing information from a range of sources and accurately using it to meet customers’ needs in a way they find clear and easy to understand. You may be analysing information for discrepancies, potential fraud or non-compliance. This could also support interviews and investigations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.108px;&quot;&gt;Negotiating and influencing&lt;/td&gt;\n&lt;td style=&quot;width: 488.892px;&quot;&gt;\n&lt;p&gt;Using tact and diplomacy to negotiate with individuals or businesses to ensure they comply with the rules, and reaching solutions that suit all parties and are right for the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.108px;&quot;&gt;Problem solving and decision making&lt;/td&gt;\n&lt;td style=&quot;width: 488.892px;&quot;&gt;\n&lt;p&gt;Identifying problems quickly and using a range of techniques to solve them and stop them happening again. This includes preventing a customer having to contact us a number of times&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.108px;&quot;&gt;Tools and equipment&amp;nbsp;&lt;/td&gt;\n&lt;td style=&quot;width: 488.892px;&quot;&gt;\n&lt;p&gt;Using IT systems to manage, share and store information. This includes using office equipment appropriately and reporting poor performance of services you use to do your job&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.108px;&quot;&gt;Professionalism, self management and awareness&lt;/td&gt;\n&lt;td style=&quot;width: 488.892px;&quot;&gt;\n&lt;p&gt;Taking responsibility for your own actions. This includes being self-motivated, and planning work to make sure that tasks are completed and deadlines met&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 137.108px;&quot;&gt;Communicating effectively&lt;/td&gt;\n&lt;td style=&quot;width: 488.892px;&quot;&gt;\n&lt;p&gt;Understanding the importance of effective communication in the workplace and communicating effectively in different situations and communicating the best way to meet the needs of different audiences. This includes questioning and listening when carrying out interviews or investigations, and communicating in a clear and concise way using letters, e-mails or social media, over the phone or face-to-face.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table style=&quot;width: 666px; height: 447px;&quot; border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr style=&quot;height: 21px;&quot;&gt;\n&lt;th style=&quot;width: 138.045px; height: 21px;&quot;&gt;&lt;strong&gt;Behaviours&amp;nbsp;&lt;/strong&gt;&lt;/th&gt;\n&lt;th style=&quot;width: 487.955px; height: 21px;&quot;&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 42px;&quot;&gt;\n&lt;td style=&quot;width: 138.045px; height: 42px;&quot;&gt;Changing and improving&lt;/td&gt;\n&lt;td style=&quot;width: 487.955px; height: 42px;&quot;&gt;Being open to change. This includes being creative in supporting continuous improvement or changes to systems or processes that affect the way you do your job&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 64px;&quot;&gt;\n&lt;td style=&quot;width: 138.045px; height: 64px;&quot;&gt;Making effective decisions&lt;/td&gt;\n&lt;td style=&quot;width: 487.955px; height: 64px;&quot;&gt;\n&lt;p&gt;Having sound judgement. This includes making decisions about the relevance, quality and accuracy of the information available to you and using and sharing it appropriately&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 64px;&quot;&gt;\n&lt;td style=&quot;width: 138.045px; height: 64px;&quot;&gt;Leading and communicating&lt;/td&gt;\n&lt;td style=&quot;width: 487.955px; height: 64px;&quot;&gt;\n&lt;p&gt;Leading by example. This includes being even-handed, supportive, and not letting personal opinions override business needs, and communicating professionally, openly and honestly&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 64px;&quot;&gt;\n&lt;td style=&quot;width: 138.045px; height: 64px;&quot;&gt;Collaborating and partnering&lt;/td&gt;\n&lt;td style=&quot;width: 487.955px; height: 64px;&quot;&gt;\n&lt;p&gt;Working collaboratively and building professional relationships with colleagues. This includes working as part of a team and developing contacts so you can support each other&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 64px;&quot;&gt;\n&lt;td style=&quot;width: 138.045px; height: 64px;&quot;&gt;Building capability for all&amp;nbsp;&lt;/td&gt;\n&lt;td style=&quot;width: 487.955px; height: 64px;&quot;&gt;\n&lt;p&gt;Learning and building your own knowledge and skills, and developing the mindset and ways of working to continually improve&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 64px;&quot;&gt;\n&lt;td style=&quot;width: 138.045px; height: 64px;&quot;&gt;Managing a quality service&lt;/td&gt;\n&lt;td style=&quot;width: 487.955px; height: 64px;&quot;&gt;\n&lt;p&gt;Delivering a quality service. This includes ‘going the extra mile’, and showing an awareness of different customer needs (for example, those with disabilities)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 64px;&quot;&gt;\n&lt;td style=&quot;width: 138.045px; height: 64px;&quot;&gt;Delivering at pace&lt;/td&gt;\n&lt;td style=&quot;width: 487.955px; height: 64px;&quot;&gt;\n&lt;p&gt;Delivering at pace, working to agreed goals and activities, and responding to challenges constructively, for example managing time well and thinking positively&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;Additional information&amp;nbsp;&lt;/h3&gt;\n&lt;h4&gt;Entry requirements&amp;nbsp;&lt;/h4&gt;\n&lt;p&gt;Age 16 and over&amp;nbsp;&lt;/p&gt;\n&lt;h4&gt;Duration&amp;nbsp;&lt;/h4&gt;\n&lt;p&gt;12 - 18 months&lt;/p&gt;\n&lt;h4&gt;Level&amp;nbsp;&lt;/h4&gt;\n&lt;p&gt;Level 3&lt;/p&gt;\n&lt;h4&gt;Qualifications&lt;/h4&gt;\n&lt;p&gt;Apprentices must achieve:&lt;/p&gt;\n&lt;p&gt;a Level 2 Award in Operational Delivery (Principles)&lt;/p&gt;\n&lt;p&gt;This allows learners to develop the knowledge required for employment and/or career progression within Operational Delivery. The qualification includes units on principles of working in operational delivery, providing customer service, equality and diversity.&lt;/p&gt;\n&lt;p&gt;and a Level 3 Certificate in Operation Delivery (Advanced)&lt;/p&gt;\n&lt;p&gt;This allows learners to develop the knowledge required for employment and/or career progression within Operational Delivery. The qualification includes units on working in operational delivery, providing customer service, managing team performance, operational delivery interviews and visits.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;English &amp;amp; Maths&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL&lt;/p&gt;\n&lt;h4&gt;Renewal&amp;nbsp;&lt;/h4&gt;\n&lt;p&gt;This standard will be reviewed in September 2017&lt;/p&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;This occupation is found in...&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;organisations and authorities across the public sector.&amp;nbsp; The Operational Delivery Profession is the public face of the Civil Service and other public sector organisations. Public service operational delivery officers provide services to millions of citizens at home and abroad.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;The broad purpose of the occupation is...&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;to ensure that citizens get the services and protection they need, and help people understand what is available and what they need to do to comply with the rules. Roles within this occupation are varied and skilled, ranging from prison officers to counter fraud, across a range of government departments, agencies, public services and local government.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;In their daily work, an employee in this occupation interacts with...&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;the public, service users, internal and external stakeholders, Other Government Departments, agencies and public bodies.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;An employee in this occupation will be responsible for...&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;the services that people use every day, such as processing visas, passports and driving licences, running benefit offices, job centres, and courts across the country, and working in consular offices around the world, providing front line help and advice, service delivery, validation and compliance, safety and enforcement or operational support. The public service operational delivery officer occupation is varied, often fast paced and can be challenging. They provide exceptional service to people who need support, either in person or remotely via telephone or digital services, deliver operational process and services to internal and external stakeholders for a particular requirement, make decisions that have the potential to change people&#39;s lives. They also ensure compliance with statutory legal requirements, public safety, and efficient and effective business support or management across a range of operational administrative services.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "4780f234-9627-4d70-939c-a4b6c96c3022",
+      "detail": "Communication styles and techniques."
+    },
+    {
+      "knowledgeId": "74538cbe-c55e-449d-8611-5d7d24840bdf",
+      "detail": "Information presentation techniques."
+    },
+    {
+      "knowledgeId": "c60719d9-5a95-48e7-82be-90d6ab4d2c9e",
+      "detail": "Techniques to handle challenging conversations."
+    },
+    {
+      "knowledgeId": "40553803-77ea-4406-aba3-03d8fc54433f",
+      "detail": "Principles of escalation and support arrangements in the organisation."
+    },
+    {
+      "knowledgeId": "4ff215eb-0bd7-4f50-9d18-c5caf34ea5f6",
+      "detail": "Techniques for stakeholder and relationship management, including the importance of building and maintaining internal and external professional relationships and the impact these can have.                                                                                              "
+    },
+    {
+      "knowledgeId": "84f76314-3a17-4775-b74c-755d2637f244",
+      "detail": "Methods to identify stakeholders and their needs or requirements.                                           "
+    },
+    {
+      "knowledgeId": "72a29e9d-d687-4380-bd80-13299b4c1783",
+      "detail": "Relevant diversity, equity and inclusion policies within the organisation."
+    },
+    {
+      "knowledgeId": "54845e0e-4ba4-4fd2-8b15-607ab5156d44",
+      "detail": "How to role model appropriate behaviours within the workplace and identify and tackle inappropriate language and behaviours. "
+    },
+    {
+      "knowledgeId": "c02e9728-8c63-4cb0-a8e2-49f3688f8785",
+      "detail": "The Profession's skills framework and its application within their role, and how to use it to support personal development.      "
+    },
+    {
+      "knowledgeId": "955fd0b5-be74-4c92-84d1-0235746256d9",
+      "detail": "Techniques to identify, plan and action personal development, including seeking feedback from colleagues."
+    },
+    {
+      "knowledgeId": "e58a125e-03bf-4cd1-ae34-6799fa8a0ce0",
+      "detail": "The purpose of the organisation, their role within it, and the broader Operational Delivery Profession."
+    },
+    {
+      "knowledgeId": "261eb3a0-b59a-41dc-b25a-be9641c56dee",
+      "detail": "Principles of problem solving, continuous improvement and change methods, models or techniques. "
+    },
+    {
+      "knowledgeId": "cdb9be58-4b58-43ac-a559-98cd93b7fc94",
+      "detail": "Techniques for gathering, recording, processing and interpreting data."
+    },
+    {
+      "knowledgeId": "f324dd32-ff55-4c16-9d17-345b62dbfecd",
+      "detail": "Data handling statutory and organisational requirements and how to comply with them. "
+    },
+    {
+      "knowledgeId": "1abd51fb-2de1-4ac4-a3e0-0fc631a40a9b",
+      "detail": "Decision making techniques."
+    },
+    {
+      "knowledgeId": "ddc2d058-fd9a-4ace-bf50-b235163c2e91",
+      "detail": "Organisation's decision making processes including relevant legislation to be considered. "
+    },
+    {
+      "knowledgeId": "e0282a1d-0035-4228-afaa-5d49c8c7f248",
+      "detail": "Relevant policies, regulations, codes of practice, and legal requirements.                                                     "
+    },
+    {
+      "knowledgeId": "521d5469-2c7a-41c3-9401-fe508218845a",
+      "detail": "Organisation's environmental and sustainability policies and procedures. "
+    },
+    {
+      "knowledgeId": "bd1e5287-76d2-4549-bb5a-9d15c3623985",
+      "detail": "Organisational health, safety and wellbeing requirements and mandatory training for the role."
+    },
+    {
+      "knowledgeId": "f06f7081-4850-447d-a013-7028737d2170",
+      "detail": "Organisation's framework, policy, processes for identifying non-compliance or legal offences and appropriate actions."
+    },
+    {
+      "knowledgeId": "c6b1dc7e-e4e0-43f2-aef1-4fa14a7e694a",
+      "detail": "Working practices and time and task management to meet organisational quality standards or objectives."
+    },
+    {
+      "knowledgeId": "291b98cc-9cea-48d2-af16-371483a8a664",
+      "detail": "The organisation’s service users, their different needs and reasons for interacting with the service. "
+    },
+    {
+      "knowledgeId": "2a25b934-da84-4c13-9e19-be689c192324",
+      "detail": "Principles for service excellence and how to manage differing service user’s needs."
+    },
+    {
+      "knowledgeId": "895b154b-41c8-4d79-90dd-e7c2bc7d3649",
+      "detail": "Characteristics and signs of vulnerable service users and the process to provide effective support and assistance."
+    },
+    {
+      "knowledgeId": "f1d8547d-dbe6-4ff8-9a49-5ddcbfde9173",
+      "detail": "General administrative activities as required relevant to the role e.g. dealing with correspondence, organising and preparing meetings, task and time management."
+    },
+    {
+      "knowledgeId": "f1315f0c-716e-4fe7-a797-f0a16a463faa",
+      "detail": "Digital applications, tools and systems relevant to role, including the safe use of technology."
+    },
+    {
+      "knowledgeId": "3d307a2d-831b-4ab8-aff0-d1e70743da1c",
+      "detail": "The capabilities and benefits, limitations and risks of using AI and digital tools within the role, including organisational policy for appropriate use."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f338c6b8-0471-457e-ac56-82c0ad801c12",
+      "detail": "Act in a professional manner, with honesty, integrity, objectivity, and impartiality, treating all colleagues, service users and stakeholders fairly and with respect. "
+    },
+    {
+      "behaviourId": "129691f9-7eaa-41e8-b261-2db3ea67bec0",
+      "detail": "Build relationships with a diverse range of stakeholders, supporting an inclusive culture which enables understanding of different perspectives."
+    },
+    {
+      "behaviourId": "441783b3-c5e6-4c32-bd04-6aaa47bfd0bd",
+      "detail": "Take the initiative and responsibility for own learning and development and listen to and act on feedback from colleagues."
+    },
+    {
+      "behaviourId": "2e321bf9-5b45-4518-85bd-ad1556ac09dd",
+      "detail": "Look for solutions to problems and where necessary refers to others with a focus on bringing about change and improvement."
+    },
+    {
+      "behaviourId": "c27ec050-0b52-4f58-83cb-1c055b4ce707",
+      "detail": "Work to ensure a safe environment for themselves and others."
+    },
+    {
+      "behaviourId": "54a8c240-6dd2-4234-baed-19e40cf7d4e1",
+      "detail": "Work collaboratively and at pace, manage own time to complete tasks to schedule and display resilience and flexibility when facing change and challenges."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "3f740a36-8a08-48f8-a8ca-72d64105f665",
+      "detail": "Present information using appropriate communication methods to facilitate understanding and meet the needs of the individual or audience.                                                                                                                                                                                                                                                                                                                           "
+    },
+    {
+      "skillId": "7dcaca21-1964-4a8c-88d0-8e04a23bd78b",
+      "detail": "Handle challenging conversations, following organisational procedures for escalating complex or difficult issues.               "
+    },
+    {
+      "skillId": "bb1d4cfa-3a80-4ac4-a2fe-d560b39bf95c",
+      "detail": "Develop relationships with a diverse range of stakeholders and maintain where necessary."
+    },
+    {
+      "skillId": "af230817-7e90-4323-b9ce-99d0e7c7b76f",
+      "detail": "Support diversity, equity and inclusion in the workplace.                                                             "
+    },
+    {
+      "skillId": "fd918f7f-aba7-4448-b507-d0f5d25aa533",
+      "detail": "Recognise inappropriate language and behaviours and take appropriate action."
+    },
+    {
+      "skillId": "f8b471b2-ec7c-4c16-bcb9-618d7a1da6f2",
+      "detail": "Seek ways to continuously improve, use the Profession's skills framework to identify skills gaps and create a personal development plan."
+    },
+    {
+      "skillId": "4d62e3a7-03fa-46ce-a75d-6d7b1440a1af",
+      "detail": "Act on feedback from colleagues to identify development areas for change. "
+    },
+    {
+      "skillId": "63472561-a644-47a3-8ef1-ba86248f644b",
+      "detail": "Identify problems, find potential solutions and refer to others where necessary, with a focus on bringing about change and improvement."
+    },
+    {
+      "skillId": "77d1fb57-7e45-4edb-ab15-d1fbb0d11237",
+      "detail": "Share knowledge and skills with others to support learning, improved outcomes and readiness for change."
+    },
+    {
+      "skillId": "5bd15978-6b65-41e9-9c5e-e59a39a6f8db",
+      "detail": "Gather, process and record data safely and securely.                                          "
+    },
+    {
+      "skillId": "57539dd4-5644-46ac-9c6d-7cdd64a81dd3",
+      "detail": "Interpret data to identify gaps or issues with data integrity."
+    },
+    {
+      "skillId": "92c026c8-a1fd-4b04-b680-6f303e6d081f",
+      "detail": "Make timely decisions and recommendations considering all information, organisational processes, relevant legislation and implications of those decisions."
+    },
+    {
+      "skillId": "b1ca3492-239d-49a3-97f3-32cf1be31f5e",
+      "detail": "Comply with relevant policies, regulations, codes of practice and legal requirements."
+    },
+    {
+      "skillId": "a7e27085-b5fe-4675-b512-8d96a082f090",
+      "detail": "Support sustainable and greener methods of working."
+    },
+    {
+      "skillId": "a67a37f9-a399-4e27-aa6e-8aca91ba6c73",
+      "detail": "Maintain safety and wellbeing, accessing organisational support mechanisms or signposting to others if required."
+    },
+    {
+      "skillId": "52a44eb6-98d9-4d49-9872-f1e29108dd81",
+      "detail": "Follow organisational processes for identifying and dealing with non-compliance or legal offences. "
+    },
+    {
+      "skillId": "f1cee73d-7b67-4cd1-a49f-b392d3399d6f",
+      "detail": "Deliver services to meet organisational quality standards or targets. "
+    },
+    {
+      "skillId": "d3d642bb-6b8f-4a1a-a0f6-89bdd3ab4c50",
+      "detail": "Identify the needs of service users and deal with them or signpost to relevant teams, stakeholders or organisations when required. "
+    },
+    {
+      "skillId": "aff8ce30-c588-457a-91e1-ad03ddde71e2",
+      "detail": "Follow organisational procedures to prioritise the welfare of service users and provide further support where necessary."
+    },
+    {
+      "skillId": "ff1158cc-4df4-4d6b-a2aa-daf607df643e",
+      "detail": "Carry out administrative duties as required."
+    },
+    {
+      "skillId": "b8fe843f-1355-4507-ab84-92ebc2f2529b",
+      "detail": "Select and appropriately use organisationally relevant digital applications, tools or systems to complete tasks."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0305",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "City of Bradford Metropolitan District Council, Cambridge City Council, Crown Prosecution Service, Department for Transport, Driver & Vehicle Standards Agency, Department for Work and Pensions, Essex County Council, HMRC, Home Office, Insolvency Service, Ministry of Justice, Office for National Statistics, Reading Borough Council, Rural Payments Agency, Tendring District Council, Valuation Office Agency, Lifetime Training, Realise Training, SeeTec, BPP, Innovate, City & Guilds, Government Operational Delivery Profession team. ",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Advisor",
+    "Border force officer",
+    "Case worker",
+    "Debt collector",
+    "Decision maker",
+    "Delivery officer",
+    "Driving examiner",
+    "Enforcement officer",
+    "Standards assessor"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Management and Administration",
+  "cluster": "Administrator",
+  "clusterId": "45",
+  "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
+  "createdDate": "2026-09-14T09:25:22 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0314",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0314-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0314-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "9a935891-8d9d-42a3-8957-8b6d9ceb86f9",
+      "dutyDetail": "Communicate with stakeholders or service users providing accurate information using appropriate channels to resolve queries.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f338c6b8-0471-457e-ac56-82c0ad801c12",
+        "129691f9-7eaa-41e8-b261-2db3ea67bec0",
+        "441783b3-c5e6-4c32-bd04-6aaa47bfd0bd",
+        "2e321bf9-5b45-4518-85bd-ad1556ac09dd"
+      ],
+      "mappedKnowledge": [
+        "4780f234-9627-4d70-939c-a4b6c96c3022",
+        "74538cbe-c55e-449d-8611-5d7d24840bdf",
+        "84f76314-3a17-4775-b74c-755d2637f244"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3f740a36-8a08-48f8-a8ca-72d64105f665"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7e42633c-e4d6-4882-9749-73d7b51b3aeb",
+      "dutyDetail": "Manage challenging conversations, seeking support and guidance when required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f338c6b8-0471-457e-ac56-82c0ad801c12"
+      ],
+      "mappedKnowledge": [
+        "c60719d9-5a95-48e7-82be-90d6ab4d2c9e",
+        "40553803-77ea-4406-aba3-03d8fc54433f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7dcaca21-1964-4a8c-88d0-8e04a23bd78b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fb2bfdb0-9931-4ac4-a652-1d8c95dd2314",
+      "dutyDetail": "Develop and maintain relationships with internal and external stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f338c6b8-0471-457e-ac56-82c0ad801c12",
+        "129691f9-7eaa-41e8-b261-2db3ea67bec0"
+      ],
+      "mappedKnowledge": [
+        "4ff215eb-0bd7-4f50-9d18-c5caf34ea5f6",
+        "84f76314-3a17-4775-b74c-755d2637f244"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bb1d4cfa-3a80-4ac4-a2fe-d560b39bf95c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b1dce4ad-e320-4f4c-a5c2-9df96e9b1a65",
+      "dutyDetail": "Work as part of a team and act as a role model, promoting an inclusive workforce. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f338c6b8-0471-457e-ac56-82c0ad801c12",
+        "129691f9-7eaa-41e8-b261-2db3ea67bec0",
+        "441783b3-c5e6-4c32-bd04-6aaa47bfd0bd",
+        "c27ec050-0b52-4f58-83cb-1c055b4ce707"
+      ],
+      "mappedKnowledge": [
+        "72a29e9d-d687-4380-bd80-13299b4c1783",
+        "54845e0e-4ba4-4fd2-8b15-607ab5156d44"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "af230817-7e90-4323-b9ce-99d0e7c7b76f",
+        "fd918f7f-aba7-4448-b507-d0f5d25aa533"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1393500c-4d3c-44b3-990e-75e1a0fca2dd",
+      "dutyDetail": "Take ownership of personal development, seeking ways to continuously improve. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "441783b3-c5e6-4c32-bd04-6aaa47bfd0bd"
+      ],
+      "mappedKnowledge": [
+        "c02e9728-8c63-4cb0-a8e2-49f3688f8785",
+        "955fd0b5-be74-4c92-84d1-0235746256d9",
+        "e58a125e-03bf-4cd1-ae34-6799fa8a0ce0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8b471b2-ec7c-4c16-bcb9-618d7a1da6f2",
+        "4d62e3a7-03fa-46ce-a75d-6d7b1440a1af"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2aed1604-d20d-4ba7-859a-3e7960d68570",
+      "dutyDetail": "Develop solutions to problems with a focus on bringing about change and improvement, refer to others where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f338c6b8-0471-457e-ac56-82c0ad801c12",
+        "441783b3-c5e6-4c32-bd04-6aaa47bfd0bd",
+        "2e321bf9-5b45-4518-85bd-ad1556ac09dd",
+        "54a8c240-6dd2-4234-baed-19e40cf7d4e1"
+      ],
+      "mappedKnowledge": [
+        "40553803-77ea-4406-aba3-03d8fc54433f",
+        "261eb3a0-b59a-41dc-b25a-be9641c56dee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7dcaca21-1964-4a8c-88d0-8e04a23bd78b",
+        "63472561-a644-47a3-8ef1-ba86248f644b",
+        "77d1fb57-7e45-4edb-ab15-d1fbb0d11237"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "09bd8cf9-b0c0-4e8d-a680-344aae416e15",
+      "dutyDetail": "Gather, process and record information and data.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "54a8c240-6dd2-4234-baed-19e40cf7d4e1"
+      ],
+      "mappedKnowledge": [
+        "cdb9be58-4b58-43ac-a559-98cd93b7fc94",
+        "f324dd32-ff55-4c16-9d17-345b62dbfecd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5bd15978-6b65-41e9-9c5e-e59a39a6f8db",
+        "57539dd4-5644-46ac-9c6d-7cdd64a81dd3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5217bc39-7458-4340-ab37-789cc3806ffe",
+      "dutyDetail": "Make timely decisions and support others in decision making, escalating complex or difficult issues where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f338c6b8-0471-457e-ac56-82c0ad801c12",
+        "2e321bf9-5b45-4518-85bd-ad1556ac09dd"
+      ],
+      "mappedKnowledge": [
+        "40553803-77ea-4406-aba3-03d8fc54433f",
+        "1abd51fb-2de1-4ac4-a3e0-0fc631a40a9b",
+        "ddc2d058-fd9a-4ace-bf50-b235163c2e91"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7dcaca21-1964-4a8c-88d0-8e04a23bd78b",
+        "92c026c8-a1fd-4b04-b680-6f303e6d081f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9c79ca27-e08f-4f82-b1fc-39247a8f73b4",
+      "dutyDetail": "Comply with legal requirements and organisational policies, following relevant processes and frameworks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c27ec050-0b52-4f58-83cb-1c055b4ce707",
+        "54a8c240-6dd2-4234-baed-19e40cf7d4e1"
+      ],
+      "mappedKnowledge": [
+        "e0282a1d-0035-4228-afaa-5d49c8c7f248",
+        "521d5469-2c7a-41c3-9401-fe508218845a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b1ca3492-239d-49a3-97f3-32cf1be31f5e",
+        "a7e27085-b5fe-4675-b512-8d96a082f090"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6ef0eb99-8d70-4610-867d-61835e6f0214",
+      "dutyDetail": "Take responsibility for own health, safety and wellbeing, be alert to health and safety concerns at work, raising issues or taking appropriate action for self and others.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f338c6b8-0471-457e-ac56-82c0ad801c12",
+        "c27ec050-0b52-4f58-83cb-1c055b4ce707"
+      ],
+      "mappedKnowledge": [
+        "bd1e5287-76d2-4549-bb5a-9d15c3623985"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b1ca3492-239d-49a3-97f3-32cf1be31f5e",
+        "a67a37f9-a399-4e27-aa6e-8aca91ba6c73"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f2c73f02-b498-4fd4-877e-8b4651841e42",
+      "dutyDetail": "Identify non-compliance or legal offences and the actions required to respond appropriately.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2e321bf9-5b45-4518-85bd-ad1556ac09dd"
+      ],
+      "mappedKnowledge": [
+        "e0282a1d-0035-4228-afaa-5d49c8c7f248",
+        "f06f7081-4850-447d-a013-7028737d2170"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "52a44eb6-98d9-4d49-9872-f1e29108dd81"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9028df6b-954b-4715-8379-4e06c0d537ec",
+      "dutyDetail": "Perform activities to deliver the service, ensuring work meets quality standards or objectives. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "54a8c240-6dd2-4234-baed-19e40cf7d4e1"
+      ],
+      "mappedKnowledge": [
+        "c6b1dc7e-e4e0-43f2-aef1-4fa14a7e694a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "92c026c8-a1fd-4b04-b680-6f303e6d081f",
+        "f1cee73d-7b67-4cd1-a49f-b392d3399d6f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b66410b3-021e-48df-9210-027c2e7b3c18",
+      "dutyDetail": "Provide high standards of service delivery  when dealing with service users with differing needs or enquiries.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "129691f9-7eaa-41e8-b261-2db3ea67bec0",
+        "2e321bf9-5b45-4518-85bd-ad1556ac09dd",
+        "54a8c240-6dd2-4234-baed-19e40cf7d4e1"
+      ],
+      "mappedKnowledge": [
+        "291b98cc-9cea-48d2-af16-371483a8a664",
+        "2a25b934-da84-4c13-9e19-be689c192324",
+        "895b154b-41c8-4d79-90dd-e7c2bc7d3649"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f1cee73d-7b67-4cd1-a49f-b392d3399d6f",
+        "d3d642bb-6b8f-4a1a-a0f6-89bdd3ab4c50",
+        "aff8ce30-c588-457a-91e1-ad03ddde71e2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4dcdc6a6-1b83-4296-91fa-795ab07bfc1c",
+      "dutyDetail": "Carry out tasks and activities to meet organisation’s administrative requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c27ec050-0b52-4f58-83cb-1c055b4ce707",
+        "54a8c240-6dd2-4234-baed-19e40cf7d4e1"
+      ],
+      "mappedKnowledge": [
+        "f1d8547d-dbe6-4ff8-9a49-5ddcbfde9173"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ff1158cc-4df4-4d6b-a2aa-daf607df643e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "777d1982-acea-4a2c-a2b9-f42b8f32066c",
+      "dutyDetail": "Use digital equipment and resources confidently and effectively to complete tasks, including applications, tools and systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "54a8c240-6dd2-4234-baed-19e40cf7d4e1"
+      ],
+      "mappedKnowledge": [
+        "f1315f0c-716e-4fe7-a797-f0a16a463faa",
+        "3d307a2d-831b-4ab8-aff0-d1e70743da1c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8fe843f-1355-4507-ab84-92ebc2f2529b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-01-14T00:00:00"
+}
