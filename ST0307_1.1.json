@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2024-07-19T00:00:00",
+  "changedDate": "2026-05-13T00:00:00",
   "earliestStartDate": "2024-07-19T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of tasks involving handling cargo, passengers or marine craft.",
   "level": 2,
@@ -405,7 +405,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0032",
-  "tbMainContact": "louise.orchard@peelports.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Associated British Ports, British Army, Explosive Learning Solutions, International Association of Maritime Institutions (IAMI), KSB Maritime, Liverpool Council, Marine Society & Sea Cadets, PD Ports, Peel Ports, Port of Blyth, Port of Dover, Port of London Authority, Port Skills and Safety LTD, The Bristol Port Company",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -430,7 +430,7 @@
   "clusterId": "16",
   "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2024-05-17T14:05:12 +00:00",
-  "lastUpdated": "2024-07-19T00:00:00 +00:00",
+  "lastUpdated": "2026-05-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-09-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0307",
@@ -1003,5 +1003,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-07-19T00:00:00"
+  "publishDate": "2026-12-17T00:00:00"
 }
