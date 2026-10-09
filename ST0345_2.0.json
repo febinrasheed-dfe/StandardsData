@@ -1,0 +1,455 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 491,
+  "referenceNumber": "ST0345",
+  "learningAimClassCode": "",
+  "title": "Digital community manager",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0345",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-06-23T00:00:00",
+  "earliestStartDate": "2026-12-18T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Facilitate and instigate direct communication online between the end user or customer and the organisation.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "370",
+  "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [],
+  "jobRoles": [
+    "Community coordinator",
+    "Community engagement specialist",
+    "Community manager",
+    "Community marketer",
+    "Community operations manager",
+    "Community success manager",
+    "Consumer experience representative",
+    "Games community manager",
+    "Internal community manager",
+    "Online community manager"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0345-in-revision?view=epa",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.3 Media and communication",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;Occupation summary&lt;/h3&gt;\n&lt;p&gt;This occupation is found in industries and organisations that interact and communicate with their customers and end user online, for example the videogame industry and software providers. It is a key role for such employers, from small to medium sized enterprises (SMEs) to large organisations. The broad purpose of the occupation is to facilitate and instigate direct communication online between the end user or customer and the organisation. The customers who are communicating with the organisation are referred to as ‘the community&#39;. Digital Community Managers are the ‘public face’ online for an organisation, implementing their communication strategy to support its business objectives. This is achieved through the management of online media channels and delivering activities such as release information, updates and responding to questions from the community. Digital Community Managers deliver information and useful ideas from the community to their organisation and are the ‘eyes and ears’ of the organisation within the player community. Conversely, they provide information from their organisation back to the community.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In their daily work an employee in this occupation routinely works with multiple communities on-line. Information has to be delivered in the unique tone and voice of each community. The community can run from hundreds to many thousands of customers dependent on the size of the product or game. As they talk to a considerable number of customers with each interaction they have a huge responsibility to accurately and appropriately represent the organisation, a mis-step or badly handled communication can have a detrimental impact on an organisations reputation or revenue. Digital Community Managers work within an office environment and are part of a team developing and implementing an overall communication strategy. They work autonomously but will interact with other departments in an organisation including public relations (pr),marketing, production and communication.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for analysing and interpreting data from the community. Their evaluation of customers&#39; behaviour and data is reported upwards in the organisation, feeding into future communication strategies and product direction. Digital Community Managers are responsible for reviewing their own work and understanding the impact of their communication in order to better inform future interactions. The nature of the work is autonomous as online communication is fast moving and often needs to be timely without requiring supervision.&amp;nbsp; Therefore they have a high degree of responsibility and need to exercise good judgement for their own work within the parameters defined by their organisation.&lt;/p&gt;\n&lt;p&gt;Digital Community Managers report to Senior Digital Community Managers, Communications Managers and Communication Directors.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Typical job titles&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Typical job titles include - Community Manager, Consumer Experience Representative, Games Community Manager&lt;/p&gt;\n&lt;h3&gt;Occupation duties&lt;/h3&gt;\n&lt;table width=&quot;100%&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;h3&gt;Duty&lt;/h3&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;h3&gt;Criteria for measuring performance&lt;/h3&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;h3&gt;KSBs&lt;/h3&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Engage support and enable the community by responding to call to actions and contributing to conversation and debate.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;That the level of customer engagement with communications or online interactions has reached a level in line with the organisation communication strategy or policy.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1&lt;/p&gt;\n&lt;p&gt;S1&lt;/p&gt;\n&lt;p&gt;B1&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Deliver a high level of written communication when messaging the online community via forums and online media channels.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Written communication to the on line community is accurate and in line with organisation community strategy or policy&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K3&lt;/p&gt;\n&lt;p&gt;S2&lt;/p&gt;\n&lt;p&gt;B2&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Review forums and community sites to identify a threat or opportunity for brand or product, assess and act swiftly, using their knowledge of the product and the overall communication strategy. Analyse and prioritise information and data analytics acquired through such reviews to create reports for internal use and escalate appropriately within the organisation.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;That community trends have been identified and reported internally in a timely fashion as per organisation policy or communication strategy. Reports delivered in line with agreed timescale and organisations format.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K2, K4, K6&lt;/p&gt;\n&lt;p&gt;S3, S12&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Take an active role in their communities, participating and leading forum discussions and engaging interest through creating or contributing to assets, offering support and answering questions.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Frequency and timeliness of online interaction with community is in line with agreed organisation guidelines or communication strategy. Community level of satisfaction with communication is up to standards set by the organisation&#39;s procedures.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K2, K4&lt;/p&gt;\n&lt;p&gt;S4, S5&lt;/p&gt;\n&lt;p&gt;B5&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Use custom or internal forum software and content management systems to manage and schedule posts and delivery of assets as per a communication strategy plan or schedule.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Accuracy in scheduling activity in relation to planning documents and organisations communication schedule.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K5&lt;/p&gt;\n&lt;p&gt;S6&lt;/p&gt;\n&lt;p&gt;B2&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Deliver the communication strategy effectively by adapting the tone and voice to suit the particular audience of the different online media channels and stay within the platform holder’s policies and guidelines.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Delivered in compliance with online platform holder&#39;s policies and guidelines. Tone and style of communication is appropriate to the overall tone and style of individual channel.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt;, K7, K10, K11&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S7&lt;/p&gt;\n&lt;p&gt;B2&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; React and respond appropriately to a wide range of topics pertinent to an organisation&#39;s product or brand and the wider industry community.&amp;nbsp; These can form part of an overall communication strategy but will routinely be reacting to an unforeseen issue or subject raised by the community.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Communication is in line with organisation guidelines or communication strategy&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K2, K4&lt;/p&gt;\n&lt;p&gt;S8&lt;span&gt;, S5, S9&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Actively moderate forums i.e. overseeing communications between members, making decisions regarding appropriate content and guiding the direction of conversation.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Forums are moderated in line with company guidelines.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K2, K1, K4&lt;/p&gt;\n&lt;p&gt;S10, S11&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Review the effectiveness of their actions online in order to report and inform an organisation&#39;s or their own future behaviour.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Assessment of actions and outcomes against an organisation&#39;s targets for community engagement.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K6, K12&lt;/p&gt;\n&lt;p&gt;S12, S15&lt;/p&gt;\n&lt;p&gt;B2&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Manage inappropriate comments positively and escalate or enforce conduct standards for inappropriate conduct as necessary.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Community interactions adhere to company and platform standards. Identify the inappropriate behaviour and respond appropriately in a timely fashion as required by company guidelines.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K7, K8, K9, K15, K17&lt;/p&gt;\n&lt;p&gt;S13, S14&lt;/p&gt;\n&lt;p&gt;B5, B6&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Implement communication strategies to support business and communication objectives whilst delivering both positive and unwelcome information to the community.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Delivered in line with organisation communication plan and schedule.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1, K13, K16&lt;/p&gt;\n&lt;p&gt;S8, S14&lt;/p&gt;\n&lt;p&gt;B5, B6&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Drive brand loyalty and a positive experience for the community.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;Alignment of customers comments, reviews and discussion to the organisations communication plan and strategy.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1, K2, K14&lt;/p&gt;\n&lt;p&gt;S2, S1, B1&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;KSBs&lt;/h3&gt;\n&lt;h3&gt;Knowledge&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;K1 Company&lt;/strong&gt; brand, goals and commercial objectives in order to communicate effectively and appropriately with the wider community.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K2 &lt;/strong&gt;Expert level of familiarity with their product and brand in order to promptly address concerns and enquiries that are often complex and non-routine.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K3 &lt;/strong&gt;Social media platforms and their customer profiles, understanding that each platform caters for a different demographic of customer and that modifying communication to suit each platform can maximise the impact of the message.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K4 Key&lt;/strong&gt; competitors, wider trends and ‘hot topics’ in the relevant industry outside of own brand.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K5 &lt;/strong&gt;Internet forum software and content management systems.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K6 &lt;/strong&gt;Principles of data analytics and how to report findings.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K7 &lt;/strong&gt;Platform holder policies and best practice guidelines.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K8 &lt;/strong&gt;Company policy and standards.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K9 &lt;/strong&gt;Conflict management techniques and theories.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K10 &lt;/strong&gt;Demographics and how this impacts on online behaviour and communication&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K11 &lt;/strong&gt;Neuro linguistic programming theory and practice&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K12 &lt;/strong&gt;Understanding of best practice of community management in the relevant industry.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K13 &lt;/strong&gt;Working safely online and understanding that interactions with the online community are on the behalf of the organisation and not personal&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K14 &lt;/strong&gt;Theory and practice of digital marketing, its role in overall communication strategy and how best to communicate a brand or product value&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K15 &lt;/strong&gt;Cyber security, how to spot potential threats and protect data and systems as per company guidelines and current data protection regulations&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K16 &lt;/strong&gt;Online security procedures as per company guidelines&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K17 &lt;/strong&gt;Basic understanding of how to identify and deal with any malicious or criminal activity as per company and legal guidelines&lt;/p&gt;\n&lt;h3&gt;Skills&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;S1 &lt;/strong&gt;Actively moderate community forums, steering and encouraging debate and conversation in line with overall communication strategy and business objectives.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S2 &lt;/strong&gt;Communicate clearly, in writing, adapting the message in order to address the particular audience appropriately.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S3 &lt;/strong&gt;Work autonomously as online interaction and communication is fast moving and response to the community often needs to be delivered promptly.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S4 &lt;/strong&gt;Create and contribute to creation of assets for publication online including written, visual, audio or video to engage community.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S5 &lt;/strong&gt;Listen, assess, engage and react appropriately to an online situation or requests from the online community.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S6 &lt;/strong&gt;Use custom and internal forum software and Content Management System to manage and schedule posts and content delivery.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S7 &lt;/strong&gt;Craft the tone of communications to appeal to the different audiences on different digital platforms, in keeping with company brand and message.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S8 &lt;/strong&gt;Ability to deliver the organisations message and goals to the community in a manner appropriate to the community and forum.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S9 &lt;/strong&gt;Analyse, interpret and evaluate the information and ideas that are raised by the online community.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S10 &lt;/strong&gt;Deliver what the community may regard as unwelcome information about a product, such as a game release, in a positive manner, protecting brand reputation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S11 &lt;/strong&gt;Deliver effective written communication when messaging the online community via forums and online media channels.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S12 &lt;/strong&gt;Use data analytics created by software packages and community tools dashboards to create reports for internal use&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S13 &lt;/strong&gt;Identify and moderate users who violate the forum or company policy, intervening to change behaviour or issuing warnings, suspensions and bans as appropriate.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S14 &lt;/strong&gt;Ability to manage conflict positively.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S15 &lt;/strong&gt;Analyse and evaluate the information created by data analytics to review the effectives of their actions&lt;/p&gt;\n&lt;h3&gt;Behaviours&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;B1 &lt;/strong&gt;Proactively stimulate and drive customer interaction with their brand.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B2 &lt;/strong&gt;Attention to detail and a high level of accuracy.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B3 &lt;/strong&gt;Self-motivated and comfortable working autonomously with good self judgement in a fast paced, challenging environment.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B4 &lt;/strong&gt;Interest in current trends, games and innovations in the relevant industry&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B5 &lt;/strong&gt;Reliable with a high degree of professionalism.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B6 &lt;/strong&gt;Maintain a positive and friendly manner.&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;English and Maths qualifications&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;br&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&amp;nbsp;&amp;nbsp;For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose&amp;nbsp;primary language is BSL.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Additional details&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Occupational Level:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; 4&lt;br&gt;&lt;/span&gt;&lt;strong&gt;Duration (months):&lt;/strong&gt; 24&lt;/p&gt;\n&lt;h3&gt;Review&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in industries and organisations that interact and communicate with their customers and end user online. It is a key role for employers, from small to medium sized enterprises to large organisations.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to facilitate and instigate direct communication online between the end user or customer and the organisation. The customers who are communicating with the organisation are referred to as ‘the community&#39;. Digital Community Managers are the ‘public face’ online for an organisation, helping to increase brand awareness of products, services and or organisations by implementing communication strategy to achieve organisational objectives. Achieved through the management of online media channels and responding to questions from the community.&lt;/p&gt;\n&lt;p&gt;Digital Community Managers cultivate a healthy online community to facilitate the delivery of information and useful ideas from the community to their organisation and are the ‘eyes and ears’ of the organisation online. Responding to customer feedback and dealing with online abusive behaviour.&amp;nbsp;&lt;br&gt;&lt;br&gt;In their daily work an employee in this occupation routinely works with multiple communities online. Activities include managing social media channels including creating content and moderating online forums. Information has to be delivered in the unique tone and voice of each community. The community can run from hundreds to many thousands of customers dependent on the size of the product, service, or organisation. As they talk to a considerable number of customers with each interaction they have a huge responsibility to accurately and appropriately represent the organisation, a mis-step or badly handled communication can have a detrimental impact on an organisations reputation or revenue.&lt;/p&gt;\n&lt;p&gt;Digital Community Managers work within an office environment, at home or a mix of both through hybrid working. They will work as part of a team developing and implementing an overall communication strategy. They work autonomously but will interact with other departments in an organisation including public relations, marketing, production and communications.&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for analysing and interpreting data from the community. Their evaluation of customers&#39; behaviour and data is reported upwards in the organisation, feeding into future communication strategies and product or service direction. Digital Community Managers are responsible for reviewing their own work and understanding the impact of their communication in order to better inform future interactions. The nature of the work is autonomous as online communication is fast moving and needs to be timely without requiring supervision. Therefore they have a high degree of responsibility and need to exercise good judgement for their own work within the parameters defined by their organisation.&lt;br&gt;&lt;br&gt;Digital Community Managers report to Senior Digital Community Managers, Communications Managers and Communication Directors.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "fbbf194e-3fcc-475c-89aa-a13fe39258cb",
+      "detail": "The organisation’s values, mission, and business objectives, to support communication and strategic goals."
+    },
+    {
+      "knowledgeId": "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
+      "detail": "The organisation’s products and services, their features, and how they meet customer needs."
+    },
+    {
+      "knowledgeId": "8bbfd015-9f6c-4650-8b6e-1c07cecc8a90",
+      "detail": "Communication strategies and their role within organisational objectives."
+    },
+    {
+      "knowledgeId": "197aa8b1-b302-4bbd-ac14-83d036bd20b4",
+      "detail": "Industry trends, emerging technologies, and wider topics that impact digital communities."
+    },
+    {
+      "knowledgeId": "44815731-a8eb-4558-8aca-61bbb633b581",
+      "detail": "Competitor analysis, including how benchmarking and insights can inform community strategies."
+    },
+    {
+      "knowledgeId": "92d3feda-425d-453b-aac6-a3a5489067e2",
+      "detail": "Social media platforms, online forums, and content management systems, including their features and functions."
+    },
+    {
+      "knowledgeId": "847e3b00-4c52-45ac-afbb-42deea7bad98",
+      "detail": "Audience demographics, including how factors such as age, interests, and behaviours influence engagement."
+    },
+    {
+      "knowledgeId": "64ee6d5a-dc34-4e18-90fa-caa34e30bb8e",
+      "detail": "Community engagement strategies, including fostering discussions, encouraging participation, and maintaining brand voice."
+    },
+    {
+      "knowledgeId": "d4fe27a7-ad1a-4610-9e46-7f0fe4629ab2",
+      "detail": "Communication and copywriting principles for clear, and persuasive messaging."
+    },
+    {
+      "knowledgeId": "3d892bdb-e397-4165-8666-47a0f3129fc2",
+      "detail": "Digital marketing principles and how they apply to community management, brand positioning, and audience engagement."
+    },
+    {
+      "knowledgeId": "b0f863e3-0465-4196-a7e7-4fc72810883c",
+      "detail": "Strategies for community growth, relationship building, and audience advocacy."
+    },
+    {
+      "knowledgeId": "151533d5-2fc5-4369-a8c3-7ce7a583de84",
+      "detail": "Conflict resolution techniques and best practices for managing disputes and negative interactions."
+    },
+    {
+      "knowledgeId": "756cd61e-22a5-4168-82d6-3e8eae469fd2",
+      "detail": "Principles of crisis management, including how to handle public relations challenges and reputational risks."
+    },
+    {
+      "knowledgeId": "7869e35c-14be-4c78-b86a-e8d418b5994d",
+      "detail": "Data analysis methods, including tracking engagement metrics and sentiment analysis to inform decision making."
+    },
+    {
+      "knowledgeId": "0334eee6-9741-4d1e-95a4-e027f82643e9",
+      "detail": "Cyber security principles, including how to recognise risks, safeguard data, and follow security best practices."
+    },
+    {
+      "knowledgeId": "eac458ee-e265-46cd-800e-b959bb584b30",
+      "detail": "Organisational policies and procedures related to data protection, compliance, and online conduct."
+    },
+    {
+      "knowledgeId": "26572817-8db2-4b4a-a778-331dac01a54f",
+      "detail": "Sustainability considerations, including environmental impact and ethical practices in digital operations."
+    },
+    {
+      "knowledgeId": "d59fdae9-208f-4da6-ab06-96cadd3ac9be",
+      "detail": "Internal collaboration processes and how community insights feed into organisational decision making."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "fc403839-265c-44c3-9120-286f9b6590bd",
+      "detail": "Demonstrates professionalism, integrity, resilience and ethical decision-making."
+    },
+    {
+      "behaviourId": "b94defdc-bc30-4e43-9a0d-050dfa152b1c",
+      "detail": "Commits to continuous professional development (CPD), seeking opportunities to improve skills and stay updated with industry trends."
+    },
+    {
+      "behaviourId": "ff8010b6-072f-4ed3-aed4-12d594036490",
+      "detail": "Supports an inclusive and respectful community culture, treating colleagues and members fairly and without bias."
+    },
+    {
+      "behaviourId": "58c04c17-7181-4851-a6a4-feb78d29c9a0",
+      "detail": "Takes an environmentally sustainable approach to working practices."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "f1871f9f-50c8-415b-b057-e22e42f5fa0d",
+      "detail": "Apply the organisation’s values, mission, products, and services to ensure aligned and informed communication with the community. "
+    },
+    {
+      "skillId": "ebd161fe-69e0-4b0c-9b68-1c8b2059a74c",
+      "detail": "Implement communication strategies that align with organisational objectives and audience needs.  "
+    },
+    {
+      "skillId": "75a7adff-61b5-4ff3-826a-91c10df4faf5",
+      "detail": "Monitor industry trends and competitor activity to identify opportunities and inform engagement strategies."
+    },
+    {
+      "skillId": "673facca-555d-4799-9b34-c2d380dce86b",
+      "detail": "Manage and moderate online discussions across social media platforms, forums, and content management systems. "
+    },
+    {
+      "skillId": "474a4c58-774c-45c8-97a6-4bc94e4444ed",
+      "detail": "Create content using communication and copywriting techniques to engage audiences."
+    },
+    {
+      "skillId": "bb65faa5-5d06-4e2a-8e29-52cc2aa8ab3f",
+      "detail": "Adapt communication style and content to suit different audience demographics, platforms, and engagement preferences."
+    },
+    {
+      "skillId": "41c4bf25-cc11-4c3e-b779-46d131dd734c",
+      "detail": "Apply community engagement techniques to foster discussions, encourage participation, and maintain a positive brand presence."
+    },
+    {
+      "skillId": "e46236c2-2617-4665-a32a-78d42a7b8bd8",
+      "detail": "Proactively engage with community members to build relationships, encourage advocacy, and foster brand loyalty."
+    },
+    {
+      "skillId": "3a6bcf60-16da-45e4-b4c6-72f27bc373e3",
+      "detail": "Manage conflicts using resolution techniques to handle disputes and maintain community standards."
+    },
+    {
+      "skillId": "aedda3e2-0953-430b-808e-db1a0526d22b",
+      "detail": "Respond to and manage crisis situations, minimising reputational risk and ensuring brand protection. "
+    },
+    {
+      "skillId": "416e4fe9-77bf-4fa8-b8b6-a9f5af90ae02",
+      "detail": "Analyse engagement data and sentiment trends to assess effectiveness, identify insights and evaluate outcomes to inform community strategies."
+    },
+    {
+      "skillId": "76a0f3ad-bb8e-4f0d-a4be-17a7ec59424b",
+      "detail": "Comply with organisational policies, data protection regulations, equity & diversity and cybersecurity requirements when managing community interactions."
+    },
+    {
+      "skillId": "85cb96ae-4577-406b-a944-3854cb062563",
+      "detail": "Apply sustainability best practices to minimise environmental impact."
+    },
+    {
+      "skillId": "8a062ecb-92c3-48ce-9555-8335194f5fdb",
+      "detail": "Collaborate with internal teams for example marketing, PR, product development to align community insights with organisational strategies."
+    },
+    {
+      "skillId": "a1f2b85b-3e9e-41e1-a568-99eb93076bd5",
+      "detail": "Analyse and evaluate the information created by data analytics to review actions."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2026-04-09T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0145",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Ubisoft, Auroch Digital, Rebellion, Future Games of London, New Dawns, Sports Interactive, Coatsink Software, Blazing Griffin",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Community coordinator",
+    "Community engagement specialist",
+    "Community manager",
+    "Community marketer",
+    "Community operations manager",
+    "Community success manager",
+    "Consumer experience representative",
+    "Games community manager",
+    "Internal community manager",
+    "Online community manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Business Services",
+  "cluster": "Digital solutions advanced technician",
+  "clusterId": "194",
+  "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
+  "createdDate": "2026-06-23T08:33:46 +00:00",
+  "lastUpdated": "2026-06-23T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-08-14T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0345",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0345-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0345-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "475d46f1-3753-411c-abc5-699a7d4657a2",
+      "dutyDetail": "Engage support and enable the community by responding to call to actions and contributing to conversation and debate.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "fbbf194e-3fcc-475c-89aa-a13fe39258cb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f1871f9f-50c8-415b-b057-e22e42f5fa0d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "92089b27-ba3f-4f91-8f0a-f173f75965bd",
+      "dutyDetail": "Deliver the communication strategy adapting the tone and voice to suit the particular audience of the different online media channels and stay within the platform holder’s policies and guidelines.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "8bbfd015-9f6c-4650-8b6e-1c07cecc8a90",
+        "847e3b00-4c52-45ac-afbb-42deea7bad98",
+        "3d892bdb-e397-4165-8666-47a0f3129fc2",
+        "b0f863e3-0465-4196-a7e7-4fc72810883c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ebd161fe-69e0-4b0c-9b68-1c8b2059a74c",
+        "bb65faa5-5d06-4e2a-8e29-52cc2aa8ab3f",
+        "41c4bf25-cc11-4c3e-b779-46d131dd734c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ee28ac20-4b3f-4d8f-bb84-873127a527cb",
+      "dutyDetail": "Review and analyse forums and community sites to identify threats and opportunities, create reports and escalate data and or information.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
+        "197aa8b1-b302-4bbd-ac14-83d036bd20b4",
+        "92d3feda-425d-453b-aac6-a3a5489067e2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "75a7adff-61b5-4ff3-826a-91c10df4faf5",
+        "76a0f3ad-bb8e-4f0d-a4be-17a7ec59424b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f1251686-9eb5-407a-9e42-9a2a69d05dff",
+      "dutyDetail": "Take an active role in their communities, participating and leading forum discussions and engaging interest through creating or contributing to assets, offering support and answering questions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
+        "197aa8b1-b302-4bbd-ac14-83d036bd20b4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "673facca-555d-4799-9b34-c2d380dce86b",
+        "474a4c58-774c-45c8-97a6-4bc94e4444ed"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ded7ec11-138d-4e30-9631-6b5e5a064098",
+      "dutyDetail": "Use custom or internal forum software and content management systems to manage and schedule posts. Delivery of assets as per a communication strategy, plan or schedule.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "44815731-a8eb-4558-8aca-61bbb633b581"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bb65faa5-5d06-4e2a-8e29-52cc2aa8ab3f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ede96a9c-f3bb-422d-85b6-8d153741a696",
+      "dutyDetail": "React and respond to a wide range of topics pertinent to an organisation's product, service or brand and the wider industry community.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fc403839-265c-44c3-9120-286f9b6590bd"
+      ],
+      "mappedKnowledge": [
+        "fbbf194e-3fcc-475c-89aa-a13fe39258cb",
+        "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
+        "197aa8b1-b302-4bbd-ac14-83d036bd20b4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "474a4c58-774c-45c8-97a6-4bc94e4444ed",
+        "e46236c2-2617-4665-a32a-78d42a7b8bd8",
+        "3a6bcf60-16da-45e4-b4c6-72f27bc373e3",
+        "aedda3e2-0953-430b-808e-db1a0526d22b",
+        "416e4fe9-77bf-4fa8-b8b6-a9f5af90ae02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0179aa9-4c7b-4f26-9632-053eec2a0916",
+      "dutyDetail": "Review the effectiveness of their actions online in order to report and inform an organisation's or their own future behaviour.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fc403839-265c-44c3-9120-286f9b6590bd"
+      ],
+      "mappedKnowledge": [
+        "92d3feda-425d-453b-aac6-a3a5489067e2",
+        "151533d5-2fc5-4369-a8c3-7ce7a583de84"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "76a0f3ad-bb8e-4f0d-a4be-17a7ec59424b",
+        "a1f2b85b-3e9e-41e1-a568-99eb93076bd5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d521ef9a-ef80-4dd6-80dc-03d77aec0069",
+      "dutyDetail": "Manage inappropriate comments positively by escalation and enforcing conduct standards. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "847e3b00-4c52-45ac-afbb-42deea7bad98",
+        "64ee6d5a-dc34-4e18-90fa-caa34e30bb8e",
+        "d4fe27a7-ad1a-4610-9e46-7f0fe4629ab2",
+        "0334eee6-9741-4d1e-95a4-e027f82643e9",
+        "26572817-8db2-4b4a-a778-331dac01a54f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "85cb96ae-4577-406b-a944-3854cb062563",
+        "8a062ecb-92c3-48ce-9555-8335194f5fdb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f0d2182d-85da-4ed9-bcef-0751ecc6819c",
+      "dutyDetail": "Implement communication strategies to support business and communication objectives whilst delivering both positive and unwelcome information to the community.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "fbbf194e-3fcc-475c-89aa-a13fe39258cb",
+        "756cd61e-22a5-4168-82d6-3e8eae469fd2",
+        "eac458ee-e265-46cd-800e-b959bb584b30"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e46236c2-2617-4665-a32a-78d42a7b8bd8",
+        "8a062ecb-92c3-48ce-9555-8335194f5fdb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "93f93d91-59a6-450e-9e28-8c3a0bef8bde",
+      "dutyDetail": "Drive customer loyalty and a positive experience for the community.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "fbbf194e-3fcc-475c-89aa-a13fe39258cb",
+        "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
+        "7869e35c-14be-4c78-b86a-e8d418b5994d",
+        "d59fdae9-208f-4da6-ab06-96cadd3ac9be"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f1871f9f-50c8-415b-b057-e22e42f5fa0d",
+        "ebd161fe-69e0-4b0c-9b68-1c8b2059a74c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "12676f31-7aaf-4d6d-820f-354dc5a96eda",
+      "dutyDetail": "Adhere to organisational policies and procedures. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b94defdc-bc30-4e43-9a0d-050dfa152b1c",
+        "ff8010b6-072f-4ed3-aed4-12d594036490",
+        "58c04c17-7181-4851-a6a4-feb78d29c9a0"
+      ],
+      "mappedKnowledge": [
+        "847e3b00-4c52-45ac-afbb-42deea7bad98",
+        "64ee6d5a-dc34-4e18-90fa-caa34e30bb8e",
+        "d4fe27a7-ad1a-4610-9e46-7f0fe4629ab2",
+        "756cd61e-22a5-4168-82d6-3e8eae469fd2",
+        "eac458ee-e265-46cd-800e-b959bb584b30"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-12-18T00:00:00"
+}
