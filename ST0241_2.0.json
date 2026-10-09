@@ -1,0 +1,736 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 63,
+  "referenceNumber": "ST0241",
+  "learningAimClassCode": "",
+  "title": "Insurance professional",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0241",
+  "qualificationStandardUrl": null,
+  "versionNumber": "2.0",
+  "change": "Occupational standard, assessment plan and funding band revised.",
+  "changedDate": "2026-05-14T00:00:00",
+  "earliestStartDate": "2026-05-14T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Manage complex insurance products and services to provide tailored solutions for clients",
+  "level": 4,
+  "ePALength": 5,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "578",
+  "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Legal, finance and accounting",
+  "keywords": [
+    "underwriting",
+    "client relations",
+    "insurance claims",
+    "loss adjusting",
+    "broking",
+    "reinsurance",
+    "account management",
+    "insurance"
+  ],
+  "jobRoles": [
+    "Insurance broker",
+    "Insurance claims",
+    "Insurance clerk",
+    "Insurance adviser",
+    "Loss adjuster",
+    "Underwriter"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0241-v2-0?view=epa",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.1 Accounting and finance",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupation:&amp;nbsp;Insurance Professional&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Insurance is an incredibly diverse marketplace with a rich history of helping people and businesses assess and manage the risks they face. Over a million people in the UK work in this exciting industry which provides products and advice on everything from sports cars to hurricanes. Insurance touches the lives of everyone and allows us to operate secure in the knowledge that should the worst happen we will have the support we need.&lt;/p&gt;\n&lt;p&gt;The Insurance Professional Apprenticeship provides a development pathway that will allow apprentices to specialise in a particular area of the industry with supporting and appropriate, professional qualifications. The standard is, therefore, of broad application across the insurance sector. It supports the consolidation of technical, industry and business knowledge and the development of the skills needed to apply this to a range of complex and/or unfamiliar situations.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Occupational Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The following are different areas of insurance that an apprentice could be involved in, depending on the type of business they are working in and the needs of their employer.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Broking: providing technical support in administering the insurance arrangements of new or existing clients, negotiating and arranging cover to meet their needs&lt;/li&gt;\n&lt;li&gt;Client Management: managing the business relationship for a portfolio of clients, determining and evaluating their insurance requirements and identifying opportunities for revenue growth&lt;/li&gt;\n&lt;li&gt;Underwriting: working for an insurer assessing requests for insurance, deciding what cover to offer and what premium to charge&lt;/li&gt;\n&lt;li&gt;Claims: working for an insurer assessing, investigating and settling insurance claims or for an insurance broker providing support and advice to clients who need to make a claim&lt;/li&gt;\n&lt;li&gt;Operations: working in one of a number of business support areas, such as analysing and evaluating data or ensuring compliance with regulatory and business procedures&lt;/li&gt;\n&lt;li&gt;Loss Adjusting: providing specialist expertise in investigating and negotiating insurance claims on behalf of the insurer and making recommendations for settlement&lt;/li&gt;\n&lt;li&gt;Reinsurance: providing technical support for the arrangement of insurance for insurers, allowing them to spread their risk&lt;/li&gt;\n&lt;li&gt;Risk Management: providing guidance to clients on how to identify and manage risk within their business&lt;/li&gt;\n&lt;li&gt;Product and Pricing: supporting the development of products to meet identified client needs, together with the associated pricing strategy&lt;/li&gt;\n&lt;li&gt;Complaint Handling: assessing and investigating complaints from clients and negotiating their resolution to achieve a positive outcome for the customer&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Competencies:&lt;/strong&gt;&lt;/h3&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;184&quot; style=&quot;width: 184px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;517&quot; style=&quot;width: 517px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Insurance market&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;A comprehensive understanding of the insurance market and the available products and services.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Risk and Regulatory&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;A comprehensive understanding of the Financial Services legal and regulatory framework and organisational policies and procedures to ensure compliance. Demonstrates an understanding of how a range of situations may be affected by legal and insurance principles.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Clients and Colleagues&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;An understanding of the importance of being proactive in developing the relationships and networks required to be successful in the role, whilst achieving business objectives and ensuring that client needs are met.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Processes and Procedures&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;A &amp;nbsp;clear &amp;nbsp;understanding &amp;nbsp;of &amp;nbsp;the &amp;nbsp;processes &amp;nbsp;and &amp;nbsp;procedures &amp;nbsp;relevant &amp;nbsp;to &amp;nbsp;the &amp;nbsp;technical requirements of the role and their impact on the wider organisation and industry.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Commercial awareness&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;An understanding of the impact of change within the insurance market and how it affects &amp;nbsp;the role and the wider organisation. Understands and can differentiate between the organisation’s short, medium and long term business objectives.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;184&quot; style=&quot;width: 184px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;517&quot; style=&quot;width: 517px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Technical ability&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;Ability to apply technical knowledge and experience to deliver positive outcomes to all stakeholders utilising appropriate policies and procedures.&lt;/p&gt;\n&lt;p&gt;Ability to apply legal and insurance principles, knowledge of the market structure and its processes, procedures and documentation to a range of complex situations.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Relationship development&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;Can proactively identify, generate and develop relationships and networks that support the role, including but not limited to internal/external/market led/professional and peer relationships. Can leverage relationships to improve the reliability of customer service based on customer feedback. Engages with and supports colleagues so that they are empowered to resolve customers issues within organisational guidelines.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Ownership and initiative&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;Takes ownership for delivering in their area of responsibility. Finds ways to progress and meet commitments when issues arise, being creative where appropriate. Escalates issues and decisions where necessary. Identifies and proposes business process improvements .&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Governance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;Applies legal and regulatory requirements to work compliantly, whilst promoting a culture of treating customers fairly. Assesses whether organisational processes and procedures and those that follow them are compliant with legal and regulatory requirements.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;184&quot;&gt;\n&lt;p&gt;Advice and support&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;517&quot;&gt;\n&lt;p&gt;Provides technical advice and support to others on complex insurance matters.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;185&quot; style=&quot;width: 185px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;516&quot; style=&quot;width: 516px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;185&quot;&gt;\n&lt;p&gt;Drive to excel&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;516&quot;&gt;\n&lt;p&gt;An understanding of own and company performance measures and the application of this knowledge to contribute positively to key business objectives. Shares own knowledge and experience to support others to achieve personal and business objectives.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;185&quot;&gt;\n&lt;p&gt;Communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;516&quot;&gt;\n&lt;p&gt;Adapts communication and resources to take account of the target audience including less experienced colleagues. Presents information accurately and effectively using more complex communication methods such as reports and presentations. Communicates using the necessary technical language but articulates this in a way that others can understand.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;185&quot;&gt;\n&lt;p&gt;Personal Accountability&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;516&quot;&gt;\n&lt;p&gt;Acts using own initiative to accomplish objectives and seeks alternatives when barriers arise. Tenacious in finding the best solutions, demonstrating commitment to the role and the Insurance Industry.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;185&quot;&gt;\n&lt;p&gt;Innovation&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;516&quot;&gt;\n&lt;p&gt;Proactively able to challenge the status quo by considering the feasibility of suggested ideas and improvement considering the impact they may have on business objectives.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;185&quot;&gt;\n&lt;p&gt;Professionalism&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;516&quot;&gt;\n&lt;p&gt;Truthful, sincere in their actions (even when not the easiest) and demonstrates Utmost Good faith. Demonstrates role model behaviour in approach to colleagues, clients and partners.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;&lt;br&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The apprenticeship will typically take 24 – 30 months to complete.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Diploma level qualifications from either the Chartered Insurance Institute (CII) or the Chartered Institute of Loss Adjusters (CILA) are required to complete this apprenticeship. Different units can be selected within the qualification frameworks depending on the individual’s role.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Link to professional registration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;By passing the apprenticeship, professional registration can be achieved by application to the relevant Professional Body with recognised status of Dip CII, (Chartered Insurance Institute), or Dip CILA (Chartered Institute of Loss Adjusters). It is also a stepping stone on the route to full Advanced Diploma qualification.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Level&lt;/h3&gt;\n&lt;p&gt;Apprentices without level 2 English and Maths will need to achieve this level prior to completion of this apprenticeship&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The apprenticeship should be reviewed after 3 years.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot;&gt;The UK insurance market is one of the most dynamic and influential insurance markets which is recognised globally for its professionalism and diverse product offering, attracting business from around the world.&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;This occupation is found in&lt;strong&gt; &lt;/strong&gt;the insurance industry and within the broader financial services sector. Insurance professionals can be found in a variety of companies ranging in size and structural complexity; from self-employed sole-trading consultancies, small privately-owned brokerages, medium-sized networks of provincial brokers to large national and multi-national insurance firms.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;Insurance professionals work in a variety of technically skilled roles in various sectors across the industry including, reinsurance, underwriters, brokers, claims, loss adjusters, pricing analysts and risk analysts. They work in specialised areas of the market having in-depth knowledge of insurance products, for example, home, motor, cargo and aviation insurance, or facultative and treaty reinsurance.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;They have good technical knowledge of the insurance industry and their area of expertise to deliver positive and compliant outcomes for complex insurance matters, for example the resolution of claims in medical cases, underwriting complex insurance risks due to construction hazards or insuring people with criminal convictions. They have greater accountability for their practice and may have responsibility for validating the work of junior colleagues.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;The broad purpose of the occupation is to use specialist expertise in a defined area of insurance to manage complex products and services and provide tailored solutions for clients. They would also expertly match the right products and services to a customers’ needs, often in complex and unfamiliar situations, such as insuring vessels in the event of piracy, in the event of cyber security breaches, climate change events or insuring autonomous vehicles.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;background: rgba(255, 255, 255, 1); margin: 7.5pt 0&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 1)&quot;&gt;Insurance professionals would typically use their broad understanding of the insurance market to apply their technical knowledge and skills to analyse and evaluate risk, take ownership and accountability to make decisions and solve complex problems,&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 1)&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 1)&quot;&gt;whilst building and maintaining strong relationships with clients in line with the legal and regulatory requirements that govern processes, procedures and market agreements. Additionally, insurance professionals would have a broad understanding of the insurance market, identifying changes in the market and recognising the impact this could have on business objectives and competitor strategies.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;They typically work in an office, home or a hybrid of both. They may be required to meet customers at external locations depending on the role. Some may have a company vehicle if they are required to visit customers off-site.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;In their daily work, an employee in this occupation interacts with a range of colleagues at all levels of the business, including management. They would also interact with colleagues in similar or other specialist areas such as, actuaries, compliance teams, data teams and complaints handlers. Externally, they would typically interact with third-party insurance product suppliers, such as an underwriter, a broker, a claims handler liaising with an independent loss adjuster or industry regulator.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;An employee in this occupation will be responsible for resolving complex insurance issues and requests, relative to their areas of specialisation, with minimum supervision.&amp;nbsp; They would have the autonomy to be responsible for their own workload and plan their own working day effectively.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;They typically report to a technically competent senior manager. Depending on the size of the organisation they work for and the role they are in, some insurance professionals may have line management responsibility and accountability for budgets. They may also be an escalation route for junior staff, dealing with contentious issues, or support managers on technical matters. For example, an underwriting professional may manage contractual queries around flood damage to business stock for a major stakeholder. They may be required to review and validate work of other team members, providing feedback and ensuring accuracy and compliance with regulation and internal policies and procedures.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;Insurance professionals need to comply with all relevant insurance, financial and legal regulations such as FCA guidelines, Pool Re requirements in relation to terrorism insurance, legislation, such as the Insurance Act and Consumer Insurance (Disclosure and Representation) Act for cooling-periods or payment by instalments and sanctions checks depending on government or global requirements. Those engaged in the industry are expected to act with integrity and professionalism, always act ethically and should also adhere to their organisation’s code of conduct.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "6387ec42-b3af-4915-9814-6959e521f0e2",
+      "detail": "The structure of the insurance market, and the products and services available relevant to their role."
+    },
+    {
+      "knowledgeId": "08ee9400-b797-46b6-8caa-6258b35c4120",
+      "detail": "How changes in the wider insurance market impact their organisation and influence decisions."
+    },
+    {
+      "knowledgeId": "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+      "detail": "The principles of customer service and how to apply them to deliver positive relationships for key stakeholders, including the significance and importance of Knowing Your Customer (KYC), Treating Customers Fairly (TCF), and dealing with vulnerable customers."
+    },
+    {
+      "knowledgeId": "74308260-3896-4d25-acc9-4b58d00f4602",
+      "detail": "The principles of insurance, and relevant financial services regulation, legislation and codes of practice within the insurance market, and how these apply to their role, such as, FCA guidelines, the Insurance Act, Consumer Insurance (Disclosure and Representations), consumer duty."
+    },
+    {
+      "knowledgeId": "80afc380-c333-4a8c-925b-964f0cad0162",
+      "detail": "The implications of non-compliance for the organisation and stakeholders, and escalation routes for non-compliance issues, for example identification of a breach of contract."
+    },
+    {
+      "knowledgeId": "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+      "detail": "How changes to regulation and legislation can impact products and services."
+    },
+    {
+      "knowledgeId": "f50a4494-0de4-42fd-81fd-46c424785e2f",
+      "detail": "Techniques to develop and maintain collaborative and positive stakeholder relationships."
+    },
+    {
+      "knowledgeId": "7125cace-e125-42ac-9f92-3cfd971eac49",
+      "detail": "Influencing techniques, and how to apply them to achieve required aims and outcomes relevant to their role."
+    },
+    {
+      "knowledgeId": "c50b47f7-9ae1-48a5-a4d2-310321ff133d",
+      "detail": "Principles and policies of equity, diversity, and inclusion, and their impact on the organisation and own stakeholders."
+    },
+    {
+      "knowledgeId": "a05bc53f-0540-45b6-b8a5-c37a017888ca",
+      "detail": "The organisation’s aims and objectives, and how these relate to own role and team, and the wider insurance market."
+    },
+    {
+      "knowledgeId": "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+      "detail": "The organisational processes and procedures relevant to the technical requirements of their role. "
+    },
+    {
+      "knowledgeId": "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+      "detail": "The impact of competitor activity on their organisation, for example changes in a competitor’s insurance rates, or innovative new products which could impact account retention."
+    },
+    {
+      "knowledgeId": "23b04120-6b98-4973-b87d-ff45fa76c751",
+      "detail": "Communication techniques, methods, and strategies, and the importance of adapting communication style to facilitate understanding for financial and non-financial stakeholders, for example, active listening, team communications, conflict management, and diversity and inclusion considerations."
+    },
+    {
+      "knowledgeId": "f7cedc78-6dd4-4dd8-a515-3e6b63197bda",
+      "detail": "How to analyse and present insurance data in different formats, for example reports, presentations, graphical images."
+    },
+    {
+      "knowledgeId": "d1bcaa45-3e59-4cfa-a24e-4562c6c26071",
+      "detail": "The importance of Continuing Professional Development (CPD) to improve own professional practice."
+    },
+    {
+      "knowledgeId": "ca08f597-a0c3-48d9-bc2f-7517d21e9451",
+      "detail": "Digital tools and techniques relevant to their role, and emerging technology within the wider insurance industry."
+    },
+    {
+      "knowledgeId": "8318e161-0ddd-4540-a40f-3108aaf05f4a",
+      "detail": "Current data legislation, cyber security regulations and organisational policies for compliant handling of data and working securely online. "
+    },
+    {
+      "knowledgeId": "15bc811e-c608-4725-937c-f21516abb260",
+      "detail": "Current and developing sustainability principles within insurance products and working practices."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "ade71039-f374-44ee-a92e-6ce79658d073",
+      "detail": "Displays a growth mindset and uses own initiative, learning from failures and spotting opportunities."
+    },
+    {
+      "behaviourId": "cdb96cb9-6d71-452b-9e5d-b62d9acfdb3d",
+      "detail": "Demonstrates empathy and fairness, treating others with respect."
+    },
+    {
+      "behaviourId": "518cfc67-76d1-420b-bb93-890084f42ba6",
+      "detail": "Works flexibly and adapts to changing circumstances, including overcoming challenges and responding to setbacks."
+    },
+    {
+      "behaviourId": "c9311154-de94-46ae-9071-fb17b83ba341",
+      "detail": "Maintains confidentiality and acts with due care and diligence."
+    },
+    {
+      "behaviourId": "7436c4d2-feac-440b-b72a-f262dc751621",
+      "detail": "Reflects on own practice and seeks learning opportunities for Continuing Professional Development (CPD)."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "b8ef563c-692e-4025-9567-6f75512b7d70",
+      "detail": "Provide customer service by making informed decisions whilst balancing the needs of stakeholders and the organisation, prioritising fair customer outcomes in all decisions, for example determining a high value insurance payout while balancing business needs with customer retention practices."
+    },
+    {
+      "skillId": "b2cf3136-b592-4630-aa12-17313610525c",
+      "detail": "Investigate, analyse, and resolve technical insurance queries, complaints, and escalated cases and requests relevant to their role."
+    },
+    {
+      "skillId": "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+      "detail": "Work within limits of own authority, and escalating issues where appropriate."
+    },
+    {
+      "skillId": "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+      "detail": "Communicate with stakeholders using methods appropriate for the intended audience in line with organisational expectations, including verbal, written, digital, and virtual."
+    },
+    {
+      "skillId": "fd0b1682-9705-415d-bf58-369c2dce6345",
+      "detail": "Interpret and communicate insurance and business information in a way that facilitates understanding for the intended audience, for example finance and non-finance stakeholders."
+    },
+    {
+      "skillId": "058b4a31-3202-403f-89f8-bcc22f35480a",
+      "detail": "Build and maintain collaborative, professional relationships with internal and external stakeholders."
+    },
+    {
+      "skillId": "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+      "detail": "Contribute towards achieving team and organisational objectives. "
+    },
+    {
+      "skillId": "98c4e3fd-1067-4bff-ad67-ecd71c9bb42f",
+      "detail": "Identify opportunities for continuous improvement and recommend solutions to improve processes."
+    },
+    {
+      "skillId": "f70158fb-2921-4f7a-b7a8-982e3b5d6aab",
+      "detail": "Use influencing techniques to achieve required aims and outcomes relevant to their role."
+    },
+    {
+      "skillId": "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+      "detail": "Analyse and interpret information to make recommendations in line with legal, regulatory, process, or policy requirements, and insurance principles."
+    },
+    {
+      "skillId": "f234dd58-10ad-48e7-8487-b2a8a6f7611a",
+      "detail": "Identify potential non-compliance issues and take action to avoid or mitigate issues in line with financial services regulation, legislation and the insurance principles."
+    },
+    {
+      "skillId": "4b983d0b-0099-4a76-bf9e-073b546981d2",
+      "detail": "Provide technical advice and support for colleagues, for example acting as an escalation point for junior colleagues or providing feedback to ensure compliance and accuracy."
+    },
+    {
+      "skillId": "8fe12485-57f8-433b-975a-dde6e80e2ee9",
+      "detail": "Take an evidence-based approach to decision-making and challenge ideas based on evidence, considering the impact on business objectives."
+    },
+    {
+      "skillId": "222f5ffc-0cb2-4681-9ac9-2f9e0abb9e10",
+      "detail": "Use digital tools and techniques relevant to own role and workplace, for example, AI analytics, modelling, telematics, portals, online placements, products, pricing."
+    },
+    {
+      "skillId": "3a34f4fd-7eaa-481b-87d6-7814ad3f30a8",
+      "detail": "Comply with current data legislation, cyber security regulations, and organisational policies, including when managing and storing client data safely and securely."
+    },
+    {
+      "skillId": "cb1a6aed-f09e-435b-ae07-ee5289b5a402",
+      "detail": "Apply current and developing sustainability principles relevant to insurance products and working practices within their business area."
+    },
+    {
+      "skillId": "560f69e3-946b-4205-bc64-d8774ae8d185",
+      "detail": "Apply principles and policies of equity, diversity, and inclusion where appropriate."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2024-12-19T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2015-11-19T00:00:00 +00:00",
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification with apprenticeship assessment",
+  "integratedDegree": "",
+  "tbReference": "TB0910",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "AIG, Allianz Insurance, Aon, Aviva, Benefact Group, BPP, Chartered Insurance Institute, Davies Group, DSW, MMC, Robertson and Co, The Growth Company, Willis Towers Watson, Zurich",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Insurance broker",
+    "Insurance claims",
+    "Insurance clerk",
+    "Insurance adviser",
+    "Loss adjuster",
+    "Underwriter"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Financial",
+  "cluster": "Insurance specialist",
+  "clusterId": "245",
+  "clusterDescription": "Provide a full range of technical support and services to clients and colleagues across all types of insurance activities which require bespoke research and analysis",
+  "createdDate": "2026-05-05T09:17:45 +00:00",
+  "lastUpdated": "2026-05-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2015-11-19T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0241",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0241-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0241-v2-0",
+  "qualifications": [
+    {
+      "qualificationId": "3ab17bd3-5fb6-43b2-84c8-bbfa8e2a445c",
+      "title": "CII Diploma in Insurance",
+      "level": "4",
+      "anyAdditionalInformation": "CII Credits: The CII Diploma in Insurance must be completed before the end of the apprenticeship. The CII Diploma in Insurance qualification requires a minimum of 120 Diploma-level CII credits to achieve a pass. On completion of the apprenticeship, apprentices must have completed and passed enough units to accumulate a minimum of 95 Diploma-level CII credits. Where the apprenticeship assessment organisation is recognised for a prior learning award by the CII, apprentices completing this assessment plan may be eligible to claim a further 25 Diploma-level CII credits towards the CII Diploma in Insurance. This is equivalent to one CII Level 4 Diploma-level unit and can be used towards achievement of the qualification upon receipt by CII of a valid application and payment of the recognition fee. Apprenticeship assessment organisations must make arrangements directly with the CII to gain an award and communicate this accurately to apprentices. Apprentices should consult the CII website to familiarise themselves with the CII recognition of prior learning scheme and qualifications before submitting their applications. They will need to provide their apprenticeship completion certificate as evidence of completing the apprenticeship, and this must be certified as a true copy of the original by a current CII or Personal Finance Society member, solicitor, or public notary. Full details, including the current scheme rules, application process, frequently asked questions, application form, and CII qualifications, are available on the CII website.                                                                                                                                   \n\nEnglish and maths: Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Chartered Insurance Institute",
+      "level": "Diploma Membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "a38670aa-eb23-4751-9f7f-942918a25291",
+      "dutyDetail": "Provide outstanding service outcomes to stakeholders on insurance provisions, often dealing with more complex and non-standard situations, considering the impact to the stakeholders and the wider organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cdb96cb9-6d71-452b-9e5d-b62d9acfdb3d",
+        "c9311154-de94-46ae-9071-fb17b83ba341"
+      ],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "80afc380-c333-4a8c-925b-964f0cad0162",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "7125cace-e125-42ac-9f92-3cfd971eac49",
+        "c50b47f7-9ae1-48a5-a4d2-310321ff133d",
+        "a05bc53f-0540-45b6-b8a5-c37a017888ca",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "fd0b1682-9705-415d-bf58-369c2dce6345",
+        "058b4a31-3202-403f-89f8-bcc22f35480a",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "96c5ca75-e61a-45a1-8e75-f2518c18ff27",
+      "dutyDetail": "Deal with complex insurance queries and requests drawing on technical knowledge and experience of products and procedures. Provide appropriate solutions to routine and non-routine insurance scenarios, such as, agreeing or implementing temporary changes to an insurance policy while negotiating disputed contract terms.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "80afc380-c333-4a8c-925b-964f0cad0162",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "fd0b1682-9705-415d-bf58-369c2dce6345",
+        "058b4a31-3202-403f-89f8-bcc22f35480a",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fbcb36f4-f322-4cf9-b2cc-94555b2560d7",
+      "dutyDetail": "Communicate complex technical insurance information in response to stakeholder needs ensuring communications are professional, clear, courteous and in line with data protection legislation. For example, in loss adjusting, this could be advising on building regulations and legislation for property insurance to minimise potential loss in the case of a fire. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "7125cace-e125-42ac-9f92-3cfd971eac49",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "fd0b1682-9705-415d-bf58-369c2dce6345",
+        "058b4a31-3202-403f-89f8-bcc22f35480a",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "f70158fb-2921-4f7a-b7a8-982e3b5d6aab",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1347a6ea-7b45-4762-bfa4-092062d88c90",
+      "dutyDetail": "Apply in-depth knowledge of the organisation’s insurance provisions to ensure stakeholders have the most suitable outcome for their insurance needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "7125cace-e125-42ac-9f92-3cfd971eac49",
+        "a05bc53f-0540-45b6-b8a5-c37a017888ca",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "058b4a31-3202-403f-89f8-bcc22f35480a",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "f70158fb-2921-4f7a-b7a8-982e3b5d6aab",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "f234dd58-10ad-48e7-8487-b2a8a6f7611a",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "625334ce-6e98-47e1-ad19-f176cd364571",
+      "dutyDetail": "Investigate, analyse and take ownership of potential problems, in line with organisational procedures and escalate insurance issues that are beyond own authority.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "80afc380-c333-4a8c-925b-964f0cad0162",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "a05bc53f-0540-45b6-b8a5-c37a017888ca",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+        "23b04120-6b98-4973-b87d-ff45fa76c751"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "f70158fb-2921-4f7a-b7a8-982e3b5d6aab",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2",
+        "8fe12485-57f8-433b-975a-dde6e80e2ee9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fb8b66d5-fabb-4a45-8b08-950a718ee666",
+      "dutyDetail": "Apply in-depth knowledge of legal and regulatory requirements in standard and complex insurance situations. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c9311154-de94-46ae-9071-fb17b83ba341"
+      ],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "80afc380-c333-4a8c-925b-964f0cad0162",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "7125cace-e125-42ac-9f92-3cfd971eac49",
+        "c50b47f7-9ae1-48a5-a4d2-310321ff133d",
+        "a05bc53f-0540-45b6-b8a5-c37a017888ca",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda",
+        "d1bcaa45-3e59-4cfa-a24e-4562c6c26071",
+        "8318e161-0ddd-4540-a40f-3108aaf05f4a",
+        "15bc811e-c608-4725-937c-f21516abb260"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "f70158fb-2921-4f7a-b7a8-982e3b5d6aab",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "f234dd58-10ad-48e7-8487-b2a8a6f7611a",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2",
+        "3a34f4fd-7eaa-481b-87d6-7814ad3f30a8",
+        "cb1a6aed-f09e-435b-ae07-ee5289b5a402",
+        "560f69e3-946b-4205-bc64-d8774ae8d185"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "af109525-be15-494a-8187-76ee98ddc7d1",
+      "dutyDetail": "Provide technical advice and support for colleagues to resolve non-routine insurance issues and be an escalation route providing feedback, ensuring compliance with appropriate procedures, regulations and legislation, such as, advising on the breadth of risks which could impact terms for a rural property. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cdb96cb9-6d71-452b-9e5d-b62d9acfdb3d"
+      ],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "80afc380-c333-4a8c-925b-964f0cad0162",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "7125cace-e125-42ac-9f92-3cfd971eac49",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda",
+        "d1bcaa45-3e59-4cfa-a24e-4562c6c26071",
+        "ca08f597-a0c3-48d9-bc2f-7517d21e9451"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "fd0b1682-9705-415d-bf58-369c2dce6345",
+        "058b4a31-3202-403f-89f8-bcc22f35480a",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "f70158fb-2921-4f7a-b7a8-982e3b5d6aab",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "f234dd58-10ad-48e7-8487-b2a8a6f7611a",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c621cca7-75aa-4880-8e00-3dede3632e18",
+      "dutyDetail": "Ensure all activity is carried out effectively, efficiently and in line with organisational processes and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cdb96cb9-6d71-452b-9e5d-b62d9acfdb3d",
+        "c9311154-de94-46ae-9071-fb17b83ba341"
+      ],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "80afc380-c333-4a8c-925b-964f0cad0162",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "ca08f597-a0c3-48d9-bc2f-7517d21e9451"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "98c4e3fd-1067-4bff-ad67-ecd71c9bb42f",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2",
+        "8fe12485-57f8-433b-975a-dde6e80e2ee9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dfe15446-a858-4442-a89d-68307e4fe7d6",
+      "dutyDetail": "Contribute to team and wider organisation aims and objectives ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "c50b47f7-9ae1-48a5-a4d2-310321ff133d",
+        "a05bc53f-0540-45b6-b8a5-c37a017888ca",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda",
+        "d1bcaa45-3e59-4cfa-a24e-4562c6c26071",
+        "15bc811e-c608-4725-937c-f21516abb260"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "f70158fb-2921-4f7a-b7a8-982e3b5d6aab",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2",
+        "8fe12485-57f8-433b-975a-dde6e80e2ee9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "45f7e2a0-8dd0-4622-91c9-ff41d95f8725",
+      "dutyDetail": "Develop and maintain effective stakeholder relationships and networks to facilitate positive outcomes. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "fd0b1682-9705-415d-bf58-369c2dce6345",
+        "058b4a31-3202-403f-89f8-bcc22f35480a",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "f70158fb-2921-4f7a-b7a8-982e3b5d6aab",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "253993bc-e959-4410-a602-7d0f1e047583",
+      "dutyDetail": "Identify areas for continuous improvement within the organisation and recommend appropriate changes. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "518cfc67-76d1-420b-bb93-890084f42ba6"
+      ],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "c50b47f7-9ae1-48a5-a4d2-310321ff133d",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda",
+        "ca08f597-a0c3-48d9-bc2f-7517d21e9451",
+        "8318e161-0ddd-4540-a40f-3108aaf05f4a",
+        "15bc811e-c608-4725-937c-f21516abb260"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "512a9403-8dce-4da9-b091-5f98c9b7caf6",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "98c4e3fd-1067-4bff-ad67-ecd71c9bb42f",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2",
+        "8fe12485-57f8-433b-975a-dde6e80e2ee9",
+        "222f5ffc-0cb2-4681-9ac9-2f9e0abb9e10",
+        "cb1a6aed-f09e-435b-ae07-ee5289b5a402"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3336e02d-bb95-47cb-b970-eb79b7e4b72b",
+      "dutyDetail": "Take responsibility for personal and professional development in line with organisational expectations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ade71039-f374-44ee-a92e-6ce79658d073",
+        "518cfc67-76d1-420b-bb93-890084f42ba6",
+        "7436c4d2-feac-440b-b72a-f262dc751621"
+      ],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "80afc380-c333-4a8c-925b-964f0cad0162",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "c50b47f7-9ae1-48a5-a4d2-310321ff133d",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+        "d1bcaa45-3e59-4cfa-a24e-4562c6c26071",
+        "ca08f597-a0c3-48d9-bc2f-7517d21e9451",
+        "8318e161-0ddd-4540-a40f-3108aaf05f4a",
+        "15bc811e-c608-4725-937c-f21516abb260"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "058b4a31-3202-403f-89f8-bcc22f35480a",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "98c4e3fd-1067-4bff-ad67-ecd71c9bb42f",
+        "f234dd58-10ad-48e7-8487-b2a8a6f7611a",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2",
+        "8fe12485-57f8-433b-975a-dde6e80e2ee9",
+        "222f5ffc-0cb2-4681-9ac9-2f9e0abb9e10",
+        "3a34f4fd-7eaa-481b-87d6-7814ad3f30a8",
+        "cb1a6aed-f09e-435b-ae07-ee5289b5a402"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e25231b9-d346-42f1-b8a1-00ee16af7291",
+      "dutyDetail": "Use a range of digital tools and technology, such as, generative AI analytics and data analytics, modelling, large language models, telematics, blockchain, portals, online placements, products, pricing, ensuring this is done safely and securely. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ade71039-f374-44ee-a92e-6ce79658d073",
+        "518cfc67-76d1-420b-bb93-890084f42ba6"
+      ],
+      "mappedKnowledge": [
+        "6387ec42-b3af-4915-9814-6959e521f0e2",
+        "08ee9400-b797-46b6-8caa-6258b35c4120",
+        "0aa87069-f2e6-41b7-8c51-9cd43befe4a7",
+        "74308260-3896-4d25-acc9-4b58d00f4602",
+        "80afc380-c333-4a8c-925b-964f0cad0162",
+        "8ae4d5ea-31da-43a7-bfd6-4592abd87f33",
+        "f50a4494-0de4-42fd-81fd-46c424785e2f",
+        "7125cace-e125-42ac-9f92-3cfd971eac49",
+        "6ec6d7fd-17ef-4f3c-8ae7-22b944324f64",
+        "3b2b51c0-5d68-47d9-bf7f-57e69ee95e44",
+        "23b04120-6b98-4973-b87d-ff45fa76c751",
+        "f7cedc78-6dd4-4dd8-a515-3e6b63197bda",
+        "ca08f597-a0c3-48d9-bc2f-7517d21e9451",
+        "8318e161-0ddd-4540-a40f-3108aaf05f4a",
+        "15bc811e-c608-4725-937c-f21516abb260"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8ef563c-692e-4025-9567-6f75512b7d70",
+        "b2cf3136-b592-4630-aa12-17313610525c",
+        "4b5154f3-83e4-4938-8ffb-b63a7dc6a9b9",
+        "058b4a31-3202-403f-89f8-bcc22f35480a",
+        "31f663e8-5ac7-487c-b47c-dcb3c338fa3e",
+        "98c4e3fd-1067-4bff-ad67-ecd71c9bb42f",
+        "d0baa416-f82f-43ab-80ad-c5948ef982f9",
+        "f234dd58-10ad-48e7-8487-b2a8a6f7611a",
+        "4b983d0b-0099-4a76-bf9e-073b546981d2",
+        "8fe12485-57f8-433b-975a-dde6e80e2ee9",
+        "222f5ffc-0cb2-4681-9ac9-2f9e0abb9e10",
+        "3a34f4fd-7eaa-481b-87d6-7814ad3f30a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-05-14T00:00:00"
+}
