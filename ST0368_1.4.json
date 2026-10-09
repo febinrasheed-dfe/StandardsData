@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "Occupational standard and end-point assessment plan revised to reduce the wall tile size in the practical assessment.\nAdd the requirement for tile pattern to be brick or stacker bond in the practical assessment.\nAmend practical assessment and S18 to grout wall or floor tiles rather than both.",
-  "changedDate": "2024-12-16T00:00:00",
+  "changedDate": "2026-07-31T00:00:00",
   "earliestStartDate": "2024-12-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -358,7 +358,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0351",
-  "tbMainContact": "support@tile.org.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Moderna Contracts Limited\n\nBuilding Adhesives Limited\n\nWB Simpson& Sons (Midlands) Ltd\n\nThe Tile Association\n\nLeeds College of Building (LCB)\n\nSouth and City College, Birmingham",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -376,7 +376,7 @@
   "clusterId": "5",
   "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2024-12-16T08:53:27 +00:00",
-  "lastUpdated": "2024-12-16T00:00:00 +00:00",
+  "lastUpdated": "2026-07-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-11-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0368",
@@ -1062,5 +1062,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-12-16T00:00:00"
+  "publishDate": "2026-07-31T00:00:00"
 }
