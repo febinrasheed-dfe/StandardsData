@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard and End-point assessment plan revised.",
-  "changedDate": "2025-08-19T00:00:00",
+  "changedDate": "2026-08-21T00:00:00",
   "earliestStartDate": "2025-08-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -300,7 +300,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0562",
-  "tbMainContact": "iain@maritimeskills.org",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Serco, Cornelis Vrolijk, Dover Harbour Board, Forth Ports Towage (Tilbury). Kotug Smit, RNLI, Royal Navy, SMS Towage, Solent Towage, Svitzer, Caledonian Towing, Targe Towing",
   "otherInvolvedStakeholders": "",
   "regulated": true,
@@ -320,9 +320,9 @@
   "clusterId": "82",
   "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2025-08-19T15:26:32 +00:00",
-  "lastUpdated": "2025-08-19T00:00:00 +00:00",
+  "lastUpdated": "2026-08-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
-  "banners": "",
+  "banners": "We are proposing to retire this apprenticeship for new starts due to low starts on programme since its approval. If you would like to raise any concerns with the proposed retirement please complete the consultation form below by Wednesday 30th September 2026.\nPlease note that retirement of this standard has not yet been agreed or authorised.\nIf you have any comments or concerns regarding this, please complete this form. These will be logged and reviewed once the consultation period has closed.",
   "occupationCode": "OCC0842",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0842-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0842-v1-2",
@@ -917,5 +917,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-08-19T00:00:00"
+  "publishDate": "2026-08-21T00:00:00"
 }
