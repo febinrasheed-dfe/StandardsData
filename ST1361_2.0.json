@@ -1,0 +1,948 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 837,
+  "referenceNumber": "ST1361",
+  "learningAimClassCode": "Z0002055",
+  "title": "Interior designer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1361",
+  "qualificationStandardUrl": null,
+  "versionNumber": "2.0",
+  "change": "Approved for delivery",
+  "changedDate": "2026-05-21T00:00:00",
+  "earliestStartDate": "2026-05-21T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Interior designers plan the internal layout  of public, commercial and residential buildings to create functional and aesthetically pleasing spaces. ",
+  "level": 6,
+  "ePALength": 3,
+  "typicalDuration": 36,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Creative and design",
+  "keywords": [
+    "interior designer",
+    "furniture interiors",
+    "designer"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1361-v2-0?view=epa",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.2 Crafts, creative arts and design",
+  "version": "2.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the design sector, typically in organisations that employ interior designers. These organisations include specialist interior design studios, architectural practices, property development companies, construction companies, care home providers and branding agencies. Interior design teams typically consist of a design director or creative director supported by one or more senior designers, designers and assistant designers.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Interior design teams work to design interior spaces within all built environment and industry sectors including private residential, commercial residential (property developers), education, healthcare, retail, hospitality, food and beverage, workplace and transport. Interior designers may also work in other design related occupations such as architectural technology, furniture design, graphic design, product designer, textile design and interior styling and home staging.&lt;/p&gt;\n&lt;p&gt;Interior design teams work closely with their clients and the intended building users, teams of built environment professionals such as architects, structural engineers, services engineers, project managers, cost consultants and construction teams including specialist subcontractors. The interior designer is predominantly office or studio based with some supervised visits to project building sites, suppliers and other offices.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to assist senior members of the design team to design, source and specify the specific elements required to make any interior space function appropriately and meet the needs of the people who will use that space, including analysis and definition of those requirements. In practice the successful delivery of interior design projects involves different phases, and the interior designer will be required to work on all of these. Broadly the stages are as follows:&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Brief analysis &amp;amp; feasibility: Working with clients to establish their detailed requirements including project budget and duration.&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Carrying out extensive research and site analysis to determine that the client’s requirements can be accommodated on the site.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Concept Design - creating initial concept designs to provide the client with an overview of the design direction of their project and the research carried out up to this point. In practice this divides into space planning and the preparation of architectural layouts rendered sketches and basic 3D models may also be completed during this stage.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Spatial coordination and design development.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Developing the detail of the scheme incorporating information from other consultants including architects, structural engineers and services engineers (to ensure sufficient space is allowed for mechanical and electrical plant, cabling and service routes through the structure).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Dimensioned internal plans, identifying key materials for floors, walls and ceilings are also produced within this stage.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Technical and detailed design.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Preparing the full package of detailed design drawings and specifications that allow a project to be signed off by the client and priced and programmed ready for construction.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Detailed design drawings and specifications such as general arrangement plans, demolition drawings and floor finishes drawings.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for assisting the rest of the design team in the successful delivery of their projects, through the production of professional design documentation. Duties of an interior designer may include:&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Working on projects from concept to completion.&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Researching new materials and finishes.&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Ordering samples and updating the material library.&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Developing representations of design options for further discussion by the project team.&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Contributing and assisting senior designers in the design and production of proposals.&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Assisting in the presentation of design proposals to clients, taking on board feedback and amending design proposals accordingly until finalised and signed off by the design team and the client.&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Ensuring orders are placed on time from suppliers, liaising with suppliers and tradespeople and managing time appropriately, to ensure the project is completed to agreed deadlines.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts collaboratively with other members of the design team, with the broader professional construction team, suppliers, tradespeople and the on-site team to deliver the finished interior spaces in accordance with the client’s requirements. Interior designers will also be expected to work alongside the wider interiors team to produce a deliverables document that outlines all the drawings required as part of a package of information that can go out for tender.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "651db876-73e0-4d77-8372-c580ab1e3027",
+      "detail": "Design processes and techniques including hand-sketched drawings and diagrams; to explore and develop design ideas and for use in client presentations."
+    },
+    {
+      "knowledgeId": "8542a7fb-5798-4c40-b9c1-6d3358525608",
+      "detail": "Information technology: 2D and 3D computer-aided design (CAD) using software packages, building information modelling (BIM), virtual and augmented reality software."
+    },
+    {
+      "knowledgeId": "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+      "detail": "Design principles including balance, unity, rhythm, emphasis, contrast, scale and proportion, and details. "
+    },
+    {
+      "knowledgeId": "a3ff22b9-35a4-499d-8373-5119d173b4f3",
+      "detail": "Evolving design trends: products, technology, sustainability, health and well-being."
+    },
+    {
+      "knowledgeId": "f163647f-869a-43a3-a407-0baa0f0e8962",
+      "detail": "Construction and manufacturing techniques including modern methods of construction, constraints and maintenance requirements."
+    },
+    {
+      "knowledgeId": "701d59ad-e80d-4d4e-b15d-71c11e1a4f80",
+      "detail": "Principles of ergonomics and anthropometrics."
+    },
+    {
+      "knowledgeId": "54c4698b-95f2-484a-b28c-855c29d06056",
+      "detail": "Data analysis and research techniques including qualitative and quantitative research for the sourcing of market insights, demographics, fixtures fittings & equipment (FFE), materials and finishes, building technology throughout the interior design process."
+    },
+    {
+      "knowledgeId": "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+      "detail": "Materials including their origins, costs, characteristics, sustainability, performance, and application."
+    },
+    {
+      "knowledgeId": "451dcfff-3184-46d2-8d6d-ed1d5169975a",
+      "detail": "Building regulations, construction (design and management) regulations and fire safety."
+    },
+    {
+      "knowledgeId": "2dab6339-50b1-4a10-89dd-33e87171e584",
+      "detail": "Financial and economic strategies: knowledge of interior design project fee structures, project budgets, furniture fixtures & equipment (FF&E) quotes and other quotations and estimates from contractors and sub-contractors and financial record keeping."
+    },
+    {
+      "knowledgeId": "80e3e2fa-a288-4f0e-b541-fa16422674fe",
+      "detail": "Awareness of tailoring design principles to practice and client brand."
+    },
+    {
+      "knowledgeId": "3adb294c-b4f6-491d-a5cb-b9f71a5d4670",
+      "detail": "Different business models for design studios. Business to consumer, business to business."
+    },
+    {
+      "knowledgeId": "97c5f63b-fa5d-4f41-b264-5496b7fef6af",
+      "detail": "Project management techniques including, planning and organising project schedules, managing orders and overseeing delivery and installation."
+    },
+    {
+      "knowledgeId": "aafeb6ef-5b9a-4098-95ec-9d6cc2a39931",
+      "detail": "Approaches and styles to influence and educate clients and stakeholders."
+    },
+    {
+      "knowledgeId": "f536a877-b549-4e77-bef3-9c0c9c60b349",
+      "detail": "Commercial awareness: day to day running and change management of the business, target markets, demographics and psychographics. "
+    },
+    {
+      "knowledgeId": "fd9f4d63-12e3-4bd2-a80c-c06e1c94c0ee",
+      "detail": "Health and safety and risk assessment: health, safety and environmental standards and legislation. Risk assessment and safe systems for design."
+    },
+    {
+      "knowledgeId": "abb3d33e-745f-4c98-90b1-cd46d069950f",
+      "detail": "Project management and quality assurance principles and techniques."
+    },
+    {
+      "knowledgeId": "ee97c288-f5eb-499a-b388-63cb7005687e",
+      "detail": "The range of organisations, personnel, regulations and procedures involved in translating design concepts into completed interior spaces."
+    },
+    {
+      "knowledgeId": "09196588-af89-49e2-b912-1d15c9c32fda",
+      "detail": "Importance of interior design on the environment, wider community and social issues and how to source and design for sustainability and social equity."
+    },
+    {
+      "knowledgeId": "9f6fd8e6-d216-4a03-b118-f67b1049492c",
+      "detail": "Environmental issues and sustainability: How to incorporate principles of social, economic and environmental sustainability and provide input to assess the environmental impact of projects and build resilience. How to adapt and mitigate the consequences of climate change."
+    },
+    {
+      "knowledgeId": "bc6f5213-b555-4c1a-81e4-f4994a92bed0",
+      "detail": "Types of contractors, building contracts available and procurement routes."
+    },
+    {
+      "knowledgeId": "0da6d37a-44ce-4851-ab36-996bd4fa6f7f",
+      "detail": "Procurement route, tender process and the stages necessary to complete as part of a comprehensive interior design tender proposal."
+    },
+    {
+      "knowledgeId": "0a95ec53-849f-4dba-b153-149034b6afe0",
+      "detail": "How to source continuous professional development (CPD) opportunities to establish measurable and achievable CPD goals that align with personal career aspirations."
+    },
+    {
+      "knowledgeId": "fab6e2ab-e134-4c40-9d63-437c098c1ebc",
+      "detail": "Communication techniques for interacting with stakeholders including appropriate presentation techniques."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f467e817-1f91-4c50-89b8-4012a80780c9",
+      "detail": "Keep up to date with relevant interior design trends, developments in interior design techniques and technology and contribute to wider debates within the organisation and profession."
+    },
+    {
+      "behaviourId": "583ac256-d5e2-49ef-8211-9a489020939a",
+      "detail": "Take personal responsibility for and promote sustainable working practices."
+    },
+    {
+      "behaviourId": "139c75a8-fd5e-43dc-a943-f19775b577c9",
+      "detail": "Promotes accessibility, diversity and inclusion."
+    },
+    {
+      "behaviourId": "7b899005-b697-439e-8d55-f523679bac8a",
+      "detail": "Commitment to maintaining and enhancing competence of self through continuous professional development (CPD)."
+    },
+    {
+      "behaviourId": "3dd64b31-76b9-4f08-8955-505f8d730187",
+      "detail": "Collaborate with others for example, within teams, across disciplines, and external stakeholders."
+    },
+    {
+      "behaviourId": "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e",
+      "detail": "Always maintain a high level of professional conduct including a high degree of integrity, responsibility, discretion and confidentiality. "
+    },
+    {
+      "behaviourId": "e1a7452d-de1a-4d18-8ad4-25022dada402",
+      "detail": "Organised and able to ensure project deadlines are met. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e4301eb5-99bb-4200-8cec-31462e27966e",
+      "detail": "Develop and assess new design projects, client requirement and written briefs."
+    },
+    {
+      "skillId": "e5179151-14f5-40f3-88b2-9522a28d0262",
+      "detail": "Generate interior design proposals of diverse scales and type, including conducting feasibility studies."
+    },
+    {
+      "skillId": "e40e484a-65c6-42b5-9c9a-e9fa0ea1167a",
+      "detail": "Draft and edit sketch and computer aided drawings and 3D models (plans, sections, elevations, and details) using relevant software, including computer aided design software, to enable co-ordination with other professional’s input."
+    },
+    {
+      "skillId": "0c350847-d6b6-4093-874e-082ee05cec6d",
+      "detail": "Produce and coordinate design information with the consultant project team. "
+    },
+    {
+      "skillId": "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+      "detail": "Conduct site visits for the development of the design. "
+    },
+    {
+      "skillId": "6f6710e6-c89b-499b-bced-fa0875769afa",
+      "detail": "Undertake the design process incorporating inclusivity and diversity, environmental and sustainability considerations into an interior design proposal or scheme. "
+    },
+    {
+      "skillId": "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+      "detail": "Develop the design of projects of varying scales in line with buildability and modern methods of construction."
+    },
+    {
+      "skillId": "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+      "detail": "Evaluate materials, products, processes and techniques and their application within interior and spatial design, and where appropriate integrate alternative materials, processes and techniques."
+    },
+    {
+      "skillId": "479b81ac-416a-41c1-94b7-3292a070f40e",
+      "detail": "Adapt to changing needs of the project. "
+    },
+    {
+      "skillId": "f0d1aafe-ba67-443c-80df-7a79c56573a4",
+      "detail": "Participate in technical design team meetings and accurately document key outputs, including design specifications, decision rationales, and action items."
+    },
+    {
+      "skillId": "26c3ca66-8006-4e7a-a3bc-38638c7f307c",
+      "detail": "Inspect and report defects to appropriate contractor and assist the project manager in preparing and issuing the practical completion certificate. "
+    },
+    {
+      "skillId": "7cae03bf-b1c1-4834-82df-d3126df70fd5",
+      "detail": "Influence change and promote best practice."
+    },
+    {
+      "skillId": "ac4c171f-969d-4111-9538-6d915e5c7921",
+      "detail": "Apply problem solving tools and techniques to address design challenges such as space planning, 3D visualisation and rendering, mood and concept boards and building information modelling (BIM)."
+    },
+    {
+      "skillId": "008049c0-d771-4e20-a51b-b3089a26e5aa",
+      "detail": "Interpret and accurately understand third party drawn and scheduled information."
+    },
+    {
+      "skillId": "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+      "detail": "Apply relevant questioning techniques to ascertain desired information."
+    },
+    {
+      "skillId": "112136f1-2903-4866-997b-5c2c357cc8da",
+      "detail": "Analyse and assess project information accurately."
+    },
+    {
+      "skillId": "de5b07fe-0d0a-4f79-912a-66e920b76a62",
+      "detail": "Proposal writing and design."
+    },
+    {
+      "skillId": "38185321-5a19-4f4f-9b8c-2ee8450625dd",
+      "detail": "Develop and maintain own professional competence, with the willingness to learn new processes and technical skills and manage own continuous professional development (CPD)."
+    },
+    {
+      "skillId": "5aa8ebd5-77a8-477a-802f-51379eeafff2",
+      "detail": "Analyse and apply ergonomic, anthropometric and psychological data. "
+    },
+    {
+      "skillId": "3e4024c0-163c-40f4-ac6a-9fb1a9ea3f88",
+      "detail": "Produce, discuss and refine schedules and quotations."
+    },
+    {
+      "skillId": "712fd605-69ac-4a05-baf1-20a135614bd7",
+      "detail": "Present and discuss proposals and their rationale and draw conclusions with project team and client."
+    },
+    {
+      "skillId": "1825efaa-91d4-467b-8ec9-9559a65ee7b2",
+      "detail": "Use project management techniques and tools to manage projects."
+    },
+    {
+      "skillId": "f9fcf3ae-b331-4643-81ec-5715538416d5",
+      "detail": "Identify, research and analyse size of target market, demographic and psychographic profiles. "
+    },
+    {
+      "skillId": "9e745669-4ade-4e8a-afa6-d7dae656924b",
+      "detail": "Use of research, analysis and presentation techniques to evaluate, plan, communicate and deliver findings."
+    },
+    {
+      "skillId": "f93cd560-e393-4452-8756-105f65750d03",
+      "detail": "Assess and apply principles of social, economic and environmental sustainability to projects."
+    },
+    {
+      "skillId": "56f30758-bda3-4d8b-a942-d2257f539927",
+      "detail": "Manage relationships with clients, design team professionals, project stakeholders and suppliers. Including negotiation, advising and influencing."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2026-05-21T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "TB0836",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "SCENE, Tessuto, Lester Bennett Design Consultancy, TP Bennett, Scott Brownrigg, Jacobs, Chapman Taylor, BoConcept, MoCo, 5Plus Architects, Simon Hamilton Creative, Homebase\n",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [],
+  "greenJobTitles": [
+    "Interior designer"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Craft and Design",
+  "cluster": "Design professional",
+  "clusterId": "178",
+  "clusterDescription": "Apply advanced creative skills and industry expertise to lead the design and development of original products, graphics and concepts.",
+  "createdDate": "2026-05-21T09:57:23 +00:00",
+  "lastUpdated": "2026-05-21T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2026-05-21T00:00:00 +00:00",
+  "banners": "This apprenticeship standard was approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable assessment organisation is in place. Once an assessment organisation is in place, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC1361",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1361-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1361-v2-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "b82c53d3-5e46-4b0b-9c86-e3e7afafe90e",
+      "dutyDetail": "Attend initial client meetings to discuss, record and analyse the client’s requirements for an interior space.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "139c75a8-fd5e-43dc-a943-f19775b577c9",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "80e3e2fa-a288-4f0e-b541-fa16422674fe",
+        "aafeb6ef-5b9a-4098-95ec-9d6cc2a39931",
+        "fab6e2ab-e134-4c40-9d63-437c098c1ebc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e4301eb5-99bb-4200-8cec-31462e27966e",
+        "7cae03bf-b1c1-4834-82df-d3126df70fd5",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "56f30758-bda3-4d8b-a942-d2257f539927"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68f7f51b-b06d-4c0c-87db-18cdddcbb0cb",
+      "dutyDetail": "Review any site and project information supplied by the client and add to relevant project folder. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "80e3e2fa-a288-4f0e-b541-fa16422674fe",
+        "0da6d37a-44ce-4851-ab36-996bd4fa6f7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e4301eb5-99bb-4200-8cec-31462e27966e",
+        "f9fcf3ae-b331-4643-81ec-5715538416d5",
+        "9e745669-4ade-4e8a-afa6-d7dae656924b",
+        "56f30758-bda3-4d8b-a942-d2257f539927"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "80b42743-5aa8-461c-bbb2-4497243e4a3b",
+      "dutyDetail": "Finalise the project brief and use it to identify the ‘deliverables’ and resources required for each stage of the project. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "651db876-73e0-4d77-8372-c580ab1e3027",
+        "451dcfff-3184-46d2-8d6d-ed1d5169975a",
+        "2dab6339-50b1-4a10-89dd-33e87171e584",
+        "80e3e2fa-a288-4f0e-b541-fa16422674fe",
+        "f536a877-b549-4e77-bef3-9c0c9c60b349",
+        "fd9f4d63-12e3-4bd2-a80c-c06e1c94c0ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e5179151-14f5-40f3-88b2-9522a28d0262",
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "de5b07fe-0d0a-4f79-912a-66e920b76a62",
+        "38185321-5a19-4f4f-9b8c-2ee8450625dd",
+        "3e4024c0-163c-40f4-ac6a-9fb1a9ea3f88",
+        "f9fcf3ae-b331-4643-81ec-5715538416d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d31ebd38-5df1-4a60-9de8-fdb8ceb74c3d",
+      "dutyDetail": "Attend site visits and site surveys to determine the opportunities and constraints.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "139c75a8-fd5e-43dc-a943-f19775b577c9",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "80e3e2fa-a288-4f0e-b541-fa16422674fe",
+        "0da6d37a-44ce-4851-ab36-996bd4fa6f7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e4301eb5-99bb-4200-8cec-31462e27966e",
+        "e5179151-14f5-40f3-88b2-9522a28d0262",
+        "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "008049c0-d771-4e20-a51b-b3089a26e5aa",
+        "9e745669-4ade-4e8a-afa6-d7dae656924b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a038719f-4c40-4d0c-a695-93c157ec4928",
+      "dutyDetail": "Produce and revise feasibility studies as part of the briefing process.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "583ac256-d5e2-49ef-8211-9a489020939a",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+        "a3ff22b9-35a4-499d-8373-5119d173b4f3",
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "f536a877-b549-4e77-bef3-9c0c9c60b349",
+        "9f6fd8e6-d216-4a03-b118-f67b1049492c",
+        "0da6d37a-44ce-4851-ab36-996bd4fa6f7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "712fd605-69ac-4a05-baf1-20a135614bd7",
+        "f9fcf3ae-b331-4643-81ec-5715538416d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "02f0ce00-aa86-4837-83c2-54cfb44c812b",
+      "dutyDetail": "Ascertain sustainability goals of the project.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "583ac256-d5e2-49ef-8211-9a489020939a",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+        "a3ff22b9-35a4-499d-8373-5119d173b4f3",
+        "54c4698b-95f2-484a-b28c-855c29d06056",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "80e3e2fa-a288-4f0e-b541-fa16422674fe",
+        "09196588-af89-49e2-b912-1d15c9c32fda",
+        "9f6fd8e6-d216-4a03-b118-f67b1049492c",
+        "0da6d37a-44ce-4851-ab36-996bd4fa6f7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e5179151-14f5-40f3-88b2-9522a28d0262",
+        "e40e484a-65c6-42b5-9c9a-e9fa0ea1167a",
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "008049c0-d771-4e20-a51b-b3089a26e5aa",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "112136f1-2903-4866-997b-5c2c357cc8da",
+        "de5b07fe-0d0a-4f79-912a-66e920b76a62",
+        "f93cd560-e393-4452-8756-105f65750d03"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2203a8de-2432-40dc-8df7-ee7fd88e5c38",
+      "dutyDetail": "Prepare interior design concepts which includes setting the visual framework, mood, palette of materials and design detailing for the project. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "651db876-73e0-4d77-8372-c580ab1e3027",
+        "8542a7fb-5798-4c40-b9c1-6d3358525608",
+        "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+        "a3ff22b9-35a4-499d-8373-5119d173b4f3",
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "701d59ad-e80d-4d4e-b15d-71c11e1a4f80",
+        "54c4698b-95f2-484a-b28c-855c29d06056",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "f536a877-b549-4e77-bef3-9c0c9c60b349"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e5179151-14f5-40f3-88b2-9522a28d0262",
+        "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "de5b07fe-0d0a-4f79-912a-66e920b76a62",
+        "712fd605-69ac-4a05-baf1-20a135614bd7",
+        "9e745669-4ade-4e8a-afa6-d7dae656924b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c8e88677-b037-4597-bcde-66426160ef43",
+      "dutyDetail": "Prepare space plan using appropriate software (General arrangement drawings).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "651db876-73e0-4d77-8372-c580ab1e3027",
+        "8542a7fb-5798-4c40-b9c1-6d3358525608",
+        "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+        "a3ff22b9-35a4-499d-8373-5119d173b4f3",
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "701d59ad-e80d-4d4e-b15d-71c11e1a4f80",
+        "451dcfff-3184-46d2-8d6d-ed1d5169975a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e40e484a-65c6-42b5-9c9a-e9fa0ea1167a",
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "f0d1aafe-ba67-443c-80df-7a79c56573a4",
+        "008049c0-d771-4e20-a51b-b3089a26e5aa",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "5aa8ebd5-77a8-477a-802f-51379eeafff2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5a8715e8-001a-4dc7-8305-0d728b06c6a3",
+      "dutyDetail": "Produce specifications and schedules. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "3dd64b31-76b9-4f08-8955-505f8d730187"
+      ],
+      "mappedKnowledge": [
+        "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "701d59ad-e80d-4d4e-b15d-71c11e1a4f80",
+        "54c4698b-95f2-484a-b28c-855c29d06056",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "451dcfff-3184-46d2-8d6d-ed1d5169975a",
+        "80e3e2fa-a288-4f0e-b541-fa16422674fe",
+        "97c5f63b-fa5d-4f41-b264-5496b7fef6af"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "008049c0-d771-4e20-a51b-b3089a26e5aa",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "de5b07fe-0d0a-4f79-912a-66e920b76a62",
+        "5aa8ebd5-77a8-477a-802f-51379eeafff2",
+        "3e4024c0-163c-40f4-ac6a-9fb1a9ea3f88",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2",
+        "9e745669-4ade-4e8a-afa6-d7dae656924b",
+        "f93cd560-e393-4452-8756-105f65750d03"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7bf24874-afde-4ce2-953f-f7520ae5baa1",
+      "dutyDetail": "Revise and review project specifications on an ongoing basis. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "54c4698b-95f2-484a-b28c-855c29d06056",
+        "2dab6339-50b1-4a10-89dd-33e87171e584",
+        "97c5f63b-fa5d-4f41-b264-5496b7fef6af",
+        "ee97c288-f5eb-499a-b388-63cb7005687e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "ac4c171f-969d-4111-9538-6d915e5c7921",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fead56a1-fe0c-43b4-92ff-b601f447939f",
+      "dutyDetail": "Continuous professional development (CPD).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "139c75a8-fd5e-43dc-a943-f19775b577c9",
+        "7b899005-b697-439e-8d55-f523679bac8a",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "a3ff22b9-35a4-499d-8373-5119d173b4f3",
+        "54c4698b-95f2-484a-b28c-855c29d06056",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "3adb294c-b4f6-491d-a5cb-b9f71a5d4670",
+        "f536a877-b549-4e77-bef3-9c0c9c60b349",
+        "ee97c288-f5eb-499a-b388-63cb7005687e",
+        "09196588-af89-49e2-b912-1d15c9c32fda",
+        "9f6fd8e6-d216-4a03-b118-f67b1049492c",
+        "0a95ec53-849f-4dba-b153-149034b6afe0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "38185321-5a19-4f4f-9b8c-2ee8450625dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1d8281d9-6dd7-4048-a769-4a3b7a794c5b",
+      "dutyDetail": "Coordinate information with the rest of the consultant design team. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e",
+        "e1a7452d-de1a-4d18-8ad4-25022dada402"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e4301eb5-99bb-4200-8cec-31462e27966e",
+        "e5179151-14f5-40f3-88b2-9522a28d0262",
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "f0d1aafe-ba67-443c-80df-7a79c56573a4",
+        "7cae03bf-b1c1-4834-82df-d3126df70fd5",
+        "ac4c171f-969d-4111-9538-6d915e5c7921",
+        "008049c0-d771-4e20-a51b-b3089a26e5aa",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "38185321-5a19-4f4f-9b8c-2ee8450625dd",
+        "3e4024c0-163c-40f4-ac6a-9fb1a9ea3f88",
+        "712fd605-69ac-4a05-baf1-20a135614bd7",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2",
+        "9e745669-4ade-4e8a-afa6-d7dae656924b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f3e0d85b-7bbf-4c53-be0d-1d0f968cc761",
+      "dutyDetail": "Develop design solutions and review coordinated information with project team and sign off with client. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "583ac256-d5e2-49ef-8211-9a489020939a",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "651db876-73e0-4d77-8372-c580ab1e3027",
+        "8542a7fb-5798-4c40-b9c1-6d3358525608",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "ee97c288-f5eb-499a-b388-63cb7005687e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "f0d1aafe-ba67-443c-80df-7a79c56573a4",
+        "ac4c171f-969d-4111-9538-6d915e5c7921",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "5aa8ebd5-77a8-477a-802f-51379eeafff2",
+        "712fd605-69ac-4a05-baf1-20a135614bd7",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2",
+        "9e745669-4ade-4e8a-afa6-d7dae656924b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b4febd17-d361-4570-91f8-8167f0cb5f77",
+      "dutyDetail": "Research and source appropriate materials, fixtures, fittings and equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "583ac256-d5e2-49ef-8211-9a489020939a",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+        "a3ff22b9-35a4-499d-8373-5119d173b4f3",
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "701d59ad-e80d-4d4e-b15d-71c11e1a4f80",
+        "54c4698b-95f2-484a-b28c-855c29d06056",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "2dab6339-50b1-4a10-89dd-33e87171e584",
+        "fd9f4d63-12e3-4bd2-a80c-c06e1c94c0ee",
+        "abb3d33e-745f-4c98-90b1-cd46d069950f",
+        "09196588-af89-49e2-b912-1d15c9c32fda"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e5179151-14f5-40f3-88b2-9522a28d0262",
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "f0d1aafe-ba67-443c-80df-7a79c56573a4",
+        "008049c0-d771-4e20-a51b-b3089a26e5aa",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "112136f1-2903-4866-997b-5c2c357cc8da",
+        "712fd605-69ac-4a05-baf1-20a135614bd7",
+        "f9fcf3ae-b331-4643-81ec-5715538416d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ef551d40-a74f-48b9-a909-f9acc29572c5",
+      "dutyDetail": "Prepare and update interior design project programme.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "97c5f63b-fa5d-4f41-b264-5496b7fef6af"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "112136f1-2903-4866-997b-5c2c357cc8da",
+        "3e4024c0-163c-40f4-ac6a-9fb1a9ea3f88",
+        "712fd605-69ac-4a05-baf1-20a135614bd7",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "25018fa8-efc1-4041-8ce9-2b1aa8395ee3",
+      "dutyDetail": "Prepare detailed technical design drawings for the project. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "8542a7fb-5798-4c40-b9c1-6d3358525608",
+        "ab139784-d9d8-421a-af0a-4ba9c3f45197",
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "ee97c288-f5eb-499a-b388-63cb7005687e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e40e484a-65c6-42b5-9c9a-e9fa0ea1167a",
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+        "6f6710e6-c89b-499b-bced-fa0875769afa",
+        "9ac90eac-136f-4dbb-825d-0cfb0f7dc2fe",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "f0d1aafe-ba67-443c-80df-7a79c56573a4",
+        "ac4c171f-969d-4111-9538-6d915e5c7921"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "48bf356c-e9a7-4242-b607-fdfdf6f68d75",
+      "dutyDetail": "Attend meetings and acknowledge best form of contract and appropriate contractors. Issue the tender pack and the construction programme. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "451dcfff-3184-46d2-8d6d-ed1d5169975a",
+        "2dab6339-50b1-4a10-89dd-33e87171e584",
+        "97c5f63b-fa5d-4f41-b264-5496b7fef6af",
+        "aafeb6ef-5b9a-4098-95ec-9d6cc2a39931",
+        "fd9f4d63-12e3-4bd2-a80c-c06e1c94c0ee",
+        "abb3d33e-745f-4c98-90b1-cd46d069950f",
+        "ee97c288-f5eb-499a-b388-63cb7005687e",
+        "bc6f5213-b555-4c1a-81e4-f4994a92bed0",
+        "0da6d37a-44ce-4851-ab36-996bd4fa6f7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0c350847-d6b6-4093-874e-082ee05cec6d",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "3e4024c0-163c-40f4-ac6a-9fb1a9ea3f88",
+        "712fd605-69ac-4a05-baf1-20a135614bd7",
+        "9e745669-4ade-4e8a-afa6-d7dae656924b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "70e2908f-8deb-4870-8b6d-b56da6cefc85",
+      "dutyDetail": "Participate in workshops to review the design proposals with the contractor. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f467e817-1f91-4c50-89b8-4012a80780c9",
+        "583ac256-d5e2-49ef-8211-9a489020939a",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e",
+        "e1a7452d-de1a-4d18-8ad4-25022dada402"
+      ],
+      "mappedKnowledge": [
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "451dcfff-3184-46d2-8d6d-ed1d5169975a",
+        "2dab6339-50b1-4a10-89dd-33e87171e584",
+        "97c5f63b-fa5d-4f41-b264-5496b7fef6af",
+        "aafeb6ef-5b9a-4098-95ec-9d6cc2a39931",
+        "fd9f4d63-12e3-4bd2-a80c-c06e1c94c0ee",
+        "abb3d33e-745f-4c98-90b1-cd46d069950f",
+        "ee97c288-f5eb-499a-b388-63cb7005687e",
+        "9f6fd8e6-d216-4a03-b118-f67b1049492c",
+        "bc6f5213-b555-4c1a-81e4-f4994a92bed0",
+        "0da6d37a-44ce-4851-ab36-996bd4fa6f7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "f0d1aafe-ba67-443c-80df-7a79c56573a4",
+        "7cae03bf-b1c1-4834-82df-d3126df70fd5",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "3e4024c0-163c-40f4-ac6a-9fb1a9ea3f88",
+        "712fd605-69ac-4a05-baf1-20a135614bd7",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2",
+        "9e745669-4ade-4e8a-afa6-d7dae656924b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "669f85e3-48ed-4caa-97a3-48b7c764e760",
+      "dutyDetail": "Undertake quality assurance to meet specification and customer requirements. Facilitate customer inspection and final sign off of finished product. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e"
+      ],
+      "mappedKnowledge": [
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "97c5f63b-fa5d-4f41-b264-5496b7fef6af",
+        "aafeb6ef-5b9a-4098-95ec-9d6cc2a39931",
+        "abb3d33e-745f-4c98-90b1-cd46d069950f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+        "a2899c5b-6fcb-4ac3-9964-0eaa803d0527",
+        "f0d1aafe-ba67-443c-80df-7a79c56573a4",
+        "7cae03bf-b1c1-4834-82df-d3126df70fd5",
+        "ac4c171f-969d-4111-9538-6d915e5c7921",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b5434ff4-fb88-421d-bda3-2b3c191959e5",
+      "dutyDetail": "Oversee delivery and installation of furniture, fixtures and equipment and prepare sample pack for client.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "583ac256-d5e2-49ef-8211-9a489020939a",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e",
+        "e1a7452d-de1a-4d18-8ad4-25022dada402"
+      ],
+      "mappedKnowledge": [
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "97c5f63b-fa5d-4f41-b264-5496b7fef6af",
+        "abb3d33e-745f-4c98-90b1-cd46d069950f",
+        "ee97c288-f5eb-499a-b388-63cb7005687e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+        "479b81ac-416a-41c1-94b7-3292a070f40e",
+        "26c3ca66-8006-4e7a-a3bc-38638c7f307c",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "839de40b-a183-4ce4-a46a-e21d8c3e6ed5",
+      "dutyDetail": "Post project completion (PPC) inspect works & prepare a schedule of defects if required. Manage post-installation client relationship.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "583ac256-d5e2-49ef-8211-9a489020939a",
+        "3dd64b31-76b9-4f08-8955-505f8d730187",
+        "7fb4845a-1ed4-4b20-adc0-1e8c3e26033e",
+        "e1a7452d-de1a-4d18-8ad4-25022dada402"
+      ],
+      "mappedKnowledge": [
+        "f163647f-869a-43a3-a407-0baa0f0e8962",
+        "fa9799cd-a40d-4a04-9cc2-a7c7e2bd39c2",
+        "451dcfff-3184-46d2-8d6d-ed1d5169975a",
+        "97c5f63b-fa5d-4f41-b264-5496b7fef6af",
+        "fd9f4d63-12e3-4bd2-a80c-c06e1c94c0ee",
+        "abb3d33e-745f-4c98-90b1-cd46d069950f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c22b65f-ef07-4711-a681-bf8b34df40f3",
+        "26c3ca66-8006-4e7a-a3bc-38638c7f307c",
+        "ac4c171f-969d-4111-9538-6d915e5c7921",
+        "3cc26acd-611b-4c6e-a5a4-b08b294b91e6",
+        "1825efaa-91d4-467b-8ec9-9559a65ee7b2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-05-21T00:00:00"
+}
