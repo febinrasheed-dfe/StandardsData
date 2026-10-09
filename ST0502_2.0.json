@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "2.0",
   "change": "Occupational standard and assessment plan revised.",
-  "changedDate": "2026-02-25T00:00:00",
+  "changedDate": "2026-08-04T00:00:00",
   "earliestStartDate": "2026-02-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -19,7 +19,7 @@
   "level": 7,
   "ePALength": 2,
   "typicalDuration": 39,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "883",
   "maxFunding": 18000,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
@@ -298,18 +298,18 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
+    "providerName": "Skills England",
     "contactName": "",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "",
-    "webLink": "https://contact.ofqual.gov.uk/"
+    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "2018-03-27T00:00:00 +00:00",
   "integratedApprenticeship": true,
   "integration": "Mandatory qualification only",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0074",
-  "tbMainContact": "chris.dunford@aon.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Allianz UK, Aon, Barnett Waddingham, Barnett-Waddingham, BPP, IFA, IOFA, L&G, LCP, Mercer, The Phoenix Group, Willis Towers Watson, Wuillis Towers Watson, XPS, Zurich",
   "otherInvolvedStakeholders": "",
   "regulated": true,
@@ -343,7 +343,7 @@
   "clusterId": "243",
   "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
   "createdDate": "2026-01-21T10:34:50 +00:00",
-  "lastUpdated": "2026-02-25T00:00:00 +00:00",
+  "lastUpdated": "2026-08-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-03-27T00:00:00 +00:00",
   "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC0502",
@@ -836,5 +836,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-02-25T00:00:00"
+  "publishDate": "2026-08-04T00:00:00"
 }
