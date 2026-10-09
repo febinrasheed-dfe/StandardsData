@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Updated SSA",
-  "changedDate": "2025-12-08T00:00:00",
+  "changedDate": "2026-09-08T00:00:00",
   "earliestStartDate": "2025-12-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -260,7 +260,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0067 ",
-  "tbMainContact": "nigel.taylor@salutemsharedservices.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Anchor Care, Ashley Care, Avery Group Avida Care, Caretech Community Services Ltd, Creative Support, CTTM, Hand in Hands, Hendra Healthcare (Ludlow) Ltd, Hertfordshire County Council, Housing21, Leeds City Council, Lifeways Group, Progressive Care, Surrey County Council, Tower Hamlets Council, West of England Centre for Inclusive Living, Voyage Care,Woodford Homecare. \nList of non-employers on the TB group: JS Consultants,  skills for care, connect2care, Dianthus ltd",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -292,9 +292,9 @@
   "clusterId": "145",
   "clusterDescription": "Lead, coach, guide team members to deliver care to clients and client groups whilst also seeking to achieve a high level of self development usually based on a care specialism",
   "createdDate": "2025-12-08T09:32:45 +00:00",
-  "lastUpdated": "2025-12-08T00:00:00 +00:00",
+  "lastUpdated": "2026-09-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-03-31T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "banners": "New starts on this apprenticeship are not government funded from 1st September 2026. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship remains available for delivery for privately funded apprentices.; This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
   "occupationCode": "OCC0007",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0007-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0007-v1-2",
@@ -306,5 +306,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-08T00:00:00"
+  "publishDate": "2026-09-08T00:00:00"
 }
