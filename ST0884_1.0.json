@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-09-03T00:00:00",
+  "changedDate": "2026-09-16T00:00:00",
   "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": "2024-09-02T00:00:00",
   "latestEndDate": null,
@@ -297,7 +297,7 @@
   "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0534",
-  "tbMainContact": "alec.waterhouse@beis.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Dept for Business Energy and Industrial Strategy (BEIS), Atkins Global, Royal Bank of Scotland, London Ambulance Service, BT, Defence Science and Technology Laboratory, Saker Solutions, HSBC, Optrak, Operational Research Society – Education Committee",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -321,9 +321,9 @@
   "clusterId": "68",
   "clusterDescription": "Leader of a business process and/or unit requiring the ability to analyse and improve complex business-wide processes and risks. Also includes the ability to provide a full range of company legal and financial knowledge relevant to running a company",
   "createdDate": "2020-07-17T09:48:34 +00:00",
-  "lastUpdated": "2024-09-03T00:00:00 +00:00",
+  "lastUpdated": "2026-09-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A temporary dispensation has been applied to ST0884 version 1.0 end-point assessment plan (EPA). The dispensation removes assessment method 3: TEST from the EPA.Knowledge statements K1,2,3,4,5,6,7 and 8 can now be assessed in assessment method 1 work based project report and presentation. For further information of mapping please use the link.The dispensation will last until all apprentices on version 1.0 have completed their EPA including any resits and retakes. For clarity, independent assessors delivering assessments under this dispensation may follow the assessor requirements in versions 1.1 and 1.2 of the assessment plan in place of the version 1.0 requirement to be a Fellow of the Operational Research Society. This does not affect assessment content or grading.Please contact Skills England via skills.england@education.gov.uk should you require any further clarity.",
   "occupationCode": "OCC0884",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0884-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0884-v1-0",
@@ -689,5 +689,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-09-03T00:00:00"
+  "publishDate": "2026-09-16T00:00:00"
 }
