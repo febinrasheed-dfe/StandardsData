@@ -1,0 +1,684 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 156,
+  "referenceNumber": "ST0287",
+  "learningAimClassCode": "",
+  "title": "Associate ambulance practitioner",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0287",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-18T00:00:00",
+  "earliestStartDate": "2027-06-25T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Responding to 999 and urgent calls, and providing emergency care for people as part of an ambulance crew.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "minimumHoursForCompliance": "439",
+  "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Health and science",
+  "keywords": [
+    "ambulance crew",
+    "emergency care",
+    "incidents and emergencies",
+    "intermediate life support",
+    "healthcare environment",
+    "healthcare"
+  ],
+  "jobRoles": [
+    "Ambulance technician",
+    "Associate ambulance practitioner",
+    "Emergency medical technician",
+    "Medical technician"
+  ],
+  "entryRequirements": "&lt;p class=&quot;MsoNormal&quot;&gt;To enter an apprenticeship the minimum age of an AAP is 18 years. Entry requirements will be determined by the employer and the provider, and may include interview, assessment and fitness test. Entrants must hold a valid full UK driving licence, including licence categories required to legally drive the employer&#39;s vehicles.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0287-in-revision?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupational profile &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Associate Ambulance Practitioner (AAP) works as part of the wider Emergency &amp;amp; Urgent Care setting, having direct contact with service users or others, providing high quality and compassionate care. Day to day duties and tasks for an AAP would involve working as part of an ambulance crew responding to emergency (999) &amp;amp; urgent calls providing emergency and urgent assistance, driving safely and progressively at high speed.&amp;nbsp; The AAP will assess, treat and manage service users at the scene (reducing the need for hospital admission), either referring service users to alternative care provisions or safely discharging them on scene. Other tasks involve working closely with other emergency services and the wider NHS.&lt;/p&gt;\n&lt;p&gt;Tasks of an AAP will include evaluating different approaches to solving problems, communicating those results accurately and reliably, with structured and coherent arguments. AAP’s work at a level above that of Healthcare Support Workers and have knowledge of the underlying concepts and associated principles within their area of study, including the ability to evaluate and interpret these. They will have the qualities and transferable skills necessary for employment, exercising some personal responsibility. AAP’s will undertake further annual training and develop new skills within a structured and managed environment when employment is secured. The AAP will work under the supervision of a Registered Practitioner in accordance with Regulatory policies and procedures for an initial probationary period of 20 weeks. After successful completion the AAP will be accountable for their own actions, operating within their own scope of practice, and will work alongside professional colleagues of higher or lower grades.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Professional body alignment and&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;registration statement&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Achievement of the standard makes you eligible for employment&amp;nbsp;by any United Kingdom NHS Ambulance Service or other relevant organisation(s) &lt;strong&gt;(1)&lt;/strong&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Entry requirements&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Entry will be determined by employers and will include behavioural recruitment to support organisational values;&amp;nbsp;interview; fitness test; 18 years+; Full GB driving licence.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Duration of the apprenticeship&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Between 12 to 18 months&lt;/p&gt;\n&lt;h4&gt;Progression to&lt;/h4&gt;\n&lt;p&gt;Health &amp;amp; Care Professionals Council (HCPC) Registered Paramedic&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Review Date&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;3 years unless there is evidence of significant change which&amp;nbsp;employers agree warrants earlier amendment&lt;/p&gt;\n&lt;h4&gt;Level 4&lt;/h4&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;109&quot; style=&quot;width: 109px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;V&lt;/strong&gt;&lt;strong&gt;alu&lt;/strong&gt;&lt;strong&gt;es:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;355&quot; style=&quot;width: 355px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours – The AAP must always:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Patient Centred&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Be professional and passionate about the emergency and urgent care services; have a commitment to quality and care for service users and their relatives, a positive attitude in helping to improve patient care/experience, learning from successes and mistakes in line with the NHS Constitution.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Dignity &amp;amp; Respect for all&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Show understanding and be respectful of all service users, carers and all those who the AAP come into contact with. The AAP will promote equality of opportunity and celebrate diversity, demonstrating high standards of behaviour and conduct with honesty and openness at all times.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Teamwork&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Work closely and collaboratively with others of all levels in an open/honest and supportive way, acting in the best interest of the service users and others. Promoting teamwork and taking a genuine interest in those whom we work with, offering support and guidance when it is needed. Inspire each other to work together to create better services.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Care &amp;amp; Compassion&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Deliver a first class service which is responsive to individual needs, recognising and celebrating good performance, striving to maintain a positive, safe, caring and compassionate&lt;/p&gt;\n&lt;p&gt;working environment for all. Ensure that compassion is central to the care provided with humanity and kindness.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Effective Communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Be open and honest with individuals choosing the most appropriate way of communicating, using everyday language, avoiding jargon. Respect confidentiality and personal information about service users and others.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Competence&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;p&gt;Be personally responsible for own learning and development. Engage with advancing technologies, maximising learning opportunities. Encourage and support others in their personal development to increase and maintain high levels of competency.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;109&quot; style=&quot;width: 109px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;strong&gt;kills:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;356&quot; style=&quot;width: 356px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;The AAP will be able to:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Core Skills&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;356&quot;&gt;\n&lt;p&gt;Engage in organisational effectiveness, and personal &amp;amp; professional development by using &amp;amp; promoting:&lt;/p&gt;\n&lt;p&gt;Effective communication; conflict resolution training; equality &amp;amp; inclusion; implementation of health &amp;amp; safety; safeguarding and protecting individuals and groups; person centred approaches; good practice in information governance; infection prevention &amp;amp; control measures; duty of care and patient’s privacy &amp;amp; dignity.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Moving &amp;amp; Handling&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;356&quot;&gt;\n&lt;p&gt;Undertake risk assessment prior to moving &amp;amp; positioning individuals, using equipment and other items safely.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Assessment &amp;amp; Measurements&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;356&quot;&gt;\n&lt;p&gt;Follow a stepwise and holistic approach to patient assessment, undertaking a range of physiological measurements using appropriate equipment in a safe and effective manner.&lt;/p&gt;\n&lt;p&gt;Make appropriate changes or recommendations to the treatment plan within their scope of practice, reporting changes where applicable and necessary.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Treatment &amp;amp; Intervention&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;356&quot;&gt;\n&lt;p&gt;Manage service users and others across the age ranges - from babies &amp;amp; children to &amp;nbsp;care for the elderly - within the emergency &amp;amp; urgent care setting, to include: airway, respiratory &amp;amp; circulatory management; wounds &amp;amp; bleeding; burns &amp;amp; scalds; medical conditions; bones-joints-ligaments-tendons injuries; use of medical gases; pregnancy &amp;amp; child birth; hostile &amp;amp; major incidents; substances hazardous to health and pain management.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Intermediate Life Support &amp;amp; assisting the practitioner&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;356&quot;&gt;\n&lt;p&gt;Perform intermediate life support for individuals across the age ranges using appropriate equipment and techniques safely and effectively. Assist the practitioner in the skills of Cannulation, Fluids Treatment and Intubation, including the preparation of live saving drugs, using the skills necessary to deliver effective medicines management criteria.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;Light Rescue &amp;amp; Extrication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;356&quot;&gt;&amp;nbsp;Perform a range of light rescue and extrication techniques in a safe and effective manner, using a range of equipment.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;109&quot; style=&quot;width: 109px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;355&quot; style=&quot;width: 355px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;The AAP will be know and understand:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Core&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Knowl&lt;/strong&gt;&lt;strong&gt;edge&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;How the AAP role engages in supporting the organisation in delivering high quality care and meeting its targets.&lt;/li&gt;\n&lt;li&gt;How to develop and use a personal &amp;amp; professional development plan including the importance of reflective practice.&lt;/li&gt;\n&lt;li&gt;How to communicate effectively, including writing clear, concise information.&lt;/li&gt;\n&lt;li&gt;The importance of health, safety and dynamic risk assessments. How to report incidents, near misses and follow the correct processes to promote health and safety at work.&lt;/li&gt;\n&lt;li&gt;The organisation’s safeguarding procedures and to protect individuals and groups including referral through the appropriate routes.&lt;/li&gt;\n&lt;li&gt;How to promote person centred approaches and know how to work and adhere to relevant codes of practice and ethics.&lt;/li&gt;\n&lt;li&gt;How to practice and follow information governance by understanding data protection, Caldicott regulations and other legislation.&lt;/li&gt;\n&lt;li&gt;How to follow policies and procedures in relation to infection prevention &amp;amp; control. The importance of treating patients and their carers with privacy &amp;amp; dignity&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;strong&gt;ovin&lt;/strong&gt;&lt;strong&gt;g &amp;amp;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;andling, Light&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;strong&gt;escue, Extrication&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&amp;amp; Environmental&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;strong&gt;afety&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;How to undertake dynamic risk assessments prior to moving &amp;amp; positioning individuals in accordance with their care plan, as well as using equipment and other items safely.&lt;/li&gt;\n&lt;li&gt;The Health &amp;amp; Safety at Work Act and related regulations. They will know how to manage their own safety and that of others in a range of environments.&lt;/li&gt;\n&lt;li&gt;How to perform a range of light rescue and extrication techniques responsibly and in a safe and effective manner. Understand the meaning of Common Law and know what criteria must be met to undertake gaining an entry with good intent.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt;ssessment &amp;amp;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Physiological&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;strong&gt;easurements, Administration of Medications, Treatment &amp;amp; Intervention, Safe discharging &amp;amp; referrals&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;How to follow a stepwise and holistic approach to patient assessment by understanding and applying codes of practice and ethics, etc. Understand how to carry out and interpret a range of physiological measurements. Know how to make appropriate changes or recommendations to the treatment plan as directed.&lt;/li&gt;\n&lt;li&gt;How to operate under given exemptions, clinical guidelines and will understand their own restrictions of the administration of medications in accordance with the AAP’s scope of practice. They will know how to prepare medications and undertake the relevant safety checks prior to administration. &amp;nbsp;The will know and understand how to use UK Ambulance Service Clinical Practice Guidelines and other documents to support the AAP role.&lt;/li&gt;\n&lt;li&gt;How to manage the acute care of service users and others across the age ranges, to include: airway management, intermediate life support, wounds &amp;amp; bleeding, burns &amp;amp; scalds, medical conditions, bones-joints-ligaments-tendons injuries, use of medical gases, babies &amp;amp; children, pregnancy &amp;amp; child birth, hostile &amp;amp; major incidents, substances hazardous to health, care for the elderly, pain management by understanding all SOPs, policies, procedures and guidelines. The necessity of safety netting prior to discharging following organisation’s referral pathways including completion of relevant documentation. Know how to create clear &amp;amp; concise records to support all referrals to all agencies.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;strong&gt;ental Health,&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;strong&gt;ental Capacity, Dementia &amp;amp; Learning Disability, End of Life &amp;amp; Bereavement&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;The importance of promoting mental health and wellbeing; understand the current Mental Health Act and the roles of other partner agencies.&lt;/li&gt;\n&lt;li&gt;How to undertake the diagnostic and functional assessment of mental capacity and respond appropriately, acting in the best interest of the service user at all times.&lt;/li&gt;\n&lt;li&gt;Understand and be able to support those with dementia and learning disabilities.&lt;/li&gt;\n&lt;li&gt;How to support individuals across the age ranges with an end of life care plan in a compassionate and supportive manner. They will be able to identify and respond to their own and others feelings when dealing with bereavement.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Intermediate Life&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Sup&lt;/strong&gt;&lt;strong&gt;p&lt;/strong&gt;&lt;strong&gt;o&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;t &amp;amp; assisting the registered practitioner&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;How to effectively perform intermediate life support for individuals across the age ranges using appropriate equipment and techniques safely.&lt;/li&gt;\n&lt;li&gt;Know what equipment a registered practitioner will need to effectively apply the skill of Intubation, Cannulation, and Fluid Therapy.&lt;/li&gt;\n&lt;li&gt;How to assist when required within own scope of practice.&lt;/li&gt;\n&lt;li&gt;Know what drug therapy is needed by the registered practitioner when dealing with service users in cardiac arrest.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;109&quot;&gt;\n&lt;p&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;iv&lt;/strong&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;strong&gt;g &amp;amp; electronic&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;co&lt;/strong&gt;&lt;strong&gt;mmunication&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;355&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;How to operate a range of electronic devices to communicate effectively with all colleagues internally and externally.&lt;/li&gt;\n&lt;li&gt;How to prepare a range of vehicles prior to use, operate and drive safely at all times adhering to legislation, Highway Code and policies.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;Qualifications:&lt;/h3&gt;\n&lt;p&gt;By the end of the programme and to become an Associate Ambulance Practitioner, Apprentices must have achieved the following: Level 2 functional skills in English &amp;amp; Maths, if not already achieved; Level 3 Certificate in Emergency Response Driving (QCF); Level 4 Diploma in Associate Ambulance Practitioner (QCF)&lt;/p&gt;\n&lt;blockquote&gt;&lt;em&gt;&lt;strong&gt;(1)&lt;/strong&gt;&amp;nbsp;&lt;/em&gt;&lt;em&gt;Other relevant organisations may include private ambulance services and medical roles within the military forces&lt;/em&gt;&lt;/blockquote&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;This occupation is found in &lt;/strong&gt;healthcare. Associate Ambulance Practitioners (AAPs) work in ambulances and other healthcare settings. They will deliver care to services users in homes, workplaces or public spaces. AAPs work in healthcare teams. They may work shifts. They may work in traumatic and stressful situations. The role can be physically and mentally demanding. Their work can be outside in all conditions.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;The broad purpose of the occupation is to&amp;nbsp;&lt;/strong&gt;respond to urgent and emergency calls from service users. The AAP may be part of an ambulance crew. The AAP may work alongside a senior clinician. AAPs take part in an initial assessment to determine next steps. The AAP may support a senior clinician in decision making. They may administer medication and may perform resuscitation. They may provide advice to service users and signpost to other health provision or safely discharge them on scene. AAPs may drive under emergency and non-emergency conditions when responding to calls. They may also transport service users between hospitals or services.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal; vertical-align: baseline&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;In their daily work, an employee in this occupation interacts with&amp;nbsp;&lt;/strong&gt;emergency and urgent care teams including paramedics, call handlers and support workers. They will also interact with other healthcare staff including medical and nursing. AAPs work with service users, their carers and relatives. They may work with other emergency services such as police and fire.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong&gt;An employee in this occupation is responsible for&amp;nbsp;&lt;/strong&gt;providing high quality and effective care. AAPs will work within the limits of their own competence and scope of practice. This could include working independently and seeking senior clinical support when required. They must select the correct equipment and techniques. They must be able to transport service users in a safe and timely manner. They are required to act in accordance with organisational policies, procedures and protocols. They must always adhere to guidelines and relevant legislation. They are required to maintain the vehicle and equipment and ensure efficient and sustainable use of resources.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "b468e868-c1e5-4ac3-8bd3-370336626b31",
+      "detail": "Legislation, local and national policies, protocols and codes of conduct or practice and ethics that apply to own role, including the implications of non-compliance. "
+    },
+    {
+      "knowledgeId": "39d580a8-c179-42ec-99de-cfc837889930",
+      "detail": "Scope of practice and limitations of own competence."
+    },
+    {
+      "knowledgeId": "7f0e9311-95c2-46ec-85a5-3dc250720214",
+      "detail": "Escalation and reporting processes for concerns and queries."
+    },
+    {
+      "knowledgeId": "eeadd384-1118-43e7-9b5d-fdd50b2c9c76",
+      "detail": "Principles of safeguarding and how to respond to safeguarding concerns in line with organisational protocols."
+    },
+    {
+      "knowledgeId": "0df225b7-47a4-477c-9a6e-2727ffaacd3b",
+      "detail": "Strategies that develop resilience in self and others and where and how to access well-being support."
+    },
+    {
+      "knowledgeId": "73aed9e8-df75-4f33-aa01-15b53a30929e",
+      "detail": "Principles of a duty of candour."
+    },
+    {
+      "knowledgeId": "36e61b85-04a1-4991-8f38-8263fbc76515",
+      "detail": "Techniques for managing challenging situations and reporting unsafe work practices."
+    },
+    {
+      "knowledgeId": "df45a000-bd06-414a-8608-350327075b22",
+      "detail": "Roles and responsibilities when responding to hazardous or major incidents, including public health emergencies."
+    },
+    {
+      "knowledgeId": "40fdc2b4-1062-4ed9-9f17-4be566b09ad6",
+      "detail": "Health inequalities, the contributing factors, and the impact on health and outcomes."
+    },
+    {
+      "knowledgeId": "2e72df58-c328-4bda-b8b6-5cf43910a879",
+      "detail": "Principles of equality, diversity and inclusion, in respect to the care and treatment of service users."
+    },
+    {
+      "knowledgeId": "cab4b054-e56c-48c6-b82c-becfd6009942",
+      "detail": "Principles of person-centred care."
+    },
+    {
+      "knowledgeId": "b1e8443b-8be5-4cdd-a16d-ba4099290697",
+      "detail": "Valid and informed consent and the actions to take if this cannot be established."
+    },
+    {
+      "knowledgeId": "d8bbd22c-e112-4404-a080-79345265869c",
+      "detail": "Stepwise and holistic approaches to assessment of service users including history-taking and examination."
+    },
+    {
+      "knowledgeId": "46e3f178-a861-4e82-a533-a99f3fc5089e",
+      "detail": "Human anatomy and physiology across the lifespan including, normal physiological parameters to support diagnosis."
+    },
+    {
+      "knowledgeId": "47e2f988-1b05-4dc2-858f-004138491db0",
+      "detail": "Pathophysiology of a range of conditions across the lifespan, recognising variability in presentation and how to adapt the care plan to meet service user needs."
+    },
+    {
+      "knowledgeId": "3777e18e-5f2f-4119-9b9b-3f48fa132b21",
+      "detail": "Safe and effective use of medicines and medical gases and the underpinning principles of pharmacology."
+    },
+    {
+      "knowledgeId": "58222655-ece4-4012-90d3-61753a05ef8a",
+      "detail": "Medical, physical, trauma, mental health and socio-economic factors across the lifespan of service users."
+    },
+    {
+      "knowledgeId": "304a3e16-8711-4d9e-b4be-c79470fddeb1",
+      "detail": "How to regularly check and use equipment safely reporting defects."
+    },
+    {
+      "knowledgeId": "04d03e53-7d8d-443a-b5f4-9f6aa5976458",
+      "detail": "Importance of safety netting prior to discharge, following organisational referral pathways. "
+    },
+    {
+      "knowledgeId": "1fd4aba7-dec7-4229-9de9-230c22ac9698",
+      "detail": "Resuscitation methods across the age ranges."
+    },
+    {
+      "knowledgeId": "30061283-ca1a-4f63-a4e2-bc0afaa863eb",
+      "detail": "Principles of end-of-life care plans, considerations and impacts on assessment and treatment plans."
+    },
+    {
+      "knowledgeId": "ed1c9c68-de68-46f8-874e-4a23bfe85b41",
+      "detail": "Mental capacity and its impact on service users."
+    },
+    {
+      "knowledgeId": "69cefa42-1fdd-49ab-ad43-29e0714b5008",
+      "detail": "Principles of dementia, learning disabilities and neurodivergent differences on service users."
+    },
+    {
+      "knowledgeId": "82c4e06e-5efe-4b62-b6f0-e993177edbec",
+      "detail": "Principles of sustainability and how they apply to own role and workplace."
+    },
+    {
+      "knowledgeId": "02a0e043-0575-49f6-adb6-977c9eee316f",
+      "detail": "Digital tools and technologies relevant to own role and workplace."
+    },
+    {
+      "knowledgeId": "4eb74f9a-0a36-45ed-a177-10c9eb6f57f5",
+      "detail": "Communication strategies and adaption methods to maximise understanding in the delivery of care."
+    },
+    {
+      "knowledgeId": "2487e2d0-c3ce-4930-9313-cf90e29b821f",
+      "detail": "Principles of confidentiality and how to use, record, store and share data and information in line with General Data Protection Regulations. "
+    },
+    {
+      "knowledgeId": "e2f1ed95-486a-4e8c-b606-66d64db8449d",
+      "detail": "Methods for recording interactions with service users and the importance of justifying the resulting actions and assessment decisions. "
+    },
+    {
+      "knowledgeId": "fe2ce8b4-de03-476d-ad58-78217dc29acd",
+      "detail": "Protocols for communicating with other teams, organisations and services."
+    },
+    {
+      "knowledgeId": "49496dbb-9cc2-48b4-83a3-cc3e6aa92e43",
+      "detail": "Roles and responsibilities of other teams, organisations and services operating in the emergency and urgent care environment and the impact of working collaboratively."
+    },
+    {
+      "knowledgeId": "d27c9798-b3fe-4bb8-bd93-be87afe0a1cf",
+      "detail": "Protocols for the handover of service users."
+    },
+    {
+      "knowledgeId": "3d86a48a-94d5-46fa-b27d-91f29aa3db4c",
+      "detail": "Safe practice techniques, dynamic risk assessments and risk management, to maintain own safety and that of others."
+    },
+    {
+      "knowledgeId": "a7d63c35-f600-4573-b5c5-62a0b201d2d4",
+      "detail": "Conflict resolution strategies. "
+    },
+    {
+      "knowledgeId": "bb8acd3b-3724-4ff7-b3a7-810806e9546d",
+      "detail": "Techniques for safe moving and handling."
+    },
+    {
+      "knowledgeId": "32ca73be-6f78-46dc-b4f8-bb9f72af49f3",
+      "detail": "Human factor approaches underpinning patient safety and quality improvement."
+    },
+    {
+      "knowledgeId": "e520f509-fd70-41c9-b22e-4354ef5a6467",
+      "detail": "Importance of continuing professional development."
+    },
+    {
+      "knowledgeId": "2088754c-e4ee-4d05-b1f1-f4c732d2b15f",
+      "detail": "Principles of reflective practice to develop professional knowledge, skills and performance."
+    },
+    {
+      "knowledgeId": "0f8f23eb-a40b-480c-8f85-ffaa90ab6a80",
+      "detail": "Wider determinants of health, the impact of service user behaviours and lifestyle choices on health and well-being."
+    },
+    {
+      "knowledgeId": "5df46632-54c5-4a14-994e-3030c075a272",
+      "detail": "Importance of health promotion and its contribution to reducing health inequalities."
+    },
+    {
+      "knowledgeId": "e3be508b-bde6-4e36-a8b0-39cc25bf8dd9",
+      "detail": "Road safety legislation, recognised system of vehicle control, advanced and high-speed driving techniques and codes of practice. "
+    },
+    {
+      "knowledgeId": "58fe916b-628b-4ea9-998b-fa83afc863e5",
+      "detail": "Exemptions and non-exemptions of road safety legislation and eligibility to claim exemptions when driving."
+    },
+    {
+      "knowledgeId": "b3b08af1-f27a-4103-91e0-dbf8a7fa3092",
+      "detail": "Vehicle safety checks to ensure vehicles are roadworthy and clean. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+      "detail": "Respect the values and beliefs of service users, their families, carers and those you work with."
+    },
+    {
+      "behaviourId": "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+      "detail": "Show compassion and empathy for service users, their families, carers and those you work with."
+    },
+    {
+      "behaviourId": "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+      "detail": "Act professionally at all times."
+    },
+    {
+      "behaviourId": "54c8f295-33f0-4f37-abf6-88028a3c0538",
+      "detail": "Have the courage to challenge areas of concern."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "1b33d728-deeb-4563-aa34-b3196dd01249",
+      "detail": "Apply legislation, local and national policies, protocols and codes of conduct or practice and ethics."
+    },
+    {
+      "skillId": "f0f04734-a926-43fe-8e47-712ca56bbc4a",
+      "detail": "Work within the scope of practice and the limitations of own competence."
+    },
+    {
+      "skillId": "053d7cbf-f831-4619-8f7d-2416601a8121",
+      "detail": "Escalate and report to the senior clinician when needed."
+    },
+    {
+      "skillId": "ddb8eb7a-61ba-4ac1-8dba-94890ec50dfb",
+      "detail": "Identify and respond to safeguarding concerns in line with organisational protocols."
+    },
+    {
+      "skillId": "6a4af684-7072-469e-add8-b4c4d8869ad1",
+      "detail": "Use resilience strategies to manage health and well-being of self and others, seeking help and support when necessary."
+    },
+    {
+      "skillId": "d229f97e-f8aa-4127-9bfa-ca428c3e657a",
+      "detail": "Respond to factors contributing to health inequalities, and the impact on health and outcomes. "
+    },
+    {
+      "skillId": "292284f5-588f-4472-8f60-4dee3ce3b1b9",
+      "detail": "Provide inclusive care and treatment to service users."
+    },
+    {
+      "skillId": "9eca4ed5-3a1c-4aa3-aa4c-7f947d9fee1d",
+      "detail": "Provide and promote person-centred care."
+    },
+    {
+      "skillId": "9891d76a-29e2-4c3e-9f01-8b13ec4e7841",
+      "detail": "Establish valid and informed consent and escalate if this cannot be established."
+    },
+    {
+      "skillId": "1d5c17a5-550b-4a34-876a-48b1fcc713a9",
+      "detail": "Conduct stepwise and holistic assessments including history-taking and examination."
+    },
+    {
+      "skillId": "26e7d3bf-87f6-45bb-8a23-5e864d4466ca",
+      "detail": "Obtain physiological measurements and compare to physiological parameters to inform a working diagnosis."
+    },
+    {
+      "skillId": "6fc2c11a-6f86-4a6e-84c0-a53c1f6bdc25",
+      "detail": "Monitor and evaluate condition of service users and make changes or recommendations to the treatment plan."
+    },
+    {
+      "skillId": "12049efa-0bde-4978-a822-9e51933687c6",
+      "detail": "Prepare and administer medicines and medical gases safely."
+    },
+    {
+      "skillId": "4725bb07-704b-4618-a1fa-e2d27d544875",
+      "detail": "Deliver care to service users across the lifespan covering all medical, physical, trauma, mental health and socio-economic factors."
+    },
+    {
+      "skillId": "605ad15d-2886-446b-a027-b813eb849eeb",
+      "detail": "Select, check and safely use equipment and report defects."
+    },
+    {
+      "skillId": "4ebe4ffa-a8a4-4579-975a-6d0b3545a246",
+      "detail": "Provide safety netting information prior to their discharge."
+    },
+    {
+      "skillId": "02aa96f6-de13-4df1-9218-7577fd346930",
+      "detail": "Safely perform resuscitation across age ranges."
+    },
+    {
+      "skillId": "1e80cb1e-ef28-4337-949f-a5eb3aeabe9e",
+      "detail": "Undertake diagnostic and functional assessment of mental capacity."
+    },
+    {
+      "skillId": "3ff0b35b-d332-47ba-8c52-45a514bd0c76",
+      "detail": "Deliver care to services users with dementia, learning disabilities and neurodivergent differences."
+    },
+    {
+      "skillId": "79bde479-aef6-4c1f-b48f-fc1d3486b94d",
+      "detail": "Manage resources using sustainable working practices."
+    },
+    {
+      "skillId": "d198dff4-aed6-4afb-b4a9-4acfd98f27df",
+      "detail": "Use digital tools and technologies relevant to own role and workplace."
+    },
+    {
+      "skillId": "bdab1817-95c5-427d-b7d5-dff595842553",
+      "detail": "Communicate using strategies and adapting these to maximise understanding in the delivery of care. "
+    },
+    {
+      "skillId": "4bd6c896-7ba6-4fee-b5e5-121b97a3da98",
+      "detail": "Use, record, store and share data and confidential information in line with General Data Protection Regulations."
+    },
+    {
+      "skillId": "0eb9d314-1f83-4cc9-bd7f-58387932c8d7",
+      "detail": "Record interactions with service users and justify actions and assessment decisions."
+    },
+    {
+      "skillId": "9a00187d-8c82-4e92-bcc4-80d5492fef06",
+      "detail": "Follow protocols when communicating with other teams, organisations and services."
+    },
+    {
+      "skillId": "3fef3bf3-0cf2-4c08-8e95-f655355a93eb",
+      "detail": "Work collaboratively with other teams, organisations and services to facilitate team working in the emergency and urgent care environment."
+    },
+    {
+      "skillId": "41861619-b5b9-4adf-bd8a-b99a621b421a",
+      "detail": "Follow protocols for the handover of service users."
+    },
+    {
+      "skillId": "2080cf69-e606-4989-8a68-6123a187870f",
+      "detail": "Establish safe environments for practice, using dynamic risk assessments which appropriately manage the risk and safety of self and others."
+    },
+    {
+      "skillId": "f1545b9f-9200-40d4-af83-f26a8524ec0d",
+      "detail": "Use conflict resolution strategies. "
+    },
+    {
+      "skillId": "492003b5-361f-4b46-8c6c-4ba1a8339495",
+      "detail": "Use safe moving and handling techniques."
+    },
+    {
+      "skillId": "4043d358-f8f0-43be-af55-c01f6c26c762",
+      "detail": "Engage in and record continuing professional development."
+    },
+    {
+      "skillId": "724e2a6d-43f2-4114-b736-46210d5a28df",
+      "detail": "Reflect on own practice to develop professional knowledge, skills and performance."
+    },
+    {
+      "skillId": "54df79fd-ef4c-435c-9265-6e2f5ba63116",
+      "detail": "Act on opportunities to educate and empower service users to maximise their own health and well-being. "
+    },
+    {
+      "skillId": "21a38efe-37db-45a1-bb76-8b283ce44c02",
+      "detail": "Use advanced driving skills to respond to emergency and routine calls and to safely transport service users in emergency and non-emergency driving conditions."
+    },
+    {
+      "skillId": "a19cde2a-5a51-4f2b-a9ee-05dc1daf624d",
+      "detail": "Apply exemptions to safely make progress when driving."
+    },
+    {
+      "skillId": "670126b9-950b-47f1-ab77-2d6fd2db61fd",
+      "detail": "Carry out vehicle checks to ensure that the vehicle is roadworthy and clean."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0086",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "East of England Ambulance Service NHS Trust, East Midlands Ambulance Service NHS Trust, Isle of Wight Healthcare NHS PCT Trust, London Ambulance Service NHS Trust, North East Ambulance Service NHS Foundation Trust, North West Ambulance Service NHS Trust, South Central Ambulance Service NHS Foundation Trust, South East Coast Ambulance Service NHS Foundation Trust, South Western Ambulance Service NHS Foundation Trust, The Independent Ambulance Association, West Midlands Ambulance Service NHS Foundation Trust, Yorkshire Ambulance Service NHS Trust",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Ambulance technician",
+    "Associate ambulance practitioner",
+    "Emergency medical technician",
+    "Medical technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Health",
+  "cluster": "Health practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
+  "createdDate": "2026-09-18T10:16:01 +00:00",
+  "lastUpdated": "2026-09-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2017-01-12T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0287",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0287-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0287-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "122419d8-e95e-4548-9615-70dcd5818dd0",
+      "title": "Level 3 Certificate in Emergency Response Ambulance Driving (RQF) ",
+      "level": "3",
+      "anyAdditionalInformation": "Level 3 Certificate in Emergency Response Ambulance Driving Qualification. This is an Ofqual qualification and is the only mandated qualification that meets regulatory requirements. Individuals would have to complete the Level 3 Certificate in Emergency Response Ambulance Driving Qualification unless they have already passed either the legacy Institute of Health Care Development (IHCD) Driver training programme or Chief Ambulance Officer approved internal programmes with a high-speed driving component where candidates can demonstrate current and relevant driving experience. Previous driver training programmes must meet the criteria set out by the Department for Transport for high-speed driving in the Road Safety Act. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "1ccbdee4-955c-456a-a056-dab0f523a673",
+      "title": "Level 4 Diploma in Associate Ambulance Practitioner (RQF) ",
+      "level": "4",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "6397ac87-ce09-40ca-9c33-f6fa68c91606",
+      "dutyDetail": "Practise within the limits of own competence, scope of practice and responsibility following relevant legislation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "b468e868-c1e5-4ac3-8bd3-370336626b31",
+        "39d580a8-c179-42ec-99de-cfc837889930",
+        "7f0e9311-95c2-46ec-85a5-3dc250720214",
+        "eeadd384-1118-43e7-9b5d-fdd50b2c9c76",
+        "0df225b7-47a4-477c-9a6e-2727ffaacd3b",
+        "73aed9e8-df75-4f33-aa01-15b53a30929e",
+        "36e61b85-04a1-4991-8f38-8263fbc76515",
+        "df45a000-bd06-414a-8608-350327075b22"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1b33d728-deeb-4563-aa34-b3196dd01249",
+        "f0f04734-a926-43fe-8e47-712ca56bbc4a",
+        "053d7cbf-f831-4619-8f7d-2416601a8121",
+        "ddb8eb7a-61ba-4ac1-8dba-94890ec50dfb",
+        "6a4af684-7072-469e-add8-b4c4d8869ad1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "73306d04-909c-4ee4-98fb-015dab443e75",
+      "dutyDetail": "Practise in a non-discriminatory and inclusive manner recognising the impact of culture, equality and diversity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "40fdc2b4-1062-4ed9-9f17-4be566b09ad6",
+        "2e72df58-c328-4bda-b8b6-5cf43910a879",
+        "cab4b054-e56c-48c6-b82c-becfd6009942"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d229f97e-f8aa-4127-9bfa-ca428c3e657a",
+        "292284f5-588f-4472-8f60-4dee3ce3b1b9",
+        "9eca4ed5-3a1c-4aa3-aa4c-7f947d9fee1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "51bb6381-8a20-41a8-9a34-f2f7a0055e40",
+      "dutyDetail": "Deliver care, drawing on relevant knowledge and skills to inform practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "b1e8443b-8be5-4cdd-a16d-ba4099290697",
+        "d8bbd22c-e112-4404-a080-79345265869c",
+        "46e3f178-a861-4e82-a533-a99f3fc5089e",
+        "47e2f988-1b05-4dc2-858f-004138491db0",
+        "3777e18e-5f2f-4119-9b9b-3f48fa132b21",
+        "58222655-ece4-4012-90d3-61753a05ef8a",
+        "304a3e16-8711-4d9e-b4be-c79470fddeb1",
+        "04d03e53-7d8d-443a-b5f4-9f6aa5976458",
+        "1fd4aba7-dec7-4229-9de9-230c22ac9698",
+        "30061283-ca1a-4f63-a4e2-bc0afaa863eb",
+        "ed1c9c68-de68-46f8-874e-4a23bfe85b41",
+        "69cefa42-1fdd-49ab-ad43-29e0714b5008",
+        "82c4e06e-5efe-4b62-b6f0-e993177edbec",
+        "02a0e043-0575-49f6-adb6-977c9eee316f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9891d76a-29e2-4c3e-9f01-8b13ec4e7841",
+        "1d5c17a5-550b-4a34-876a-48b1fcc713a9",
+        "26e7d3bf-87f6-45bb-8a23-5e864d4466ca",
+        "6fc2c11a-6f86-4a6e-84c0-a53c1f6bdc25",
+        "12049efa-0bde-4978-a822-9e51933687c6",
+        "4725bb07-704b-4618-a1fa-e2d27d544875",
+        "605ad15d-2886-446b-a027-b813eb849eeb",
+        "4ebe4ffa-a8a4-4579-975a-6d0b3545a246",
+        "02aa96f6-de13-4df1-9218-7577fd346930",
+        "1e80cb1e-ef28-4337-949f-a5eb3aeabe9e",
+        "3ff0b35b-d332-47ba-8c52-45a514bd0c76",
+        "79bde479-aef6-4c1f-b48f-fc1d3486b94d",
+        "d198dff4-aed6-4afb-b4a9-4acfd98f27df"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "326d35cf-26ed-4f47-860f-98f6e9e124e4",
+      "dutyDetail": "Communicate effectively maintaining confidentiality and records. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "4eb74f9a-0a36-45ed-a177-10c9eb6f57f5",
+        "2487e2d0-c3ce-4930-9313-cf90e29b821f",
+        "e2f1ed95-486a-4e8c-b606-66d64db8449d",
+        "fe2ce8b4-de03-476d-ad58-78217dc29acd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bdab1817-95c5-427d-b7d5-dff595842553",
+        "4bd6c896-7ba6-4fee-b5e5-121b97a3da98",
+        "0eb9d314-1f83-4cc9-bd7f-58387932c8d7",
+        "9a00187d-8c82-4e92-bcc4-80d5492fef06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d20ee402-6f07-40af-99cb-a39523a585d8",
+      "dutyDetail": "Work with others and as part of the team.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "49496dbb-9cc2-48b4-83a3-cc3e6aa92e43",
+        "d27c9798-b3fe-4bb8-bd93-be87afe0a1cf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3fef3bf3-0cf2-4c08-8e95-f655355a93eb",
+        "41861619-b5b9-4adf-bd8a-b99a621b421a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "01a919e2-1a69-44c4-970e-ca59bbe197ef",
+      "dutyDetail": "Establish and maintain a safe practice environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "3d86a48a-94d5-46fa-b27d-91f29aa3db4c",
+        "a7d63c35-f600-4573-b5c5-62a0b201d2d4",
+        "bb8acd3b-3724-4ff7-b3a7-810806e9546d",
+        "32ca73be-6f78-46dc-b4f8-bb9f72af49f3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2080cf69-e606-4989-8a68-6123a187870f",
+        "f1545b9f-9200-40d4-af83-f26a8524ec0d",
+        "492003b5-361f-4b46-8c6c-4ba1a8339495"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "25a8a6ee-dfc7-43ef-9a78-70c778a35456",
+      "dutyDetail": "Maintain and further develop own knowledge and skills through continuing professional development activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "e520f509-fd70-41c9-b22e-4354ef5a6467",
+        "2088754c-e4ee-4d05-b1f1-f4c732d2b15f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4043d358-f8f0-43be-af55-c01f6c26c762",
+        "724e2a6d-43f2-4114-b736-46210d5a28df"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "00dc9ea6-c3d6-4a17-b511-1edf0f4ec1a2",
+      "dutyDetail": "Promote the health and well-being of service users, acting on opportunities to educate and empower service users to maximise their own health and well-being and prevent ill health.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "0f8f23eb-a40b-480c-8f85-ffaa90ab6a80",
+        "5df46632-54c5-4a14-994e-3030c075a272"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "54df79fd-ef4c-435c-9265-6e2f5ba63116"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cbddc7d3-e555-49ed-bdbb-0ef446412787",
+      "dutyDetail": "Drive an ambulance or response vehicle under emergency and non-emergency driving conditions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6d32a7b3-037e-44aa-98bc-8a5f6f806540",
+        "c6cf5746-62a7-43a7-9cb3-c3e4065cc8c5",
+        "a55fd543-b895-4d28-bb14-f82ec9a867d5",
+        "54c8f295-33f0-4f37-abf6-88028a3c0538"
+      ],
+      "mappedKnowledge": [
+        "e3be508b-bde6-4e36-a8b0-39cc25bf8dd9",
+        "58fe916b-628b-4ea9-998b-fa83afc863e5",
+        "b3b08af1-f27a-4103-91e0-dbf8a7fa3092"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "21a38efe-37db-45a1-bb76-8b283ce44c02",
+        "a19cde2a-5a51-4f2b-a9ee-05dc1daf624d",
+        "670126b9-950b-47f1-ab77-2d6fd2db61fd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-06-25T00:00:00"
+}
