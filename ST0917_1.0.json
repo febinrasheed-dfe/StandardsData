@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-02-28T00:00:00",
+  "changedDate": "2026-06-18T00:00:00",
   "earliestStartDate": "2024-02-27T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "To safely design and construct bespoke scenic elements.",
   "level": 3,
@@ -302,7 +302,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0498",
-  "tbMainContact": "kjohn@nationaltheatre.org.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Belgrade Theatre, Disney, LADA/CC Skills, London Academy of Music and Dramatic Art, National Theatre, Royal Exchange, Royal Opera House, Royal Shakespeare Company, Souvenir, The Really Useful Group, Theatre Royal Plymouth, Welsh National Opera, Young Vic",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -324,7 +324,7 @@
   "clusterId": "60",
   "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
   "createdDate": "2024-02-28T09:57:01 +00:00",
-  "lastUpdated": "2024-02-28T00:00:00 +00:00",
+  "lastUpdated": "2026-06-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-02-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0917",
@@ -803,5 +803,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-02-28T00:00:00"
+  "publishDate": "2026-12-09T00:00:00"
 }
