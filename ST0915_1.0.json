@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-05-17T00:00:00",
+  "changedDate": "2026-06-18T00:00:00",
   "earliestStartDate": "2024-05-14T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Assemble and repair automated equipment.",
   "level": 3,
@@ -227,7 +227,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0497",
-  "tbMainContact": "Lynne.LADA@gmail.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Royal Opera House, Royal Shakespeare Company, National Theatre, Young Vic, Royal Exchange, Stage Technologies, The Really Useful Group, Kinesys, Scott Fleary, AVW, CCSkills\r\n",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -249,7 +249,7 @@
   "clusterId": "60",
   "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
   "createdDate": "2024-05-17T10:20:10 +00:00",
-  "lastUpdated": "2024-05-17T00:00:00 +00:00",
+  "lastUpdated": "2026-06-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-05-14T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0915",
@@ -582,5 +582,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-05-17T00:00:00"
+  "publishDate": "2026-12-09T00:00:00"
 }
