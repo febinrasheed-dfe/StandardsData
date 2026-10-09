@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End point assessment plan revised",
-  "changedDate": "2024-10-02T00:00:00",
+  "changedDate": "2026-10-07T00:00:00",
   "earliestStartDate": "2024-10-02T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Undertake and innovate the capture, processing, and analysis of specialist digital forensic evidence.",
   "level": 7,
@@ -336,7 +336,7 @@
   "integration": "Degree-apprenticeship",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0821",
-  "tbMainContact": "carly.hinds@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Cambridge Regional College, Associated British Foods, BCS - The Chartered Institute for IT, Bedfordshire Police , Birmingham Metropolitan College, British Transport Police , Cambridge Police Force , CCL Solutions , College of Policing, College of Policing , Cranfield University, Deloitte, Forensic Capability Network, Forensics Access , Forgerock, Hertfordshire Constabulary , IntaForensics, Kent Police , Lancashire Police, London Metropolitan Police , MSAB, National Crime Agency, NCI - College, North Wales Police, Northamptonshire Police , Serious Fraud Office, South Wales Police , South West Police Collaboration , Staffordshire , Staffordshire University, Sytech-Consultants , Teesside University, West Midlands Police, West Yorkshire Police",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -355,7 +355,7 @@
   "clusterId": "233",
   "clusterDescription": "Provide and implement data technology enabled solutions to support internal and external customers.",
   "createdDate": "2024-10-02T11:02:38 +00:00",
-  "lastUpdated": "2024-10-02T00:00:00 +00:00",
+  "lastUpdated": "2026-10-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-07-15T00:00:00 +00:00",
   "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC1409",
@@ -1055,5 +1055,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-10-02T00:00:00"
+  "publishDate": "2027-09-26T00:00:00"
 }
