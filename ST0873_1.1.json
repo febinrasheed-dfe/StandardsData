@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-10T00:00:00",
+  "changedDate": "2026-08-14T00:00:00",
   "earliestStartDate": "2025-12-10T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Provide specialist hygiene services in areas such as closed plants, sterile environments, food production and laboratories.",
   "level": 4,
@@ -251,7 +251,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0576",
-  "tbMainContact": "secretariat@nsafd.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "National Skills Academy for Food and Drink, Bakkavor, Aesica Pharamceuticals, Society of Dairy Technology, University of Lincoln, Branston, Melton Foods, Avara Foods, Holchem Ltd, Midshire Foods, Warburtons, Premier Foods, Kellogg Co, Samworth Brothers",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -272,7 +272,7 @@
   "clusterId": "38",
   "clusterDescription": "Provide technical and science-based diagnostic, therapeutic and monitoring services in support of patient care working largely unsupervised and also the manufacture of appliances and devices using specialist medical expertise",
   "createdDate": "2025-12-08T09:37:32 +00:00",
-  "lastUpdated": "2025-12-10T00:00:00 +00:00",
+  "lastUpdated": "2026-08-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0873",
@@ -569,5 +569,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-10T00:00:00"
+  "publishDate": "2027-04-26T00:00:00"
 }
