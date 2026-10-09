@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "Occupational standard and end-point assessment plan revised.",
-  "changedDate": "2025-09-10T00:00:00",
+  "changedDate": "2026-09-15T00:00:00",
   "earliestStartDate": "2025-09-10T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-02-28T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Planning and installing electrical and mechanical systems within buildings.",
   "level": 4,
@@ -251,7 +251,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0056",
-  "tbMainContact": "c.sudworth@stemexplored.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Troup Bywater & Anders, Arup, Atkins, Clancy Consulting, Mott MacDonald, Waterman, Crofton Consulting, BDP, Hoare Lee, CBRE, Static Systems Group (SSG), Balfour Beatty, CW Contractors, Derry Building Services, Skanska, Laing O’Rourke, St Mowden, BESA, Electrical Contractors Association",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -282,7 +282,7 @@
   "clusterId": "140",
   "clusterDescription": "Design and supervise the installation of building services during construction",
   "createdDate": "2025-09-10T07:20:55 +00:00",
-  "lastUpdated": "2025-09-10T00:00:00 +00:00",
+  "lastUpdated": "2026-09-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-08T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0041",
@@ -629,5 +629,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-09-10T00:00:00"
+  "publishDate": "2027-02-28T00:00:00"
 }
