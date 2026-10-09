@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "SSA updated",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-09-16T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -220,7 +220,7 @@
   "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0038",
-  "tbMainContact": "apprenticeships@landscapeinstitute.org.",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Tyler Grange , Re-form Landscapes, Meiloci, Munro-Whitten, Landuse UK, Gillespies, The Environment Partnership, Capita, Birmingham Council, Amey, Farrer Huxley Associates, Fira Landscape Architects. BDP. LDA Design, Arup, LHC Design, Highways England, Winchester City Council, Townshed Landscape Architects, Wilder Associates , The Landscape Institute",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -246,9 +246,9 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2025-12-08T09:37:37 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-09-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-07-01T00:00:00 +00:00",
-  "banners": "This apprenticeship standard was approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.; From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
+  "banners": "We are proposing to retire this apprenticeship for new starts due to no starts on programme and no end point assessment organisation (EPAO). The consultation has now closed. All responses will be carefully considered before a final recommendation is made.Please note that retirement of this standard has not yet been authorised.; This apprenticeship standard was approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.; From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC0742",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0742-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0742-v1-1",
@@ -891,5 +891,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2026-09-16T00:00:00"
 }
