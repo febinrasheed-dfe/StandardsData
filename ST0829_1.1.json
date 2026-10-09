@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2025-06-20T00:00:00",
+  "changedDate": "2026-09-30T00:00:00",
   "earliestStartDate": "2025-06-20T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Health play specialists provide therapeutic play interventions to support children from birth to young adulthood in healthcare settings.",
   "level": 5,
@@ -422,7 +422,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0447",
-  "tbMainContact": "irene.o'donnell@nhs.net",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Alder Hey Children's Hospital, Basildon & Thurrock University Hospitals NHS Foundation Trust (L) (Health), Blackpool Teaching Hospitals NHS Foundation Trust, Blackpool Victoria Hospital, Cambridgeshire and Peterborough NHS Foundation Trust, County Durham and Darlington NHS Foundation Trust, Great Ormond Street Hospital for Children NHS Foundation Trust, Leeds Children's Hospital, Leeds City College, Manchester Children’s hospital, Nescot College, NHS Addenbrookes, Queens Medical Centre Nottingham, Society of Health Play Specialists, Solent University, University Centre Leeds, University College London Hospitals NHS Foundation Trust, University of West London",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -448,7 +448,7 @@
   "clusterId": "10",
   "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2025-04-07T16:40:28 +00:00",
-  "lastUpdated": "2025-06-20T00:00:00 +00:00",
+  "lastUpdated": "2026-09-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0829",
@@ -814,5 +814,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-20T00:00:00"
+  "publishDate": "2027-03-24T00:00:00"
 }
