@@ -1,0 +1,169 @@
+{
+  "id": "220095",
+  "referenceNumber": "AU0005",
+  "title": "Electrical fitting and assembly – Apprenticeship unit",
+  "introduction": "<p>Apprenticeship units are short flexible training courses designed to support employers to upskill their workforce in critical skill shortage areas. Units are for employed learners aged 19 and over, where their employer has identified that they need to upskill quickly to respond to emerging skills gaps and to support business growth and productivity.</p>\n<p>Apprenticeship units are based on relevant knowledge and skills in existing employer-led occupational standards to ensure relevant high-quality, targeted training. Each unit is short, with the length of training ranging from 30 and 140 hours delivered over a period of 1 to 16 weeks. This enables employers to have maximum flexibility to select a unit that meets their specific skill need and to deliver the training in a way that fits around their business.</p>",
+  "larsCode": "0",
+  "learningAimClassCode": "ZSC00005",
+  "apprenticeshipUnitUrl": "https://skillsengland.education.gov.uk/apprenticeship-units/AU0005-v1-0",
+  "route": "Engineering and manufacturing",
+  "relatedRoutes": [],
+  "minimumHoursForCompliance": 70,
+  "maxFunding": 1650,
+  "level": 2,
+  "reviewDetails": "",
+  "status": "Approved for delivery",
+  "version": "1.0",
+  "versionNumber": "1.0",
+  "createdDate": "2026-03-05T13:00:39 +00:00",
+  "lastUpdated": "2026-04-21T09:56:38 +00:00",
+  "publishDate": "2026-04-28T00:00:00 +00:00",
+  "approvedForDelivery": "2026-03-17T00:00:00 +00:00",
+  "earliestStartDate": "2026-04-28T00:00:00 +00:00",
+  "latestStartDate": "",
+  "latestEndDate": "",
+  "change": "",
+  "changedDate": "",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "keywords": [],
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
+  "entryRequirements": "<p>Learners must be employed and be 19 years or over. Some experience of working as an engineering operative or technician is expected.</p>",
+  "englishAndMathsQualifications": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "regulationDetail": [],
+  "technicalKnowledges": [
+    {
+      "id": "97d936e9-cafc-421b-ac39-9c682a612def",
+      "detail": "Awareness of health and safety regulations, standards, and guidance and impact on role. Control of Substances Hazardous to Health (CoSHH). Fire safety. Hazards and risks. Health and Safety at Work Act (HASAWA), Isolation and emergency stop procedures, Manual handling operations regulations, Personal Protective Equipment (PPE), Safety equipment: guards, signage, fire extinguishers. Safety signage. Situational awareness. Slips, trips, and falls. Working at height, Working in confined spaces.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "6f8ed7da-ca8c-47e1-a377-894cbef996ca",
+      "detail": "Electrical. Electrical based safe working practices and procedures, including isolation and reinstatement of equipment or systems.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "0e033d94-e6db-4a00-b875-3d3891e23582",
+      "detail": "Methods of interpreting relevant information from electrical specifications, drawings and technical information. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "d8deaaca-1af6-4b96-8654-e8fccf549989",
+      "detail": "Planning, prioritisation, organisation, and time management techniques.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "f72e3995-0e30-40d8-9bf6-73db6767dc8b",
+      "detail": "Consumables, tools, equipment and machinery used during electrical activities.  ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "816f3f17-7a3b-4161-a3ed-4249774bd981",
+      "detail": "Electrical. Cable types and their application.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "ae43c611-1394-440d-bbe9-b903fca7b09d",
+      "detail": "Electrical. Principles of ohms law with respect to voltage, current, resistance and power in series, parallel and combinational circuits.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "49551d23-b370-4c29-b09e-e6ad69cc8caa",
+      "detail": "Electrical. Properties and applications of insulating and conductive materials.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "c49b840a-332a-4698-affd-d7c20549bd4c",
+      "detail": " Electrical. Electrical assembly techniques.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "e88aa555-dd37-4020-a23e-f94074dcd20d",
+      "detail": "Electrical. Principles of circuit analysis and electrical fault-finding techniques. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "0b318ecb-8afb-4162-8e6c-b57539ed024c",
+      "detail": "Electrical. Electrical testing techniques. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "e9ef990b-2eaa-4573-b073-20c80095620d",
+      "detail": "Follow procedures in compliance with health and safety regulations, standards, and guidance.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "e2f92ac1-fc85-4f1e-90bd-67a1f4e657d1",
+      "detail": "Read and interpret electrical specifications, drawings and technical information. ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "926dc265-b7f2-4f91-b3db-f8c100ec8389",
+      "detail": "Use planning, prioritising, organising, and time management techniques to plan electrical activities.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "3661a7cb-0c81-406a-92b0-8c8faa9304b2",
+      "detail": "Select and use consumables, tools, equipment and machinery for electrical activities.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "e39f427b-3919-4b99-b5fc-0341a23b63bd",
+      "detail": "Electrical. Complete electrical operations in line with electrical based safe working practices and procedures, including isolation and reinstatement of equipment or systems.  ",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "d3403b14-5260-4402-bcfe-55c504d65eed",
+      "detail": "Electrical. Wire and terminate different types of cabling, for example single core, multi core, screened, fire resistant, armoured.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "d9d25471-0ba0-45a6-a879-3b7431778a4d",
+      "detail": "Electrical. Assemble a range of electrical, for example component panels, isolator switches, fuses, circuit breakers, contactors, relays, rail mounted terminal blocks, resistors, capacitors, diodes, transistors.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "aa11058c-701a-4f42-8db8-fcfaac545429",
+      "detail": "Electrical. Test electrical assembles and components, for example component panels, isolator switches, fuses, circuit breakers, contactors, relays, rail mounted terminal blocks, resistors, capacitors, diodes, transistors.",
+      "tags": [],
+      "relatedApprenticeships": []
+    },
+    {
+      "id": "123d5fb7-3682-41ed-9514-a4b61f1fb422",
+      "detail": "Electrical. Identify faults within electrical systems.",
+      "tags": [],
+      "relatedApprenticeships": []
+    }
+  ],
+  "informationForProviders": "",
+  "whoIsItFor": "<p>This apprenticeship unit is for existing employed engineering operatives and technicians who, with the support of their employer, need to upskill in electrical fitting and assembly fundamentals.</p>",
+  "learningOutcomes": "<p>A learning outcome is a concise statement that describes what an individual should be able to do by the end of their course. It summarises a cluster of knowledge and skills in the course and provides a foundation for assessment.</p>\n<p><strong>Learning outcome: </strong></p>\n<ul>\n<li>Apply health and safety legislation, regulations and safe systems of work to electrical fitting and assembly activities.</li>\n<li>Interpret electrical based specifications, drawings, and technical documentation to complete electrical fitting and assembly activities.</li>\n<li>Plan and organise electrical fitting and assembly activities using effective prioritisation and time management techniques.</li>\n<li>Select and use appropriate tools and equipment for electrical fitting and assembly activities.</li>\n<li>Wire, route, and terminate a range of electrical cable types.</li>\n<li>Safely carry out electrical fitting and assembly activities in accordance with requirements.</li>\n<li>Conduct testing during and after electrical fitting and assembly activities.</li>\n<li>Identify and diagnose faults in electrical fitting and assembly activity outputs.</li>\n</ul>",
+  "knowledgeAndSkillsMappingToOutcomes": "<table border=\"0\">\n<thead>\n<tr>\n<th><strong>Function</strong></th>\n<th><strong>Learning Outcome</strong></th>\n<th><strong>K &amp; S mapping</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Health and safety</strong></td>\n<td>Apply health and safety legislation, regulations and safe systems of work to electrical fitting and assembly activities.</td>\n<td>K1, K2, S1</td>\n</tr>\n<tr>\n<td><strong>Interpreting documentation</strong></td>\n<td>Interpret electrical-based specifications, drawings, and technical documentation to complete electrical fitting and assembly activities.</td>\n<td>K3, S2</td>\n</tr>\n<tr>\n<td><strong>Planning and organisation</strong></td>\n<td>Plan and organise mechanical fitting and assembly activities using effective prioritisation and time management techniques.</td>\n<td>K4, S3</td>\n</tr>\n<tr>\n<td><strong>Selecting tools and equipment</strong></td>\n<td>Select and use appropriate tools and equipment for electrical fitting and assembly activities.</td>\n<td>K5, S4</td>\n</tr>\n<tr>\n<td><strong>Electrical cabling</strong></td>\n<td>Wire, route, and terminate a range of electrical cable types.</td>\n<td>K6, S6</td>\n</tr>\n<tr>\n<td><strong>Electrical fitting and assembly</strong></td>\n<td>Safely carry out electrical fitting and assembly activities in accordance with requirements.</td>\n<td>K7, K8, K9, S5, S7</td>\n</tr>\n<tr>\n<td><strong>Testing</strong></td>\n<td>Conduct testing during and after electrical fitting and assembly activities.</td>\n<td>K11, S8</td>\n</tr>\n<tr>\n<td><strong>Fault finding</strong></td>\n<td>Identify and diagnose faults in electrical fitting and assembly activity outputs.</td>\n<td>K10, S9</td>\n</tr>\n</tbody>\n</table>",
+  "funding": "<p>This apprenticeship unit is currently eligible for public funding.</p>\n<p>Skills England will provide the Department for Work and Pensions with ongoing advice on critical skills needs, and the affordability and prioritisation of funding for apprenticeship units will remain under review.</p>\n<p>The Department will give notice if funding for this apprenticeship unit is to be withdrawn. Following which, funding for new starts will not be available after four weeks from that notice being given.</p>",
+  "assessment": "<p><strong>Mandatory:</strong> As a minimum, learners will need to pass a skills test delivered by the training provider, to demonstrate that they have acquired the skills and knowledge set out in the apprenticeship unit. Employers will need to validate the result to confirm the learner has been successful.</p>\n<p><strong>Extended:</strong> In addition, employers (or learners) have the option to choose independent external assessment where they feel it is appropriate, for example through use of a non-mandatory qualification.</p>\n<p>If the apprenticeship unit is in a regulated occupation and the role requires adherence to industry recognised standards and procedures, we would expect employers to choose an extended assessment.</p>",
+  "relatedOccupations": [],
+  "banners": ""
+}
