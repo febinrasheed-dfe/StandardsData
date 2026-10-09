@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard\nEnd-point assessment plan\n",
-  "changedDate": "2025-08-06T00:00:00",
+  "changedDate": "2026-09-10T00:00:00",
   "earliestStartDate": "2025-08-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -456,7 +456,7 @@
   "integration": "None",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0031",
-  "tbMainContact": "linda.guthrie@steinhoffretail.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Ocado, Steinhoff UK Ltd, Allen Apprenticeships and Skills, The Fashion Retail Academy, People 1st, Superdrug, Arcadia, M&S, Debenhams, JD Sports, John Lewis, Co-operative Group, Sainsburys, Mothercare, Travis Perkins, Retail Trust",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -479,7 +479,7 @@
   "clusterId": "27",
   "clusterDescription": "Manage and lead a whole sales process and a retail location often handling the sale of larger, more complex items",
   "createdDate": "2025-08-06T15:13:41 +00:00",
-  "lastUpdated": "2025-08-06T00:00:00 +00:00",
+  "lastUpdated": "2026-09-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-16T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0668",
@@ -925,5 +925,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-08-06T00:00:00"
+  "publishDate": "2026-09-10T00:00:00"
 }
