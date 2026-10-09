@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-10-30T00:00:00",
+  "changedDate": "2026-09-04T00:00:00",
   "earliestStartDate": "2025-05-06T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Find solutions to help clients achieve their financial goals",
   "level": 4,
@@ -263,7 +263,7 @@
   "integration": "Mandatory qualification with apprenticeship assessment",
   "integratedDegree": "",
   "tbReference": "TB0692",
-  "tbMainContact": "Tom.Hegarty@mandg.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Burton and Fisher, Chartered Institute of Securities and Investments, Chartered Insurance Institute, Coventry Building Society, Fairstone, London Institute of Banking and Finance, M&G Wealth, Pentins SFP, Quilter, SJP, The Verve Foundation",
   "otherInvolvedStakeholders": "",
   "regulated": true,
@@ -285,7 +285,7 @@
   "clusterId": "246",
   "clusterDescription": "Perform complex and specialist operational support to transactions across a wide range of financial instruments and products",
   "createdDate": "2026-02-18T14:31:57 +00:00",
-  "lastUpdated": "2025-10-30T00:00:00 +00:00",
+  "lastUpdated": "2026-09-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-05-02T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1301",
@@ -834,5 +834,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-10-30T00:00:00"
+  "publishDate": "2027-03-10T00:00:00"
 }
