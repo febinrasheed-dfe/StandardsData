@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment and funding revised.",
-  "changedDate": "2023-01-26T00:00:00",
+  "changedDate": "2026-09-28T00:00:00",
   "earliestStartDate": "2023-01-05T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-02-28T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "HM Forces first response ground troops, providing peacekeeping duties and support/assistance to the civilian community as required and directed by HM Government.",
   "level": 2,
@@ -230,7 +230,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0222",
-  "tbMainContact": "martin.mcmaster648@mod.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Army Headquarters, British Army, Commando Training Centre Royal Marines, Infantry, Royal Air Force Regiment, Royal Armoured Corps, Royal Marines, Royal Navy.",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -251,7 +251,7 @@
   "clusterId": "15",
   "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2022-11-04T11:52:19 +00:00",
-  "lastUpdated": "2023-01-26T00:00:00 +00:00",
+  "lastUpdated": "2026-09-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-06-10T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0222",
@@ -526,5 +526,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-01-26T00:00:00"
+  "publishDate": "2027-02-28T00:00:00"
 }
