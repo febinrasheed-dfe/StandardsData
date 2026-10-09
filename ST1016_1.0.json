@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery ",
-  "changedDate": "2023-09-19T00:00:00",
+  "changedDate": "2026-09-08T00:00:00",
   "earliestStartDate": "2023-07-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -517,7 +517,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0665",
-  "tbMainContact": "",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Aspers Casino, Avantguard Security Ltd, Bouygues E&S, CIS Security Ltd, Constant Security Services Ltd, G4S, Grey Seal Academy, House of Commons, IFPO – HJA Consult, Interserve, London Borough of Camden, Loomis, Mitie, MoD, OCS, Phoenix Security, Poundland Limited, Securigroup, Securitas, Security Industry Authority, Security Institute, Showsec, Skills for Security, TSS (Total Security Services) Ltd, Vinci Facilities, Westgrove Support Services Ltd, Wilson James, WSG Associates; Axis Security, Cava Security, Cera Care, Universal Security, Savills, Protect Security, Vertas, Mercury Training",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -560,9 +560,9 @@
   "clusterId": "15",
   "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2023-07-27T15:41:26 +00:00",
-  "lastUpdated": "2023-09-19T00:00:00 +00:00",
+  "lastUpdated": "2026-09-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-07-27T00:00:00 +00:00",
-  "banners": "",
+  "banners": "New starts on this apprenticeship are not government funded from 1st September 2026. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship remains available for delivery for privately funded apprentices.",
   "occupationCode": "OCC1016",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1016-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1016-v1-0",
@@ -1589,5 +1589,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-09-19T00:00:00"
+  "publishDate": "2026-09-08T00:00:00"
 }
