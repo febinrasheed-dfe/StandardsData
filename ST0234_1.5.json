@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.5",
   "change": "Updated SSA",
-  "changedDate": "2025-12-08T00:00:00",
+  "changedDate": "2026-08-03T00:00:00",
   "earliestStartDate": "2025-12-08T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Creating and sustaining successful tenancies in the private and social rented housing sectors.",
   "level": 3,
@@ -181,7 +181,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0064",
-  "tbMainContact": "Kieren.Buxton@flagship-group.co.uk,  maxine@amaxestates.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Aspire Housing Ltd, Spectrum Housing Group Ltd, Your Housing Group, Rendall & Ritner Ltd, Coast & Country Housing Ltd, St Basil’s, B3 Living Ltd, Crosby Housing Association Ltd, Genesis Housing Association Ltd, Innisfree Housing Association, Yarlington Housing Group, The Guinness Partnership, Chartered Institute of Housing, Institute of Residential Property Management Ltd, Sovereign Housing, Barnet Housing, Family Mosaic, Community Housing Group, New Charter Group, Association of Registered Letting Agents, National Housing Federation, Affinity Sutton Group, Futures Housing Group",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -198,7 +198,7 @@
   "clusterId": "14",
   "clusterDescription": "Provide direct customer support by handling requests, complaints and queries and seeking to improve services through analysis",
   "createdDate": "2025-12-08T09:38:10 +00:00",
-  "lastUpdated": "2025-12-08T00:00:00 +00:00",
+  "lastUpdated": "2026-08-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-11-26T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0234",
@@ -212,5 +212,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-08T00:00:00"
+  "publishDate": "2027-01-31T00:00:00"
 }
