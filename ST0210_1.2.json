@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Standard and end-point assessment revised.",
-  "changedDate": "2024-06-03T00:00:00",
+  "changedDate": "2026-07-07T00:00:00",
   "earliestStartDate": "2024-06-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Maintaining and renovating sports surfaces to make sure that public and private sports facilities are available for use.",
   "level": 2,
@@ -224,7 +224,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0212",
-  "tbMainContact": "d.ratling@whitgift.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Whitgift School, Leicester City Football Club, Oaklands College, Crossfield’s School, Ashton Gate, Training Unlimited, Edgbaston, Myerscough College & University Centre, Kings School, Warwick School, Nottingham University, Grounds Management Association, York Racecourse, SMB College Group, Rugby Football Union, Tottenham Hotspur ",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -243,7 +243,7 @@
   "clusterId": "161",
   "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2024-06-03T12:38:19 +00:00",
-  "lastUpdated": "2024-06-03T00:00:00 +00:00",
+  "lastUpdated": "2026-07-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-19T00:00:00 +00:00",
   "banners": "This standard aligns with the following professional recognition:\n• alignment with level 2 of the Grounds Management Framework (GMF) for Grounds Management Association (GMA) recognition",
   "occupationCode": "OCC0210",
@@ -533,5 +533,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-06-03T00:00:00"
+  "publishDate": "2027-01-17T00:00:00"
 }
