@@ -1,0 +1,1119 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 138,
+  "referenceNumber": "ST0230",
+  "learningAimClassCode": "",
+  "title": "Hospitality supervisor",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0230",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-14T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Hospitality Supervisors lead teams in housekeeping, food and beverage, or guest services, working in venues across the hospitality industry. ",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "minimumHoursForCompliance": "300",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Catering and hospitality",
+  "keywords": [
+    "hospitality",
+    "catering",
+    "pub",
+    "hotel",
+    "leisure",
+    "cruise ships",
+    "restaurant",
+    "holiday parks"
+  ],
+  "jobRoles": [
+    "Food and beverage supervisor",
+    "Food and beverage team leader",
+    "Guest services supervisor",
+    "Guest services team leader",
+    "Hospitality supervisor",
+    "Housekeeping supervisor",
+    "Housekeeping team leader",
+    "Bar supervisor",
+    "Conference and events supervisor",
+    "Conference and events team leader"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0230-in-revision?view=epa",
+  "ssa1": "7 Retail and Commercial Enterprise",
+  "ssa2": "7.4 Hospitality and catering",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;Hospitality supervisors work across a wide variety of businesses including bars, restaurants, caf&#233;s, conference centres, banqueting venues, hotels or contract caterers. They provide vital support to management teams and are capable of independently supervising hospitality services and running shifts. They typically work under pressure delivering fantastic customer service and motivating a team is essential to their role. The majority of supervisors’ skills and knowledge are the same but supervisors may specialise in specific functions or work across a variety of functions which reflect the multi-functional nature of the industry.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;strong&gt;escription of specialist supervisory functions&lt;/strong&gt;&lt;/h3&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;91&quot; style=&quot;width: 91px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Food and beverage&amp;nbsp;Supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;td width=&quot;263&quot;&gt;\n&lt;p&gt;Food and Beverage supervisors maintain standards in a range of settings from pubs, clubs and bars, restaurants, caf&#233;s, conference centres, banqueting venues, hotels restaurants and&amp;nbsp;contract caterers. Their work can involve coordinating a range of dining experiences and styles and adapting to the ever increasing diversity in both food and beverage menus.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th width=&quot;91&quot; style=&quot;width: 91px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Bar supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;td width=&quot;263&quot;&gt;\n&lt;p&gt;Bar supervisors typically work in pubs, nightclubs, hotels, restaurants and resorts to oversee the effective running of the bar, ensuring customer satisfaction by maintaining an exceptional&amp;nbsp;standard of delivery and professionalism whilst achieving profitability in line with budget. This role often comes with irregular hours and bar supervisors need to be able to be on their feet&amp;nbsp;for extended periods of time.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th width=&quot;91&quot; style=&quot;width: 91px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Housekeeping&amp;nbsp;supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;td width=&quot;263&quot;&gt;\n&lt;p&gt;Housekeeping supervisors maintain the presentation of establishments such as hotel and other overnight accommodation including hostel, serviced apartments and conference venues.&amp;nbsp;Supervisors in this role for example, coordinate the work of cleaners, laundry services and room attendants to ensure customers’ experience is in line with the business standards.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th width=&quot;91&quot; style=&quot;width: 91px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Concierge supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;td width=&quot;263&quot;&gt;\n&lt;p&gt;Concierge supervisors maintain the porter service in hotels and serviced facilities, making sure that customer requirements including leisure activities, local knowledge, travel, parking and&amp;nbsp;luggage storage are met. They also play a key role in protecting the security and safety of customers.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th width=&quot;91&quot; style=&quot;width: 91px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Front office&amp;nbsp;supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;td width=&quot;263&quot;&gt;\n&lt;p&gt;Front office supervisors coordinate the reception function and, where relevant, reservations for example in hotels, holiday resorts and conference venues. Central to many operations, the&amp;nbsp;front office supervisor is responsible for ensuring that customers’ arrival, time at the establishment and departure is delivered according to an establishments standards and meets the&amp;nbsp;customer expectations.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th width=&quot;91&quot; style=&quot;width: 91px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Events&amp;nbsp;supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;td width=&quot;263&quot;&gt;\n&lt;p&gt;Events supervisors coordinate a variety of functions that take place at a venue, for example a business conference, convention, banquet or wedding. The role requires meticulous&amp;nbsp;coordination to ensure, often multiple, event plans are fulfilled and the customer has a positive experience.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th width=&quot;91&quot; style=&quot;width: 91px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Hospitality outlet&amp;nbsp;supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;td width=&quot;263&quot;&gt;\n&lt;p&gt;Hospitality outlet supervisors support the manager in the day to day business operations of a retail outlet, such as quick service restaurants, branded coffee or sandwich shops. The role is&amp;nbsp;often in a fast paced environment with the focus on meeting customers’ expectations of efficiency and consistency for both the products and service they receive.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;Business&lt;/h3&gt;\n&lt;table border=&quot;0&quot; style=&quot;width: 674px;&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Kno&lt;/strong&gt;&lt;strong&gt;wl&lt;/strong&gt;&lt;strong&gt;ed&lt;/strong&gt;&lt;strong&gt;g&lt;/strong&gt;&lt;strong&gt;e and Understanding (Know it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;width: 201.954px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;strong&gt;kills (Show it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;width: 147px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;strong&gt;eha&lt;/strong&gt;&lt;strong&gt;vi&lt;/strong&gt;&lt;strong&gt;ou&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;s (Live it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand own role in motivating the team to work according to the business vision and values and to achieve business targets, always focussing on the importance of providing the best service for customers&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;\n&lt;p&gt;Contribute to and monitor operational procedures, working practices and team performance and make recommendations for business improvements&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;\n&lt;p&gt;Demonstrate a personal drive to achieve the business values, vision and objectives&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand the financial operations of hospitality businesses and know how to source and use financial information relating to own area of work&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;\n&lt;p&gt;Operate within budget, exercising strict resource control and minimising wastage, using appropriate techniques to manage and control costs&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;\n&lt;p&gt;Operate astutely and credibly on all matters that affect business finance&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand how own business area interacts with others and the organisation as a whole&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;\n&lt;p&gt;Supervise the delivery of a quality service that supports the department in achieving overall business objectives&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;\n&lt;p&gt;Operate with a quality focus to achieve the best for the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Know the standard business operating procedures&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;\n&lt;p&gt;Monitor the team to ensure they follow processes and procedures in line with business / brand standards at all times&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;\n&lt;p&gt;Positively support the benefits of working within standard business operating procedures&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand how to identify, plan for and minimise risks to the business and service&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;\n&lt;p&gt;Identify and isolate matters of concern, establish the cause and intervene accordingly to minimise disruption to the service and risk to people&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;\n&lt;p&gt;Be solution focussed and remain calm under pressure, adopting a constructive attitude to dealing with problems and driving a positive outcome&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand how a variety of technologies support the delivery of hospitality products and services&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;\n&lt;p&gt;Use available technology effectively in all work activities and&amp;nbsp;performance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;\n&lt;p&gt;Champion the responsible use of technology&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;People&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand how to effectively organise and coordinate a team to provide required levels of service to meet customer demand&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;\n&lt;p&gt;Plan, resource and organise the team to meet expected levels of customer demand within business constraints&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;\n&lt;p&gt;Contribute to the review process, being aware of the individual needs of the team&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand how to work with hospitality team members to achieve targets and support business objectives&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Set realistic but challenging objectives with the team and work continuously to accomplish the best results&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Encourage team to demonstrate personal pride in their role through a consistently positive and professional approach&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Know how to select the best methods of communication to motivate and support team members in a hospitality environment&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Demonstrate effective methods of communication that achieve the desired results, taking action to correct poor communication within the team&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Strive to continuously improve the effectiveness of personal communications&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Identify the knowledge and skills required of hospitality teams; know how own team fits within the wider business and how to maximise team members’ potential to drive the best results for the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Actively support team members to maximise potential in their role and identify opportunities for development&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Encourage team members to see the importance of their role within the wider business and opportunities for development&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Customers&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand the importance of customer profiles, how to build them and understand how this enables the business to &amp;nbsp;meet their needs profitably and in line with business / brand standards&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Coordinate the team to deliver to customers according to their needs in line with business / brand standards, enhancing their experience where appropriate&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;Proactively encourage a customer centric culture&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Know the marketing and sales activities of the business and how to support them to achieve the desired outcome&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Implement sales and marketing strategies in own area, ensuring team are fully supported to deliver them. Make suggestions for future sales and marketing activities within area of responsibility&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;Be proactive in supporting sales and marketing activities&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand the requirements of the product and brand standards of the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Implement sales and marketing strategies in own area, ensuring team are fully supported to deliver them. Make suggestions for future sales and marketing activities within area of responsibility&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Demonstrate a belief in the brand and product the business offers&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Leadership&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Identify the different leadership styles and supervisory management skills which are effective in hospitality businesses&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Use leadership styles and supervisory management skills appropriate to the business and situation&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;Lead by example to maximise performance&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 161.046px;&quot;&gt;\n&lt;p&gt;Understand how to work fairly with individuals that have diverse needs&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 201.954px;&quot;&gt;Ensure team members are aware of and follow policy relating to diversity&lt;/td&gt;\n&lt;td style=&quot;width: 147px;&quot;&gt;&amp;nbsp;Act as a role model operating in an empathic, fair and consistent professional manner&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Hospitality supervisors must select one of the following operational areas in line with their specialist function&lt;/strong&gt;&lt;/p&gt;\n&lt;table border=&quot;0&quot; style=&quot;width: 687px;&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th colspan=&quot;3&quot; style=&quot;width: 512px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Food and Beverage Supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 154px;&quot;&gt;&lt;strong&gt;Knowledge and Understanding (Know it)&lt;/strong&gt;&lt;/th&gt;\n&lt;th style=&quot;width: 198px;&quot;&gt;&lt;strong&gt;Skills (Show it)&lt;/strong&gt;&lt;/th&gt;\n&lt;th style=&quot;width: 160px;&quot;&gt;&lt;strong&gt;Behaviours (Live it)&lt;/strong&gt;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;\n&lt;p&gt;Understand the basic principles of menu design, layout and presentation; know the specifications of menu items, how to match food and beverages and how to keep up to date with trends in food and beverages&lt;/p&gt;\n&lt;p&gt;Know how to keep up to date, source information and brief the team on service requirements, special requests that will impact on service, promotions and details on specials, dish content and beverage product features&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;\n&lt;p&gt;Ensure menus and promotional materials are up to date and presented accurately to the customer by the team in line with business / brand standards and customer needs. Brief team on menu items and ensure customers are provided with helpful information and recommendations on food and beverages&lt;/p&gt;\n&lt;p&gt;Prepare food and beverage service areas in good time ensuring all resources are available and ready for use; ensure team provide efficient, accurate and effective service in line with service style meeting customer needs and business / brand standards.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;\n&lt;p&gt;Demonstrate passion for high quality food and drink products and service&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;\n&lt;p&gt;Bar supervisor&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;\n&lt;p&gt;Understand how to keep bar operations running smoothly and deal with any customer concerns, identifying where potential conflict could occur, in accordance with the law&lt;/p&gt;\n&lt;p&gt;Recognise the importance of monitoring cellar and beverage storage procedures to optimise beverage quality in line with business requirements; know how to monitor stock rotation and levels of demand to ensure sufficient stocks are available for service&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;\n&lt;p&gt;Coordinate an effective bar service, ensuring licensing laws are adhered to at all times, customer issues are dealt with and potential conflict minimised&lt;/p&gt;\n&lt;p&gt;Maintain and monitor the cellar and beverage storage and cellar/wine dispense&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;Take a responsible approach to selling licensed products, and deal with conflict calmly and safely&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; style=&quot;width: 352px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Hou&lt;/strong&gt;&lt;strong&gt;se&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Keeping&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Know how to allocate tasks and timescales on a daily basis to ensure areas are cleaned in line with business requirements ; know how to ensure team follows procedures for responsible use of cleaning materials and equipment in line with business requirements&lt;/p&gt;\n&lt;p&gt;Understand how to monitor standards and identify, prioritise and deal with maintenance, repairs and refurbishment issues&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Coordinate team and allocate tasks on a daily basis to ensure positive presentation and image of the business within allocated timescales ensuring business / brand standards are maintained&lt;/p&gt;\n&lt;p&gt;Monitor standards of cleanliness and identify maintenance, repairs and refurbishment requirements, communicating them to the relevant person&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Set examples of cleanliness and presentation, and have the confidence to deal with issues effectively and promptly&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Concierge&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;Know how to collect and keep up to date information on local services and know how to communicate these to customers in a way they are understood e.g. places of interest, travel options, places to eat and drink\n&lt;p&gt;Identify how to maintain secure storage systems for customers and recognise their importance to upholding customer confidence and business reputation&lt;/p&gt;\n&lt;p&gt;Identify the porter and parking / valet and transport services offered by the business and know how to communicate relevant available options clearly to customers&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;Maintain information on expected customer requirements including local services and travel options. Efficiently source information not readily available when needed, regularly review sources and develop effective networks\n&lt;p&gt;Maintain a secure system for the storage of customers’ luggage and other personal items&lt;/p&gt;\n&lt;p&gt;Coordinate the porter service and parking / valet and transport services offered by the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;Actively keep knowledge up to date to be able to give customers useful and up to date information which enhances their stay&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; style=&quot;width: 352px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;F&lt;/strong&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong&gt;on&lt;/strong&gt;&lt;strong&gt;t o&lt;/strong&gt;&lt;strong&gt;ffice s&lt;/strong&gt;&lt;strong&gt;upervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;\n&lt;p&gt;Understand how to implement, and the importance of, check-in, check-out and reservation procedures to ensure they are efficient and reliable for customers&lt;/p&gt;\n&lt;p&gt;Identify the standards of personal presentation, recognise their importance to positive customer first impression and know how to ensure team uphold them&lt;/p&gt;\n&lt;p&gt;Know how to source information, keep up to date with and brief team on customer requirements; understand how to implement and the importance of procedures to maintain customer confidentiality in line with legislation and business requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Coordinate efficient check-in, check-out and the reservation procedures if applicable in own role&lt;/p&gt;\n&lt;p&gt;Motivate the team to present a professional image at all times as the first point of call for most customers&lt;/p&gt;\n&lt;p&gt;Coordinate customer requirements , providing accurate information and maintaining customer confidentiality at all times&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;&amp;nbsp;\n&lt;p&gt;Demonstrate consistently high standards of personal presentation&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Events Supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;\n&lt;p&gt;Identify the information required and know how to source, evaluate&amp;nbsp;and use it to plan events which meet customer and business requirements&lt;/p&gt;\n&lt;p&gt;Understand how to develop and implement an event agreement to meet customer needs during the event&lt;/p&gt;\n&lt;p&gt;Understand the budget requirements for the event and know how to ensure these are adhered to and accurate records kept&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;\n&lt;p&gt;Support event planning and coordinate events in line with customer requirements, communicating appropriately with a&lt;br&gt;variety of organisations such as suppliers and exhibitors&lt;/p&gt;\n&lt;p&gt;Act as the main point of contact for customers during the event to ensure their requirements are met according to the event agreement&lt;/p&gt;\n&lt;p&gt;Maintain a record of expenses and adhere to the budget set by the customer&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;Is highly organised and proactive, anticipating and solving&amp;nbsp;problems quickly to ensure stakeholder satisfaction&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;3&quot; style=&quot;width: 512px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Ho&lt;/strong&gt;&lt;strong&gt;spitality&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Outlet&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Supervisor&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 154px;&quot;&gt;Identify the correct levels of stock and consumable items to ensure sufficient for customer demand\n&lt;p&gt;Understand the importance of opening, monitoring and closing procedures to the efficient running of the outlet&lt;/p&gt;\n&lt;p&gt;Understand how to maintain effective displays and recognise their importance on sales and brand / business reputation&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 198px;&quot;&gt;Coordinate operations to ensure equipment and display areas are stocked and presentable\n&lt;p&gt;Open, monitor and close the outlet following business procedures&lt;/p&gt;\n&lt;p&gt;Maintain the brand and business standard at all times, identifying possible areas for improvement&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;width: 160px;&quot;&gt;Demonstrate commercial awareness&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;Entry&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Employers will set their own entry requirements, but it is expected that the individual would have worked with an operational role within the industry to start on this apprenticeship standard.&lt;/p&gt;\n&lt;h3&gt;Duration&lt;/h3&gt;\n&lt;p&gt;The minimum duration for this apprenticeship is 12 months.&lt;/p&gt;\n&lt;h3&gt;Progression&lt;/h3&gt;\n&lt;p&gt;Progression from this apprenticeship could be into a hospitality management position.&lt;/p&gt;\n&lt;h3&gt;Level&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard is set at level 3.&lt;/p&gt;\n&lt;h3&gt;Renewal&lt;/h3&gt;\n&lt;p&gt;March 2018, unless there is evidence of significant industry change which employers agree warrants earlier amendment&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Hospitality supervisors work across a wide variety of businesses including bars, restaurants, caf&#233;s, conference centres, banqueting venues, hotels, cruise ships, hospitals or contract caterers. They provide vital support to management teams and are capable of independently supervising hospitality services and running shifts. They typically work under pressure, leading a team to deliver fantastic customer service&amp;nbsp; The majority of hospitality supervisors’ skills and knowledge are the same but supervisors typically specialise one of the four occupations in this standard.&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "b5ea5eb8-4b57-41b9-b85c-24cc73651a80",
+      "detail": "Methods to support, motivate, and monitor team to deliver high quality guest service. "
+    },
+    {
+      "knowledgeId": "0136cb45-f10a-4972-91f8-2eeab781f8df",
+      "detail": "Techniques used to supervise others to meet business standards relevant to role"
+    },
+    {
+      "knowledgeId": "a626434c-be82-4d58-aa73-d5023c217a9c",
+      "detail": "Standard business operating procedures and how to support consistent use in a team"
+    },
+    {
+      "knowledgeId": "75317cc5-f26f-4f37-ad76-583b2b4bd917",
+      "detail": "Standards for communication with guests and colleagues"
+    },
+    {
+      "knowledgeId": "cbb365ae-e371-47f5-9cef-44f02aa8dd47",
+      "detail": "Principles of supervising and training teams to maintain a safe, clean working environment; record keeping, modelling good practice"
+    },
+    {
+      "knowledgeId": "22a29d44-6205-4121-a1e1-3be977ecc0e1",
+      "detail": "Health and safety legislation, regulations, guidelines and procedures relevant to own self and team"
+    },
+    {
+      "knowledgeId": "574520b6-a973-4851-b73e-ffdd6409edfc",
+      "detail": "Functions and procedures for safe and correct use of equipment and technology used by team including fault prevention. "
+    },
+    {
+      "knowledgeId": "dda52456-f7e9-4f42-aa06-3a0ad8b72af2",
+      "detail": "Company procedures for fixing or escalating equipment or technology faults and contingency plans in case of equipment or technology failure"
+    },
+    {
+      "knowledgeId": "f8313399-4c04-4a67-8d88-a6b03e850ff0",
+      "detail": "Principles of managing communication during team briefings, instructions and difficult conversations with the team."
+    },
+    {
+      "knowledgeId": "7a211784-e9f3-441a-86f4-0880bd3c39aa",
+      "detail": "Task prioritisation and allocation techniques to meet demand"
+    },
+    {
+      "knowledgeId": "6877a512-0cfe-489c-b72a-427f5219d377",
+      "detail": "Techniques for monitoring and reporting on team performance, supporting improvements where necessary"
+    },
+    {
+      "knowledgeId": "7cc379c9-ac83-4ca9-9cad-c4bd6cf916d8",
+      "detail": "Procedures and methods for resolving guest feedback or complaints"
+    },
+    {
+      "knowledgeId": "9d0e1195-1790-4304-8a44-f830a5cea1e8",
+      "detail": "Techniques for briefing or training team on new products or processes"
+    },
+    {
+      "knowledgeId": "d0635730-e278-447b-8bef-675f799b129a",
+      "detail": "Performance criteria and feedback techniques to support team to meet performance expectations"
+    },
+    {
+      "knowledgeId": "c5e25e92-1262-44ec-9c17-64d4e7ab3f43",
+      "detail": "Methods to sustainably reduce the waste of resources in line with business expectations"
+    },
+    {
+      "knowledgeId": "316e0b01-bda7-4175-bd99-053f08d10862",
+      "detail": "Techniques to ensure the fair and respectful treatment of all team members, and ensure equity diversity and inclusion legislation is followed"
+    },
+    {
+      "knowledgeId": "891cd06d-c1bb-405e-9ea0-8d0b24e90c99",
+      "detail": "Key performance indicators, and own responsibility for team meeting their expected contribution to KPIs, in terms of efficiency, performance, and profitability"
+    },
+    {
+      "knowledgeId": "3ebeb2f4-d90f-489a-a68b-1a7deff44cd2",
+      "detail": "Principles of coaching and training"
+    },
+    {
+      "knowledgeId": "4950615e-91d4-4d6f-b3ba-7d17c69bb639",
+      "detail": "Techniques to tackle inappropriate behaviour, conflict or underperformance in team"
+    },
+    {
+      "knowledgeId": "96705728-eb17-4139-a605-c7c4c220fd02",
+      "detail": "Techniques to tackle inappropriate behaviour from or conflict with customers"
+    },
+    {
+      "knowledgeId": "5c4575b8-4100-497a-8b61-d4aa3feaac6d",
+      "detail": "Legislation, regulation, and policies related to guest privacy and safety including fire safety, emergency evacuation, data protection, child protection, and modern slavery. "
+    },
+    {
+      "knowledgeId": "4b500065-139c-4ef6-ba32-c0e24c77e93e",
+      "detail": "Food and beverage supervisor: Legislation and principles for monitoring food safety and allergens including COSHH"
+    },
+    {
+      "knowledgeId": "a17e607a-f1ea-4028-a1c5-a1152728cb3b",
+      "detail": "Food and beverage supervisor: Stock control, storage and rotation to maximise sustainability and support planned operations "
+    },
+    {
+      "knowledgeId": "c85cd21d-3c0f-48d0-b6cf-4d1224a1d38e",
+      "detail": "Food and beverage supervisor: Techniques for coordinating promotions and offers, and supporting team with sales according to business practice"
+    },
+    {
+      "knowledgeId": "c7356e37-7652-49a9-bc47-76d2e9d14c2d",
+      "detail": "Housekeeping supervisor: Techniques to allocate and monitor the completion of housekeeping tasks to meet business demand and standards"
+    },
+    {
+      "knowledgeId": "d2af1b7e-3b28-4e24-b834-852cdf1d7a52",
+      "detail": "Housekeeping supervisor: COSHH principles and methods to monitor application"
+    },
+    {
+      "knowledgeId": "85356db0-7126-4ea8-8fea-c981864a7236",
+      "detail": "Housekeeping supervisor: Stock control, storage and rotation to maximise sustainability and support planned operations; chemicals, linen, equipment"
+    },
+    {
+      "knowledgeId": "c0b8e4e1-2f10-4cfd-b27d-9e7e3353f75d",
+      "detail": "Guest services supervisor: Approaches to recording and sharing accurate and timely key information between departments e.g. meal bookings, guest requests for housekeeping "
+    },
+    {
+      "knowledgeId": "8214d860-e0c2-4a85-b476-70eb36db98bc",
+      "detail": "Guest services supervisor: Room management system and how and when to update"
+    },
+    {
+      "knowledgeId": "0870f1b1-6106-48cb-a503-7fbb362bce45",
+      "detail": "Guest services supervisor: Processes for guest check-in, check-out, booking, and packages, cross-selling services where appropriate, and methods for monitoring team in line with business processes and expectations"
+    },
+    {
+      "knowledgeId": "dad9eb1c-a006-416c-b863-3b19e7f75f84",
+      "detail": "Guest services supervisor: Processes to maintain the security of room access, personal data, and guest belongings "
+    },
+    {
+      "knowledgeId": "f1c149eb-5aef-4796-8db2-c9b444354e46",
+      "detail": "Events supervisor: Approaches to sharing information and coordinating activities with internal and external stakeholders"
+    },
+    {
+      "knowledgeId": "12df63d8-3e55-4a85-9177-4b903eb0fef9",
+      "detail": "Events supervisor: Techniques for planning, problem solving and service maintenance in preparation for and during event delivery"
+    },
+    {
+      "knowledgeId": "1238cb20-759b-4092-98e4-323d21bee110",
+      "detail": "Events supervisor: Methods for recording, monitoring, and controlling expenses against budget"
+    },
+    {
+      "knowledgeId": "4ba84b3c-5130-4e09-bf1d-6fece19bfe05",
+      "detail": "Bar supervisor: Procedures to maintain and monitor cellar and beverage storage and dispense systems to meet organisational and legal requirements "
+    },
+    {
+      "knowledgeId": "828119b5-d66e-469e-8ab6-800e48044d9e",
+      "detail": "Bar supervisor: Correct techniques, glassware and equipment for serving a range of alcoholic and soft drinks"
+    },
+    {
+      "knowledgeId": "ac64d26c-8bd6-4c97-a7c0-deed532b7ee1",
+      "detail": "Bar supervisor: Licensing laws, guidelines and role and responsibility of designated premises supervisor "
+    },
+    {
+      "knowledgeId": "f1ed3426-470d-42ba-a9f2-44127bb9f731",
+      "detail": "Bar supervisor: Methods of minimising conflict and incident reporting procedures "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "ceb7cf2c-53d0-4f8b-a667-61b87cf171df",
+      "detail": "Takes responsibility for own health, wellbeing and professional development, seeking support when appropriate."
+    },
+    {
+      "behaviourId": "64bc780e-1081-42c5-8963-c63eb40198a9",
+      "detail": "commercially aware"
+    },
+    {
+      "behaviourId": "db994f19-ca78-4390-95c6-a0c2abb47a76",
+      "detail": "customer focused"
+    },
+    {
+      "behaviourId": "33d5070a-6b6b-437b-9296-46d25854e4b2",
+      "detail": "Diligent in safe and hygienic working practices"
+    },
+    {
+      "behaviourId": "88d2335f-57aa-4c8e-9b79-45d4d19adee5",
+      "detail": "Team focused, working collaboratively with colleagues and other professionals"
+    },
+    {
+      "behaviourId": "7d6b4687-29cb-40d2-a3ab-bf8ef8745c61",
+      "detail": "observe professional standards in own role e.g. time keeping and appearance. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "f8b7b7b5-4495-4ef7-a85f-deeccf537918",
+      "detail": "Applies methods to support, motivate, and monitor team to deliver high quality guest service"
+    },
+    {
+      "skillId": "3286719f-1d9f-4fcc-8211-b8838d339ea5",
+      "detail": "Supervises others to meet business standards relevant to role"
+    },
+    {
+      "skillId": "fbdf95f6-bae6-4b3f-91d5-51aecd3f3821",
+      "detail": "Supports consistent use of standard business operating procedures in team"
+    },
+    {
+      "skillId": "1639b692-dd12-4740-b6eb-5bef6e1b1e68",
+      "detail": "Sets standards for communication with guests, supervising the team to meet those standards"
+    },
+    {
+      "skillId": "a0c17187-b088-48af-96a9-99f3fc03d26c",
+      "detail": "Supervises and monitors teams to maintain a safe, clean working environment; record keeping, modelling good practice"
+    },
+    {
+      "skillId": "8f7f063d-652a-44da-90a5-7f2374ffcf3d",
+      "detail": "Supervises others to work in accordance with health and safety legislation, regulations, guidelines and procedures."
+    },
+    {
+      "skillId": "fa761e3b-fffa-4e9e-a09d-b24978243f35",
+      "detail": "Supports, trains and monitors team to use equipment and technology safely and correctly including fault prevention"
+    },
+    {
+      "skillId": "2b2e17ef-d017-46ce-9058-4136e006736b",
+      "detail": "Trains team in procedures for fixing or escalating equipment or technology faults  and supports team to implement contingency measures in the case of equipment or technology failure"
+    },
+    {
+      "skillId": "3eec6fdc-02cb-4648-ae6f-af6ddee51b43",
+      "detail": "Uses professional communication methods during briefings, instructions and difficult conversations with the team."
+    },
+    {
+      "skillId": "15a6b435-acd6-4215-8da0-987169557138",
+      "detail": "Prioritises and allocates tasks to meet demand"
+    },
+    {
+      "skillId": "7accb43f-10f8-4026-a815-ec171fb93582",
+      "detail": "Monitors and reports on team performance, supporting improvements where necessary"
+    },
+    {
+      "skillId": "f4ea3cf7-9988-48a3-a519-306529a15cc5",
+      "detail": "Guest feedback and complaint resolution"
+    },
+    {
+      "skillId": "539603c8-fbcc-475d-aa58-ca703f365646",
+      "detail": "Leads briefings or training to bring team up to date with products and processes "
+    },
+    {
+      "skillId": "ca73e823-07ac-457f-857e-cd496ed60867",
+      "detail": "Sets performance criteria and uses feedback techniques to support team to meet performance expectations"
+    },
+    {
+      "skillId": "c817fcc5-f8dd-417c-9f04-f6962888f0e8",
+      "detail": "Supervises activities to sustainably reduce the waste of resources"
+    },
+    {
+      "skillId": "0a05f389-ddbc-4ad2-a43e-22fa9a5ed0be",
+      "detail": "Guides team to operate in fair and respectful way, identifying and resolving any behaviours from staff or customers that adversely impact team members,  acknowledging that those with the protected characteristics outlined in equality legislation face additional barriers to fair and respectful treatment at work. "
+    },
+    {
+      "skillId": "0cf11b3b-1ae4-4f2e-8695-3b50e455056c",
+      "detail": "Focuses team efforts on meeting key performance targets related to efficiency, performance, and profitability"
+    },
+    {
+      "skillId": "b1d153d7-965e-4d41-b3d7-6fe6dc3ca1fb",
+      "detail": "Coaches and trains team"
+    },
+    {
+      "skillId": "8eb96d27-5664-4dfe-8d76-9d7cd1debee3",
+      "detail": "Supports team members to address underperformance and inappropriate behaviour, escalating as appropriate "
+    },
+    {
+      "skillId": "e61592a3-dbd0-466a-8a28-63595a3e7ec7",
+      "detail": "Addresses inappropriate behaviour and resolves conflict with customers, escalating as appropriate"
+    },
+    {
+      "skillId": "938c98b0-d30d-4dc6-9980-e02948da89de",
+      "detail": "Monitors team compliance with legislation, regulation, and policies related to guest safety including fire safety, emergency evacuation, child protection, and modern slavery. "
+    },
+    {
+      "skillId": "66777203-a25b-42f9-b384-948005c17a37",
+      "detail": "Food and beverage supervisor: Monitors compliance with food safety and allergen legislations and principles, including the use of COSHH"
+    },
+    {
+      "skillId": "217224d0-94ec-453b-829c-b7727f71e337",
+      "detail": "Food and beverage supervisor: Manages stock control, rotation and storage of stock and other materials to maximise sustainability and support planned operations"
+    },
+    {
+      "skillId": "4c013d66-2a6c-4ed7-9cdf-bb754438d413",
+      "detail": "Food and beverage supervisor: Coordinates promotions and offers, supporting team to up and cross-sell according to business practice"
+    },
+    {
+      "skillId": "af2396ce-6291-45a5-8b45-b4d05b1dd42a",
+      "detail": "Housekeeping supervisor: Allocates and monitors the completion of housekeeping tasks to meet business demand and standards. "
+    },
+    {
+      "skillId": "992715f5-45c5-4c18-896c-af7112b39074",
+      "detail": "Housekeeping supervisor: Monitors the application of COSHH principles "
+    },
+    {
+      "skillId": "f2192353-902b-4d55-8b8e-8811426a9d2f",
+      "detail": "Housekeeping supervisor: Manages stock control, rotation and storage of stock and other materials to maximise sustainability and support planned operations; chemicals, linen, equipment. "
+    },
+    {
+      "skillId": "25a05163-e050-4bb6-8712-06f966212a58",
+      "detail": "Guest services supervisor: Records and shares key information with other departments, following up when necessary"
+    },
+    {
+      "skillId": "e41d332a-80a7-48a9-9488-b80a7cf9332f",
+      "detail": "Guest services supervisor: Monitors and updates room management systems, escalating issues appropriately"
+    },
+    {
+      "skillId": "ae8c6a91-096e-4b02-b6b8-119e5fab8a85",
+      "detail": "Guest services supervisor: Coordinates and monitors check-in, check-out,  bookings and packages, monitoring cross-selling,  according to business processes and expectations. "
+    },
+    {
+      "skillId": "898cfd28-1b87-4a2f-b514-9a8b78d81ff7",
+      "detail": "Guest services supervisor: Monitors the security of guest data,  belongings, and room access "
+    },
+    {
+      "skillId": "86c531e5-cee8-4ea6-a96f-7ee427f8261c",
+      "detail": "Events supervisor: shares information and coordinates activities with internal and external stakeholders e.g. suppliers, F&B team "
+    },
+    {
+      "skillId": "a0b991f4-4d09-48e0-8636-1f8c5af5911b",
+      "detail": "Events supervisor: plans for, and solves problems and maintains service during, event delivery including managing AV technology and other resources"
+    },
+    {
+      "skillId": "c5557977-353a-4d97-a707-a564b48a9f05",
+      "detail": "Events supervisor: Records, monitors and controls expenses against budget"
+    },
+    {
+      "skillId": "710c3540-893a-48b5-bdd1-7d611c415405",
+      "detail": "Bar supervisor: Maintains and monitors the cellar and beverage storage and dispense systems to meet organisational and legal requirements"
+    },
+    {
+      "skillId": "7cb1dc49-ee5c-4791-9f47-bfbac7960c84",
+      "detail": "Bar supervisor: Trains and supervises team in the correct techniques, glassware and equipment for serving a range of alcoholic and soft drinks"
+    },
+    {
+      "skillId": "cc73a920-3103-4b4a-803f-2c924bd96871",
+      "detail": "Bar supervisor: supervises, trains and supports team to adhere to licensing laws, guidelines, and related organisational procedures for drinks service"
+    },
+    {
+      "skillId": "d53c687c-60df-42f2-b33d-437e3621436b",
+      "detail": "Bar supervisor:  Identifies and deals with conflict calmly and safely and reports following organisational procedures "
+    }
+  ],
+  "optionsUnstructuredTemplate": [
+    "Bar Supervisor",
+    "Concierge\u00A0Supervisor",
+    "Events Supervisor",
+    "Food & Beverage Supervisor",
+    "Front Office Supervisor",
+    "Hospitality\u00A0Outlet\u00A0Supervisor",
+    "House\u00A0Keeping\u00A0Supervisor"
+  ],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Parkdean Resorts, Pret a Manger, Shepherd Neame, James' Places, Aspens Services Ltd, Azzurri Group, St Austell Brewery, Greeneking, Fullers, Leonardo Hotels, Fish and Chip @ Weston Grove, Dakota Hotels, IHG, Compass Group UK& Ireland, Claremont, Mitchells and Butler, Omni FM, Somerset Larder, Whitbread, The Castle Hotel, TGI Fridays, English Heritage, Heart with Smart, Marstons, National Trust.",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Food and beverage supervisor",
+    "Food and beverage team leader",
+    "Guest services supervisor",
+    "Guest services team leader",
+    "Hospitality supervisor",
+    "Housekeeping supervisor",
+    "Housekeeping team leader",
+    "Bar supervisor",
+    "Conference and events supervisor",
+    "Conference and events team leader"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Hospitality",
+  "cluster": "Hospitality team member or supervisor",
+  "clusterId": "78",
+  "clusterDescription": "Preparation and serving food and drinks, taking and managing bookings, and managing events",
+  "createdDate": "2026-09-14T14:49:54 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-09-07T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0230",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0230-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0230-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "90772503-fc22-4afb-9697-3726856aad1d",
+      "dutyDetail": "Ensure teams are delivering the highest level of customer care at all times.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "db994f19-ca78-4390-95c6-a0c2abb47a76",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "b5ea5eb8-4b57-41b9-b85c-24cc73651a80",
+        "f8313399-4c04-4a67-8d88-a6b03e850ff0",
+        "7cc379c9-ac83-4ca9-9cad-c4bd6cf916d8",
+        "5c4575b8-4100-497a-8b61-d4aa3feaac6d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8b7b7b5-4495-4ef7-a85f-deeccf537918",
+        "1639b692-dd12-4740-b6eb-5bef6e1b1e68",
+        "f4ea3cf7-9988-48a3-a519-306529a15cc5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "66e1a619-7752-4dd2-a44d-2504278606f4",
+      "dutyDetail": "Monitor the delivery of services to business standards",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "db994f19-ca78-4390-95c6-a0c2abb47a76",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "b5ea5eb8-4b57-41b9-b85c-24cc73651a80",
+        "0136cb45-f10a-4972-91f8-2eeab781f8df",
+        "a626434c-be82-4d58-aa73-d5023c217a9c",
+        "75317cc5-f26f-4f37-ad76-583b2b4bd917",
+        "7a211784-e9f3-441a-86f4-0880bd3c39aa",
+        "7cc379c9-ac83-4ca9-9cad-c4bd6cf916d8",
+        "d0635730-e278-447b-8bef-675f799b129a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8b7b7b5-4495-4ef7-a85f-deeccf537918",
+        "3286719f-1d9f-4fcc-8211-b8838d339ea5",
+        "fbdf95f6-bae6-4b3f-91d5-51aecd3f3821",
+        "1639b692-dd12-4740-b6eb-5bef6e1b1e68",
+        "f4ea3cf7-9988-48a3-a519-306529a15cc5",
+        "ca73e823-07ac-457f-857e-cd496ed60867"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "126507ea-9c66-47c6-899f-e7945cb4a501",
+      "dutyDetail": "Support and train teams to deliver services to business standards",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "db994f19-ca78-4390-95c6-a0c2abb47a76",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "b5ea5eb8-4b57-41b9-b85c-24cc73651a80",
+        "0136cb45-f10a-4972-91f8-2eeab781f8df",
+        "a626434c-be82-4d58-aa73-d5023c217a9c",
+        "75317cc5-f26f-4f37-ad76-583b2b4bd917",
+        "f8313399-4c04-4a67-8d88-a6b03e850ff0",
+        "7a211784-e9f3-441a-86f4-0880bd3c39aa",
+        "d0635730-e278-447b-8bef-675f799b129a",
+        "3ebeb2f4-d90f-489a-a68b-1a7deff44cd2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8b7b7b5-4495-4ef7-a85f-deeccf537918",
+        "3286719f-1d9f-4fcc-8211-b8838d339ea5",
+        "fbdf95f6-bae6-4b3f-91d5-51aecd3f3821",
+        "1639b692-dd12-4740-b6eb-5bef6e1b1e68",
+        "3eec6fdc-02cb-4648-ae6f-af6ddee51b43",
+        "15a6b435-acd6-4215-8da0-987169557138",
+        "f4ea3cf7-9988-48a3-a519-306529a15cc5",
+        "ca73e823-07ac-457f-857e-cd496ed60867",
+        "b1d153d7-965e-4d41-b3d7-6fe6dc3ca1fb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a5d6da07-5850-415b-9bae-3906da09de8c",
+      "dutyDetail": "Supervise and monitor safe, hygienic working environments",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33d5070a-6b6b-437b-9296-46d25854e4b2",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "cbb365ae-e371-47f5-9cef-44f02aa8dd47",
+        "22a29d44-6205-4121-a1e1-3be977ecc0e1",
+        "574520b6-a973-4851-b73e-ffdd6409edfc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fbdf95f6-bae6-4b3f-91d5-51aecd3f3821",
+        "a0c17187-b088-48af-96a9-99f3fc03d26c",
+        "8f7f063d-652a-44da-90a5-7f2374ffcf3d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dfe6326a-9af1-454d-80c4-29fdfb81f508",
+      "dutyDetail": "Monitor appropriate and safe use of equipment and technology, implementing contingency plans in case of failure, and reporting faults",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33d5070a-6b6b-437b-9296-46d25854e4b2"
+      ],
+      "mappedKnowledge": [
+        "574520b6-a973-4851-b73e-ffdd6409edfc",
+        "dda52456-f7e9-4f42-aa06-3a0ad8b72af2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fbdf95f6-bae6-4b3f-91d5-51aecd3f3821",
+        "fa761e3b-fffa-4e9e-a09d-b24978243f35",
+        "2b2e17ef-d017-46ce-9058-4136e006736b",
+        "ca73e823-07ac-457f-857e-cd496ed60867",
+        "b1d153d7-965e-4d41-b3d7-6fe6dc3ca1fb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bb9c8371-4846-499a-b7a0-d1632afce97b",
+      "dutyDetail": "Communicate key business targets and changes, supporting team to embed",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "64bc780e-1081-42c5-8963-c63eb40198a9",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "b5ea5eb8-4b57-41b9-b85c-24cc73651a80",
+        "f8313399-4c04-4a67-8d88-a6b03e850ff0",
+        "9d0e1195-1790-4304-8a44-f830a5cea1e8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3eec6fdc-02cb-4648-ae6f-af6ddee51b43",
+        "539603c8-fbcc-475d-aa58-ca703f365646",
+        "8eb96d27-5664-4dfe-8d76-9d7cd1debee3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "62005d72-b0dc-4f24-921c-cf4e4c600cbe",
+      "dutyDetail": "Create a positive, safe, engaged, and inclusive working atmosphere",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ceb7cf2c-53d0-4f8b-a667-61b87cf171df",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "75317cc5-f26f-4f37-ad76-583b2b4bd917",
+        "316e0b01-bda7-4175-bd99-053f08d10862",
+        "3ebeb2f4-d90f-489a-a68b-1a7deff44cd2",
+        "4950615e-91d4-4d6f-b3ba-7d17c69bb639"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f4ea3cf7-9988-48a3-a519-306529a15cc5",
+        "0a05f389-ddbc-4ad2-a43e-22fa9a5ed0be",
+        "b1d153d7-965e-4d41-b3d7-6fe6dc3ca1fb",
+        "8eb96d27-5664-4dfe-8d76-9d7cd1debee3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "93ebe29b-6bb3-4a6f-aafa-ab0d288de91a",
+      "dutyDetail": "Comply with legislation and company procedures relevant to role",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33d5070a-6b6b-437b-9296-46d25854e4b2"
+      ],
+      "mappedKnowledge": [
+        "a626434c-be82-4d58-aa73-d5023c217a9c",
+        "cbb365ae-e371-47f5-9cef-44f02aa8dd47",
+        "22a29d44-6205-4121-a1e1-3be977ecc0e1",
+        "574520b6-a973-4851-b73e-ffdd6409edfc",
+        "dda52456-f7e9-4f42-aa06-3a0ad8b72af2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fbdf95f6-bae6-4b3f-91d5-51aecd3f3821",
+        "a0c17187-b088-48af-96a9-99f3fc03d26c",
+        "8f7f063d-652a-44da-90a5-7f2374ffcf3d",
+        "fa761e3b-fffa-4e9e-a09d-b24978243f35",
+        "2b2e17ef-d017-46ce-9058-4136e006736b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68f37b7f-ae18-4b7c-910f-c5a1a83652be",
+      "dutyDetail": "Ensure team members comply with professional standards e.g. uniform, timekeeping, personal hygiene ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33d5070a-6b6b-437b-9296-46d25854e4b2",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5",
+        "7d6b4687-29cb-40d2-a3ab-bf8ef8745c61"
+      ],
+      "mappedKnowledge": [
+        "0136cb45-f10a-4972-91f8-2eeab781f8df"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3286719f-1d9f-4fcc-8211-b8838d339ea5",
+        "8eb96d27-5664-4dfe-8d76-9d7cd1debee3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "04b57f11-9c9a-4981-9bd8-0393bb94278d",
+      "dutyDetail": "Monitor waste handling, and sustainability practices following brand standards",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33d5070a-6b6b-437b-9296-46d25854e4b2",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "c5e25e92-1262-44ec-9c17-64d4e7ab3f43"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c817fcc5-f8dd-417c-9f04-f6962888f0e8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "07dc8aa4-d99d-44df-825e-ddd692672cf9",
+      "dutyDetail": "Monitor team performance against business targets, evaluating and seeking to improve performance over time",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "64bc780e-1081-42c5-8963-c63eb40198a9",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "75317cc5-f26f-4f37-ad76-583b2b4bd917",
+        "7a211784-e9f3-441a-86f4-0880bd3c39aa",
+        "6877a512-0cfe-489c-b72a-427f5219d377",
+        "d0635730-e278-447b-8bef-675f799b129a",
+        "891cd06d-c1bb-405e-9ea0-8d0b24e90c99"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8b7b7b5-4495-4ef7-a85f-deeccf537918",
+        "1639b692-dd12-4740-b6eb-5bef6e1b1e68",
+        "3eec6fdc-02cb-4648-ae6f-af6ddee51b43",
+        "15a6b435-acd6-4215-8da0-987169557138",
+        "7accb43f-10f8-4026-a815-ec171fb93582",
+        "ca73e823-07ac-457f-857e-cd496ed60867",
+        "0cf11b3b-1ae4-4f2e-8695-3b50e455056c",
+        "b1d153d7-965e-4d41-b3d7-6fe6dc3ca1fb",
+        "8eb96d27-5664-4dfe-8d76-9d7cd1debee3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "17e36a0a-024a-42fb-9bf0-54692894b00b",
+      "dutyDetail": "Ensure team follows equity, diversity, and inclusion principles",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "db994f19-ca78-4390-95c6-a0c2abb47a76",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "b5ea5eb8-4b57-41b9-b85c-24cc73651a80",
+        "75317cc5-f26f-4f37-ad76-583b2b4bd917",
+        "f8313399-4c04-4a67-8d88-a6b03e850ff0",
+        "7cc379c9-ac83-4ca9-9cad-c4bd6cf916d8",
+        "316e0b01-bda7-4175-bd99-053f08d10862",
+        "4950615e-91d4-4d6f-b3ba-7d17c69bb639",
+        "96705728-eb17-4139-a605-c7c4c220fd02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1639b692-dd12-4740-b6eb-5bef6e1b1e68",
+        "3eec6fdc-02cb-4648-ae6f-af6ddee51b43",
+        "f4ea3cf7-9988-48a3-a519-306529a15cc5",
+        "0a05f389-ddbc-4ad2-a43e-22fa9a5ed0be",
+        "8eb96d27-5664-4dfe-8d76-9d7cd1debee3",
+        "e61592a3-dbd0-466a-8a28-63595a3e7ec7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8a95a01d-e081-40e0-9317-190b24513f83",
+      "dutyDetail": "Provide guidance, feedback, coaching, and challenge related to performance and behaviour",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "0136cb45-f10a-4972-91f8-2eeab781f8df",
+        "a626434c-be82-4d58-aa73-d5023c217a9c",
+        "f8313399-4c04-4a67-8d88-a6b03e850ff0",
+        "6877a512-0cfe-489c-b72a-427f5219d377",
+        "d0635730-e278-447b-8bef-675f799b129a",
+        "891cd06d-c1bb-405e-9ea0-8d0b24e90c99",
+        "3ebeb2f4-d90f-489a-a68b-1a7deff44cd2",
+        "4950615e-91d4-4d6f-b3ba-7d17c69bb639",
+        "96705728-eb17-4139-a605-c7c4c220fd02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8b7b7b5-4495-4ef7-a85f-deeccf537918",
+        "3286719f-1d9f-4fcc-8211-b8838d339ea5",
+        "3eec6fdc-02cb-4648-ae6f-af6ddee51b43",
+        "f4ea3cf7-9988-48a3-a519-306529a15cc5",
+        "ca73e823-07ac-457f-857e-cd496ed60867",
+        "0a05f389-ddbc-4ad2-a43e-22fa9a5ed0be",
+        "0cf11b3b-1ae4-4f2e-8695-3b50e455056c",
+        "b1d153d7-965e-4d41-b3d7-6fe6dc3ca1fb",
+        "8eb96d27-5664-4dfe-8d76-9d7cd1debee3",
+        "e61592a3-dbd0-466a-8a28-63595a3e7ec7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "232c12fe-62c7-4916-b17f-9043d6ed69a5",
+      "dutyDetail": "Ensure team follow legislation, regulation, and policies related to guest privacy, safety, and security",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33d5070a-6b6b-437b-9296-46d25854e4b2",
+        "88d2335f-57aa-4c8e-9b79-45d4d19adee5"
+      ],
+      "mappedKnowledge": [
+        "b5ea5eb8-4b57-41b9-b85c-24cc73651a80",
+        "a626434c-be82-4d58-aa73-d5023c217a9c",
+        "7cc379c9-ac83-4ca9-9cad-c4bd6cf916d8",
+        "5c4575b8-4100-497a-8b61-d4aa3feaac6d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "938c98b0-d30d-4dc6-9980-e02948da89de"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "21fbbd39-caba-44c2-aacb-d0cf008ec0b5",
+      "dutyDetail": "Monitor food safety and hygiene",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "33d5070a-6b6b-437b-9296-46d25854e4b2"
+      ],
+      "mappedKnowledge": [
+        "4b500065-139c-4ef6-ba32-c0e24c77e93e"
+      ],
+      "mappedOptions": [
+        "0555356c-f472-4967-be52-04e7d51bbc45"
+      ],
+      "mappedSkills": [
+        "66777203-a25b-42f9-b384-948005c17a37"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a6b4bbfc-d798-4a8f-b007-731c8a6d4f79",
+      "dutyDetail": "Monitor stock levels and appropriate storage in line with demand",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a17e607a-f1ea-4028-a1c5-a1152728cb3b"
+      ],
+      "mappedOptions": [
+        "0555356c-f472-4967-be52-04e7d51bbc45"
+      ],
+      "mappedSkills": [
+        "217224d0-94ec-453b-829c-b7727f71e337"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "71226a7a-b060-4a51-ab31-93a80f75ef8b",
+      "dutyDetail": "Coordinate and run promotions and offers, supporting team to up and cross-sell. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c85cd21d-3c0f-48d0-b6cf-4d1224a1d38e"
+      ],
+      "mappedOptions": [
+        "0555356c-f472-4967-be52-04e7d51bbc45"
+      ],
+      "mappedSkills": [
+        "4c013d66-2a6c-4ed7-9cdf-bb754438d413"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "73d038c6-40cc-4aaf-ae7a-03449d04b1c9",
+      "dutyDetail": "Supervise team to follow the correct processes to clean rooms and public areas efficiently and to business standards",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c7356e37-7652-49a9-bc47-76d2e9d14c2d"
+      ],
+      "mappedOptions": [
+        "1f4732ec-23a9-46f0-af35-3fc6b0ad60df"
+      ],
+      "mappedSkills": [
+        "af2396ce-6291-45a5-8b45-b4d05b1dd42a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "14321ce4-579b-421a-bdb8-a0e4f6effd9b",
+      "dutyDetail": "Monitor application of COSHH principles",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "33d5070a-6b6b-437b-9296-46d25854e4b2"
+      ],
+      "mappedKnowledge": [
+        "d2af1b7e-3b28-4e24-b834-852cdf1d7a52"
+      ],
+      "mappedOptions": [
+        "1f4732ec-23a9-46f0-af35-3fc6b0ad60df"
+      ],
+      "mappedSkills": [
+        "992715f5-45c5-4c18-896c-af7112b39074"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2f9b4392-ece1-4e85-9ecf-9b100e45a18d",
+      "dutyDetail": "Monitor and maintain stock levels; chemicals, linen, equipment. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "85356db0-7126-4ea8-8fea-c981864a7236"
+      ],
+      "mappedOptions": [
+        "1f4732ec-23a9-46f0-af35-3fc6b0ad60df"
+      ],
+      "mappedSkills": [
+        "f2192353-902b-4d55-8b8e-8811426a9d2f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "17ecd9bb-1220-4e54-82c7-39f9941e07d3",
+      "dutyDetail": "Communicate key information between departments",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c0b8e4e1-2f10-4cfd-b27d-9e7e3353f75d"
+      ],
+      "mappedOptions": [
+        "23b145a7-9b30-4221-be9f-eaaa5924b565"
+      ],
+      "mappedSkills": [
+        "25a05163-e050-4bb6-8712-06f966212a58"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7bc7f522-45c1-4822-a8d5-2f7a0871a30d",
+      "dutyDetail": "Monitor room management systems, making changes or escalating issues",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "8214d860-e0c2-4a85-b476-70eb36db98bc"
+      ],
+      "mappedOptions": [
+        "23b145a7-9b30-4221-be9f-eaaa5924b565"
+      ],
+      "mappedSkills": [
+        "e41d332a-80a7-48a9-9488-b80a7cf9332f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "332b7902-1140-420c-a0e8-c48f3afb00f5",
+      "dutyDetail": "Manage guest requests, check-in, check-out, booking, and packages.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0870f1b1-6106-48cb-a503-7fbb362bce45",
+        "dad9eb1c-a006-416c-b863-3b19e7f75f84"
+      ],
+      "mappedOptions": [
+        "23b145a7-9b30-4221-be9f-eaaa5924b565"
+      ],
+      "mappedSkills": [
+        "ae8c6a91-096e-4b02-b6b8-119e5fab8a85",
+        "898cfd28-1b87-4a2f-b514-9a8b78d81ff7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2fddb908-71f3-4ad5-a52f-71c78118705f",
+      "dutyDetail": "Coordinate between departments to plan and run conferences and events",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "f1c149eb-5aef-4796-8db2-c9b444354e46"
+      ],
+      "mappedOptions": [
+        "8aa45760-c0f9-4c28-81c2-ae9b9f47f652"
+      ],
+      "mappedSkills": [
+        "86c531e5-cee8-4ea6-a96f-7ee427f8261c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3d5dd0e0-d76e-4f27-98b8-406a403ce201",
+      "dutyDetail": "Act as the main point of contact for customers during the event to ensure their requirements are met according to the event agreement",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "12df63d8-3e55-4a85-9177-4b903eb0fef9"
+      ],
+      "mappedOptions": [
+        "8aa45760-c0f9-4c28-81c2-ae9b9f47f652"
+      ],
+      "mappedSkills": [
+        "a0b991f4-4d09-48e0-8636-1f8c5af5911b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1de9bc52-9d9f-42a4-b298-fb33543175f2",
+      "dutyDetail": "Maintain a record of expenses and adhere to the budget set by the customer",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1238cb20-759b-4092-98e4-323d21bee110"
+      ],
+      "mappedOptions": [
+        "8aa45760-c0f9-4c28-81c2-ae9b9f47f652"
+      ],
+      "mappedSkills": [
+        "c5557977-353a-4d97-a707-a564b48a9f05"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1470d9d9-b8bc-4de7-bf5f-286eb3950d5b",
+      "dutyDetail": "Maintain and monitor the cellar and beverage storage and dispense systems to meet organisational and legal requirements",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "4ba84b3c-5130-4e09-bf1d-6fece19bfe05"
+      ],
+      "mappedOptions": [
+        "e3791cb0-af6c-475b-ac9e-f462e42cc221"
+      ],
+      "mappedSkills": [
+        "710c3540-893a-48b5-bdd1-7d611c415405"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6a643a56-2796-4aac-8cb8-1d9552b94b3b",
+      "dutyDetail": "Supervise others to prepare and serve drinks to quality specifications in line with business standards ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "828119b5-d66e-469e-8ab6-800e48044d9e"
+      ],
+      "mappedOptions": [
+        "e3791cb0-af6c-475b-ac9e-f462e42cc221"
+      ],
+      "mappedSkills": [
+        "7cb1dc49-ee5c-4791-9f47-bfbac7960c84"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "08bb0a42-970d-415e-92cb-6d40a1bb8cb9",
+      "dutyDetail": "Supervise, train and support team to adhere to licensing laws, and practises used to minimise conflict",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "ac64d26c-8bd6-4c97-a7c0-deed532b7ee1",
+        "f1ed3426-470d-42ba-a9f2-44127bb9f731"
+      ],
+      "mappedOptions": [
+        "e3791cb0-af6c-475b-ac9e-f462e42cc221"
+      ],
+      "mappedSkills": [
+        "cc73a920-3103-4b4a-803f-2c924bd96871",
+        "d53c687c-60df-42f2-b33d-437e3621436b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "0555356c-f472-4967-be52-04e7d51bbc45",
+      "title": "Food and Beverage Supervisor",
+      "occupationCode": "OCC0230D"
+    },
+    {
+      "optionId": "1f4732ec-23a9-46f0-af35-3fc6b0ad60df",
+      "title": "Housekeeping\u00A0Supervisor",
+      "occupationCode": "OCC0230G"
+    },
+    {
+      "optionId": "23b145a7-9b30-4221-be9f-eaaa5924b565",
+      "title": "Guest Services Supervisor",
+      "occupationCode": "OCC0230E"
+    },
+    {
+      "optionId": "e3791cb0-af6c-475b-ac9e-f462e42cc221",
+      "title": "Bar Supervisor",
+      "occupationCode": "OCC0230A"
+    },
+    {
+      "optionId": "8aa45760-c0f9-4c28-81c2-ae9b9f47f652",
+      "title": "Events Supervisor",
+      "occupationCode": "OCC0230C"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Bar Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Concierge\u00A0Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Events Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Food & Beverage Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Front Office Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Hospitality\u00A0Outlet\u00A0Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "House\u00A0Keeping\u00A0Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-09-14T00:00:00"
+}
