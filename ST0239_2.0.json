@@ -1,0 +1,227 @@
+{
+  "templateType": "Partial Structured Standard",
+  "shortAssessment": true,
+  "larsCode": 191,
+  "referenceNumber": "ST0239",
+  "learningAimClassCode": "",
+  "title": "HR support",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0239",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-14T00:00:00",
+  "earliestStartDate": "2027-03-11T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Handling day to day queries and providing human resources advice ranging from recruitment through to retirement.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "minimumHoursForCompliance": "326",
+  "maxFunding": 4500,
+  "maxFundingAdditionalInformation": "",
+  "route": "Business and administration",
+  "keywords": [
+    "human resources management",
+    "HR professionals",
+    "HR functions",
+    "HR legislation",
+    "HR processes",
+    "HR"
+  ],
+  "jobRoles": [
+    "Hr assistant",
+    "Hr manager",
+    "Human resource officer",
+    "Personnel assistant"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/2q3psh2t/st0239-hr_support-nov2025.pdf",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.2 Administration",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Role / Occupation&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;HR Support&lt;/p&gt;\n&lt;h3&gt;Occupational Profile:&lt;/h3&gt;\n&lt;p&gt;HR Professionals in this role are typically either working in a medium to large organisation as part of the HR function delivering front line support to managers and employees, or are a HR Manager in a small organisation. Their work is likely to include handling day to day queries and providing HR advice; working on a range of HR processes, ranging from transactional to relatively complex, from recruitment through to retirement; using HR systems to keep records; providing relevant HR information to the business; working with the business on HR changes. They will typically be taking ownership for providing advice to managers on a wide range of HR issues using company policy and current law, giving guidance that is compliant and where errors could expose the organisation to employment tribunals or legal risk. In a larger organisation they may also have responsibility for managing a small team – this aspect is outside the scope of this apprenticeship and will need to be covered separately by the employer.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The length of this apprenticeship should typically be 18 - 24 months.&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;There are no required qualifications for this apprenticeship.&lt;/p&gt;\n&lt;p&gt;The employers are keen to drive up professionalism and standards within HR so the Assessment Plan contains suggested qualifications/units that employers can use to ensure robust technical knowledge.&lt;/p&gt;\n&lt;p&gt;English and maths qualifications must be completed in line with the apprenticeship funding rules.&lt;/p&gt;\n&lt;h3&gt;Link to professional registration and progression&lt;/h3&gt;\n&lt;p&gt;The successful apprentice may be eligible to apply for Foundation membership of the Chartered Institute of Personnel and Development (CIPD) or any other professional body that recognises this apprenticeship within its membership criteria&amp;nbsp;(membership is subject to the professional bodies own membership requirements).&lt;/p&gt;\n&lt;p&gt;It forms the foundation of a career within the profession, giving the base for further development through a career path within an organisation and/or through the HR Consultant/Partner apprenticeship. The apprentice can choose to stay within core HR or diversify into one of the specialist areas of HR.&lt;/p&gt;\n&lt;h3&gt;Level&lt;/h3&gt;\n&lt;p&gt;This is a Level 3 apprenticeship.&lt;/p&gt;\n&lt;h3&gt;Review date&lt;/h3&gt;\n&lt;p&gt;After 3 years or when significant change is required.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;HR Professionals in this role are typically either working in a medium to large organisation as part of the HR function delivering front line support to managers and employees, or are a HR Manager in a small organisation. Their work is likely to include handling day to day queries and providing HR advice; working on a range of HR processes, ranging from transactional to relatively complex, from recruitment through to retirement; using HR systems to keep records; providing relevant HR information to the business; working with the business on HR changes. They will typically be taking ownership for providing advice to managers on a wide range of HR issues using company policy and current law, giving guidance that is compliant and where errors could expose the organisation to employment tribunals or legal risk. In a larger organisation they may also have responsibility for managing a small team – this aspect is outside the scope of this apprenticeship and will need to be covered separately by the employer.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "b258d210-a370-4548-9108-391d11b453b8",
+      "detail": "Understands the external market and sector within which their organisation operates, the products and services it delivers.  "
+    },
+    {
+      "knowledgeId": "15a78ec5-0a54-4fa1-80ba-46fd05a9a597",
+      "detail": "Understands the structure of the organisation, where their role fits in the organisation; the ‘Values’ by which it operates and how these apply to their role. "
+    },
+    {
+      "knowledgeId": "bc833be5-b380-41e9-a2aa-4edf1ba359c9",
+      "detail": "Basic understanding of HR in their sector and any unique features. "
+    },
+    {
+      "knowledgeId": "e974e710-0b4a-4338-bb10-20f1bf5f2a67",
+      "detail": "Good understanding of HR legislation and the HR Policy framework of the organisation.  "
+    },
+    {
+      "knowledgeId": "709204f8-117c-490e-9c1c-6dcacbb4a3d5",
+      "detail": "Sound understanding of the HR Policies that are relevant to their role. Knows where to find expert advice.  "
+    },
+    {
+      "knowledgeId": "fc17a669-3af5-4853-b1b3-f2d73e27576c",
+      "detail": "Understands the role and focus of HR within the organisation.  "
+    },
+    {
+      "knowledgeId": "0f5345a5-c1ca-483e-9a6f-81a472130788",
+      "detail": "Understands the HR business plan or priorities and how these apply to their role.  "
+    },
+    {
+      "knowledgeId": "37d760b9-22a4-4859-bae8-f3081d3adf75",
+      "detail": "Understands the systems, tools and processes used in the role, including the organisation’s core HR systems.  "
+    },
+    {
+      "knowledgeId": "4261a547-98c9-4771-a90e-93d51f5d96c1",
+      "detail": "Understands the standards that have to be met in the role.  "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "8668c4a5-bc7d-43a2-96f0-c5181512e999",
+      "detail": "Honesty & Integrity: Truthful, sincere and trustworthy in their actions. Shows integrity by doing the right thing. Maintains appropriate confidentiality at all times.  Has the courage to challenge when appropriate."
+    },
+    {
+      "behaviourId": "52dacf75-3586-42b6-8d6a-ba17d9d58598",
+      "detail": "Flexibility: Adapts positively to changing work priorities and patterns when new tasks need to be done or requirements change."
+    },
+    {
+      "behaviourId": "f87f9598-3aa9-4ce4-a4cd-ffcc7288101d",
+      "detail": "Resilience: Displays energy and enthusiasm in the way they go about their role, dealing positively with setbacks when they occur. Stays positive under pressure."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "f85d88d5-7f33-4c95-8450-1f6adb03f9ba",
+      "detail": "Delivers excellent customer service on a range of HR queries and requirements, providing solutions, advice and support primarily to managers.  "
+    },
+    {
+      "skillId": "dff0a829-d334-4d69-ab68-64caf640e860",
+      "detail": "Builds manager’s expertise in HR matters, improving their ability to handle repeated situations themselves where appropriate.    "
+    },
+    {
+      "skillId": "38bbda78-2c82-46be-884b-e00fd310c965",
+      "detail": "Uses agreed systems and processes to deliver service to customers.  "
+    },
+    {
+      "skillId": "2603af44-5fd0-4708-9a73-3a782d573b12",
+      "detail": "Takes the initiative to meet agreed individual and team KPIs in line with company policy, values, standards.  "
+    },
+    {
+      "skillId": "0d205979-71f0-4b6d-9066-1ef51943e33f",
+      "detail": "Plans and organises their work, often without direct supervision, to meet commitments and KPIs.     "
+    },
+    {
+      "skillId": "e35744d8-26b0-441c-b081-9a9ad58f06ca",
+      "detail": "Uses sound questioning and active listening skills to understand requirements and establish root causes before developing HR solutions.  "
+    },
+    {
+      "skillId": "4638107d-7234-4371-8e9d-e9cba9f4c7bc",
+      "detail": "Takes ownership through to resolution, escalating complex situations as appropriate.  "
+    },
+    {
+      "skillId": "f4a03d64-b1ef-4ec6-93c5-1db054646cde",
+      "detail": "Deals effectively with customers and colleagues, using sound interpersonal skills and communicating well through a range of media eg phone, face to face, email, internet. Adapts their style to their audience.  "
+    },
+    {
+      "skillId": "5c59bcee-1765-447c-8c8a-89bbdf430600",
+      "detail": "Builds trust and sound relationships with customers.    "
+    },
+    {
+      "skillId": "efe07be1-ed29-4900-906c-021ac20093b1",
+      "detail": "Handles conflict and sensitive HR situations professionally and confidentially.  "
+    },
+    {
+      "skillId": "c49db5c8-b6ef-485d-8769-a29377065972",
+      "detail": "Consistently supports colleagues and collaborates within the team and HR to achieve results.    "
+    },
+    {
+      "skillId": "05b8098e-9e86-4a0b-87f5-d434de447e0c",
+      "detail": "Builds and maintains strong working relationships with others in the team and across HR where necessary.     "
+    },
+    {
+      "skillId": "8ebc963f-fb3e-42a0-9ce0-da68edd3c7a6",
+      "detail": "Identifies opportunities to improve HR performance and service, acting on them within the authority of their role.  "
+    },
+    {
+      "skillId": "656eab3c-6c42-4a09-be35-c1fb0dfbf47c",
+      "detail": "Supports implementation of HR changes or projects with the business.    "
+    },
+    {
+      "skillId": "099bad9e-6f12-4986-8048-21eebe14cd6e",
+      "detail": "Maintains required HR records as part of services delivered.    "
+    },
+    {
+      "skillId": "1410443a-36ea-4740-8d02-c99af5548fb9",
+      "detail": "Prepares reports and management information from HR data, with interpretation as required.  "
+    },
+    {
+      "skillId": "61de8933-71d3-4e96-95d4-e68d7f9bf483",
+      "detail": "Keeps up to date with business changes and HR legal, policy, process changes relevant to their role.    "
+    },
+    {
+      "skillId": "97eb5ddb-61b7-4dbe-81f1-b0055999ad73",
+      "detail": "Seeks feedback and acts on it to improve their performance and overall capability.  "
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Walter Smith Fine Foods LTD, Marks and Spencer’s, Lloyds Bank, Sanctuary Housing, Volvo, BT, Specsavers, EEF, Canon Europe, Bakkavor, Yorkshire Building Society, Marston’s PLC, Severn Trent PLC, Jaguar Land Rover Limited, Civil Service Learning, The Community Housing Group, Carillion PLC, Compass Group plc, McDonald’s UK, Dimension Data UK",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Hr assistant",
+    "Hr manager",
+    "Human resource officer",
+    "Personnel assistant"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Human Resources",
+  "cluster": "Human resources administrator",
+  "clusterId": "96",
+  "clusterDescription": "Provision of largely transactional human resource services e.g. recruitment, HR administration, rewards and recognition, training and development, etc",
+  "createdDate": "2026-09-14T09:01:34 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2017-08-25T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0239",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0239-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0239-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-03-11T00:00:00"
+}
