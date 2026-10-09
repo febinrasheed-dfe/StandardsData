@@ -1,0 +1,842 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 626,
+  "referenceNumber": "ST0764",
+  "learningAimClassCode": "",
+  "title": "Non home office police officer",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0764",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised.",
+  "changedDate": "2026-06-11T00:00:00",
+  "earliestStartDate": "2026-12-10T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Provide policing or investigative services protecting personnel, assets and infrastructure and the public.",
+  "level": 4,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "487",
+  "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Protective services",
+  "keywords": [
+    "police",
+    "public service",
+    "crime",
+    "protective services",
+    "policing",
+    "investigate"
+  ],
+  "jobRoles": [
+    "Authorised firearms officer",
+    "Service police officer"
+  ],
+  "entryRequirements": "&lt;p&gt;Whilst any entry requirements will be a matter for individual agencies and forces, typically an apprentice will be required to meet security vetting requirements. Authorised Firearms Officer Option is regulated by the Firearms Guidance held by the College of Policing.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0764-in-revision?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.4 Public services",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;,&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in Non home office police forces. These include, but are not restricted to, the Royal Navy Police, the Royal Military Police, Civil Nuclear Constabulary and Ministry of Defence Police. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to provide policing and/or investigative activity, with some forces having specific responsibility for protecting the personnel, assets and/or infrastructure of their organisation and that of the public. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with the public, their organisation management chain, chain of command, other colleagues who support policing activities and other Law Enforcement Agencies in the UK and potentially overseas. The employee will conduct both internal and external activities regardless of the prevailing weather conditions. Additionally the employee maybe be expected to participate in a shift system which will include working during unsociable hours such as night time and weekend duties. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for proactive and reactive policing so employees can expect to undertake a wide variety of duties to deliver a law enforcement effect within the scope of their jurisdiction and organisational outputs. They will be expected to use initiative in assessing situations and take responsibility for implementing appropriate processes to manage them. These situations could range from routine, prescriptive, well-defined activities through to the management of complex scenarios which are uncertain and less familiar. Regardless of the nature of the situation the individual will be accountable for their actions which must be compliant with policy and legislation, documented and justified.&lt;/p&gt;\n&lt;p&gt;Tasks undertaken will include, but are not limited to, patrolling, both on foot and by vehicle; conducting risk assessments; ensuring safety for all involved; preserving crime scenes; conducting arrests, interviewing individuals, victims, witnesses and suspects; preparing and presenting reports in a range of judicial processes; assisting other Law Enforcement Agencies as required. In the course of routine duties some employees will carry, and where the situation requires, deploy firearms. Yet again this activity must be compliant and justified. The importance and responsibility of the employee’s role cannot be underestimated, and their actions may impact on the lives of those within their jurisdiction. Compliance with overarching legislation, including but not restricted to the Human Rights Act and the Victims Code, is therefore of paramount importance. Although the employee will receive strategic direction and supervision, they will be individually responsible for, and work autonomously, during the tactical delivery of their activity.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "4035ce6e-c81c-4103-8572-5cb38834466e",
+      "detail": "How intelligence, operational briefings and local priorities impact and inform patrol strategies."
+    },
+    {
+      "knowledgeId": "68fc4b9b-ddf5-4741-a231-e067326cf9f5",
+      "detail": "The decision-making cyclic model and options available to mitigate threats posed by the prevailing situation."
+    },
+    {
+      "knowledgeId": "4c65b732-4737-4e29-a4b2-205ea4114568",
+      "detail": "How to gather, submit, handle and store information and intelligence in accordance with Government and force policy."
+    },
+    {
+      "knowledgeId": "09adc48d-54d6-4f46-a1ad-8a4665e5393b",
+      "detail": "What constitutes evidence, how it can be preserved in changing conditions, secured and labelled to ensure evidential integrity."
+    },
+    {
+      "knowledgeId": "b8859134-645d-45f6-a608-1253e8b84b1b",
+      "detail": "How issued and available technology works and how it can support the police in the conduct of their duties, including the statutory powers governing their use."
+    },
+    {
+      "knowledgeId": "04341853-173a-434b-9d68-c0cc20b50c88",
+      "detail": "How to store and use all personal protective equipment, police vehicles and the available kit, to ensure it remains serviceable for all to safely deploy whenever needed."
+    },
+    {
+      "knowledgeId": "00289538-8f0d-4cf4-8688-6fc5117b7aa3",
+      "detail": "How to complete police pocket notebook entries, witness statements and incident reports in line with force policy, including the capture of victim and witness personal details and first accounts."
+    },
+    {
+      "knowledgeId": "f299e136-5dc0-47bb-aa9c-49f214719d63",
+      "detail": "How the Health and Safety at Work Act applies within your role."
+    },
+    {
+      "knowledgeId": "6986851d-d780-4c63-89f2-f97dbb14049e",
+      "detail": "Conflict management techniques and use of force legislation."
+    },
+    {
+      "knowledgeId": "4a286a19-cfbe-48fa-a891-fbe7ec7e66db",
+      "detail": "How to arrest identified suspects, including the information which must be given to an arrested person and their rights whilst in police custody."
+    },
+    {
+      "knowledgeId": "3f67d216-0164-4a9f-9d38-d921a69d1635",
+      "detail": "Authorised Firearms Officer. How the individual role fits into the team effort in delivering on organisational priorities, patrol strategies and local operational requirements."
+    },
+    {
+      "knowledgeId": "448b15fe-ba05-4ce5-8699-df286594e626",
+      "detail": "Authorised Firearms Officer. Terrorism legislation and the prevailing threat posed by terrorism, espionage, cyber-attack, protest, criminals and insider assistance."
+    },
+    {
+      "knowledgeId": "efd0c990-3d88-4a70-93c2-43d72c7d9b39",
+      "detail": "Authorised Firearms Officer. Statutory powers and regulatory policies covering searches of people, including how to complete the correct documentation and manage any seized evidence."
+    },
+    {
+      "knowledgeId": "9274029f-9cd5-40b6-b0e4-3670f643dc6c",
+      "detail": "Authorised Firearms Officer. The different stakeholders involved in delivering safe and secure site operations, and how the Authorised Firearms Officer can deliver value in those working relationships."
+    },
+    {
+      "knowledgeId": "fb358faa-2f55-43fc-9315-e788ca8495c8",
+      "detail": "Authorised Firearms Officer. The inter-dependent areas of policing and how they relate to the role: law enforcement agencies; other emergency services, the military and other departments and agencies."
+    },
+    {
+      "knowledgeId": "3d90a807-6ad4-4b05-bcf5-c43545969171",
+      "detail": "Authorised Firearms Officer. Range and weapon safety protocols and the principles of accurate shooting."
+    },
+    {
+      "knowledgeId": "c04b3abe-a72d-46b1-a940-fb6ac4f2c7a9",
+      "detail": "Authorised Firearms Officer. How to safely handle and discharge a Taser."
+    },
+    {
+      "knowledgeId": "c0d3cfbc-d156-477a-89f3-77a8b4ba5d3e",
+      "detail": "Authorised Firearms Officer. The protocols for carrying out an armed containment of a premises and the terminology used to communicate."
+    },
+    {
+      "knowledgeId": "827f69c5-d1bb-4779-8763-d2cda6238130",
+      "detail": "Authorised Firearms Officer. The tactical options and safe procedures available when performing an armed interception of a subject on foot.\u00A0\u00A0\u00A0\u00A0\u00A0"
+    },
+    {
+      "knowledgeId": "04b0b7ff-49bc-4ff9-9698-2e5a70db6a5c",
+      "detail": "Authorised Firearms Officer. The tactical options and safe procedures for undertaking an armed enquiry on a vehicle."
+    },
+    {
+      "knowledgeId": "4cd8bf73-8667-4a0b-b98b-2deb46a0ffac",
+      "detail": "Authorised Firearms Officer. The correct room entry principles and terminology used when performing an armed search of a structure."
+    },
+    {
+      "knowledgeId": "863a78a9-2c71-4319-9389-84e1bbab4a34",
+      "detail": "Authorised Firearms Officer. The tactics and specialist support to be considered for armed searches in the open."
+    },
+    {
+      "knowledgeId": "c9288b4c-524d-4248-bb46-1f447f04dc74",
+      "detail": "Authorised Firearms Officer. How to conduct casualty initial assessments and priority actions for saving lives."
+    },
+    {
+      "knowledgeId": "fd2d5c6c-cfd0-4602-9a9d-ed8199c36540",
+      "detail": "Authorised Firearms Officer. Factors to consider when dealing with vulnerable people encountered during a firearms deployment."
+    },
+    {
+      "knowledgeId": "c8326873-02f9-4260-9bc9-8b8c8b72e2c9",
+      "detail": "Authorised Firearms Officer. The criteria for implementing post incident investigation, initial action that must be taken to preserve evidence and crime scenes, and the role of the Post-Incident Manager."
+    },
+    {
+      "knowledgeId": "5498e7aa-4dc7-4f37-9256-365fde7c7a4a",
+      "detail": "Investigative officer. Techniques for obtaining 'best evidence' from victims and witnesses, protecting evidential integrity and points to prove for core offences."
+    },
+    {
+      "knowledgeId": "e627cef3-3916-4b9f-8dee-cb75dfd9f590",
+      "detail": "Investigative officer. How the 'victim code' is applied and what measures are available to investigators to protect vulnerable people or those at risk from further harm."
+    },
+    {
+      "knowledgeId": "3489d2f4-71f3-40ec-a2a7-536d6d57acda",
+      "detail": "Investigative officer. Statutory powers covering the seizure and management of evidence obtained during an investigation, and what authority is required to request digital records from the owner."
+    },
+    {
+      "knowledgeId": "2e5ca75e-9ec9-4c39-a69b-2082fa803260",
+      "detail": "Investigative officer. Statutory powers for searches of vehicles, dwellings or other premises, including how to complete the correct documentation and manage any seized evidence."
+    },
+    {
+      "knowledgeId": "c4d12001-df64-4bcd-ae55-cafc0fde5db3",
+      "detail": "Investigative officer. How to develop an interview strategy and conduct suspect interviews."
+    },
+    {
+      "knowledgeId": "d6f9ab48-173e-4d26-b69a-ee9f19f9ffc4",
+      "detail": "Investigative officer. Force policy governing the creation and management of all paperwork generated during an investigation."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "e10ca3b4-6202-4654-88ce-cc9953615233",
+      "detail": "Display integrity, moral courage and accountability for your actions."
+    },
+    {
+      "behaviourId": "61e308ac-89e4-4ad3-afd0-2406253c2321",
+      "detail": "Role model professional and ethical behaviour, championing high standards. "
+    },
+    {
+      "behaviourId": "11110506-6474-43d8-ab53-b954a4ec53fe",
+      "detail": "Treat people fairly and sensitively, showing respect and consideration for differing perspectives."
+    },
+    {
+      "behaviourId": "0165643a-340a-4740-b310-b3d7ed504933",
+      "detail": "Build positive relationships with colleagues and the public."
+    },
+    {
+      "behaviourId": "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+      "detail": "Demonstrate a good work ethic by being punctual, well appointed, diligent and enthusiastic."
+    },
+    {
+      "behaviourId": "a8cf3630-fa88-47e0-a5cf-52680c87d344",
+      "detail": "Take responsibility for your own continual professional development. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
+      "detail": "Carry out intelligence led policing patrols in accordance with local strategies and priorities."
+    },
+    {
+      "skillId": "68d215b0-9507-453a-abc3-8faec6b9e345",
+      "detail": "Provide an initial and ongoing response to spontaneous incidents, applying the decision-making model to assess and manage the risks and threats posed."
+    },
+    {
+      "skillId": "9f8d8636-401e-4729-849a-ae1a3f0f5116",
+      "detail": "Gather, submit, handle and store information and intelligence in accordance with force requirements from routine and targeted community engagement."
+    },
+    {
+      "skillId": "a7e74d4e-7861-46a2-bbc0-e6b43cbc758a",
+      "detail": "Secure and manage evidence, ensuring evidential integrity is maintained throughout the chain of custody."
+    },
+    {
+      "skillId": "207ae54d-498d-49b1-8d62-f8d908134ef5",
+      "detail": "Use technology to aid policing duties in accordance with statutory powers: the Law Enforcement Data Service, police radios, computer systems, telephones, body-worn video and CCTV."
+    },
+    {
+      "skillId": "fc055a60-6548-4894-b866-6f3aeccd4433",
+      "detail": "Use issued personal protective equipment and police vehicles to carry out police patrols, to ensure safety and security for officers and the public, in accordance with force policy."
+    },
+    {
+      "skillId": "c7edd0ca-e17b-47ee-9bce-9200d1020b7b",
+      "detail": "Update the police pocket notebook and submit written reports in accordance with force policy. "
+    },
+    {
+      "skillId": "bf8929e6-85dc-4f71-9f46-4744a705581f",
+      "detail": "Apply health and safety procedures and safe systems of work in compliance with regulations and standards."
+    },
+    {
+      "skillId": "28f8c0ec-0cfe-47cb-8e9a-3c6da69508dc",
+      "detail": " Apply conflict management skills and techniques lawfully."
+    },
+    {
+      "skillId": "66639d6f-6472-4394-87a8-c48bf11b0c20",
+      "detail": "Arrest identified suspects in a proportionate, legal, safe and justifiable manner, ensuring their ongoing rights whilst in your care."
+    },
+    {
+      "skillId": "53341c40-90e8-4268-9f46-2c24ac8e540c",
+      "detail": "Authorised Firearms Officer. Gather from operational briefings current intelligence, and a handover of ongoing and emerging issues to apply to daily taskings."
+    },
+    {
+      "skillId": "4cf61c73-0495-4f70-bf20-8f74c18941c0",
+      "detail": "Authorised Firearms Officer. Carry out counter-terrorist policing patrols in and around a site in accordance with prescribed response levels, being mindful of hostile reconnaissance, suspicious activity and potential vulnerabilities to site operations."
+    },
+    {
+      "skillId": "9c5248de-7c14-4d73-b116-e7920654d77c",
+      "detail": "Authorised Firearms Officer. Search people in accordance with statutory powers and regulatory policy, completing the correct documentation and managing any seized evidence. "
+    },
+    {
+      "skillId": "1db752f7-dfaa-4aaf-b1a3-58b293db736e",
+      "detail": "Authorised Firearms Officer. Work collaboratively with on-site teams, utilising joint-working to resolve issues that affect the security and safe operation of the site."
+    },
+    {
+      "skillId": "e2ae477a-7d2d-47de-a23c-3f94bbc9775c",
+      "detail": "Authorised Firearms Officer. Work collaboratively with outside agencies to manage issues and aid resolution of incidents."
+    },
+    {
+      "skillId": "be209d58-f544-4b78-8672-a28ee0bdeff1",
+      "detail": "Authorised Firearms Officer. Demonstrate the safe handling and accurate shooting of a police firearm."
+    },
+    {
+      "skillId": "7d59a150-9736-46bc-a939-d7eff0d14fcb",
+      "detail": "Authorised Firearms Officer. Demonstrate the safe handling and discharge of a Taser."
+    },
+    {
+      "skillId": "ab299ed0-1417-410a-a75e-802992cc4fa5",
+      "detail": "Authorised Firearms Officer. Follow protocols for carrying out an armed containment of premises, using the correct terminology to communicate."
+    },
+    {
+      "skillId": "4ce1563b-2917-450b-b21b-efff0c0c5f6e",
+      "detail": "Authorised Firearms Officer. Demonstrate an armed interception of a subject on foot."
+    },
+    {
+      "skillId": "f31d6e1b-6b37-4641-a51d-c73ca4da4305",
+      "detail": "Authorised Firearms Officer. Demonstrate an armed enquiry on a vehicle."
+    },
+    {
+      "skillId": "0ee3daa1-90aa-4561-b585-fd282d1e2544",
+      "detail": "Authorised Firearms Officer. Demonstrate an armed search of a structure."
+    },
+    {
+      "skillId": "cd45ea27-cc69-45a6-a8c8-efaed031a97c",
+      "detail": "Authorised Firearms Officer. Demonstrate an armed search in the open."
+    },
+    {
+      "skillId": "3a7a6cb5-c328-43e3-a666-44fa1a1404ed",
+      "detail": "Authorised Firearms Officer. Perform first aid on a casualty."
+    },
+    {
+      "skillId": "991cdb62-38b2-447b-b2af-f93e0e0c9b68",
+      "detail": "Authorised Firearms Officer. Manage encounters with vulnerable persons, during a firearms deployment."
+    },
+    {
+      "skillId": "c233f77e-54ad-4042-9f1d-caf150db6e1d",
+      "detail": "Authorised Firearms Officer. Secure evidence and crime scenes and participate in post-deployment procedures following the discharge of a police firearm."
+    },
+    {
+      "skillId": "72636cdb-b695-405f-997c-eae3f07032c7",
+      "detail": "Investigative officer. Gather, record and assess information from victims and witnesses present at reported crime and disorder situations, remaining impartial and treating accounts with confidentiality."
+    },
+    {
+      "skillId": "75624587-cffa-4026-9313-db69ae952b95",
+      "detail": "Investigative officer. Conduct a victim needs assessment and provide appropriate support, including measures required to protect people who may be vulnerable or at risk."
+    },
+    {
+      "skillId": "dbd90f9e-5abe-4a0c-a143-6d7464d41374",
+      "detail": "Investigative officer. Investigate crime by gathering evidence from a range of sources: forensic opportunities, CCTV, local enquiries and digital records."
+    },
+    {
+      "skillId": "2aee5875-896c-4cc9-93bb-92715cb2a7b8",
+      "detail": "Investigative officer. Conduct searches, complete documentation in accordance with statutory powers and manage any seized evidence."
+    },
+    {
+      "skillId": "f263fb5b-6929-4676-8947-dcd2656182ef",
+      "detail": "Investigative officer. Conduct lawful suspect interviews in accordance with an interview strategy."
+    },
+    {
+      "skillId": "31695535-e21b-4153-bd5c-bc28242938be",
+      "detail": "Investigative officer. Prepare and present evidence in case files, managing all relevant documentation, to support decision making."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2026-05-07T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Skills England",
+    "contactName": "",
+    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0635",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Civil Nuclear Constabulary, Ministry of Defence Police, Royal Military Police, SFJ Awards, Babcock International.\n",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Authorised firearms officer",
+    "Service police officer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Protective services",
+  "cluster": "Protective service manager",
+  "clusterId": "50",
+  "clusterDescription": "Lead and manage a team providing safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
+  "createdDate": "2026-06-11T10:29:38 +00:00",
+  "lastUpdated": "2026-06-11T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-05-17T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0764",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0764-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0764-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "155d7094-076c-400d-b912-af8b38f857f2",
+      "dutyDetail": "Conduct foot and vehicle patrols safely in a designated area in line with local strategies and priorities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "4035ce6e-c81c-4103-8572-5cb38834466e",
+        "4c65b732-4737-4e29-a4b2-205ea4114568",
+        "b8859134-645d-45f6-a608-1253e8b84b1b",
+        "04341853-173a-434b-9d68-c0cc20b50c88",
+        "00289538-8f0d-4cf4-8688-6fc5117b7aa3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
+        "9f8d8636-401e-4729-849a-ae1a3f0f5116",
+        "207ae54d-498d-49b1-8d62-f8d908134ef5",
+        "fc055a60-6548-4894-b866-6f3aeccd4433",
+        "c7edd0ca-e17b-47ee-9bce-9200d1020b7b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "88fa3287-0d28-4017-ada7-1516be8b8f67",
+      "dutyDetail": "Provide an initial response to police incidents, managing risk and conflict. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "68fc4b9b-ddf5-4741-a231-e067326cf9f5",
+        "09adc48d-54d6-4f46-a1ad-8a4665e5393b",
+        "6986851d-d780-4c63-89f2-f97dbb14049e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "68d215b0-9507-453a-abc3-8faec6b9e345",
+        "a7e74d4e-7861-46a2-bbc0-e6b43cbc758a",
+        "28f8c0ec-0cfe-47cb-8e9a-3c6da69508dc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fad472e1-a19b-47ad-a802-b949425d8816",
+      "dutyDetail": "Utilise equipment and technology safely and lawfully, including the correct and safe use of digital equipment, vehicles and PPE.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "4035ce6e-c81c-4103-8572-5cb38834466e",
+        "4c65b732-4737-4e29-a4b2-205ea4114568",
+        "b8859134-645d-45f6-a608-1253e8b84b1b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
+        "9f8d8636-401e-4729-849a-ae1a3f0f5116",
+        "207ae54d-498d-49b1-8d62-f8d908134ef5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1b190420-d1b5-4143-a4c6-b986d331d6a9",
+      "dutyDetail": "Recover and manage evidence gathered from people and crime scenes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "09adc48d-54d6-4f46-a1ad-8a4665e5393b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a7e74d4e-7861-46a2-bbc0-e6b43cbc758a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1964a8db-02e2-48a3-ae87-e9ce8dcea5fc",
+      "dutyDetail": "Gather, submit and utilise intelligence in the course of policing duties.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "4035ce6e-c81c-4103-8572-5cb38834466e",
+        "4c65b732-4737-4e29-a4b2-205ea4114568",
+        "b8859134-645d-45f6-a608-1253e8b84b1b",
+        "00289538-8f0d-4cf4-8688-6fc5117b7aa3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
+        "9f8d8636-401e-4729-849a-ae1a3f0f5116",
+        "207ae54d-498d-49b1-8d62-f8d908134ef5",
+        "c7edd0ca-e17b-47ee-9bce-9200d1020b7b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f22ddade-fe97-4786-b3e3-fc9b94007e35",
+      "dutyDetail": "Maintain all police documentation used in connection with policing duties.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "4035ce6e-c81c-4103-8572-5cb38834466e",
+        "68fc4b9b-ddf5-4741-a231-e067326cf9f5",
+        "4c65b732-4737-4e29-a4b2-205ea4114568",
+        "09adc48d-54d6-4f46-a1ad-8a4665e5393b",
+        "b8859134-645d-45f6-a608-1253e8b84b1b",
+        "00289538-8f0d-4cf4-8688-6fc5117b7aa3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
+        "68d215b0-9507-453a-abc3-8faec6b9e345",
+        "9f8d8636-401e-4729-849a-ae1a3f0f5116",
+        "a7e74d4e-7861-46a2-bbc0-e6b43cbc758a",
+        "207ae54d-498d-49b1-8d62-f8d908134ef5",
+        "c7edd0ca-e17b-47ee-9bce-9200d1020b7b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7a34e588-cded-4df6-86a6-21cd73cbc028",
+      "dutyDetail": "Maintain and utilise all issued protective and supporting equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "4035ce6e-c81c-4103-8572-5cb38834466e",
+        "04341853-173a-434b-9d68-c0cc20b50c88"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
+        "fc055a60-6548-4894-b866-6f3aeccd4433"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1fd8dd2d-f0a4-4732-ab43-f8440f64738e",
+      "dutyDetail": "Conduct safe, lawful systems of work for policing duties.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "68fc4b9b-ddf5-4741-a231-e067326cf9f5",
+        "f299e136-5dc0-47bb-aa9c-49f214719d63",
+        "6986851d-d780-4c63-89f2-f97dbb14049e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "68d215b0-9507-453a-abc3-8faec6b9e345",
+        "bf8929e6-85dc-4f71-9f46-4744a705581f",
+        "28f8c0ec-0cfe-47cb-8e9a-3c6da69508dc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8a7b290d-c97d-433b-a70b-329b428710c4",
+      "dutyDetail": "Conduct lawful arrests and manage suspects in custody.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "4a286a19-cfbe-48fa-a891-fbe7ec7e66db"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "66639d6f-6472-4394-87a8-c48bf11b0c20"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1c7b3f4d-dbdc-45de-8462-bd7ac9fed49c",
+      "dutyDetail": "Conduct counter-terrorist patrols and checks to ensure site safety and security. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "3f67d216-0164-4a9f-9d38-d921a69d1635",
+        "448b15fe-ba05-4ce5-8699-df286594e626",
+        "efd0c990-3d88-4a70-93c2-43d72c7d9b39"
+      ],
+      "mappedOptions": [
+        "b89f5364-a14d-4d9d-86c2-f8d4de7ee54b"
+      ],
+      "mappedSkills": [
+        "53341c40-90e8-4268-9f46-2c24ac8e540c",
+        "4cf61c73-0495-4f70-bf20-8f74c18941c0",
+        "9c5248de-7c14-4d73-b116-e7920654d77c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e083f002-0bb4-4e2a-bdc2-fa60f0f359c4",
+      "dutyDetail": "Work collaboratively in a co-ordinated way with multi-agency teams and other stakeholders to deliver organisational priorities through intelligence-led armed policing patrols and the maintenance of safety and security of operational sites. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "3f67d216-0164-4a9f-9d38-d921a69d1635",
+        "9274029f-9cd5-40b6-b0e4-3670f643dc6c",
+        "fb358faa-2f55-43fc-9315-e788ca8495c8"
+      ],
+      "mappedOptions": [
+        "b89f5364-a14d-4d9d-86c2-f8d4de7ee54b"
+      ],
+      "mappedSkills": [
+        "53341c40-90e8-4268-9f46-2c24ac8e540c",
+        "1db752f7-dfaa-4aaf-b1a3-58b293db736e",
+        "e2ae477a-7d2d-47de-a23c-3f94bbc9775c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a02f6a34-7b49-4c80-9ee5-71d8b41f3745",
+      "dutyDetail": "Conduct safe handling and shooting of police firearms and less than lethal weapons and implement post-incident procedures when criteria has been met.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "3d90a807-6ad4-4b05-bcf5-c43545969171",
+        "c04b3abe-a72d-46b1-a940-fb6ac4f2c7a9",
+        "c8326873-02f9-4260-9bc9-8b8c8b72e2c9"
+      ],
+      "mappedOptions": [
+        "b89f5364-a14d-4d9d-86c2-f8d4de7ee54b"
+      ],
+      "mappedSkills": [
+        "be209d58-f544-4b78-8672-a28ee0bdeff1",
+        "7d59a150-9736-46bc-a939-d7eff0d14fcb",
+        "c233f77e-54ad-4042-9f1d-caf150db6e1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b8251025-edfe-46f2-9030-49ff34eb35c8",
+      "dutyDetail": "Apply approved police firearm tactics lawfully and proportionately.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "c0d3cfbc-d156-477a-89f3-77a8b4ba5d3e",
+        "827f69c5-d1bb-4779-8763-d2cda6238130",
+        "04b0b7ff-49bc-4ff9-9698-2e5a70db6a5c",
+        "4cd8bf73-8667-4a0b-b98b-2deb46a0ffac",
+        "863a78a9-2c71-4319-9389-84e1bbab4a34",
+        "c9288b4c-524d-4248-bb46-1f447f04dc74",
+        "fd2d5c6c-cfd0-4602-9a9d-ed8199c36540"
+      ],
+      "mappedOptions": [
+        "b89f5364-a14d-4d9d-86c2-f8d4de7ee54b"
+      ],
+      "mappedSkills": [
+        "ab299ed0-1417-410a-a75e-802992cc4fa5",
+        "4ce1563b-2917-450b-b21b-efff0c0c5f6e",
+        "f31d6e1b-6b37-4641-a51d-c73ca4da4305",
+        "0ee3daa1-90aa-4561-b585-fd282d1e2544",
+        "cd45ea27-cc69-45a6-a8c8-efaed031a97c",
+        "3a7a6cb5-c328-43e3-a666-44fa1a1404ed",
+        "991cdb62-38b2-447b-b2af-f93e0e0c9b68"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f7de73a6-edaa-4594-b91a-b7860dd2a9eb",
+      "dutyDetail": "Manage engagement with vulnerable people and casualties encountered during firearms deployment. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "fd2d5c6c-cfd0-4602-9a9d-ed8199c36540"
+      ],
+      "mappedOptions": [
+        "b89f5364-a14d-4d9d-86c2-f8d4de7ee54b"
+      ],
+      "mappedSkills": [
+        "991cdb62-38b2-447b-b2af-f93e0e0c9b68"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed934dd8-e390-43e2-b1bc-05912eea4385",
+      "dutyDetail": "Manage crime investigations at scene through collection of evidence from witnesses and victims, which may include those that are vulnerable and at risk. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "5498e7aa-4dc7-4f37-9256-365fde7c7a4a",
+        "e627cef3-3916-4b9f-8dee-cb75dfd9f590"
+      ],
+      "mappedOptions": [
+        "3922a72a-5d81-4874-9804-f2752dc4a986"
+      ],
+      "mappedSkills": [
+        "72636cdb-b695-405f-997c-eae3f07032c7",
+        "75624587-cffa-4026-9313-db69ae952b95"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "506787da-9bc3-4128-a752-b6991fe3602c",
+      "dutyDetail": "Conduct lawful searches of vehicles and premises and manage seized evidence.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "3489d2f4-71f3-40ec-a2a7-536d6d57acda",
+        "2e5ca75e-9ec9-4c39-a69b-2082fa803260"
+      ],
+      "mappedOptions": [
+        "3922a72a-5d81-4874-9804-f2752dc4a986"
+      ],
+      "mappedSkills": [
+        "dbd90f9e-5abe-4a0c-a143-6d7464d41374",
+        "2aee5875-896c-4cc9-93bb-92715cb2a7b8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "90bf4470-67f6-423f-9ee2-8410799f97ec",
+      "dutyDetail": "Conduct lawful arrests and interviews as part of an investigation. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c4d12001-df64-4bcd-ae55-cafc0fde5db3"
+      ],
+      "mappedOptions": [
+        "3922a72a-5d81-4874-9804-f2752dc4a986"
+      ],
+      "mappedSkills": [
+        "f263fb5b-6929-4676-8947-dcd2656182ef"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "95f66ca5-f9f5-4054-a886-ccf99c913b04",
+      "dutyDetail": "Develop, prepare and present case files for investigations to key stakeholders. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "e10ca3b4-6202-4654-88ce-cc9953615233",
+        "61e308ac-89e4-4ad3-afd0-2406253c2321",
+        "11110506-6474-43d8-ab53-b954a4ec53fe",
+        "0165643a-340a-4740-b310-b3d7ed504933",
+        "a0ef04f4-f48c-410b-bb66-b584ac9bf58a",
+        "a8cf3630-fa88-47e0-a5cf-52680c87d344"
+      ],
+      "mappedKnowledge": [
+        "d6f9ab48-173e-4d26-b69a-ee9f19f9ffc4"
+      ],
+      "mappedOptions": [
+        "3922a72a-5d81-4874-9804-f2752dc4a986"
+      ],
+      "mappedSkills": [
+        "31695535-e21b-4153-bd5c-bc28242938be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "b89f5364-a14d-4d9d-86c2-f8d4de7ee54b",
+      "title": "Authorised Firearms Officer",
+      "occupationCode": "OCC0764A"
+    },
+    {
+      "optionId": "3922a72a-5d81-4874-9804-f2752dc4a986",
+      "title": "Investigative Officer",
+      "occupationCode": "OCC0764B"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-12-10T00:00:00"
+}
