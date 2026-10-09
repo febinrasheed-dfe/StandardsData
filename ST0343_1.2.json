@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Funding band revised",
-  "changedDate": "2024-08-16T00:00:00",
+  "changedDate": "2026-09-29T00:00:00",
   "earliestStartDate": "2024-08-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -311,7 +311,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0361",
-  "tbMainContact": "gwarman@vetskill.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Medivet Group Limited, Mimram Veterinary Centre Limited, Ministry of Defence - Army Headquarters, Independent Vetcare Limited, Pennard Practice Limited, PDSA, Vets4Pets Companion Care Services Limited, Proacta Limited, MYF Training Limited, Warwickshire College Road Limited, The College of Animal Welfare Limited Park, Society of Practising Veterinary Surgeons (SPVS) Limited, Goddard Veterinary group",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -326,9 +326,9 @@
   "clusterId": "148",
   "clusterDescription": "Routine and detailed care, handling and training of animals",
   "createdDate": "2024-08-19T06:36:12 +00:00",
-  "lastUpdated": "2024-08-16T00:00:00 +00:00",
+  "lastUpdated": "2026-09-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-08T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "banners": "From 22/07/2026, gateway verification must confirm that the apprentice has completed the minimum clinical placement time required by the RCVS Veterinary Nurse Registration Rules. Completion of the full 2,990 total training hours is no longer a prerequisite for entry to the EPA gateway.",
   "occupationCode": "OCC0343",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0343-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0343-v1-2",
@@ -340,5 +340,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-08-16T00:00:00"
+  "publishDate": "2026-09-29T00:00:00"
 }
