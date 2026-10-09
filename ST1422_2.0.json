@@ -1,0 +1,747 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 839,
+  "referenceNumber": "ST1422",
+  "learningAimClassCode": "Z0001842",
+  "title": "Bus, coach and heavy goods vehicle service and maintenance technician",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1422",
+  "qualificationStandardUrl": null,
+  "versionNumber": "2.0",
+  "change": "Approved for delivery",
+  "changedDate": "2026-08-05T00:00:00",
+  "earliestStartDate": "2026-08-05T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Servicing and maintaining bus, coach and heavy goods vehicles.",
+  "level": 2,
+  "ePALength": 4,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "servicing",
+    "maintaining",
+    "heavy goods vehicle",
+    "Service and maintenance technician",
+    "transportation"
+  ],
+  "jobRoles": [
+    "Inspection technician",
+    "Service and maintenance technician",
+    "Service technician"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1422-v2-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.3 Transportation operations and maintenance",
+  "version": "2.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;div class=&quot;form-group&quot; style=&quot;box-sizing: border-box; margin: 0 0 12px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit&quot;&gt;\n&lt;div style=&quot;box-sizing: inherit; margin: 0; padding: 0; border: 0; vertical-align: baseline&quot;&gt;Bus, coach and heavy goods vehicle (HGV) service and maintenance technicians work in the motor vehicle industry servicing and maintaining commercial goods and public service vehicles, such as HGVs, buses, and coaches. These vehicles play a critical role in the UK economy as the maintenance of supply chains is crucial to the transportation and distribution of goods such as fuel, food chain, construction, medication, and waste management. It can involve working in small or large independent garages, main dealers, manufacturers, or large fleet workshops. Service and maintenance technicians can either be based in a depot or they may work on a mobile basis, working out of a company van and travelling to customer sites to carry out service and repairs. They may also be expected to be on-call, where they will be required to attend urgent breakdowns to carry out repairs or inspections, sometimes out of normal working hours.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;form-group&quot; style=&quot;box-sizing: border-box; margin: 0 0 12px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit&quot;&gt;The broad purpose of the occupation is to contribute to the efficient and effective running of commercial garages by performing routine vehicle maintenance inspections, pre-MOT inspections and vehicle checks on buses, coaches and HGVs, including diesel, hydrogen cell, battery and gas powered vehicles. This work is safety critical and must fully comply with legal requirements to make sure that operators maintain their required licenses to operate.&lt;/div&gt;\n&lt;div class=&quot;form-group&quot; style=&quot;box-sizing: border-box; margin: 0 0 12px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit&quot;&gt;Service and maintenance technicians interact with other members of the workshop team, including senior service and maintenance technicians, workshop managers, and customers.&lt;/div&gt;\n&lt;div class=&quot;form-group&quot; style=&quot;box-sizing: border-box; margin: 0 0 12px; padding: 0; border: 0; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit&quot;&gt;Technicians in this occupation are responsible for completing essential large commercial vehicle safety inspections, pre-MOT inspections, basic vehicle repairs and servicing to the legal standards required by road traffic, health and safety legislation and the legal undertakings to the Traffic Commissioner for operators&#39; licences. This role will include working with, and the safe storage and disposal of, hazardous materials and alternative propulsion sources, such as electric battery packs, liquified nitrogen gas or compressed natural gas (LNG or CNG) and hydrogen. A service and maintenance technician is responsible for the accurate completion of work packages in line with their job sheets and completion of supporting paperwork for regulatory bodies such as the Driver and Vehicle Standards Agency (DVSA).&amp;nbsp;&lt;/div&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+      "detail": "Health and safety legislation and regulations: Health & Safety at Work, Control of Substances Hazardous to Health (COSHH), manual handling, working in confined spaces, working at height, lone worker. Fire safety. Hazards and risks. Isolation and emergency stop procedures. Safety equipment: guards, signage, fire extinguishers. Safety signage. Slips, trips, and falls. PUWER."
+    },
+    {
+      "knowledgeId": "d56c818e-e8c6-4ae0-8204-75c7c9cc6afe",
+      "detail": "Recycling and reuse of resources, and safe disposal of waste. Environmental legislation and practices. Environmental Protection Act. "
+    },
+    {
+      "knowledgeId": "d0e98fe1-173a-4939-91d5-2b6dcd043186",
+      "detail": "Emerging and alternative technologies such as advanced computing devices, software containerization, over-the-air software updates."
+    },
+    {
+      "knowledgeId": "d98adb38-ff63-4929-979b-32784580648c",
+      "detail": "The use of personal protective equipment (PPE) within the automotive industry."
+    },
+    {
+      "knowledgeId": "1fb6b3e5-f821-4c4b-95ce-177aa13a5738",
+      "detail": "Key organisational structures, functions and roles, and the role of a bus, coach and heavy goods vehicle service and maintenance technician."
+    },
+    {
+      "knowledgeId": "87ab3e03-15dd-4447-a3ad-bc4a64cd2168",
+      "detail": "Bus, coach and heavy goods vehicle information sources such as text, data, wiring diagrams, job card, work instructions, risk assessments, method statements, operation manuals, permits to work, instructions."
+    },
+    {
+      "knowledgeId": "51ab0819-0197-416a-a7fd-4950535d97f9",
+      "detail": "Bus, coach and heavy goods vehicle equipment and tools including lifting equipment. Purpose and operation. Relevant standards and regulations for their use. Techniques and processes for their cleaning and maintaining tools and equipment. "
+    },
+    {
+      "knowledgeId": "da67ad73-e0bc-49e0-acdc-9f8083c87c3f",
+      "detail": "Materials used in bus, coach and heavy goods vehicle maintenance, their properties and how to select them for different tasks including modifying and fabricating vehicle parts. "
+    },
+    {
+      "knowledgeId": "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+      "detail": "Techniques and processes for bus, coach and heavy goods vehicle routine checks and testing: emissions, brakes."
+    },
+    {
+      "knowledgeId": "f60b84fd-d585-48fb-bbc9-4960dc381082",
+      "detail": "Preventative maintenance requirements and how to carry out a bus, coach and heavy goods vehicle routine service."
+    },
+    {
+      "knowledgeId": "9169d215-ddfb-4f54-82d1-9477e1315230",
+      "detail": "The fundamentals of bus, coach and heavy goods vehicle mechanics: chassis, engines, brake systems. Fuel systems: diesel, hydrogen cell, hybrid, battery and gas powered vehicles. Electrics, powertrain, electrical auxiliary."
+    },
+    {
+      "knowledgeId": "a145022c-dab9-4fcc-9d9b-8d4b2aceb588",
+      "detail": "Common prohibitions, exemptions, discretions, and obstructions in bus, coach and heavy goods vehicles and how they may be used by the Police and vehicle inspectorate."
+    },
+    {
+      "knowledgeId": "7ac53d72-0355-403c-b14c-40f48ac81083",
+      "detail": "Bus, coach and heavy goods vehicle roadside assistance: company procedures including safety considerations and processes, emergency repair techniques."
+    },
+    {
+      "knowledgeId": "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+      "detail": "Bus, coach and heavy goods vehicle system components: Indicators and criteria for repair of replacement. Techniques to remove and replace."
+    },
+    {
+      "knowledgeId": "5516260f-56ba-4a71-82f3-86b9fa3c1603",
+      "detail": "Risks and mitigations when working on high voltage bus, coach and heavy goods vehicles, and those with alternative fuels."
+    },
+    {
+      "knowledgeId": "b04adf77-4d02-47a9-a49a-0f2551b1b366",
+      "detail": "Road traffic legislation, Operators' licensing requirements."
+    },
+    {
+      "knowledgeId": "f4f2565c-61c7-4431-9fcd-cbaa79b9de73",
+      "detail": "Bus, coach and heavy goods vehicle documentation required to comply with own organisation's policies and procedures, for example maintenance schedules, job sheets, equipment service records, test results, handover documents and manufacturers' documentation, work sheets, checklists, waste environmental records, calibration records."
+    },
+    {
+      "knowledgeId": "41e02807-c204-403b-963a-ab898be3d857",
+      "detail": "Safe systems of work."
+    },
+    {
+      "knowledgeId": "adcd5f38-6dec-4187-aa12-4217818194fd",
+      "detail": "Principles of equity, diversity and inclusion in the workplace and the impact on their work."
+    },
+    {
+      "knowledgeId": "d3593c60-2e50-4786-9210-9ab1f4cbab08",
+      "detail": "Written communication techniques."
+    },
+    {
+      "knowledgeId": "b9c7e749-ca8b-4cca-8183-f8f556aa0e28",
+      "detail": "Verbal communication techniques."
+    },
+    {
+      "knowledgeId": "9e902cb3-5edf-4ca2-9170-77f6b5ef1ae6",
+      "detail": "Alternative fuels: use, disposal and impact on the environment."
+    },
+    {
+      "knowledgeId": "d4757b3a-8552-4cd2-8fc3-66f74f2317c9",
+      "detail": "Principles of good team working. Team working techniques."
+    },
+    {
+      "knowledgeId": "23144739-8d54-419a-bc46-cc3fd7f5f3de",
+      "detail": "Bus, coach and heavy goods vehicle protective equipment (VPE) to be used within the automotive environment."
+    },
+    {
+      "knowledgeId": "0f057cc5-8899-4c0f-a587-919f98e5f0f3",
+      "detail": "Information technology and digital: email, collaboration packages, databases, digital manufacturing management systems, equipment digital interfaces, management information systems, virtual learning platforms, word processing, work sharing platforms. General data protection regulation (GDPR). Cyber security. "
+    },
+    {
+      "knowledgeId": "4a62cc7b-a4af-40f6-954b-2c86be04efc8",
+      "detail": "Organisational and safety requirements for a clean and safe working area."
+    },
+    {
+      "knowledgeId": "4d741b5d-5b58-4604-8ba0-52fef019f48f",
+      "detail": "Reporting and escalation procedures."
+    },
+    {
+      "knowledgeId": "bc36eb42-f57a-4c49-b51b-61b34090a814",
+      "detail": "Techniques for the safe storage and disposal of components, substances, hazardous materials and alternative propulsion sources, for example electric battery packs, liquefied nitrogen gas or compressed natural gas and hydrogen. Environmental regulations, industry standards and company policy."
+    },
+    {
+      "knowledgeId": "2be1c52c-8d7e-4bce-bd63-ea703fe1f875",
+      "detail": "Techniques and processes for controlling and managing spills."
+    },
+    {
+      "knowledgeId": "ca7b5a4b-46ff-47d4-9387-88e0662ff89e",
+      "detail": "Modification tools for bus, coach and heavy goods vehicles."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "6849b0ad-4936-4ce4-b15d-b3c6c2cffd22",
+      "detail": "Prioritise health and safety."
+    },
+    {
+      "behaviourId": "83dc357b-622b-4761-b399-22e64c7a5a85",
+      "detail": "Team focused to meet work goals."
+    },
+    {
+      "behaviourId": "93d44e2e-4926-466a-88a9-7e8f3b5a041d",
+      "detail": "Support an inclusive workplace for example, respectful of different views."
+    },
+    {
+      "behaviourId": "63699744-8b5c-4bf0-80c2-b9678557e28c",
+      "detail": "Seek learning and development opportunities."
+    },
+    {
+      "behaviourId": "91fa79c7-b590-4574-9a02-190f9f23f3d5",
+      "detail": "Consider the impact on the environment when using resources and carrying out work. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "5c266e18-44f6-4da5-8c4a-007c9746ba3e",
+      "detail": "Comply with health and safety legislation and regulations."
+    },
+    {
+      "skillId": "be4fae67-87a1-409d-9c7d-12799a9648cc",
+      "detail": "Apply safe systems of work."
+    },
+    {
+      "skillId": "881693ab-718a-44b0-9d5a-49ae858ea658",
+      "detail": "Comply with techniques and processes for carrying out a bus, coach and heavy goods vehicle routine service."
+    },
+    {
+      "skillId": "9313da15-be65-4294-bba6-e8efb74f53dc",
+      "detail": "Identify components that require repair or replacement. "
+    },
+    {
+      "skillId": "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+      "detail": "Remove and replace vehicle components."
+    },
+    {
+      "skillId": "8f02931a-fc7a-4454-acfe-26c8250188b4",
+      "detail": "Inspect a vehicle to ascertain if it meets operators licensing requirements."
+    },
+    {
+      "skillId": "77f24212-ed29-4c2f-bbae-69de16b3f2bd",
+      "detail": "Select and use Personal Protective Equipment (PPE)."
+    },
+    {
+      "skillId": "36d6a839-ac64-45dc-b858-02c916310af2",
+      "detail": "Select and use Vehicle Protective Equipment (VPE). "
+    },
+    {
+      "skillId": "33525a41-7ffd-49d1-8c34-7fe763eb1633",
+      "detail": "Safely store and dispose of components, substances, hazardous materials or alternative propulsion sources."
+    },
+    {
+      "skillId": "b6f173cf-8911-4bf1-90bf-78724d81fe33",
+      "detail": "Control and manage spills."
+    },
+    {
+      "skillId": "d160509d-51cc-4184-9a0f-e860085de07a",
+      "detail": "Access and interpret information. "
+    },
+    {
+      "skillId": "02e3c984-785e-45b6-8365-88982cbcd097",
+      "detail": "Record or enter information - paper based or electronic. "
+    },
+    {
+      "skillId": "58a98f99-2c77-444e-9482-d1324ae9d3fa",
+      "detail": "Select, use, clean and maintain equipment and tools appropriate to the task."
+    },
+    {
+      "skillId": "0441d072-445b-41f3-8d53-beff4dbcc700",
+      "detail": "Follow equity, diversity and inclusion guidance."
+    },
+    {
+      "skillId": "12630457-fdf7-462d-bd61-80745ad34b22",
+      "detail": "Communicate in writing with others for example, internal and external customers, colleagues, or managers. "
+    },
+    {
+      "skillId": "dff83040-a1d7-4b3b-ac91-3da98a96d6d2",
+      "detail": "Communicate with others verbally for example, internal and external customers, colleagues, or managers. "
+    },
+    {
+      "skillId": "6c9385ad-b9f0-4e2a-8aa9-302f05a8e7e7",
+      "detail": "Carry out and record learning and development activities."
+    },
+    {
+      "skillId": "2508a6ed-44ad-41f1-8f21-8de4e3a7a533",
+      "detail": "Follow procedures in line with environmental and sustainability regulations, standards, and guidance. Segregate resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "bc48208e-a781-49db-b4c5-e4bd19d885db",
+      "detail": "Apply team working principles."
+    },
+    {
+      "skillId": "78a36158-665f-41a4-bede-340ba18e10ce",
+      "detail": "Apply techniques for checks and testing, including emissions and brakes."
+    },
+    {
+      "skillId": "35660653-fc96-4216-aa29-9199e22ec9b5",
+      "detail": "Use information technology and digital systems. Comply with GDPR and cyber security."
+    },
+    {
+      "skillId": "fdffd15c-c3ec-4cbd-958e-92af009dc9d8",
+      "detail": "Escalate issues in line with responsibilities. "
+    },
+    {
+      "skillId": "1ea617d5-f816-4f7b-9672-b1fcc1d30528",
+      "detail": "Maintain a clean tidy and safe working area."
+    },
+    {
+      "skillId": "725a020c-b926-4c57-ae78-3495e406c82e",
+      "detail": "Select and use materials, for example to modify and fabricate parts."
+    },
+    {
+      "skillId": "2d80c3d4-09a7-480e-80cc-4eb66f1e37db",
+      "detail": "Apply fundamental knowledge of bus, coach and heavy goods vehicle mechanics."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2026-08-05T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0015",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Arriva UK Bus, DAF Trucks Ltd, Daimler, First Bus, IVECO, John Lewis, MAN Truck & Bus UK Ltd, Metroline, National Express, Renault Trucks UK Ltd, SAGA Truck & Van, Scania GB Ltd, Stagecoach, trentbarton, Volvo Truck and Bus",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Inspection technician",
+    "Service and maintenance technician",
+    "Service technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
+  "createdDate": "2026-08-05T10:18:56 +00:00",
+  "lastUpdated": "2026-08-05T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2026-08-05T00:00:00 +00:00",
+  "banners": "This apprenticeship standard was approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable assessment organisation is in place. Once an assessment organisation is in place, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC1422",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1422-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1422-v2-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "b53c2313-efba-4696-a86b-369f6ab1ae1b",
+      "dutyDetail": "Obtain, interpret and use relevant technical and task-related documentation and information to complete inspection, servicing and maintenance activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6849b0ad-4936-4ce4-b15d-b3c6c2cffd22",
+        "83dc357b-622b-4761-b399-22e64c7a5a85",
+        "93d44e2e-4926-466a-88a9-7e8f3b5a041d",
+        "63699744-8b5c-4bf0-80c2-b9678557e28c",
+        "91fa79c7-b590-4574-9a02-190f9f23f3d5"
+      ],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "d56c818e-e8c6-4ae0-8204-75c7c9cc6afe",
+        "d0e98fe1-173a-4939-91d5-2b6dcd043186",
+        "87ab3e03-15dd-4447-a3ad-bc4a64cd2168",
+        "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+        "f60b84fd-d585-48fb-bbc9-4960dc381082",
+        "9169d215-ddfb-4f54-82d1-9477e1315230",
+        "a145022c-dab9-4fcc-9d9b-8d4b2aceb588",
+        "7ac53d72-0355-403c-b14c-40f48ac81083",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "5516260f-56ba-4a71-82f3-86b9fa3c1603",
+        "b04adf77-4d02-47a9-a49a-0f2551b1b366",
+        "f4f2565c-61c7-4431-9fcd-cbaa79b9de73",
+        "d3593c60-2e50-4786-9210-9ab1f4cbab08",
+        "9e902cb3-5edf-4ca2-9170-77f6b5ef1ae6",
+        "0f057cc5-8899-4c0f-a587-919f98e5f0f3",
+        "4a62cc7b-a4af-40f6-954b-2c86be04efc8",
+        "bc36eb42-f57a-4c49-b51b-61b34090a814",
+        "2be1c52c-8d7e-4bce-bd63-ea703fe1f875",
+        "ca7b5a4b-46ff-47d4-9387-88e0662ff89e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5c266e18-44f6-4da5-8c4a-007c9746ba3e",
+        "be4fae67-87a1-409d-9c7d-12799a9648cc",
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "9313da15-be65-4294-bba6-e8efb74f53dc",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "8f02931a-fc7a-4454-acfe-26c8250188b4",
+        "77f24212-ed29-4c2f-bbae-69de16b3f2bd",
+        "36d6a839-ac64-45dc-b858-02c916310af2",
+        "d160509d-51cc-4184-9a0f-e860085de07a",
+        "02e3c984-785e-45b6-8365-88982cbcd097",
+        "58a98f99-2c77-444e-9482-d1324ae9d3fa",
+        "2508a6ed-44ad-41f1-8f21-8de4e3a7a533",
+        "78a36158-665f-41a4-bede-340ba18e10ce",
+        "35660653-fc96-4216-aa29-9199e22ec9b5",
+        "725a020c-b926-4c57-ae78-3495e406c82e",
+        "2d80c3d4-09a7-480e-80cc-4eb66f1e37db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f63fb39a-6e4a-4219-9fc2-6b5d02108fac",
+      "dutyDetail": "Select, inspect, use and maintain hand tools, measuring devices and workshop equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "51ab0819-0197-416a-a7fd-4950535d97f9",
+        "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+        "f60b84fd-d585-48fb-bbc9-4960dc381082",
+        "7ac53d72-0355-403c-b14c-40f48ac81083",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "23144739-8d54-419a-bc46-cc3fd7f5f3de"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "9313da15-be65-4294-bba6-e8efb74f53dc",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "8f02931a-fc7a-4454-acfe-26c8250188b4",
+        "58a98f99-2c77-444e-9482-d1324ae9d3fa",
+        "78a36158-665f-41a4-bede-340ba18e10ce",
+        "725a020c-b926-4c57-ae78-3495e406c82e",
+        "2d80c3d4-09a7-480e-80cc-4eb66f1e37db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9a920e2a-4d37-48bf-8900-ab18e0c01b60",
+      "dutyDetail": "Select materials and carry out service and maintenance on vehicles including diesel, hydrogen cell, battery and gas powered.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "51ab0819-0197-416a-a7fd-4950535d97f9",
+        "da67ad73-e0bc-49e0-acdc-9f8083c87c3f",
+        "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+        "f60b84fd-d585-48fb-bbc9-4960dc381082",
+        "7ac53d72-0355-403c-b14c-40f48ac81083",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "58a98f99-2c77-444e-9482-d1324ae9d3fa",
+        "725a020c-b926-4c57-ae78-3495e406c82e",
+        "2d80c3d4-09a7-480e-80cc-4eb66f1e37db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed517673-3951-430a-b024-434330ed983f",
+      "dutyDetail": "Conduct routine heavy vehicle maintenance and safety inspections and servicing in line with legal requirements on vehicles including diesel, hydrogen cell, battery and gas powered.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "51ab0819-0197-416a-a7fd-4950535d97f9",
+        "da67ad73-e0bc-49e0-acdc-9f8083c87c3f",
+        "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+        "f60b84fd-d585-48fb-bbc9-4960dc381082",
+        "9169d215-ddfb-4f54-82d1-9477e1315230",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "b04adf77-4d02-47a9-a49a-0f2551b1b366"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "9313da15-be65-4294-bba6-e8efb74f53dc",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "8f02931a-fc7a-4454-acfe-26c8250188b4",
+        "78a36158-665f-41a4-bede-340ba18e10ce",
+        "2d80c3d4-09a7-480e-80cc-4eb66f1e37db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cfbca4ac-1db8-4f1b-b29e-95790296d025",
+      "dutyDetail": "Complete scheduled vehicle checks: remove and refit all vehicle components to manufacturers' specifications, including but not limited to engine, driveline, chassis and auxiliary systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "51ab0819-0197-416a-a7fd-4950535d97f9",
+        "da67ad73-e0bc-49e0-acdc-9f8083c87c3f",
+        "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+        "f60b84fd-d585-48fb-bbc9-4960dc381082",
+        "9169d215-ddfb-4f54-82d1-9477e1315230",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "b04adf77-4d02-47a9-a49a-0f2551b1b366"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "9313da15-be65-4294-bba6-e8efb74f53dc",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "8f02931a-fc7a-4454-acfe-26c8250188b4",
+        "78a36158-665f-41a4-bede-340ba18e10ce",
+        "2d80c3d4-09a7-480e-80cc-4eb66f1e37db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "56f5022e-a606-4523-a23f-67f9df2fb362",
+      "dutyDetail": "Modify and fabricate parts using metals or plastics as required to make repairs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "51ab0819-0197-416a-a7fd-4950535d97f9",
+        "da67ad73-e0bc-49e0-acdc-9f8083c87c3f",
+        "9169d215-ddfb-4f54-82d1-9477e1315230",
+        "ca7b5a4b-46ff-47d4-9387-88e0662ff89e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "725a020c-b926-4c57-ae78-3495e406c82e",
+        "2d80c3d4-09a7-480e-80cc-4eb66f1e37db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c746de57-bf7e-465a-9449-84d821fc9ec1",
+      "dutyDetail": "Complete process documentation - digital or paper-based. For example, job sheets, service records, safety assurance records, to manufacturers specifications, company policies or processes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "83dc357b-622b-4761-b399-22e64c7a5a85"
+      ],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "d0e98fe1-173a-4939-91d5-2b6dcd043186",
+        "87ab3e03-15dd-4447-a3ad-bc4a64cd2168",
+        "51ab0819-0197-416a-a7fd-4950535d97f9",
+        "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+        "a145022c-dab9-4fcc-9d9b-8d4b2aceb588",
+        "7ac53d72-0355-403c-b14c-40f48ac81083",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "f4f2565c-61c7-4431-9fcd-cbaa79b9de73",
+        "d3593c60-2e50-4786-9210-9ab1f4cbab08",
+        "0f057cc5-8899-4c0f-a587-919f98e5f0f3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "8f02931a-fc7a-4454-acfe-26c8250188b4",
+        "d160509d-51cc-4184-9a0f-e860085de07a",
+        "02e3c984-785e-45b6-8365-88982cbcd097",
+        "12630457-fdf7-462d-bd61-80745ad34b22",
+        "bc48208e-a781-49db-b4c5-e4bd19d885db",
+        "78a36158-665f-41a4-bede-340ba18e10ce",
+        "35660653-fc96-4216-aa29-9199e22ec9b5",
+        "fdffd15c-c3ec-4cbd-958e-92af009dc9d8",
+        "2d80c3d4-09a7-480e-80cc-4eb66f1e37db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6c85d858-7f15-49f3-aacd-20852fabb611",
+      "dutyDetail": "Comply with health, safety and environmental regulations, identifying hazards and potential risks within the automotive environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6849b0ad-4936-4ce4-b15d-b3c6c2cffd22",
+        "91fa79c7-b590-4574-9a02-190f9f23f3d5"
+      ],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "d56c818e-e8c6-4ae0-8204-75c7c9cc6afe",
+        "d98adb38-ff63-4929-979b-32784580648c",
+        "a145022c-dab9-4fcc-9d9b-8d4b2aceb588",
+        "7ac53d72-0355-403c-b14c-40f48ac81083",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "5516260f-56ba-4a71-82f3-86b9fa3c1603",
+        "41e02807-c204-403b-963a-ab898be3d857",
+        "9e902cb3-5edf-4ca2-9170-77f6b5ef1ae6",
+        "23144739-8d54-419a-bc46-cc3fd7f5f3de",
+        "4a62cc7b-a4af-40f6-954b-2c86be04efc8",
+        "bc36eb42-f57a-4c49-b51b-61b34090a814",
+        "2be1c52c-8d7e-4bce-bd63-ea703fe1f875"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5c266e18-44f6-4da5-8c4a-007c9746ba3e",
+        "be4fae67-87a1-409d-9c7d-12799a9648cc",
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "8f02931a-fc7a-4454-acfe-26c8250188b4",
+        "77f24212-ed29-4c2f-bbae-69de16b3f2bd",
+        "36d6a839-ac64-45dc-b858-02c916310af2",
+        "33525a41-7ffd-49d1-8c34-7fe763eb1633",
+        "b6f173cf-8911-4bf1-90bf-78724d81fe33",
+        "2508a6ed-44ad-41f1-8f21-8de4e3a7a533"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d2b8da71-b6e4-4d62-82cd-5b759ac971cd",
+      "dutyDetail": "Participate in risk assessment activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6849b0ad-4936-4ce4-b15d-b3c6c2cffd22",
+        "83dc357b-622b-4761-b399-22e64c7a5a85"
+      ],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "7ac53d72-0355-403c-b14c-40f48ac81083",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "5516260f-56ba-4a71-82f3-86b9fa3c1603",
+        "41e02807-c204-403b-963a-ab898be3d857",
+        "d3593c60-2e50-4786-9210-9ab1f4cbab08",
+        "b9c7e749-ca8b-4cca-8183-f8f556aa0e28",
+        "9e902cb3-5edf-4ca2-9170-77f6b5ef1ae6",
+        "d4757b3a-8552-4cd2-8fc3-66f74f2317c9",
+        "4a62cc7b-a4af-40f6-954b-2c86be04efc8",
+        "4d741b5d-5b58-4604-8ba0-52fef019f48f",
+        "bc36eb42-f57a-4c49-b51b-61b34090a814",
+        "2be1c52c-8d7e-4bce-bd63-ea703fe1f875"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5c266e18-44f6-4da5-8c4a-007c9746ba3e",
+        "be4fae67-87a1-409d-9c7d-12799a9648cc",
+        "12630457-fdf7-462d-bd61-80745ad34b22",
+        "dff83040-a1d7-4b3b-ac91-3da98a96d6d2",
+        "bc48208e-a781-49db-b4c5-e4bd19d885db",
+        "fdffd15c-c3ec-4cbd-958e-92af009dc9d8",
+        "1ea617d5-f816-4f7b-9672-b1fcc1d30528"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fdacce40-7aa3-4aab-9d93-b42d588c50c4",
+      "dutyDetail": "Protect vehicles and the surrounding environment with appropriate safety and protective equipment. Use personal protective equipment within the automotive environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6849b0ad-4936-4ce4-b15d-b3c6c2cffd22",
+        "91fa79c7-b590-4574-9a02-190f9f23f3d5"
+      ],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "d98adb38-ff63-4929-979b-32784580648c",
+        "51ab0819-0197-416a-a7fd-4950535d97f9",
+        "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+        "7ac53d72-0355-403c-b14c-40f48ac81083",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "5516260f-56ba-4a71-82f3-86b9fa3c1603",
+        "41e02807-c204-403b-963a-ab898be3d857",
+        "23144739-8d54-419a-bc46-cc3fd7f5f3de",
+        "4a62cc7b-a4af-40f6-954b-2c86be04efc8",
+        "bc36eb42-f57a-4c49-b51b-61b34090a814"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5c266e18-44f6-4da5-8c4a-007c9746ba3e",
+        "be4fae67-87a1-409d-9c7d-12799a9648cc",
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "8f02931a-fc7a-4454-acfe-26c8250188b4",
+        "77f24212-ed29-4c2f-bbae-69de16b3f2bd",
+        "36d6a839-ac64-45dc-b858-02c916310af2",
+        "33525a41-7ffd-49d1-8c34-7fe763eb1633",
+        "b6f173cf-8911-4bf1-90bf-78724d81fe33",
+        "78a36158-665f-41a4-bede-340ba18e10ce",
+        "1ea617d5-f816-4f7b-9672-b1fcc1d30528"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2b685687-a0e3-48ea-89c4-6226b77995e7",
+      "dutyDetail": "Maintain the work area (housekeeping) following safety, environmental and risk management systems. Ensure waste is separated, segregated and handled in accordance with environmental standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6849b0ad-4936-4ce4-b15d-b3c6c2cffd22",
+        "91fa79c7-b590-4574-9a02-190f9f23f3d5"
+      ],
+      "mappedKnowledge": [
+        "0a1ae648-8b8b-4c85-bb98-d61e0aabcbec",
+        "51ab0819-0197-416a-a7fd-4950535d97f9",
+        "20754f2e-3c23-4912-bfd4-5b490c2cbdd5",
+        "fbe58e74-6795-4a5d-bdbc-746b70918dc7",
+        "5516260f-56ba-4a71-82f3-86b9fa3c1603",
+        "41e02807-c204-403b-963a-ab898be3d857",
+        "9e902cb3-5edf-4ca2-9170-77f6b5ef1ae6",
+        "23144739-8d54-419a-bc46-cc3fd7f5f3de",
+        "4a62cc7b-a4af-40f6-954b-2c86be04efc8",
+        "bc36eb42-f57a-4c49-b51b-61b34090a814",
+        "2be1c52c-8d7e-4bce-bd63-ea703fe1f875"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5c266e18-44f6-4da5-8c4a-007c9746ba3e",
+        "be4fae67-87a1-409d-9c7d-12799a9648cc",
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "a68ddc55-f95f-4ac3-bdd1-df280bcd8aeb",
+        "8f02931a-fc7a-4454-acfe-26c8250188b4",
+        "77f24212-ed29-4c2f-bbae-69de16b3f2bd",
+        "36d6a839-ac64-45dc-b858-02c916310af2",
+        "33525a41-7ffd-49d1-8c34-7fe763eb1633",
+        "b6f173cf-8911-4bf1-90bf-78724d81fe33",
+        "2508a6ed-44ad-41f1-8f21-8de4e3a7a533",
+        "bc48208e-a781-49db-b4c5-e4bd19d885db",
+        "78a36158-665f-41a4-bede-340ba18e10ce",
+        "1ea617d5-f816-4f7b-9672-b1fcc1d30528"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84b45acc-9f9a-4950-aec3-eff380707c78",
+      "dutyDetail": "Establish safe, supportive and respectful relationships with individuals within the work environment. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "83dc357b-622b-4761-b399-22e64c7a5a85",
+        "93d44e2e-4926-466a-88a9-7e8f3b5a041d",
+        "63699744-8b5c-4bf0-80c2-b9678557e28c"
+      ],
+      "mappedKnowledge": [
+        "d98adb38-ff63-4929-979b-32784580648c",
+        "1fb6b3e5-f821-4c4b-95ce-177aa13a5738",
+        "a145022c-dab9-4fcc-9d9b-8d4b2aceb588",
+        "5516260f-56ba-4a71-82f3-86b9fa3c1603",
+        "41e02807-c204-403b-963a-ab898be3d857",
+        "adcd5f38-6dec-4187-aa12-4217818194fd",
+        "d3593c60-2e50-4786-9210-9ab1f4cbab08",
+        "b9c7e749-ca8b-4cca-8183-f8f556aa0e28",
+        "d4757b3a-8552-4cd2-8fc3-66f74f2317c9",
+        "0f057cc5-8899-4c0f-a587-919f98e5f0f3",
+        "4a62cc7b-a4af-40f6-954b-2c86be04efc8",
+        "4d741b5d-5b58-4604-8ba0-52fef019f48f",
+        "bc36eb42-f57a-4c49-b51b-61b34090a814",
+        "2be1c52c-8d7e-4bce-bd63-ea703fe1f875"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5c266e18-44f6-4da5-8c4a-007c9746ba3e",
+        "be4fae67-87a1-409d-9c7d-12799a9648cc",
+        "881693ab-718a-44b0-9d5a-49ae858ea658",
+        "0441d072-445b-41f3-8d53-beff4dbcc700",
+        "12630457-fdf7-462d-bd61-80745ad34b22",
+        "dff83040-a1d7-4b3b-ac91-3da98a96d6d2",
+        "6c9385ad-b9f0-4e2a-8aa9-302f05a8e7e7",
+        "bc48208e-a781-49db-b4c5-e4bd19d885db",
+        "35660653-fc96-4216-aa29-9199e22ec9b5",
+        "fdffd15c-c3ec-4cbd-958e-92af009dc9d8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-08-05T00:00:00"
+}
