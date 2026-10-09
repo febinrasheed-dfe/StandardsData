@@ -10,17 +10,17 @@
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0537",
   "qualificationStandardUrl": null,
   "versionNumber": "",
-  "change": "Occupational standard revised",
-  "changedDate": "2026-04-01T00:00:00",
-  "earliestStartDate": null,
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-08-13T00:00:00",
+  "earliestStartDate": "2027-01-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of engineering operations.",
   "level": 2,
   "ePALength": 0,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": "",
-  "maxFunding": 0,
+  "minimumHoursForCompliance": "300",
+  "maxFunding": 10000,
   "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
@@ -42,7 +42,7 @@
     "Multi skilled maintenance operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0537-in-revision?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "2.0",
@@ -551,7 +551,7 @@
   "standardApproved": "",
   "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -565,7 +565,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0170",
-  "tbMainContact": "neil.fowkes@jcb.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Amazon, BAE Systems, Biffa, Collins Aerospace, GET training, GTA England, Hamble Aerostructures Ltd, J.C. Bamford Excavators Limited, JCB, Make UK, Mira showers, NFEC, Ontic, PETA, Prima Dental, SPP Pumps, The MTC, Warburtons, Xtrac",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -589,8 +589,8 @@
   "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
-  "createdDate": "2026-04-01T14:11:32 +00:00",
-  "lastUpdated": "2026-04-01T00:00:00 +00:00",
+  "createdDate": "2026-08-13T09:48:51 +00:00",
+  "lastUpdated": "2026-08-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-09-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0537",
@@ -601,7 +601,7 @@
       "qualificationId": "1751fa32-1226-45fd-b878-33355dd7796f",
       "title": "Level 2 Diploma in engineering operations (skills)",
       "level": "2",
-      "anyAdditionalInformation": "Completion of this section is under the new approach as part of the wider apprenticeship assessment reform.",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification.",
       "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
@@ -1094,5 +1094,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-04-01T00:00:00"
+  "publishDate": "2027-01-14T00:00:00"
 }
