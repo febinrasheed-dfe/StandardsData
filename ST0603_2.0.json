@@ -1,0 +1,810 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 323,
+  "referenceNumber": "ST0603",
+  "learningAimClassCode": "",
+  "title": "Professional economist (integrated degree)",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0603",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-30T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Producing rigorous, relevant, and impactful economic analysis to drive decision-making at all levels",
+  "level": 6,
+  "ePALength": 0,
+  "typicalDuration": 46,
+  "minimumHoursForCompliance": "905",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Legal, finance and accounting",
+  "keywords": [
+    "professional economist",
+    "degree",
+    "analysis",
+    "rigorous",
+    "economic",
+    "professional"
+  ],
+  "jobRoles": [
+    "Assistant economist",
+    "Associate economist",
+    "Economic analyst",
+    "Economist",
+    "Junior economist",
+    "Carbon economist",
+    "Climate change economist"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0603-in-revision?view=epa",
+  "ssa1": "11 Social Sciences",
+  "ssa2": "11.4 Economics",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Typical job titles include &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Assistant Economist, Junior Economist, Associate Economist, Economic Analyst, Economist&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Occupational profile &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The core responsibilities of a Professional Economist are to produce rigorous, relevant and impactful economic analysis to drive decision-making at all levels – from operational decisions to strategic business and policy decisions. Professional economists work in a wide range of industries and sectors, from small consultancies to large banks to the civil service and wider public sector. While each of these brings their own specialisms, the work of a professional economist typically involves identifying a question of interest that affects their organisation, approaching it by analysing data, interpreting this by drawing on a knowledge of economic theory or making informed predictions about the future, and communicating any findings with clarity.&lt;/p&gt;\n&lt;p&gt;Examples of this include: analysing the comparative benefits of investing in new transport lines, hospitals, or schools; advising clients on their likely market size and share, such as predicting the number of mobile phones they can expect to sell; helping write the Chancellor of the Exchequer’s Budget or advising the Bank of England on interest rate policy; advising organisations on the economic impact of climate or technological change and what their business or policy response should be.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Professional economists usually work in teams, and at this level the apprentice will typically be working for more a senior economist as part of a team – for example by collating data, performing analysis of trends, writing briefing reports, analysing market share and size of companies, and presenting this analysis. Completion of this integrated degree apprenticeship will enable individuals to work across employers of professional economists in the private, public and third sectors.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Entry requirements &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Entry requirements will be decided by individual employers. Candidates might typically have three A levels or equivalent relevant Level 3 qualifications, preferably including Maths or a willingness to improve maths capability to this level. This apprenticeship is also open to bright, enthusiastic applicants with other relevant qualifications or previous experience.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Typically, 42-48 months.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualification &amp;amp; Level &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;All apprentices must complete a level 6 Professional Economist Degree (BSc or BA). Apprentices without level 2 English and Maths will need to achieve this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&amp;nbsp;&amp;nbsp; &lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review Date &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard should be reviewed within three years of its approval.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge, skills and behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/th&gt;\n&lt;th&gt;&lt;strong&gt;What is required (through formal learning and applied according to the business environment)&lt;/strong&gt;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Economic theory&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Knowledge of economic theory, including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Core economic insights: the problem of allocating and distributing scarce resources, considering ‘marginal’ effects (e.g. the effect of receiving additional income, or buying one additional good or service), what factors individuals consider in making economic decisions, how those decisions can have different impacts on different parts of the population, and how to define the level of satisfaction they derive from consuming goods or services.&lt;/li&gt;\n&lt;li&gt;Microeconomic theory: the interaction of supply and demand; how markets operate and when they do not work well; how to assess the potential size of a market for a good or service; how individuals and firms make decisions; how firms compete and how industries are structured; how to incorporate realistic assumptions about human behaviour into economic analysis; how to value goods and services, including when their financial value might not be obvious, how to compare costs and benefits of different courses of action in order to inform a decision.&lt;/li&gt;\n&lt;li&gt;Macroeconomic theory: how the economy operates at different levels; what national income and economic growth is, how economists measure it, why it matters and what drives it; what affects unemployment, wages, and prices; how government policy and international events can affect the economy and trade-offs that governments face; inequality and the distribution of income; the role of the financial system in the economy; and broad knowledge of UK economic history.&lt;/li&gt;\n&lt;li&gt;International economics: exchange rates, how the economy operates at an international level and the institutions that support it, why and how countries trade, trade policy, international financial markets.&lt;/li&gt;\n&lt;li&gt;Pluralism and debates in economics: knowledge of different perspectives and approaches in economics, knowledge of current debates in economic research.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Throughout the above, knowledge of: how economic theory relates to history and institutions, and how this has changed over time; how theory is used in economic policy decisions; limits of economic theory and economics’ interaction with the other social sciences; how this informs the economic analysis used in the employing organisation.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Applied statistical knowledge&lt;/td&gt;\n&lt;td&gt;To turn the theory above into practical analysis, a comprehensive understanding of statistical methods for applied economic analysis is needed, as well as an understanding of the data itself. This must include: use of statistical software; an understanding of how to determine whether a change in one variable causes a change in another; handling data sets; policy evaluation methods; understanding the appropriate method to be used in each situation; how economic statistics are constructed and how to use them.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr style=&quot;height: 64px&quot;&gt;\n&lt;th style=&quot;height: 64px&quot;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/th&gt;\n&lt;th style=&quot;height: 64px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required (through formal learning and applied according to the business environment)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 336px&quot;&gt;\n&lt;td style=&quot;height: 336px&quot;&gt;Applied economic and data analysis&lt;/td&gt;\n&lt;td style=&quot;height: 336px&quot;&gt;Rigorously analyse complex information and data, drawing on economics knowledge and applying it to questions of interest for the organisation, while being aware of the limitations of economic analysis and the available data. Demonstrate an excellent working knowledge of and effectively use appropriate statistical and spreadsheet software to deliver this analysis. Approach analysis as a practical problem solver: choose the appropriate approach from a range of economic and other analytical tools, use judgement where data is incomplete, consider the context, degree of uncertainty, time pressures, and the question that needs answering. Ensure analysis has impact: explain what is happening and why it matters, and propose solutions.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 210px&quot;&gt;\n&lt;td style=&quot;height: 210px&quot;&gt;Communication&lt;/td&gt;\n&lt;td style=&quot;height: 210px&quot;&gt;Clearly communicate economic concepts, analysis or advice, risks and uncertainty. Do this in both written and oral forms, to both specialists and non-specialists. Communicate with clarity and conciseness, tailoring communication to the audience to have the maximum impact. Demonstrate an ability to listen to, interpret and understand stakeholders’ needs, to ensure that economic analysis is answering a question that will address those needs.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 105px&quot;&gt;\n&lt;td style=&quot;height: 105px&quot;&gt;Synthesise evidence&lt;/td&gt;\n&lt;td style=&quot;height: 105px&quot;&gt;Use personal judgement in collating evidence from a wide range of sources, evaluating the relevance, quality and validity of research, and demonstrate an ability to distil this evidence so that it answers the question at hand.&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 126px&quot;&gt;\n&lt;td style=&quot;height: 126px&quot;&gt;\n&lt;p&gt;Quality Assurance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 126px&quot;&gt;Review and quality assure the analysis of others to ensure it is of high quality. Provide appropriate challenge to methods and results, and continually evaluate the quality of analysis to ensure that the organisation is producing robust economic analysis which can stand up to scrutiny.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 85px&quot;&gt;\n&lt;td style=&quot;height: 85px&quot;&gt;Planning and Prioritisation&lt;/td&gt;\n&lt;td style=&quot;height: 85px&quot;&gt;Work to tight deadlines and respond to changing priorities. Effectively plan and prioritise time and coordinate the input of others in order to meet deadlines, across multiple projects.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 21px&quot;&gt;\n&lt;td style=&quot;height: 21px&quot;&gt;Team Working &amp;amp; Collaboration&lt;/td&gt;\n&lt;td style=&quot;height: 21px&quot;&gt;Work effectively in teams and with others, maintaining effective, professional working relationship both internally and externally across organisations.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/th&gt;\n&lt;th&gt;\n&lt;p&gt;&lt;strong&gt;What is required (through formal learning and applied according to the business environment)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Professional Scepticism&lt;/td&gt;\n&lt;td&gt;Demonstrate an attitude that includes a questioning mind, being alert to the dangers of misunderstanding or misrepresenting economic data; challenge and question evidence and approaches.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Leadership&lt;/td&gt;\n&lt;td&gt;Take responsibility for work assigned, demonstrating the drive and energy to get things done, even when under pressure. Proactively suggest areas in which economic and multidisciplinary analysis can improve the way the organisation operates, and anticipate where future demand for analysis will be needed.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Adaptability&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;Be willing to both listen and learn, and able to adapt to changing priorities. Have the flexibility to maintain high standards in a changing environment. Continually strive to improve own working processes and those of the organisation.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Collaborating and Partnering&lt;/td&gt;\n&lt;td&gt;Act as a team player, investing time to generate a common focus and genuine team spirit. Work collaboratively and build supportive, trusting and professional relationships with colleagues, including those of other professions and specialisms. &amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Ethics and Integrity&lt;/td&gt;\n&lt;td&gt;Be honest and principled in actions and interactions. Respect others and work within the ethical requirements of the profession and compliance rules of the organisation of employment.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; line-height: 115%&quot;&gt;This occupation is typically found across all industries and sectors, from small consultancies to large banks, the Civil Service, and the wider public sector.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; line-height: 115%&quot;&gt;The broad purpose of this occupation is to deliver economic analysis and recommendations that inform decision-makers.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; line-height: 115%&quot;&gt;In the public sector, professional economists may analyse the comparative benefits of investing in new infrastructure, such as transport networks, hospitals, or schools. In the private sector, they may advise on likely market size and share, such as predicting the volume of products expected to be sold. Increasingly, economists consider the economic impacts of climate and technological change and assess the appropriate business or policy responses.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; line-height: 115%&quot;&gt;Professional economists produce rigorous, relevant, and impactful economic analysis to support decision-making at all levels. They inform activities ranging from operational decisions to strategic business and policy decisions. Professional economists may work in specialist areas such as energy, agriculture, engineering, or digital technologies. Regardless of specialism, the work of a professional economist typically involves identifying questions of interest that affect their organisation. They approach problems by analysing and interpreting data, drawing on economic theory to make informed predictions about the future and communicating their findings clearly and effectively.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; line-height: 115%&quot;&gt;Professional economists usually work as part of a team and will typically report to a more senior economist. They may collate data, analyse trends, prepare briefing reports, assess market size and market share, and present their analysis to a range of audiences.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+      "detail": "Core economic insights, including that the choices humans make reveal intrinsic value, and that marginal analysis can be used to optimise outcomes and choices across a wide range of problems to maximise human wellbeing through the efficient use of resources."
+    },
+    {
+      "knowledgeId": "f06c95d9-9ba9-4e65-897d-8e939be66398",
+      "detail": "Microeconomic theory, including the interaction of supply and demand; how markets operate and when they do not work well; how to assess the potential size of a market for a good or service; how individuals and firms make decisions; how firms compete and how industries are structured; how to incorporate realistic assumptions about human behaviour into economic analysis; how to value goods and services, including when their financial value might not be obvious; and how to compare the costs and benefits of different courses of action to inform decision-making."
+    },
+    {
+      "knowledgeId": "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+      "detail": "Macroeconomic theory, including how the economy operates at different levels; what national income and economic growth are, how economists measure them, why they matter, and what drives them; the role of productivity in long-term growth; how to analyse growth trends and productivity drivers using macroeconomic and microeconomic tools; what affects unemployment, wages, and prices; how government policy and international events can affect the economy, and the trade-offs that governments face; inequality and the distribution of income; the role of the financial system in the economy; and broad knowledge of UK economic history."
+    },
+    {
+      "knowledgeId": "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+      "detail": "International economics, including exchange rates; how the economy operates at an international level and the institutions that support it; why and how countries trade; trade policy; and international financial markets."
+    },
+    {
+      "knowledgeId": "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+      "detail": "Economic theory and perspectives, including pluralism and key debates within economics."
+    },
+    {
+      "knowledgeId": "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+      "detail": "The history and application of economic theory, including how economic theory relates to history and institutions, and how this has changed over time; how theory is used in economic policy decisions; the limits of economic theory and economics' interaction with the other social sciences; and how this informs the economic analysis used in the employing organisation."
+    },
+    {
+      "knowledgeId": "b2a95279-fed7-48eb-8a60-6b6f4413fabc",
+      "detail": "Statistical and econometric methods for applied economic analysis."
+    },
+    {
+      "knowledgeId": "0b3ab790-87b1-4f0f-a32e-5e4a63bc0240",
+      "detail": "Principles of economic statistics, including how they are constructed, interpreted and applied."
+    },
+    {
+      "knowledgeId": "e9d9c8ce-a984-45c8-93da-0225e2f9d3a7",
+      "detail": "Approaches to selecting and using appropriate statistical software for economic analysis."
+    },
+    {
+      "knowledgeId": "9a137dd3-d8fe-466f-adb6-1e41f939a2eb",
+      "detail": "Mathematical modelling techniques used to analyse economic problems, forecast trends, and support decision-making."
+    },
+    {
+      "knowledgeId": "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+      "detail": "How bias can affect economic analysis, including cognitive and data-driven biases; the importance of inclusive analysis that serves the whole population; and ethical principles when interpreting and presenting data."
+    },
+    {
+      "knowledgeId": "6c32b936-788f-4822-8c18-a55d07119f32",
+      "detail": "Principles of working safely and securely with digital tools, including cybersecurity, data protection, and the ethical handling of datasets."
+    },
+    {
+      "knowledgeId": "8f21f24e-e32f-4097-b9aa-fc70193c1865",
+      "detail": "Principles of continuous professional development in economics, including research methodologies, publication processes, and knowledge transfer; and emerging fields such as behavioural economics, econometrics, and international trade, recognising their relevance and limitations in relation to the role."
+    },
+    {
+      "knowledgeId": "70dfc02a-5282-47f8-8eca-2b812f14139d",
+      "detail": "Tools and techniques for managing economic projects, including prioritisation, workflow management, and agile principles; collaborative platforms and shared databases to support research and analysis; and the importance of avoiding reliance on specific branded tools."
+    },
+    {
+      "knowledgeId": "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+      "detail": "The role of emerging technologies in the economy and workplace, including the opportunities and limitations of new digital tools in economic analysis and the associated ethical challenges."
+    },
+    {
+      "knowledgeId": "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+      "detail": "Principles of equity, justice, diversity, and inclusion, and how they impact economic outcomes for people and organisations."
+    },
+    {
+      "knowledgeId": "08301cbd-4407-48e4-a1f9-6c0089ec6c2b",
+      "detail": "The wider context for economic analysis, including organisational structures; business modelling; global and horizon-scanning perspectives; governance and accountability; technological and policy implications; and the impact of global trends, such as artificial intelligence in the economy, climate change, and sustainability."
+    },
+    {
+      "knowledgeId": "92138895-fdf5-45c6-8c9d-f1a0a3f3cf11",
+      "detail": "Policy evaluation methods and the selection of appropriate methods for assessing economic interventions in different contexts."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "0d53440d-2393-473a-96b0-786691c0b502",
+      "detail": "Demonstrates a questioning and reflective approach in their work."
+    },
+    {
+      "behaviourId": "e7a20dcb-5ca7-4172-bb61-194a5d12b512",
+      "detail": "Shows ownership of work and follows tasks through to completion."
+    },
+    {
+      "behaviourId": "5c922b82-8534-4fc1-859c-41d43a34d3c7",
+      "detail": "Shows initiative in identifying opportunities to add value."
+    },
+    {
+      "behaviourId": "d3104846-5ffb-4cb1-8f45-dcc272fac546",
+      "detail": "Responds positively to change and feedback."
+    },
+    {
+      "behaviourId": "736ebde9-24fe-425f-9876-97e3c331d362",
+      "detail": "Behaves with honesty, integrity, and respect for others in adherence with organisational requirements and professional standards, including the Royal Economic Society (RES) Code of Professional Conduct."
+    },
+    {
+      "behaviourId": "30274453-4d64-4b53-bd2e-478bade55225",
+      "detail": "Seeks to improve own performance and ways of working."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "2a1f7602-942d-436d-978c-81f91c340d6b",
+      "detail": "Analyse complex information and data, applying economic knowledge to questions of interest while recognising the limitations of economic analysis and available data, and the risks of misunderstanding or misrepresenting economic data."
+    },
+    {
+      "skillId": "e6878400-cd61-4dad-975c-65f655f00780",
+      "detail": "Use appropriate statistical, econometric, and spreadsheet software to deliver economic analysis, including the efficient and safe use of coding, programming languages, and new and emerging technologies."
+    },
+    {
+      "skillId": "2e05d30d-1ce3-4049-b03c-e074e469b2c4",
+      "detail": "Select appropriate analytical approaches from a range of economic and other analytical tools, applying judgement where data is incomplete, and considering context, degree of uncertainty, time pressures, and the question to be addressed, including identifying opportunities where further analysis would add value."
+    },
+    {
+      "skillId": "75c44ade-5287-4d24-b139-575b4fad9337",
+      "detail": "Ensure analysis has impact by understanding decision-makers’ needs, communicating findings and their significance clearly, and proposing actionable recommendations to inform decisions and improve outcomes."
+    },
+    {
+      "skillId": "3dfa73f6-0079-4b0b-818b-0f324adb05af",
+      "detail": "Communicate economic concepts, analysis, advice, risks, and uncertainty clearly and concisely, tailoring communication to the audience to maximise impact."
+    },
+    {
+      "skillId": "0aa7d302-336a-46eb-824e-c5d2d722f26d",
+      "detail": "Listen to, interpret, and understand stakeholders’ needs, including anticipating emerging stakeholder needs, to ensure that economic analysis addresses questions that effectively meet those needs."
+    },
+    {
+      "skillId": "0051e5ac-d0c8-4f7f-b821-2d7d93dc6d01",
+      "detail": "Collate evidence from a wide range of sources, assessing the relevance, quality, and validity of research, identifying gaps, bias, and uncertainty, and distilling findings to effectively address the question at hand."
+    },
+    {
+      "skillId": "58ad9028-228c-4a31-87a3-4939e238028b",
+      "detail": "Review and quality assure analysis, ensuring it meets professional and ethical standards; provide constructive challenge to methods, assumptions, evidence, and assess the robustness of conclusions; and evaluate the reliability of new and emerging information technologies, recognising the impact of data quality and bias on performance and accuracy."
+    },
+    {
+      "skillId": "f194a667-9899-4bbf-8f7b-709c7b98b754",
+      "detail": "Apply judgement to determine when and if simplified or rapid economic analysis is appropriate, identifying and communicating its limitations and risks to decision-makers."
+    },
+    {
+      "skillId": "0b506bc7-a3db-4509-ac2a-ddb7af8a7aae",
+      "detail": "Work to deadlines by planning and prioritising time, coordinating input from others, and responding effectively to changing priorities and requirements, even when under pressure."
+    },
+    {
+      "skillId": "c9e5dd9c-037b-4b76-8f17-91d208ae9eb9",
+      "detail": "Develop and maintain collaborative and professional working relationships to support effective cross-disciplinary and cross-organisational working."
+    },
+    {
+      "skillId": "386b0d58-8c60-400c-b6c9-b864bceb8804",
+      "detail": "Handle and manage data safely and securely in accordance with relevant protocols and procedures in compliance with legal, ethical, and organisational policies and requirements."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0153",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Bank of England, Council of the society of professional economists, Department of Business and Trade, Food Standards Agency (FSA), HMRC, Institute for Fiscal Studies, Ministry of Justice, OXERA, UKRI",
+  "otherInvolvedStakeholders": "Kent University",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Assistant economist",
+    "Associate economist",
+    "Economic analyst",
+    "Economist",
+    "Junior economist",
+    "Carbon economist",
+    "Climate change economist"
+  ],
+  "greenJobTitles": [
+    "Carbon economist",
+    "Climate change economist"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Financial",
+  "cluster": "Financial services professional",
+  "clusterId": "243",
+  "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
+  "createdDate": "2026-09-30T14:16:59 +00:00",
+  "lastUpdated": "2026-09-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-08-08T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0603",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0603-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0603-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "58ed0d71-bbf1-419a-966d-d0c6dec5636c",
+      "title": "Professional Economist BSc",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "Please refer to the Higher Education Provider to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "d74f11bf-fb18-4dcc-9e36-ad49e82b95c4",
+      "dutyDetail": "Discover what customers, citizens, businesses, or organisations need and how economic analysis can inform their work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3dfa73f6-0079-4b0b-818b-0f324adb05af",
+        "0aa7d302-336a-46eb-824e-c5d2d722f26d",
+        "c9e5dd9c-037b-4b76-8f17-91d208ae9eb9",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fc4d2920-c6d2-4925-8a73-80c22de4a9b5",
+      "dutyDetail": "Question and challenge stakeholder briefs to lead, influence, and guide stakeholders in determining the scope of analytical design work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3dfa73f6-0079-4b0b-818b-0f324adb05af",
+        "0aa7d302-336a-46eb-824e-c5d2d722f26d",
+        "c9e5dd9c-037b-4b76-8f17-91d208ae9eb9",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3dc51a8d-131e-4c6d-b1e6-5b4c94b29cd6",
+      "dutyDetail": "Support the planning and development of analytical strategies for economic analysis.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2a1f7602-942d-436d-978c-81f91c340d6b",
+        "2e05d30d-1ce3-4049-b03c-e074e469b2c4",
+        "f194a667-9899-4bbf-8f7b-709c7b98b754",
+        "c9e5dd9c-037b-4b76-8f17-91d208ae9eb9",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a80078b5-77a1-424c-8194-58e6697a00d8",
+      "dutyDetail": "Define and conduct research activities, including primary and secondary research using both qualitative and quantitative data, to fully understand users, their needs, and the context of a service.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2a1f7602-942d-436d-978c-81f91c340d6b",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a563257b-966a-4583-b749-3c16dc7e2ae9",
+      "dutyDetail": "Gather, select, and analyse data and evidence to support economic analysis.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "b2a95279-fed7-48eb-8a60-6b6f4413fabc",
+        "0b3ab790-87b1-4f0f-a32e-5e4a63bc0240",
+        "e9d9c8ce-a984-45c8-93da-0225e2f9d3a7",
+        "9a137dd3-d8fe-466f-adb6-1e41f939a2eb",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2a1f7602-942d-436d-978c-81f91c340d6b",
+        "e6878400-cd61-4dad-975c-65f655f00780",
+        "0051e5ac-d0c8-4f7f-b821-2d7d93dc6d01",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a07493f4-47c9-4f68-aa84-8a365f7f7718",
+      "dutyDetail": "Identify key themes and seek patterns and insights in research data to identify opportunities for improvement.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "b2a95279-fed7-48eb-8a60-6b6f4413fabc",
+        "0b3ab790-87b1-4f0f-a32e-5e4a63bc0240",
+        "e9d9c8ce-a984-45c8-93da-0225e2f9d3a7",
+        "9a137dd3-d8fe-466f-adb6-1e41f939a2eb",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "8f21f24e-e32f-4097-b9aa-fc70193c1865",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2a1f7602-942d-436d-978c-81f91c340d6b",
+        "e6878400-cd61-4dad-975c-65f655f00780",
+        "0051e5ac-d0c8-4f7f-b821-2d7d93dc6d01",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1089bfdb-2124-42bd-84a9-afeaa7417e7d",
+      "dutyDetail": "Conduct economic analysis of complex information and datasets to develop evidence-based conclusions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "b2a95279-fed7-48eb-8a60-6b6f4413fabc",
+        "0b3ab790-87b1-4f0f-a32e-5e4a63bc0240",
+        "e9d9c8ce-a984-45c8-93da-0225e2f9d3a7",
+        "9a137dd3-d8fe-466f-adb6-1e41f939a2eb",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2a1f7602-942d-436d-978c-81f91c340d6b",
+        "e6878400-cd61-4dad-975c-65f655f00780",
+        "75c44ade-5287-4d24-b139-575b4fad9337",
+        "0051e5ac-d0c8-4f7f-b821-2d7d93dc6d01",
+        "c9e5dd9c-037b-4b76-8f17-91d208ae9eb9",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7449182a-4aa0-4beb-a541-3ae81d8a4b51",
+      "dutyDetail": "Generate possible solutions by applying an understanding of emerging economic research and developments at the frontier of the discipline to identify innovative approaches to economic problems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "8f21f24e-e32f-4097-b9aa-fc70193c1865",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "75c44ade-5287-4d24-b139-575b4fad9337",
+        "0051e5ac-d0c8-4f7f-b821-2d7d93dc6d01",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f52f39c2-b5ed-4f8b-aa9b-cbad61c99856",
+      "dutyDetail": "Interpret, review, and reflect on the outcomes of economic analysis, including options and potential recommendations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "b2a95279-fed7-48eb-8a60-6b6f4413fabc",
+        "0b3ab790-87b1-4f0f-a32e-5e4a63bc0240",
+        "e9d9c8ce-a984-45c8-93da-0225e2f9d3a7",
+        "9a137dd3-d8fe-466f-adb6-1e41f939a2eb",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e6878400-cd61-4dad-975c-65f655f00780",
+        "75c44ade-5287-4d24-b139-575b4fad9337",
+        "0051e5ac-d0c8-4f7f-b821-2d7d93dc6d01",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0f3f9e57-5a5f-41ea-871d-39c6c1c4f992",
+      "dutyDetail": "Create data visualisations to communicate economic principles, analysis, and recommendations to technical and non-technical stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "b2a95279-fed7-48eb-8a60-6b6f4413fabc",
+        "0b3ab790-87b1-4f0f-a32e-5e4a63bc0240",
+        "e9d9c8ce-a984-45c8-93da-0225e2f9d3a7",
+        "9a137dd3-d8fe-466f-adb6-1e41f939a2eb",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e6878400-cd61-4dad-975c-65f655f00780",
+        "75c44ade-5287-4d24-b139-575b4fad9337",
+        "3dfa73f6-0079-4b0b-818b-0f324adb05af",
+        "c9e5dd9c-037b-4b76-8f17-91d208ae9eb9",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f5a4637b-1900-4748-b1ac-9e5885b58fd8",
+      "dutyDetail": "Communicate economic analysis and recommendations to stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "75c44ade-5287-4d24-b139-575b4fad9337",
+        "3dfa73f6-0079-4b0b-818b-0f324adb05af",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7a5c5838-397d-4e41-96e1-0e1c976ce96b",
+      "dutyDetail": "Test and improve solutions by evaluating ideas, seeking feedback, and making improvements based on user needs and institutional or societal goals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "5c922b82-8534-4fc1-859c-41d43a34d3c7",
+        "736ebde9-24fe-425f-9876-97e3c331d362",
+        "30274453-4d64-4b53-bd2e-478bade55225"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "b2a95279-fed7-48eb-8a60-6b6f4413fabc",
+        "0b3ab790-87b1-4f0f-a32e-5e4a63bc0240",
+        "e9d9c8ce-a984-45c8-93da-0225e2f9d3a7",
+        "9a137dd3-d8fe-466f-adb6-1e41f939a2eb",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "92138895-fdf5-45c6-8c9d-f1a0a3f3cf11"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "75c44ade-5287-4d24-b139-575b4fad9337",
+        "58ad9028-228c-4a31-87a3-4939e238028b",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "09412ab0-eff9-4036-93d8-b510a8885bf6",
+      "dutyDetail": "Evaluate success, measure the impact of changes made, and track progress over time.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "5c922b82-8534-4fc1-859c-41d43a34d3c7",
+        "736ebde9-24fe-425f-9876-97e3c331d362",
+        "30274453-4d64-4b53-bd2e-478bade55225"
+      ],
+      "mappedKnowledge": [
+        "0d3e630c-c881-4c6b-84fa-6e1f1821ea05",
+        "f06c95d9-9ba9-4e65-897d-8e939be66398",
+        "4d96cc6c-0ca1-4364-a5bb-56126474b4d4",
+        "54da2862-d1bf-43f6-bbe0-8f8c3df491e4",
+        "2d4ed289-63f3-454a-9405-8fec94cfafe4",
+        "b7a47011-49e9-45fa-b76d-4b9d759c03f7",
+        "b2a95279-fed7-48eb-8a60-6b6f4413fabc",
+        "0b3ab790-87b1-4f0f-a32e-5e4a63bc0240",
+        "e9d9c8ce-a984-45c8-93da-0225e2f9d3a7",
+        "9a137dd3-d8fe-466f-adb6-1e41f939a2eb",
+        "a916bc57-0e40-42e0-823d-90c2bdce82d3",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "92138895-fdf5-45c6-8c9d-f1a0a3f3cf11"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "75c44ade-5287-4d24-b139-575b4fad9337",
+        "58ad9028-228c-4a31-87a3-4939e238028b",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "05e5e888-7039-489b-b126-0b2a7ca158ee",
+      "dutyDetail": "Manage and lead ongoing change, supporting long-term improvements by working with influential stakeholders to implement necessary changes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e7a20dcb-5ca7-4172-bb61-194a5d12b512",
+        "5c922b82-8534-4fc1-859c-41d43a34d3c7",
+        "d3104846-5ffb-4cb1-8f45-dcc272fac546",
+        "736ebde9-24fe-425f-9876-97e3c331d362",
+        "30274453-4d64-4b53-bd2e-478bade55225"
+      ],
+      "mappedKnowledge": [
+        "8f21f24e-e32f-4097-b9aa-fc70193c1865",
+        "70dfc02a-5282-47f8-8eca-2b812f14139d",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e05d30d-1ce3-4049-b03c-e074e469b2c4",
+        "f194a667-9899-4bbf-8f7b-709c7b98b754",
+        "0b506bc7-a3db-4509-ac2a-ddb7af8a7aae",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7fce0bbb-ba1a-49a1-82d7-e995b7ed4524",
+      "dutyDetail": "Manage time and budget to keep projects on track by balancing deadlines, costs, and risks, while keeping the complexity and cost of analysis proportionate to the importance of the issues and decisions being considered.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e7a20dcb-5ca7-4172-bb61-194a5d12b512",
+        "d3104846-5ffb-4cb1-8f45-dcc272fac546",
+        "736ebde9-24fe-425f-9876-97e3c331d362"
+      ],
+      "mappedKnowledge": [
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "70dfc02a-5282-47f8-8eca-2b812f14139d",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e05d30d-1ce3-4049-b03c-e074e469b2c4",
+        "58ad9028-228c-4a31-87a3-4939e238028b",
+        "f194a667-9899-4bbf-8f7b-709c7b98b754",
+        "0b506bc7-a3db-4509-ac2a-ddb7af8a7aae",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0353bd66-9d6e-4d7b-bc11-81b6c55adbbf",
+      "dutyDetail": "Support the development of others by helping them acquire the skills needed to contribute to the work through coaching, mentoring, shadowing, collaborative working, or delivering training.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e7a20dcb-5ca7-4172-bb61-194a5d12b512",
+        "5c922b82-8534-4fc1-859c-41d43a34d3c7",
+        "736ebde9-24fe-425f-9876-97e3c331d362",
+        "30274453-4d64-4b53-bd2e-478bade55225"
+      ],
+      "mappedKnowledge": [
+        "8f21f24e-e32f-4097-b9aa-fc70193c1865",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f194a667-9899-4bbf-8f7b-709c7b98b754",
+        "0b506bc7-a3db-4509-ac2a-ddb7af8a7aae",
+        "c9e5dd9c-037b-4b76-8f17-91d208ae9eb9",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "38d5794a-63ee-46b1-85df-bb7f75dad515",
+      "dutyDetail": "Work effectively with colleagues, stakeholders, and external partners to deliver high-quality economic analysis, encouraging knowledge sharing and interdisciplinary collaboration.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e7a20dcb-5ca7-4172-bb61-194a5d12b512",
+        "5c922b82-8534-4fc1-859c-41d43a34d3c7",
+        "d3104846-5ffb-4cb1-8f45-dcc272fac546",
+        "736ebde9-24fe-425f-9876-97e3c331d362",
+        "30274453-4d64-4b53-bd2e-478bade55225"
+      ],
+      "mappedKnowledge": [
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "8f21f24e-e32f-4097-b9aa-fc70193c1865",
+        "70dfc02a-5282-47f8-8eca-2b812f14139d",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3dfa73f6-0079-4b0b-818b-0f324adb05af",
+        "58ad9028-228c-4a31-87a3-4939e238028b",
+        "f194a667-9899-4bbf-8f7b-709c7b98b754",
+        "0b506bc7-a3db-4509-ac2a-ddb7af8a7aae",
+        "c9e5dd9c-037b-4b76-8f17-91d208ae9eb9",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "532f47c8-f896-442d-9612-488de14013b5",
+      "dutyDetail": "Uphold ethical standards in economic practice and conduct analysis with integrity, transparency, and accountability. Consider the ethical implications of policies to ensure that analysis serves the public interest and accounts for differential impacts across populations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d53440d-2393-473a-96b0-786691c0b502",
+        "5c922b82-8534-4fc1-859c-41d43a34d3c7",
+        "736ebde9-24fe-425f-9876-97e3c331d362",
+        "30274453-4d64-4b53-bd2e-478bade55225"
+      ],
+      "mappedKnowledge": [
+        "6c32b936-788f-4822-8c18-a55d07119f32",
+        "8f21f24e-e32f-4097-b9aa-fc70193c1865",
+        "97e685d4-8e8e-43fc-8793-a8d2950802ba",
+        "e93ff144-8694-4df4-9a34-a5c2aadaebdb",
+        "08301cbd-4407-48e4-a1f9-6c0089ec6c2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "58ad9028-228c-4a31-87a3-4939e238028b",
+        "386b0d58-8c60-400c-b6c9-b864bceb8804"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-09-30T00:00:00"
+}
