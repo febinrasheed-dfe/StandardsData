@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised but remained the same. ",
-  "changedDate": "2025-07-14T00:00:00",
+  "changedDate": "2026-09-18T00:00:00",
   "earliestStartDate": "2025-06-24T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-20T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Optimising crop/plant yields whilst maintaining and improving the surrounding environment.",
   "level": 3,
@@ -287,7 +287,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0083",
-  "tbMainContact": "rlongthorp@longthorp.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Allensmore Nurseries, Brimstone farm, LKL Farming, The Bransford Webbs Plant Company, Walberton Nursery Limited.\n\nOther involved stakeholders:\nHartpury University, Lantra, NFU, Pershore College of Horticulture, Plumpton College, The Chartered Institute of Horticulture, The Institute for Agriculture and Horticulture",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -306,7 +306,7 @@
   "clusterId": "165",
   "clusterDescription": "Propagation, production, preparation and delivery/distribution of plants and plant materials for food, non-food and therapeutic human use",
   "createdDate": "2025-03-25T10:23:56 +00:00",
-  "lastUpdated": "2025-07-14T00:00:00 +00:00",
+  "lastUpdated": "2026-09-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-07-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0018",
@@ -1003,5 +1003,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-14T00:00:00"
+  "publishDate": "2027-09-20T00:00:00"
 }
