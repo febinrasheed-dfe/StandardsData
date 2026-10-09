@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-22T00:00:00",
+  "changedDate": "2026-09-03T00:00:00",
   "earliestStartDate": "2020-10-23T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Design, analyse, interpret and report clinical research and clinical trials.",
   "level": 7,
@@ -180,7 +180,7 @@
   "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0418",
-  "tbMainContact": "Andrew.Foxley@astrazeneca.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Medimmune, Covance, NHS, Richmond Pharmacology, British Pharmacological Society, Quotient Sciences, UCB, Cogent Skills, Kings College London, University of Liverpool, ABPI (The Association of the British Pharmaceutical Industry)",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -200,7 +200,7 @@
   "clusterId": "21",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2020-03-05T15:43:56 +00:00",
-  "lastUpdated": "2021-01-22T00:00:00 +00:00",
+  "lastUpdated": "2026-09-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-10-23T00:00:00 +00:00",
   "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC0798",
@@ -560,5 +560,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2021-01-22T00:00:00"
+  "publishDate": "2027-09-12T00:00:00"
 }
