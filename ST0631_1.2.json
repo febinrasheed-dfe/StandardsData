@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised",
-  "changedDate": "2024-05-20T00:00:00",
+  "changedDate": "2026-09-03T00:00:00",
   "earliestStartDate": "2024-05-20T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Assessing and managing risk of disease and ill-health, and the prevention of premature deaths.",
   "level": 6,
@@ -56,7 +56,7 @@
   "ssa2": "2.1 Science",
   "version": "1.2",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;Public Health Practitioners (PHPs) are found in a wide range of organisations including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Local councils&lt;/li&gt;\n&lt;li&gt;Local or international agencies&lt;/li&gt;\n&lt;li&gt;National Health Service (NHS)&lt;/li&gt;\n&lt;li&gt;Business and industry&lt;/li&gt;\n&lt;li&gt;Voluntary and community agencies eg: charities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br /&gt;Public health practitioners (PHPs) work as part of a national workforce that strives to help people and communities to maximise their potential for a healthy, happy and productive life, to live healthier for longer.&lt;br /&gt;&lt;br /&gt;PHPs focus on health at a community or population level, assessing and managing risk of disease and ill-health, and the prevention of premature deaths. They monitor and promote health and wellbeing to ensure fairer health outcomes between different communities and groups (health inequalities). They put in place protection measures to protect the public from environmental hazards and risks. They evaluate sources of evidence, interpret it and design and plan health interventions.&lt;br /&gt;&lt;br /&gt;PHPs work independently and collaboratively, both within their organisation and with others, to initiate and develop public health interventions and services (eg: obesity prevention programmes; infection prevention and control programmes; national risk-assessment and screening programmes). They work in a wide range of settings (eg: office, community, healthcare), working with different types of organisations (see list above), and with professionals and members of the public. They will usually be part of a team of public health professionals and may report to public health specialists and consultants from a range of backgrounds (including medicine). They might be expected to work out-of-hours or on-call so they need to be flexible and adaptable.&lt;br /&gt;&lt;br /&gt;As a professionally competent PHP they act autonomously within the scope of their role. They implement plans and policies, and may help to develop those plans. They take responsibility for their continuous development; and the development, and possibly the supervision, of others. They manage their own workload and the prioritisation of activities, utilising their problem solving skills in a complex and changing environment. They may also be responsible for resources such as people, budgets, equipment or facilities.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Public Health Practitioners (PHPs) are found in a wide range of organisations including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Local councils&lt;/li&gt;\n&lt;li&gt;Local or international agencies&lt;/li&gt;\n&lt;li&gt;National Health Service (NHS)&lt;/li&gt;\n&lt;li&gt;Business and industry&lt;/li&gt;\n&lt;li&gt;Voluntary and community agencies eg: charities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;Public health practitioners (PHPs) work as part of a national workforce that strives to help people and communities to maximise their potential for a healthy, happy and productive life, to live healthier for longer.&lt;br&gt;&lt;br&gt;PHPs focus on health at a community or population level, assessing and managing risk of disease and ill-health, and the prevention of premature deaths. They monitor and promote health and wellbeing to ensure fairer health outcomes between different communities and groups (health inequalities). They put in place protection measures to protect the public from environmental hazards and risks. They evaluate sources of evidence, interpret it and design and plan health interventions.&lt;br&gt;&lt;br&gt;PHPs work independently and collaboratively, both within their organisation and with others, to initiate and develop public health interventions and services (eg: obesity prevention programmes; infection prevention and control programmes; national risk-assessment and screening programmes). They work in a wide range of settings (eg: office, community, healthcare), working with different types of organisations (see list above), and with professionals and members of the public. They will usually be part of a team of public health professionals and may report to public health specialists and consultants from a range of backgrounds (including medicine). They might be expected to work out-of-hours or on-call so they need to be flexible and adaptable.&lt;br&gt;&lt;br&gt;As a professionally competent PHP they act autonomously within the scope of their role. They implement plans and policies, and may help to develop those plans. They take responsibility for their continuous development; and the development, and possibly the supervision, of others. They manage their own workload and the prioritisation of activities, utilising their problem solving skills in a complex and changing environment. They may also be responsible for resources such as people, budgets, equipment or facilities.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "6af8afbf-cfca-4431-91ff-5e7cfe23abd7",
@@ -546,7 +546,7 @@
   "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0302",
-  "tbMainContact": "PHWorkforceStrategy@dhsc.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "London Borough of Greenwich, Public Health England, Barts Health NHS Trust, Lincolnshire County Council, Kent Community Health Foundation Trust, Livewell South West, Evolve, Yorkshire MESMAC, Derbyshire Community Health Services NHS Foundation Trust, Leeds City Council",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -577,7 +577,7 @@
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-05-20T13:35:59 +00:00",
-  "lastUpdated": "2024-05-20T00:00:00 +00:00",
+  "lastUpdated": "2026-09-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0631",
@@ -954,5 +954,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-05-20T00:00:00"
+  "publishDate": "2027-09-12T00:00:00"
 }
