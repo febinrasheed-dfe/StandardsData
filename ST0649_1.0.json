@@ -10,10 +10,10 @@
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0649",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": "2022-09-27T00:00:00",
+  "change": "Approved for delivery",
+  "changedDate": "2026-09-01T00:00:00",
   "earliestStartDate": "2019-01-29T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-09-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Specialists who use computational, data analytical and data mining techniques which are applied to a range of problems in the life sciences.",
   "level": 7,
@@ -278,7 +278,7 @@
   "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB0043",
-  "tbMainContact": "lee@nexastem.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Unilever, GSK, Medimmune, Astrazeneca, Fujifilm Diosynth, Eagle Genomics, Covance, Envigo, UCB, Kymab, EMBL-European Bioinformatics Institute, Medical Research Council, Genomics England, Association of British Pharmaceutical Industry, Biochemical Society, Royal Society of Biology, Royal Society of Chemistry",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -295,7 +295,7 @@
   "clusterId": "213",
   "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2018-02-13T14:41:22 +00:00",
-  "lastUpdated": "2022-09-27T00:00:00 +00:00",
+  "lastUpdated": "2026-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-01-29T00:00:00 +00:00",
   "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC0649",
@@ -309,5 +309,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-09-27T00:00:00"
+  "publishDate": "2027-09-12T00:00:00"
 }
