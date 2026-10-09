@@ -1,0 +1,930 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 223,
+  "referenceNumber": "ST0229",
+  "learningAimClassCode": "",
+  "title": "Hospitality manager",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0229",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-09-14T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Hospitality Managers work across a range of organisations leading teams to deliver an excellent customer experience every time.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "minimumHoursForCompliance": "396",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Catering and hospitality",
+  "keywords": [
+    "Hospitality Manager",
+    "Hospitality",
+    "Manager",
+    "Customer Service",
+    "Food and drink",
+    "Housekeeping",
+    "Guest Services"
+  ],
+  "jobRoles": [
+    "Food and beverage manager",
+    "Guest services manager",
+    "Hospitality manager",
+    "Housekeeping manager",
+    "Kitchen manager",
+    "Outlet manager",
+    "Restaurant manager"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0229-in-revision?view=epa",
+  "ssa1": "7 Retail and Commercial Enterprise",
+  "ssa2": "7.4 Hospitality and catering",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;Hospitality managers work across a huge variety of organisations including bars, restaurants, caf&#233;s, conference centres, banqueting venues, hotels and contract caterers. These managers generally specialise in a particular area, however their core knowledge, skills and behaviours are aligned. Common to all managers in this role is their passion for exceeding customers’ expectations. Hospitality managers have a high level of responsibility and are accountable for fulfilling the business vision and objectives which requires excellent business, people and customer relation skills. Individuals in this role are highly motivated team leaders that combine a talent for management and specific industry skills and thrive on the customer facing nature of the role.&lt;/p&gt;\n&lt;h3&gt;Description of specialist management functions&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Food and Beverage&amp;nbsp;manager&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Food and Beverage managers manage the delivery of business standards in a range of settings including bars, restaurants, caf&#233;s, conference centres, banqueting venues, hotels and contract caterers.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;House&amp;nbsp;keeping manager&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Housekeeping managers manage the delivery of business standards for the presentation of establishments such as hotels and other overnight accommodation including hostels, serviced apartments and conference venues, making sure that they are clean, fresh and tidy in public areas and guest accommodation.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Front office&amp;nbsp;manager&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Front office managers manage the delivery of the business standards for the reception function and, where relevant the nights’ team and porters, reservations for example in hotels and conference venues.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Revenue manager&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Revenue managers devise and implement strategies that aim to optimise revenue across the business, for example rooms, conference and events and food and beverage.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Conference and&amp;nbsp;events manager&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Conference and events managers manage the delivery of functions often simultaneously such as business conferences, conventions, banquets or weddings. The role requires managing meticulous coordination liaising with multiple departments across the business to meet a variety of different customer needs and expectations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Hospitality outlet&amp;nbsp;manager&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Hospitality outlet managers manage the operations of a hospitality retail outlet, such as quick service restaurants, branded coffee or sandwich shops. The role is often in a fast paced environment with the focus on meeting customers’ expectations of efficiency and consistency for both the products and service they receive.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Kitchen manager (head chef)&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Kitchen Managers / Head chefs take responsibility for the delivery of consistent levels of food preparation, cooking and service, typically in high volume and often fast paced or complex production catering kitchens. High levels of financial accountability, adherence to strict procurement, stock management and food safety requirements provide a challenging environment which needs to be managed with a considerable amount of expertise.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Multi-functional manager&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;In some organisations a hospitality manager covers a range of different operational functions, applying their skills, knowledge and behaviours in different contexts, and not necessarily addressing one function in full. Multi-functional managers have substantial accountability and responsibility for meeting clear management objectives with their team and must balance priorities across each of the functions they are given responsibility for. For example a manager may be required to oversee the restaurant service and be responsible for bar, banqueting and conferences on the same day.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&lt;strong&gt;&lt;br&gt;Core&lt;/strong&gt;&lt;strong&gt;: &lt;/strong&gt;&lt;strong&gt;All&lt;/strong&gt;&lt;strong&gt; hospitality managers must have all of the following generic skills, knowledge and behaviour&lt;/strong&gt;&lt;/p&gt;\n&lt;table border=&quot;0&quot; style=&quot;height: 2008px;&quot;&gt;\n&lt;tbody&gt;\n&lt;tr style=&quot;height: 41px;&quot;&gt;\n&lt;th style=&quot;height: 41px; width: 302px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Section&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;height: 41px; width: 302px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge and Understanding (Know it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;height: 41px; width: 302px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills (Show it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;height: 41px; width: 302px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours (Live it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 104px;&quot;&gt;\n&lt;td rowspan=&quot;4&quot; style=&quot;height: 448px; width: 302px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Business&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand how to use relevant operating models to help achieve the business vision and objectives of hospitality businesses and how these are used in own area of business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Proactively seek and drive activities that support the achievement of the business vision and objectives, improve competitiveness, to meet financial targets&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Inspire team members to demonstrate personal drive to achieve the business vision and objectives&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 136px;&quot;&gt;\n&lt;td style=&quot;height: 136px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand how to manage finance and minimise costs within hospitality businesses; identify the income streams and cost centres and areas for potential waste or loss within own area of&lt;/p&gt;\n&lt;p&gt;business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 136px; width: 302px;&quot;&gt;\n&lt;p&gt;Monitor and manage income and costs, use forecasting to set realistic targets, evaluate the control of resource allocation, and prepare financial cases for improvement projects&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 136px; width: 302px;&quot;&gt;\n&lt;p&gt;Be financially astute in work activities, visibly discourage waste and act credibly on matters that affect business finance&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Know the business strategy and its key competitors and how it fits within the wider hospitality industry in which it operates&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Develop and effectively communicate own plans and strategy to management team in order to harmoniously work towards achieving business objectives&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Openly share information with colleagues that support business objectives and growth&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 125px;&quot;&gt;\n&lt;td style=&quot;height: 125px; width: 302px;&quot;&gt;\n&lt;p&gt;Identify the management information available in own area and understand how to use, analyse and act on it to drive business change&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 125px; width: 302px;&quot;&gt;\n&lt;p&gt;Analyse, interpret and evaluate product / service sales and / or productivity data and information and use it to make recommendations for future planning e.g. of staff and resources, ideas for new initiatives, and drive business change&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 125px; width: 302px;&quot;&gt;\n&lt;p&gt;Make decisions based on a sound analysis and judgement of available management information&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td rowspan=&quot;5&quot; style=&quot;height: 416px; width: 302px;&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand the standard business operating procedures, the services and products and how they are managed and their potential consequences&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Implement required operational processes and procedures in line with business standards&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Actively promote the benefits of working within standard business operating procedures&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 104px;&quot;&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Identify peaks and troughs in business levels and understand the factors which influence them e.g. season, weather, cultural and special occasions such as Valentine’s Day, New Years&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Monitor peaks and troughs in business levels to ensure operational plans allow service standards and resources to be maintained&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Ability to make accurate forecasts based on current and future trends&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Determine how to develop contingency plans which allow consistent levels of service in line with business standards and requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Develop and implement contingency plans to ensure resources are in place to provide consistent levels of service required by the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Think ahead and demonstrate resourcefulness when developing plans&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 63px;&quot;&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand how technology supports the delivery of products and services in hospitality businesses&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Maximise the use of technology and evaluate its effectiveness for achieving the desired results&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Use technology responsibly and take an interest in new developments that could support the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand environmental, legislative and social responsibilities and their impact within hospitality businesses&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Manage and continuously review adherence to legislation&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Be accountable, advocate and adhere to the importance of working legally in the best interest of all people&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 63px;&quot;&gt;\n&lt;td rowspan=&quot;4&quot; style=&quot;height: 354px; width: 302px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;People&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Know how to identify potential risks to people and the business and how to plan for and minimise the impact&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Identify and manage risks through empowering the team&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Be solution focussed through proactive risk management personally and through others&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 104px;&quot;&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand how to create a people strategy and how to effectively manage recruitment, induction, team development and succession planning in a hospitality business to deliver it&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Carry out talent management planning in line with the people strategy, and develop a culture of continuous development, actively supporting team members to improve and grow within their roles and careers&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Demonstrate commitment to self-improvement, championing a culture of continual development and progression; trying out and reflecting on methods to develop own leadership skills&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 104px;&quot;&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Know and understand how to consistently communicate and engage with people and teams&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Demonstrate effective methods of communication and leadership that achieve the desired results, providing support and coaching to team members to maximise their performance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Manage team to take a pride in their role through demonstrating a consistently positive and professional approach to communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand the responsibilities of an employer and the parameters the business works within&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Manage people performance and capability, and develop teams in line with operational policy and procedures and support appropriate decision making&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Empower team members whilst providing adequate support to aid their decision making&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td rowspan=&quot;5&quot; style=&quot;height: 436px; width: 302px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Customers&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Determine the customer service journey and understand how to meet expectations, taking into account business requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Monitor customer satisfaction to ensure product / service is delivered according to their profile and business requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Proactively develop and maintain a customer centred culture&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand the impact of service failure on hospitality businesses and identify how to develop and implement successful service recovery strategies&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Develop and implement service recovery strategies to uphold brand / business reputation and maintain customer satisfaction&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Provide clear direction to team and empower them to implement effective customer service resolutions&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Know how to use customer feedback as a competitive tool in the hospitality industry&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Actively seek, analyse and evaluate customer feedback and take appropriate action to improve quality of service and customer experience&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Drive behavioural change through encouraging others to seek and act on feedback&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 104px;&quot;&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand how to identify, support, implement and evaluate hospitality marketing, sales strategies and techniques&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Maximise the impact of marketing strategies, evaluate and act on feedback&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Personally market the business and industry through creating a culture of passionate enthusiasm to provide customers with the best possible experience, seeking and acting upon feedback&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand what it means to champion the business and maintain comprehensive product / service, brand and market knowledge&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Manage the targeted promotion of the brand and product / service to customers&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Drive a strong cultural belief in the brand and product / service&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 83px;&quot;&gt;\n&lt;td rowspan=&quot;2&quot; style=&quot;height: 146px; width: 302px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Leadership&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand the management and leadership styles and skills required in a hospitality business environment&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Use a wide range of management and leadership skills appropriate to the business to motivate and inspire others&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 83px; width: 302px;&quot;&gt;\n&lt;p&gt;Create a high performance culture&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 63px;&quot;&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand how to lead the implementation of change in hospitality business and the potential impact on stakeholders&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Lead change to meet the business objectives and manage the impact of change on stakeholders&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 63px; width: 302px;&quot;&gt;\n&lt;p&gt;Pioneer business decisions and promote a positive attitude to change&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr style=&quot;height: 63px;&quot;&gt;\n&lt;td style=&quot;height: 167px; width: 302px;&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Understand the ethos of a diverse and inclusive culture that demonstrates social inclusion&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Support team members to carry out work activities that respond to a diverse range of needs&lt;/p&gt;\n&lt;/td&gt;\n&lt;td style=&quot;height: 104px; width: 302px;&quot;&gt;\n&lt;p&gt;Lead by example to promote business and social responsibility and act as a role model to ensure self and team are operating in an empathic, fair and consistently professional manner&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Specialist&lt;/strong&gt;&lt;strong&gt;: &lt;/strong&gt;&lt;strong&gt;Hospitality managers must select one of the following areas in line with their specialist function to demonstrate technical skill and expertise:&lt;/strong&gt;&lt;/p&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;&lt;strong&gt;Section&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge and Understanding (Know it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th&gt;\n&lt;p&gt;&lt;strong&gt;Skills (Show it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours (Live it)&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Food and Beverage Service Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Know key ingredients, preparation, cooking and service methods of menu items and communicate relevant information to team members. Understand the benefits of food and beverage matching and how to maximise sales through effective menu design, seasonal promotions and themes. Understand different food service styles and when each is applied most effectively&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Ensure food and beverage service operation meets business / brand standard at all times through its staff, facilities, menus and equipment. Ensure the beverage offer complements menus and maximises sales, delivering a service that will enhance business opportunities, e.g. seasonal special offers, promoting a themed drinks menu to complement dishes&lt;/p&gt;\n&lt;/td&gt;\n&lt;td rowspan=&quot;2&quot;&gt;\n&lt;p&gt;Demonstrate passion for high quality food and drink products and service&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how effective management and maintenance of food service equipment, accompaniments and drinks products impact on the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage the storage and maintenance of food service equipment, accompaniments and beverage products to deliver the best result to customers and maximum profit to the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;&lt;strong&gt;House Keeping Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to monitor the cleanliness and presentation of the establishment and productivity, identify and implement areas for improvement&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Monitor standards of cleanliness, presentation and productivity, identifying trends and opportunities to enhance the housekeeping service e.g. to achieve improved cleanliness and attractiveness in line with the style of the business (e.g. colour scheme of seasonal floral displays)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;Actively seek innovative ideas for improving the physical presentation of the establishment in line with business constraints&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Know requirements for current and forecast linen stock and other housekeeping supplies and know how to manage these to ensure sufficient supply to meet demand&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Track the use of housekeeping supplies and linen on and off- site taking action to ensure sufficient stock for current and anticipated demand, minimise loss and wastage&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to identify, prioritise, schedule and implement maintenance or repair work in ways which minimise disruption to customers and impact on other areas of the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Determine the need for and schedule maintenance or repair work, managing its impact on the housekeeping service and other areas of the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Front Office Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to allocate and manage rooms to maximise sales opportunities for the business and meet or exceed customer expectations&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage the availability and sale of rooms and / or facilities to maximise revenue and meet customers’ individual needs&lt;/p&gt;\n&lt;/td&gt;\n&lt;td rowspan=&quot;2&quot;&gt;\n&lt;p&gt;Demonstrate consistently high standards of personal presentation and conduct, and instil the same values in the team&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to monitor the effectiveness of reception and reservation systems, identify and implement areas for improvement&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Analyse the reception and reservation systems and performance, identifies and implement improvement, e.g. to reduce guest waiting times, minimise check-in / check-out congestion&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Revenue Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Identify the information relevant to the reservations process and understand how to analyse, interpret and use it to drive revenue generation&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Analyse and present a range of complex information and provide intelligence, for example on revenue in relation to market factors&lt;/p&gt;\n&lt;/td&gt;\n&lt;td rowspan=&quot;2&quot;&gt;\n&lt;p&gt;Demonstrate the ability to identify commercial opportunity to maximise revenue for the business across the different functions and departments of the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to gather reliable information on competitor performance and make business / industry comparisons, recognising the importance to the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Monitor competitor performance and business / industry&amp;nbsp; comparisons&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to carry out and recognise the importance of effective yield management&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Carry out effective yield management in line with business requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to work with other managers and use relevant and available information to forecast potential revenue performance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Forecast potential revenue performance in collaboration with other managers&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Conference and Events Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to plan and implement multiple events to ensure best allocation and use of resources to meet demand&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage the planning and delivery of multiple events&lt;/p&gt;\n&lt;/td&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;Is highly organised and proactive, anticipating and solving problems quickly to ensure stakeholder satisfaction&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Identify required business levels and know how to track and analyse enquiries to fulfil them&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Track and analyse enquiries to fulfil forecast business levels&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to develop and maintain effective working relationships with suppliers, exhibitors and other stakeholders and why this is important for the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage relationships with a variety of organisations and stakeholders such as suppliers and exhibitors&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Hospitality Outlet Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to manage the delivery of on and off site sales of goods and products&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage the delivery of on and off site sales of goods and products&lt;/p&gt;\n&lt;/td&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;Actively seek opportunities to improve the commercial presentation of the outlet to enhance and maximise sales&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to monitor food production to ensure standards are upheld, identify and implement areas for improvement&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage food production to established standards and where relevant according to brand specifications, ensuring that all food safety practices are followed&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to manage cleanliness and identify, prioritise, schedule and implement maintenance or repair work in ways which minimise disruption to customers&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Maintain the appearance of the establishment to business standards managing cleanliness, maintenance, repairs and refurbishment&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Kitchen Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Understand the process for procurement of food ingredients and commodities, including purchasing specifications. Know how to prepare menus, recipes and standardised systems and procedures to ensure consistency and quality of food&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Train and manage kitchen team members to deliver a consistent and timely food production operation to meet the needs and expectations of the customer and business, including adherence to brand standards where appropriate&lt;/p&gt;\n&lt;/td&gt;\n&lt;td rowspan=&quot;3&quot;&gt;\n&lt;p&gt;Lead the department with passion, instilling a sense of pride in team ensuring a consistently high quality and efficient food production operation&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand the requirement for and on-going maintenance for kitchen equipment. Know how, why and when staff should be trained and monitored on its use.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Effectively manage kitchen equipment and resources in line with legislative and operational requirements. Ensure regular servicing and maintenance has minimal impact on operations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how to manage food safety systems in line with current legislative requirements and identify, prioritise, schedule and implement monitoring, training, maintenance or repair work in ways which minimise disruption to customers;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage food safety systems to adhere to legislation. Ensure that all required procedures, training and monitoring documentation are completed within timescales and issues addressed as appropriate&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Multi- functional management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td colspan=&quot;3&quot;&gt;\n&lt;p&gt;Multi-functional managers will be required to demonstrate competence against at least 50% of the skills, knowledge and behaviour in each of two functions above, as well as those detailed below:&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;Know the interdependence required of the functions within the business and how to plan the work of the team and its resources to address each of these requirements to deliver products and services on time and in line with customer needs and business / brand standards. Understand the need to plan across a number of different functions and the potential implications of delivering a multi-functional approach on customer experience, team performance and future business and team objectives. Adapt to changing customer, team or business demands, responding to the immediate situation and considering longer term solutions&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Plan, manage, evaluate and review the work of the team and use of resources across hospitality functions to ensure the right people and tools are in the right place at the right time.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Think strategically when planning the use of team members and resources to maximise current and future operations. Proactively seek ways of working that embrace multi- functional teams&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&amp;nbsp;&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Understand how the needs of the customer and skills of the team differ from one function to another and how to ensure each function is delivered to maximise customer experience and achieve business objectives&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage the team and resources to ensure that the needs of the customer are met whilst maintaining business / brand standards&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Entry&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Employers will set their own entry requirements, but individuals should have had supervisory responsibility in order to start on this apprenticeship.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Duration&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;Based on the entry requirements set by the employer the minimum duration for this apprenticeship is 12, but will typically be 18, months to complete.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Level&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;This apprenticeship standard is set at level 4.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;th&gt;\n&lt;p&gt;Renewal&lt;/p&gt;\n&lt;/th&gt;\n&lt;td&gt;\n&lt;p&gt;March 2018, unless there is evidence of significant industry change which employers agree warrants earlier amendment.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;",
+  "occupationalSummary": "&lt;p&gt;Hospitality managers work across a huge variety of organisations including bars, restaurants, caf&#233;s, conference centres, banqueting venues, hotels and contract caterers. These managers generally specialise in a particular area, however their core knowledge, skills and behaviours are aligned. Common to all managers in this role is their passion for exceeding customers’ expectations. Hospitality managers have a high level of responsibility and are accountable for fulfilling the business vision and objectives which requires excellent business, people and customer relation skills. Individuals in this role are highly motivated team leaders that combine a talent for management and specific industry skills and thrive on the customer facing nature of the role.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "a57b8987-a815-419a-b995-460aaa2ab2ec",
+      "detail": "Principles of setting and maintaining a service culture within the team"
+    },
+    {
+      "knowledgeId": "53bbcae1-5e54-4202-bcb3-52bba52b66f2",
+      "detail": "Business standards for products and delivery of services and how to set them"
+    },
+    {
+      "knowledgeId": "bba11d32-dce6-42e7-a2a1-4e8694c656b7",
+      "detail": "Methods of implementing, monitoring, and reporting on the use of standard business operating procedures to support consistent use"
+    },
+    {
+      "knowledgeId": "5a10bf2b-4840-4a88-ae35-9e5cb7b1f3c4",
+      "detail": "Standards for communication with guests and colleagues"
+    },
+    {
+      "knowledgeId": "de7af571-c145-4994-8fe4-9cb6981201b6",
+      "detail": "Principles of establishing and communicating hygiene procedures and monitoring processes"
+    },
+    {
+      "knowledgeId": "a7f14202-2ff4-4c1c-8781-d324432e1172",
+      "detail": "Health and safety legislation, regulations, guidelines and procedures relevant to own self, team, and guests"
+    },
+    {
+      "knowledgeId": "aabccb79-28a8-4e50-8ce0-71039c851687",
+      "detail": "Principles of risk management and contingency planning related to potential service disruption "
+    },
+    {
+      "knowledgeId": "ff08ffab-17a2-40cb-ab53-b8f7c4902db6",
+      "detail": "Methods of communicating to wider teams to promote clarity and consistency of understanding and implementation of instructions or approaches"
+    },
+    {
+      "knowledgeId": "3b91b13a-bdec-414e-97d4-5c543bfe532e",
+      "detail": "Methods of setting and monitoring team performance  targets"
+    },
+    {
+      "knowledgeId": "a926db5c-3923-43d9-9993-c366badfb837",
+      "detail": "Techniques for long term planning, improvements, and risk management"
+    },
+    {
+      "knowledgeId": "99fd3dea-b797-4961-b801-b456671cfb6d",
+      "detail": "Methods of analysing customer feedback to improve overall service"
+    },
+    {
+      "knowledgeId": "971d1795-c4f3-4841-a46e-20af9dfd0f2c",
+      "detail": "Methods of resolving guest complaints and ensuring service recovery"
+    },
+    {
+      "knowledgeId": "971e634b-cbd7-44b7-a52e-cda268410acd",
+      "detail": "Methods of cascading changes to products or processes e.g. briefings, updated documents"
+    },
+    {
+      "knowledgeId": "0af4a1d3-ba25-4080-b925-63a0bce9939a",
+      "detail": "Performance criteria, and feedback techniques to support team to meet that criteria"
+    },
+    {
+      "knowledgeId": "a85ce070-6a5e-4a3b-8770-58a758922a01",
+      "detail": "Sources of support and information for decision making eg legal, HR, data, employee feedback"
+    },
+    {
+      "knowledgeId": "f5cc85a7-a3eb-4243-b9c1-fadd66f97514",
+      "detail": "Principles of promoting and managing sustainability and resource management"
+    },
+    {
+      "knowledgeId": "4e853315-0baa-4aba-9df3-7eef23eb52cc",
+      "detail": "Potential barriers to recruitment, promotion, fair and respectful treatment, and inclusion at work faced by people with protected characteristics included in equality legislation. "
+    },
+    {
+      "knowledgeId": "b857c38e-18e9-4e67-9b76-22adbbcf00fd",
+      "detail": "Methods to set, and use data to monitor outcomes against, key performance indicators related to efficiency, performance, and profitability of the team."
+    },
+    {
+      "knowledgeId": "7cceb86a-bc8e-4348-94bc-ca283fcb04cf",
+      "detail": "Principles of coaching and training"
+    },
+    {
+      "knowledgeId": "277e5f6e-be20-453c-a014-2d4352cf6257",
+      "detail": "Principles of performance and talent management"
+    },
+    {
+      "knowledgeId": "522235ed-8c63-4160-9c6c-bc729bb306a4",
+      "detail": "Principles of conflict, disciplinary and  grievance management"
+    },
+    {
+      "knowledgeId": "b900a732-9bde-4486-b0c0-086c260fa805",
+      "detail": "Legislation, regulation and policies related to guest safety including fire safety, emergency evacuation,  child protection, and modern slavery. "
+    },
+    {
+      "knowledgeId": "e0a24fc1-e4e7-45f2-86d7-f1d564cb4ac8",
+      "detail": "Legislation, regulation and policies related to guest privacy  including data protection (GDPR) "
+    },
+    {
+      "knowledgeId": "e72599f4-8748-41b7-81dd-e7b27e93c4ca",
+      "detail": "Food and beverage manager: Methods to manage compliance with food safety systems and principles, implementing improvements as required"
+    },
+    {
+      "knowledgeId": "c99fe4ab-6fc0-4e6a-8c85-b16152e84274",
+      "detail": "Food and beverage manager: Principles of forecasting and longer term planning related to stock purchase and control, managing costs and waste"
+    },
+    {
+      "knowledgeId": "23b54748-097c-4556-8637-28da0337641b",
+      "detail": "Food and beverage Manager: Methods to set expectations for up and cross-selling, and communicate promotions or campaigns, using data to monitor implementation and success "
+    },
+    {
+      "knowledgeId": "314458dc-3906-4b1e-bd19-a2f1a5754e08",
+      "detail": "Guest services manager: Techniques to communicate between teams to support effective operations overall "
+    },
+    {
+      "knowledgeId": "312b31f4-d225-468c-a5ac-f51206a77d59",
+      "detail": "Guest services manager: Techniques to maintain oversight of room management systems, prioritising and resolving escalations"
+    },
+    {
+      "knowledgeId": "75050859-8d3e-401b-a69e-490433d17d49",
+      "detail": "Guest services manager: Methods of cross-selling services, setting expectations and using data to monitor and improve sales performance of teams"
+    },
+    {
+      "knowledgeId": "3cfa6105-c413-405a-8033-aac7ea932be0",
+      "detail": "Housekeeping manager: Organisational standards for service quality and productivity in housekeeping, and techniques to coordinate across whole team"
+    },
+    {
+      "knowledgeId": "7f77aa7f-ec66-43f7-ab1d-52e484d891c6",
+      "detail": "Housekeeping manager: Methods to manage, and train team to follow, safe working practices in housekeeping"
+    },
+    {
+      "knowledgeId": "93e44d3f-f716-491b-a44f-18d567e303fe",
+      "detail": "Housekeeping manager: Principles of forecasting and  planning related to staffing,  stock ordering, and stock control, managing costs and waste"
+    },
+    {
+      "knowledgeId": "2a7d10fa-a2f7-4b34-a418-1ee26618d1af",
+      "detail": "Kitchen manager: Methods to manage product quality to business standards"
+    },
+    {
+      "knowledgeId": "d695ac97-fd77-429f-9f34-a3b47aa1bace",
+      "detail": "Kitchen manager. Methods to manage compliance with food safety systems and principles in kitchens, implementing improvements as required"
+    },
+    {
+      "knowledgeId": "2cf6b46a-0c00-4a08-996e-2a99a1c2faea",
+      "detail": "Kitchen manager. Principles of forecasting and  planning related to staffing,  stock ordering, and stock control in kitchens, managing costs and waste"
+    }
+  ],
+  "behaviours": [],
+  "skills": [
+    {
+      "skillId": "2e3aaa88-5d9d-4b80-bda2-939d24f0792c",
+      "detail": "Communicates, benchmarks, and actively promotes the service culture of the organisation"
+    },
+    {
+      "skillId": "16aab902-a677-4cad-95dd-516c3ef22e9e",
+      "detail": "Sets expectation for, or cascades expectations, and monitors delivery of products and services against business standards"
+    },
+    {
+      "skillId": "6af63f5a-1d1a-44fe-b33a-bbb53f3c1d24",
+      "detail": "Implements standard business operating procedures and reports on consistent use"
+    },
+    {
+      "skillId": "bd0f2c43-37dd-406c-ac00-4b1a2f8fcb1a",
+      "detail": "Sets standards for communication with guests, and colleagues training and monitoring the team to meet those standards"
+    },
+    {
+      "skillId": "bd83fd1f-b170-4b01-bed9-57947f226e97",
+      "detail": "Establishes and cascades hygiene procedures including processes for recording and monitoring"
+    },
+    {
+      "skillId": "e7094092-8dd5-4a94-bd63-c70269548dc6",
+      "detail": "Establishes, or trains others in, health and safety procedures."
+    },
+    {
+      "skillId": "5f8fed80-2fb0-4f6d-beb4-d3cf9c487bc7",
+      "detail": "Applies principles of risk management and contingency planning to service disruption "
+    },
+    {
+      "skillId": "a74f215b-2f84-4852-8202-4ebcf98df961",
+      "detail": "Achieves clarity and ensures consistency of understanding when communicating to wider teams"
+    },
+    {
+      "skillId": "6fdd6cb8-e53b-439a-9e56-2be37c976fc2",
+      "detail": "Sets and monitors team performance targets"
+    },
+    {
+      "skillId": "2f8f5e30-ea4b-47d4-b7cd-b80050593c2c",
+      "detail": "Proactively manages risk and long term planning"
+    },
+    {
+      "skillId": "bdb10acd-1616-40f4-9f2f-fba7bf6a7b41",
+      "detail": "Monitors customer feedback and implements improvements to enhance overall service"
+    },
+    {
+      "skillId": "736e0e6d-45fd-4443-a5d8-f7da60bf6382",
+      "detail": "Resolves guest complaints and recovers service"
+    },
+    {
+      "skillId": "6f8ab79f-7acb-40cb-99b7-0691e512ddad",
+      "detail": "Cascades changes to products or processes and monitors uptake"
+    },
+    {
+      "skillId": "56459e24-197f-4f13-ab0c-193b6abf408f",
+      "detail": "Sets performance criteria and uses feedback techniques to support team to meet performance expectations"
+    },
+    {
+      "skillId": "6b040e20-fa3d-4a1f-b83b-65755ad55409",
+      "detail": "Analyses information, data and employee feedback to make informed decisions"
+    },
+    {
+      "skillId": "125c0477-cd49-4e8e-901e-d5b6908881f5",
+      "detail": "Actively promotes and manages activities that contribute to a sustainable approach to resource management"
+    },
+    {
+      "skillId": "19772e99-4fc1-482a-9661-9eada7dcbcf3",
+      "detail": "Acts to remove barriers to recruitment, promotion, fair treatment, respect, and inclusion at work faced by people with protected characteristics included in equality legislation"
+    },
+    {
+      "skillId": "780e7b6c-c8d6-428e-8b4e-27895e01aad1",
+      "detail": "Sets and uses data to monitor outcomes  against key performance indicators related to efficiency,  performance, and profitability of team"
+    },
+    {
+      "skillId": "431deaee-23b8-47b9-a731-a55f738c54b6",
+      "detail": "Coaches and trains team"
+    },
+    {
+      "skillId": "7d03d9a8-9955-4e5e-b14a-bb2d92f78a75",
+      "detail": "Manages performance and talent, recruiting, inducting, and developing team members"
+    },
+    {
+      "skillId": "689f4b6b-c2fd-4a2d-9cfd-d94b5aa73a01",
+      "detail": "Manages and resolves disciplinary issues, grievances, and conflict"
+    },
+    {
+      "skillId": "8ebf5608-c2ac-40e5-b324-9f27b7150a81",
+      "detail": "Ensures teams are trained in and compliant with legislation, regulation and policies related to guest privacy and safety including fire safety, emergency evacuation, data protection, child protection, and modern slavery. "
+    },
+    {
+      "skillId": "ef51130c-036a-45b9-bd6e-6ffdc6ac89f1",
+      "detail": "Ensures teams are trained in and compliant with legislation, regulation and policies related to guest privacy including data protection (GDPR)"
+    },
+    {
+      "skillId": "8536f834-3ae1-4529-bc31-9968063a1406",
+      "detail": "Food and beverage manager: Manages compliance with food safety systems and principles in customer facing environments, implementing improvements as required"
+    },
+    {
+      "skillId": "dc5a399f-3233-4bf6-a048-3de30ba4987d",
+      "detail": "Food and beverage manager: Forecasts and plans staffing, stock ordering, and stock control in customer facing environments, managing costs and waste"
+    },
+    {
+      "skillId": "2dc8d7df-8a7c-4fb2-9b9c-be7e7d778380",
+      "detail": "Food and beverage manager. Sets expectations for up-selling and cross-selling, and communicates promotions and or campaigns, using data to monitor implementation and success"
+    },
+    {
+      "skillId": "5453fae0-6bb6-4553-8bcd-6c0c4da35bae",
+      "detail": "Guest services manager. Coordinates activities between teams to enable effective operations overall  "
+    },
+    {
+      "skillId": "796877e3-544b-478e-ac28-2a476cba9109",
+      "detail": "Guest services manager: Manages room management systems, prioritising and resolving escalations"
+    },
+    {
+      "skillId": "135f9bbe-b7b6-4953-a373-abd507da8273",
+      "detail": "Guest services manager. Sets expectations for cross selling of services, using data to monitor and improve sales performance of teams"
+    },
+    {
+      "skillId": "55686928-cf66-451d-ae4e-493fccfd62cf",
+      "detail": "Housekeeping manager: Coordinates service quality and productivity in housekeeping, across whole team"
+    },
+    {
+      "skillId": "d5ead841-b0de-4d72-8500-02b0a12ae902",
+      "detail": "Housekeeping manager. Manages, and trains team to follow, safe working practices in housekeeping"
+    },
+    {
+      "skillId": "c543c001-7998-43e8-9ff0-0f47439781f5",
+      "detail": "Housekeeping manager. Forecasts and plans staffing, stock ordering, and stock control for housekeeping services,  managing costs and waste"
+    },
+    {
+      "skillId": "cf6a8da8-bc12-49fb-8c9d-56dcb4f3311e",
+      "detail": "Kitchen manager: Manages compliance with food safety systems and principles in kitchens, implementing improvements as required "
+    },
+    {
+      "skillId": "3d985e32-ff83-4535-b325-eaeeb700804e",
+      "detail": "Kitchen manager. Manages product quality,  ensuring all  products meet business standards"
+    },
+    {
+      "skillId": "42578f27-dec9-43df-8e28-ff9d94676952",
+      "detail": "Kitchen manager. Forecasts and plans staffing, stock ordering, and stock control in kitchens, managing costs and waste"
+    }
+  ],
+  "optionsUnstructuredTemplate": [
+    "Conference & Events Management",
+    "Food & Beverage Service Management",
+    "Front Office Management",
+    "Hospitality Outlet Management",
+    "House Keeping Management",
+    "Kitchen Management",
+    "Multi-functional Management",
+    "Revenue Management"
+  ],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0224",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Leonardo Hotels, Inns Collection Group, Parkdean Resorts, Pret a Manger, Mitchells and Butler, Greeneking, Fullers, Marstons, Whitbread,  Heart with Smart, National Trust, Shepherd Neame, James' Place, Aspens Services, Azzurri Group, St Austell Brewery, Dakota Hotels, The Alchemist Bars and Restaurants, Compass Group, Omni Group, Somerset Larder. The Castle Hotel, English Heritage. ",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Food and beverage manager",
+    "Guest services manager",
+    "Hospitality manager",
+    "Housekeeping manager",
+    "Kitchen manager",
+    "Outlet manager",
+    "Restaurant manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Hospitality",
+  "cluster": "Hospitality manager",
+  "clusterId": "169",
+  "clusterDescription": "Management and improvement of core hospitality services of food and beverages, cleaning and housekeeping, reservations and events",
+  "createdDate": "2026-09-14T14:22:48 +00:00",
+  "lastUpdated": "2026-09-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-01-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0229",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0229-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0229-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "2a691fef-47f2-411a-9e20-1bf6af19dc79",
+      "dutyDetail": "Champion service culture and promote a customer focus within the team",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a57b8987-a815-419a-b995-460aaa2ab2ec"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e3aaa88-5d9d-4b80-bda2-939d24f0792c",
+        "bd0f2c43-37dd-406c-ac00-4b1a2f8fcb1a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "08dfa9ac-a5f0-4b60-83ba-ee4921cbdd9c",
+      "dutyDetail": "Manage and lead the delivery of services against key metrics related to financial expectations, people and quality",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "53bbcae1-5e54-4202-bcb3-52bba52b66f2",
+        "bba11d32-dce6-42e7-a2a1-4e8694c656b7",
+        "3b91b13a-bdec-414e-97d4-5c543bfe532e",
+        "0af4a1d3-ba25-4080-b925-63a0bce9939a",
+        "b857c38e-18e9-4e67-9b76-22adbbcf00fd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e3aaa88-5d9d-4b80-bda2-939d24f0792c",
+        "16aab902-a677-4cad-95dd-516c3ef22e9e",
+        "6af63f5a-1d1a-44fe-b33a-bbb53f3c1d24",
+        "bd0f2c43-37dd-406c-ac00-4b1a2f8fcb1a",
+        "6fdd6cb8-e53b-439a-9e56-2be37c976fc2",
+        "56459e24-197f-4f13-ab0c-193b6abf408f",
+        "780e7b6c-c8d6-428e-8b4e-27895e01aad1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a338b897-90c2-4548-a6d4-3a2c8d6e685e",
+      "dutyDetail": "Coach and train teams to deliver services to business standards and monitor compliance with relevant legislation",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a57b8987-a815-419a-b995-460aaa2ab2ec",
+        "53bbcae1-5e54-4202-bcb3-52bba52b66f2",
+        "bba11d32-dce6-42e7-a2a1-4e8694c656b7",
+        "de7af571-c145-4994-8fe4-9cb6981201b6",
+        "a7f14202-2ff4-4c1c-8781-d324432e1172",
+        "ff08ffab-17a2-40cb-ab53-b8f7c4902db6",
+        "99fd3dea-b797-4961-b801-b456671cfb6d",
+        "971d1795-c4f3-4841-a46e-20af9dfd0f2c",
+        "0af4a1d3-ba25-4080-b925-63a0bce9939a",
+        "7cceb86a-bc8e-4348-94bc-ca283fcb04cf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e3aaa88-5d9d-4b80-bda2-939d24f0792c",
+        "16aab902-a677-4cad-95dd-516c3ef22e9e",
+        "6af63f5a-1d1a-44fe-b33a-bbb53f3c1d24",
+        "bd0f2c43-37dd-406c-ac00-4b1a2f8fcb1a",
+        "bd83fd1f-b170-4b01-bed9-57947f226e97",
+        "e7094092-8dd5-4a94-bd63-c70269548dc6",
+        "bdb10acd-1616-40f4-9f2f-fba7bf6a7b41",
+        "736e0e6d-45fd-4443-a5d8-f7da60bf6382",
+        "56459e24-197f-4f13-ab0c-193b6abf408f",
+        "431deaee-23b8-47b9-a731-a55f738c54b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ba6e3164-7db5-4fbc-8c11-61e49a70aaca",
+      "dutyDetail": "Ensure that teams are trained in the safe and appropriate use of equipment and technology",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a7f14202-2ff4-4c1c-8781-d324432e1172",
+        "7cceb86a-bc8e-4348-94bc-ca283fcb04cf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7094092-8dd5-4a94-bd63-c70269548dc6",
+        "431deaee-23b8-47b9-a731-a55f738c54b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "de4957e5-f31c-4b20-8555-86a54c955d7a",
+      "dutyDetail": "Be accountable for safe, hygienic, legislation compliant working environments including record keeping",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "de7af571-c145-4994-8fe4-9cb6981201b6",
+        "a7f14202-2ff4-4c1c-8781-d324432e1172",
+        "b900a732-9bde-4486-b0c0-086c260fa805",
+        "e0a24fc1-e4e7-45f2-86d7-f1d564cb4ac8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bd83fd1f-b170-4b01-bed9-57947f226e97",
+        "e7094092-8dd5-4a94-bd63-c70269548dc6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4fc5a414-114f-4b4b-9df6-61f04b641e8f",
+      "dutyDetail": "Set expectations and metrics for customer satisfaction, resolving complaints, and ensuring teams know how to measure and report on levels of customer satisfaction",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a57b8987-a815-419a-b995-460aaa2ab2ec",
+        "53bbcae1-5e54-4202-bcb3-52bba52b66f2",
+        "5a10bf2b-4840-4a88-ae35-9e5cb7b1f3c4",
+        "3b91b13a-bdec-414e-97d4-5c543bfe532e",
+        "99fd3dea-b797-4961-b801-b456671cfb6d",
+        "971d1795-c4f3-4841-a46e-20af9dfd0f2c",
+        "0af4a1d3-ba25-4080-b925-63a0bce9939a",
+        "b857c38e-18e9-4e67-9b76-22adbbcf00fd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e3aaa88-5d9d-4b80-bda2-939d24f0792c",
+        "16aab902-a677-4cad-95dd-516c3ef22e9e",
+        "bd0f2c43-37dd-406c-ac00-4b1a2f8fcb1a",
+        "6fdd6cb8-e53b-439a-9e56-2be37c976fc2",
+        "bdb10acd-1616-40f4-9f2f-fba7bf6a7b41",
+        "736e0e6d-45fd-4443-a5d8-f7da60bf6382",
+        "56459e24-197f-4f13-ab0c-193b6abf408f",
+        "780e7b6c-c8d6-428e-8b4e-27895e01aad1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3b2553f1-1deb-44be-bc4c-c4c38599c23e",
+      "dutyDetail": "Identify and manage risks to continuous service delivery ensuring that the right technical resources are available",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "aabccb79-28a8-4e50-8ce0-71039c851687",
+        "a926db5c-3923-43d9-9993-c366badfb837",
+        "a85ce070-6a5e-4a3b-8770-58a758922a01"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e3aaa88-5d9d-4b80-bda2-939d24f0792c",
+        "5f8fed80-2fb0-4f6d-beb4-d3cf9c487bc7",
+        "2f8f5e30-ea4b-47d4-b7cd-b80050593c2c",
+        "6b040e20-fa3d-4a1f-b83b-65755ad55409"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b4ac1211-acc6-4a26-9fa4-04ff2fd35571",
+      "dutyDetail": "Take responsibility for communicating and implementing business information and changes in process or product, monitoring team to ensure successful execution",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bba11d32-dce6-42e7-a2a1-4e8694c656b7",
+        "ff08ffab-17a2-40cb-ab53-b8f7c4902db6",
+        "971e634b-cbd7-44b7-a52e-cda268410acd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6af63f5a-1d1a-44fe-b33a-bbb53f3c1d24",
+        "a74f215b-2f84-4852-8202-4ebcf98df961",
+        "6f8ab79f-7acb-40cb-99b7-0691e512ddad"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3267bbbe-14c6-44c1-98fc-6961dab92a82",
+      "dutyDetail": "Lead and  drive  business values and create a positive working environment",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "ff08ffab-17a2-40cb-ab53-b8f7c4902db6",
+        "4e853315-0baa-4aba-9df3-7eef23eb52cc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e3aaa88-5d9d-4b80-bda2-939d24f0792c",
+        "bd0f2c43-37dd-406c-ac00-4b1a2f8fcb1a",
+        "19772e99-4fc1-482a-9661-9eada7dcbcf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "abb7f385-9a51-432b-8474-87c08e5aab8d",
+      "dutyDetail": "Analyse data and reports to identify and build on success and drive improvements across the team against business targets",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bba11d32-dce6-42e7-a2a1-4e8694c656b7",
+        "3b91b13a-bdec-414e-97d4-5c543bfe532e",
+        "a926db5c-3923-43d9-9993-c366badfb837",
+        "a85ce070-6a5e-4a3b-8770-58a758922a01",
+        "b857c38e-18e9-4e67-9b76-22adbbcf00fd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6af63f5a-1d1a-44fe-b33a-bbb53f3c1d24",
+        "6fdd6cb8-e53b-439a-9e56-2be37c976fc2",
+        "2f8f5e30-ea4b-47d4-b7cd-b80050593c2c",
+        "6b040e20-fa3d-4a1f-b83b-65755ad55409",
+        "780e7b6c-c8d6-428e-8b4e-27895e01aad1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0930d7f-5da9-4496-ba74-24c93731d44e",
+      "dutyDetail": "Identify and implement improvements to common or recurring operational problems ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "52b8e9cf-2a90-4262-a5c4-9d4a4002b635",
+      "dutyDetail": "Lead sustainability initiatives and best practice, implementing corrective actions where necessary",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "3b91b13a-bdec-414e-97d4-5c543bfe532e",
+        "f5cc85a7-a3eb-4243-b9c1-fadd66f97514"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fdd6cb8-e53b-439a-9e56-2be37c976fc2",
+        "125c0477-cd49-4e8e-901e-d5b6908881f5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "909a1991-3b8b-47c3-9672-c668c407d435",
+      "dutyDetail": "Ensure team understand and comply with equity, diversity and inclusion legislation and principles",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "4e853315-0baa-4aba-9df3-7eef23eb52cc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "19772e99-4fc1-482a-9661-9eada7dcbcf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "04e5e378-c2a4-4d2a-b16e-d0b437e00b97",
+      "dutyDetail": "Provide a point of escalation and take appropriate action related to recognition, development, performance, and behaviour",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "b857c38e-18e9-4e67-9b76-22adbbcf00fd",
+        "277e5f6e-be20-453c-a014-2d4352cf6257",
+        "522235ed-8c63-4160-9c6c-bc729bb306a4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "780e7b6c-c8d6-428e-8b4e-27895e01aad1",
+        "7d03d9a8-9955-4e5e-b14a-bb2d92f78a75",
+        "689f4b6b-c2fd-4a2d-9cfd-d94b5aa73a01"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "80066a92-0061-4989-bc2d-5088d2411027",
+      "dutyDetail": "Manage, coach and mentor team members",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0af4a1d3-ba25-4080-b925-63a0bce9939a",
+        "7cceb86a-bc8e-4348-94bc-ca283fcb04cf",
+        "277e5f6e-be20-453c-a014-2d4352cf6257"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "56459e24-197f-4f13-ab0c-193b6abf408f",
+        "431deaee-23b8-47b9-a731-a55f738c54b6",
+        "7d03d9a8-9955-4e5e-b14a-bb2d92f78a75"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a38b455e-016d-487e-a71d-26b21210c5f1",
+      "dutyDetail": "Be accountable for the safety, security, and privacy of guests and their data, ensuring teams are trained on and comply with related legislation, regulation and policies ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8ebf5608-c2ac-40e5-b324-9f27b7150a81",
+        "ef51130c-036a-45b9-bd6e-6ffdc6ac89f1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f50cfedd-4001-45be-95da-fed0c82fd05b",
+      "dutyDetail": "Manage compliance with food safety systems and principles, leading inspections and audits",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "e72599f4-8748-41b7-81dd-e7b27e93c4ca",
+        "d695ac97-fd77-429f-9f34-a3b47aa1bace"
+      ],
+      "mappedOptions": [
+        "c20b0ebf-588a-4ae9-bb12-4dfcf9016301",
+        "dc22d74c-7933-4717-9923-748622cadd98"
+      ],
+      "mappedSkills": [
+        "8536f834-3ae1-4529-bc31-9968063a1406",
+        "cf6a8da8-bc12-49fb-8c9d-56dcb4f3311e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ca836325-708b-4fce-ac74-64a5e81419ea",
+      "dutyDetail": "Set expectations for up and cross selling, and communicate promotions and or campaigns, using data to monitor implementation and success",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "23b54748-097c-4556-8637-28da0337641b"
+      ],
+      "mappedOptions": [
+        "c20b0ebf-588a-4ae9-bb12-4dfcf9016301"
+      ],
+      "mappedSkills": [
+        "2dc8d7df-8a7c-4fb2-9b9c-be7e7d778380"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0341f149-5354-4e34-be6f-d29a9e4a15bc",
+      "dutyDetail": "Manage service quality and productivity in housekeeping, to business standards",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "3cfa6105-c413-405a-8033-aac7ea932be0"
+      ],
+      "mappedOptions": [
+        "6110ce98-7d17-4c18-8b49-b64012a4acdf"
+      ],
+      "mappedSkills": [
+        "55686928-cf66-451d-ae4e-493fccfd62cf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8e583792-251d-4786-97ce-14babc5b2521",
+      "dutyDetail": "Ensure team understands and follows safe working practices ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "7f77aa7f-ec66-43f7-ab1d-52e484d891c6"
+      ],
+      "mappedOptions": [
+        "6110ce98-7d17-4c18-8b49-b64012a4acdf"
+      ],
+      "mappedSkills": [
+        "d5ead841-b0de-4d72-8500-02b0a12ae902"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "df0facde-67c0-4bbe-b605-dcfe7c146406",
+      "dutyDetail": "Forecast and plan resources, including staff, stock ordering, and stock control",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c99fe4ab-6fc0-4e6a-8c85-b16152e84274",
+        "93e44d3f-f716-491b-a44f-18d567e303fe",
+        "2cf6b46a-0c00-4a08-996e-2a99a1c2faea"
+      ],
+      "mappedOptions": [
+        "c20b0ebf-588a-4ae9-bb12-4dfcf9016301",
+        "6110ce98-7d17-4c18-8b49-b64012a4acdf",
+        "dc22d74c-7933-4717-9923-748622cadd98"
+      ],
+      "mappedSkills": [
+        "dc5a399f-3233-4bf6-a048-3de30ba4987d",
+        "c543c001-7998-43e8-9ff0-0f47439781f5",
+        "42578f27-dec9-43df-8e28-ff9d94676952"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dc4f6419-0de1-4b3f-8acc-6118200b62e2",
+      "dutyDetail": "Coordinate across teams to enable effective operations",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "314458dc-3906-4b1e-bd19-a2f1a5754e08"
+      ],
+      "mappedOptions": [
+        "760b1db5-f83f-402a-9b9e-00f64bb86fde"
+      ],
+      "mappedSkills": [
+        "5453fae0-6bb6-4553-8bcd-6c0c4da35bae"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5ec152df-a961-496a-92e8-4c50a70e8d14",
+      "dutyDetail": "Take responsibility for room management systems, prioritising and resolving escalations",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "312b31f4-d225-468c-a5ac-f51206a77d59"
+      ],
+      "mappedOptions": [
+        "760b1db5-f83f-402a-9b9e-00f64bb86fde"
+      ],
+      "mappedSkills": [
+        "796877e3-544b-478e-ac28-2a476cba9109"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a0753b84-c592-405b-916d-451845384b1e",
+      "dutyDetail": "Set expectations for cross-selling of services",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "75050859-8d3e-401b-a69e-490433d17d49"
+      ],
+      "mappedOptions": [
+        "760b1db5-f83f-402a-9b9e-00f64bb86fde"
+      ],
+      "mappedSkills": [
+        "135f9bbe-b7b6-4953-a373-abd507da8273"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c05a6ba6-710b-4c42-996c-c2f69cf1d866",
+      "dutyDetail": "Manage product quality, ensuring all products meet business standards",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "2a7d10fa-a2f7-4b34-a418-1ee26618d1af"
+      ],
+      "mappedOptions": [
+        "dc22d74c-7933-4717-9923-748622cadd98"
+      ],
+      "mappedSkills": [
+        "3d985e32-ff83-4535-b325-eaeeb700804e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "c20b0ebf-588a-4ae9-bb12-4dfcf9016301",
+      "title": "Food & Beverage Manager",
+      "occupationCode": "OCC0229B"
+    },
+    {
+      "optionId": "760b1db5-f83f-402a-9b9e-00f64bb86fde",
+      "title": "Guest Services Manager",
+      "occupationCode": "OCC0229C"
+    },
+    {
+      "optionId": "6110ce98-7d17-4c18-8b49-b64012a4acdf",
+      "title": "Housekeeping Manager",
+      "occupationCode": "OCC0229E"
+    },
+    {
+      "optionId": "dc22d74c-7933-4717-9923-748622cadd98",
+      "title": "Kitchen Manager",
+      "occupationCode": "OCC0229I"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Conference & Events Management",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Food & Beverage Service Management",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Front Office Management",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Hospitality Outlet Management",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "House Keeping Management",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Kitchen Management",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Multi-functional Management",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Revenue Management",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-09-14T00:00:00"
+}
