@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Standard, End-point assessment plan and funding band revised",
-  "changedDate": "2025-07-25T00:00:00",
+  "changedDate": "2026-09-18T00:00:00",
   "earliestStartDate": "2025-07-21T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-16T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Install, maintain and repair electrical systems in industrial, commercial and residential environments.",
   "level": 3,
@@ -235,7 +235,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0160",
-  "tbMainContact": "abi@abismith.net",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Balfour Beatty, Barlows Electrical, BESA, Burgess Electrical Services Limited, City and Guilds, Clarkson Evans Limited, Daly Engineering Services, Electrical Contractors Association, Engineering Services Partnership Limited, Excellence, Achievement & Learning Limited (EAL), National Electrotechnical Training (NET), Power Sonic Limited, Shaw williams, The Electrotechnical Joint Industry Board (The JIB), The Focus Training Group , The Institution of Engineering and Technology",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -254,7 +254,7 @@
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2025-09-15T08:05:36 +00:00",
-  "lastUpdated": "2025-07-25T00:00:00 +00:00",
+  "lastUpdated": "2026-09-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-10T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0152",
@@ -628,5 +628,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": true,
-  "publishDate": "2025-07-25T00:00:00"
+  "publishDate": "2026-12-16T00:00:00"
 }
