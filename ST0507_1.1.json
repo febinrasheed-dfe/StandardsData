@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-08T00:00:00",
+  "changedDate": "2026-09-16T00:00:00",
   "earliestStartDate": "2025-12-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -334,7 +334,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0313",
-  "tbMainContact": "antonia.grey@recyclemetals.org",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "ELG Haniel, Mellor Metals, European Metal Recycling, Sims Group UK Limited, S. Norton & Co Ltd, Recycling Lives Ltd, Recycled Products Ltd, S. Sacker (Claydon) Ltd, Ward Recycling",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -355,7 +355,7 @@
   "clusterId": "256",
   "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2025-12-08T09:37:06 +00:00",
-  "lastUpdated": "2025-12-08T00:00:00 +00:00",
+  "lastUpdated": "2026-09-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0507",
@@ -506,5 +506,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-08T00:00:00"
+  "publishDate": "2026-09-16T00:00:00"
 }
