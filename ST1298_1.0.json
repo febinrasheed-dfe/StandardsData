@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-06-23T00:00:00",
+  "changedDate": "2026-09-04T00:00:00",
   "earliestStartDate": "2025-06-23T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-08-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manage specialist working dogs effectively to support business objectives when operating in complex or high pressure environments or situations.",
   "level": 3,
@@ -298,7 +298,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0711",
-  "tbMainContact": "Stuart.Innes299@mod.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "MOD - Army HQ, 1st Mil Working Dog Regt, Defence Animal Trg Regt, RAF Police, MOD Police, Dstl, Ministry of Justice - HMPPS, Police - Met Police (NCT), British Transport Police, College of Policing, NPCC Police Dog Working Gp, Civil Nuclear Constabulary, Home office - Office of Security & Counter-Terrorism, Drug Misuse and Firearms, National Crime Agency, Fire Resilience, Border Force, Department for Transport, Security – Securitas, Kryus, ICTS, Wagtail, Medical - Medical Detection Dogs, PIF National Pet College, PDSA, Scottish Prison Service, Dogs Trust, NASDU, LANTRA, IAT.\n\n",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -316,7 +316,7 @@
   "clusterId": "148",
   "clusterDescription": "Routine and detailed care, handling and training of animals",
   "createdDate": "2025-04-07T13:31:22 +00:00",
-  "lastUpdated": "2025-06-23T00:00:00 +00:00",
+  "lastUpdated": "2026-09-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-06-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1298",
@@ -816,5 +816,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-23T00:00:00"
+  "publishDate": "2027-08-26T00:00:00"
 }
