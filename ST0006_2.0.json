@@ -1,0 +1,830 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 118,
+  "referenceNumber": "ST0006",
+  "learningAimClassCode": "",
+  "title": "Lead adult care worker",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0006",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised.",
+  "changedDate": "2026-10-07T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Lead Adult Care Workers provide person-centred care in homes or care settings, working with autonomy, supervising staff, and promoting best practice.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "minimumHoursForCompliance": "348",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Care services",
+  "keywords": [
+    "care",
+    "adult care",
+    "healthcare",
+    "health care",
+    "care sector",
+    "social care",
+    "lead adult"
+  ],
+  "jobRoles": [
+    "Care supervisor",
+    "Care team leader",
+    "Day care officer",
+    "Domiciliary care supervisor",
+    "Home care senior",
+    "Key worker",
+    "Lead adult care worker",
+    "Lead adult carers",
+    "Lead carer",
+    "Lead personal assistant",
+    "Lead personal support worker",
+    "Reablement officer",
+    "Residential senior support worker",
+    "Senior care assistant",
+    "Senior care worker",
+    "Senior community care worker",
+    "Senior personal care assistant",
+    "Senior support worker",
+    "Senior supported living worker",
+    "Team leader"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0006-in-revision?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.3 Health and social care",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;Occupation:&lt;/h3&gt;\n&lt;p&gt;Lead adult care worker&lt;/p&gt;\n&lt;h4&gt;Role profile (what the successful candidate should be able to do at the end of the apprenticeship)&lt;/h4&gt;\n&lt;p&gt;Lead Adult Care Workers are the frontline staff who help adults with care and support needs to achieve their personal goals and live as independently and safely as possible, enabling them to have control and choice in their lives. In addition, Lead Adult Care Workers have responsibility for providing supervision, frontline leadership, guidance and direction for others, or working autonomously, exercising judgement and accountability.&lt;/p&gt;\n&lt;p&gt;Typical job titles include Care Officer, Care Supervisor, Senior Care Worker, Supervising Care Worker, Senior Support Worker, Relief Team Leader, Social Work Assistant, Social Services Officer, Outreach Development Worker, Community Support Worker, Community Outreach Worker, Community Development Worker, Family Support Worker or Personal Assistant. These could all specialise in a variety of areas such as learning disability, mental health, drug and alcohol misuse, homecare, dementia and end-of-life care.&lt;/p&gt;\n&lt;p&gt;As a Lead Adult Care Worker you will make a positive difference to someone’s life when they are faced with physical, practical, social, emotional or intellectual challenges. You will be expected to exercise judgement and take appropriate action to support individuals to maintain their independence, dignity and control. By providing leadership, guidance and direction at the frontline of care delivery you will be instrumental in improving the health and wellbeing of those receiving care and support. Lead Adult Care Workers will in some circumstances have delegated responsibility for the standard of care provided and may supervise the work of other care workers. This exercising of autonomy and accountability means leading and supporting others to comply with expected standards and behaviours.&lt;/p&gt;\n&lt;p&gt;Lead Adult Care Workers may work in residential or nursing homes, domiciliary care, day centres or some clinical healthcare settings. As well as covering Lead Adult Care Workers this standard also covers Lead Personal Assistants who can work at this senior level but they may only work directly for one individual who needs support and/or care services, usually within their own home.&lt;/p&gt;\n&lt;h4&gt;These are the personal attributes and behaviours expected of all lead adult care workers carrying out their roles:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Care – is caring consistently and enough about individuals to make a positive difference to their lives&lt;/li&gt;\n&lt;li&gt;Compassion – is delivering care and support with kindness, consideration, dignity, empathy and respect&lt;/li&gt;\n&lt;li&gt;Courage – is doing the right thing for people and speaking up if the individual they support is at risk&lt;/li&gt;\n&lt;li&gt;Communication – good communication is central to successful caring relationships and effective team working&lt;/li&gt;\n&lt;li&gt;Competence – is applying knowledge and skills to provide high quality care and support&lt;/li&gt;\n&lt;li&gt;Commitment – to improving the experience of people who need care and support ensuring it is person centred&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Duration: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Typically 18 months&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level: &lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;3&lt;/h3&gt;\n&lt;h3&gt;A lead adult care worker must know and understand:&lt;/h3&gt;\n&lt;h4&gt;A. The job they have to do, their main tasks and responsibilities&lt;/h4&gt;\n&lt;ol&gt;\n&lt;li&gt;Their job roles and other worker roles relevant to the context of the service in which they are working. This could include supporting with social activities, monitoring health, assisting with eating, mobility and personal care&lt;/li&gt;\n&lt;li&gt;Both their own and other workers professional boundaries and limits training and expertise&lt;/li&gt;\n&lt;li&gt;Relevant statutory Standards and Codes of Practice for their role&lt;/li&gt;\n&lt;li&gt;What the ‘Duty of Care’ is in practice&lt;/li&gt;\n&lt;li&gt;How to create and develop a care plan based on the person’s preferences in the way they want to be supported&lt;/li&gt;\n&lt;li&gt;How to monitor, plan, review a care plan in response to changing physical, social, and emotional needs of individuals&lt;/li&gt;\n&lt;li&gt;How to lead and support others to ensure compliance with regulations and organisational policies and procedures&lt;/li&gt;\n&lt;/ol&gt;\n&lt;h4&gt;B. The importance of having the right values and behaviours&lt;/h4&gt;\n&lt;p&gt;8. How to ensure that dignity is at the centre of all work with individuals and their support circles&lt;/p&gt;\n&lt;p&gt;9. The importance of respecting diversity, the principles of inclusion and treating everyone fairly&lt;/p&gt;\n&lt;h4&gt;C. The importance of communication&lt;/h4&gt;\n&lt;p&gt;10. The barriers to communication and be able to both identify, and determine, the best solutions to achieve success when communicating with the individual they are supporting&lt;/p&gt;\n&lt;p&gt;11. How to communicate clearly both verbally and non-verbally and able to influence others to maximise the quality of interaction&lt;/p&gt;\n&lt;p&gt;12. The role of advocates and when they might be involved&lt;/p&gt;\n&lt;p&gt;13. Their own, and other workers’ responsibilities for ensuring confidential information is kept safe&lt;/p&gt;\n&lt;h4&gt;D. How to support individuals to remain safe from harm (Safeguarding)&lt;/h4&gt;\n&lt;p&gt;14. What abuse is and what to do when they have concerns someone is being abused&lt;/p&gt;\n&lt;p&gt;15. The national and local strategies for safeguarding and protection from abuse&lt;/p&gt;\n&lt;p&gt;16. What to do when receiving comments and complaints ensuring appropriate and timely actions takes place&lt;/p&gt;\n&lt;p&gt;17. How to recognise and prevent unsafe practices in the workplace&lt;/p&gt;\n&lt;p&gt;18. The importance and process of whistleblowing, being able to facilitate timely intervention&lt;/p&gt;\n&lt;p&gt;19. How to address and resolve any dilemmas they may face between a person’s rights and their safety&lt;/p&gt;\n&lt;h4&gt;E. How to champion health and wellbeing for the individuals they support and work colleagues&lt;/h4&gt;\n&lt;p&gt;20. The health and safety responsibilities of self, employer and workers&lt;/p&gt;\n&lt;p&gt;21. How to keep safe in the work environment&lt;/p&gt;\n&lt;p&gt;22. What to do when there is an accident or sudden illness and take appropriate action&lt;/p&gt;\n&lt;p&gt;23. What to do with hazardous substances&lt;/p&gt;\n&lt;p&gt;24. How to promote fire safety and how to support others to so&lt;/p&gt;\n&lt;p&gt;25. How to reduce the spread of infection and support others in infection prevention and control&lt;/p&gt;\n&lt;p&gt;26. How to use and promote with others where relevant, risk assessments to enable a person centred approach to delivering care&lt;/p&gt;\n&lt;h4&gt;F. How to work professionally, including their own professional development of those they support and work colleagues&lt;/h4&gt;\n&lt;p&gt;27. What a professional relationship is with the person being supported and colleagues&lt;/p&gt;\n&lt;p&gt;28. How to work with other people and organisations in the interest of the person being supported&lt;/p&gt;\n&lt;p&gt;29. How to be actively involved in their own personal development plan and, where appropriate, other worker’s personal development plans&lt;/p&gt;\n&lt;p&gt;30. How to demonstrate the importance of excellent core skills in writing, numbers and information technology&lt;/p&gt;\n&lt;p&gt;31. How to develop and sustain a positive attitude and address signs and symptoms of stress in self and other colleagues&lt;/p&gt;\n&lt;p&gt;32. How to carry out research relevant to individuals’ support needs and share with others&lt;/p&gt;\n&lt;p&gt;33. How to access and apply good practice relating to their role&lt;/p&gt;\n&lt;p&gt;34. How to access and apply specialist knowledge when needed to support performance in the job role&lt;/p&gt;\n&lt;h3&gt;A Lead Adult Care Worker must be able to:&lt;/h3&gt;\n&lt;h4&gt;A. The main tasks and responsibilities according to their job role&lt;/h4&gt;\n&lt;ol&gt;\n&lt;li&gt;Support individuals they are working with according to their personal care/support plan&lt;/li&gt;\n&lt;li&gt;Take the initiative when working outside normal duties and responsibilities&lt;/li&gt;\n&lt;li&gt;Recognise and access help when not confident or skilled in any aspect of the role that they are undertaking&lt;/li&gt;\n&lt;li&gt;Implement/facilitate the specialist assessment of social, physical, emotional and spiritual needs of individuals with cognitive, sensory and physical impairments&lt;/li&gt;\n&lt;li&gt;Contribute to the development and ongoing review of care/support plans for the individuals they support&lt;/li&gt;\n&lt;li&gt;Provide individuals with information to enable them to exercise choice on how they are supported&lt;/li&gt;\n&lt;li&gt;Encourage individuals to actively participate in the way their care and support is delivered&lt;/li&gt;\n&lt;li&gt;Ensure that individuals know what they are agreeing to regarding the way in which they are supported&lt;/li&gt;\n&lt;li&gt;Lead and support colleagues to understand how to establish informed consent when providing care and support&lt;/li&gt;\n&lt;li&gt;Guide, mentor and contribute to the development of colleagues in the execution of their duties and responsibilities&lt;/li&gt;\n&lt;/ol&gt;\n&lt;h4&gt;B. Treat people with respect and dignity and honour their human rights&lt;/h4&gt;\n&lt;p&gt;11. Demonstrate dignity in their working role with individuals they support, their families, carers and other professionals&lt;/p&gt;\n&lt;p&gt;12. Support others to understand the importance of equality, diversity and inclusion in social care&lt;/p&gt;\n&lt;p&gt;13. Exhibit empathy for individuals they support, i.e. understanding and compassion&lt;/p&gt;\n&lt;p&gt;14. Exhibit courage in supporting individuals in ways that may challenge their own cultural and belief systems&lt;/p&gt;\n&lt;h4&gt;C. Communicate clearly and responsibly&lt;/h4&gt;\n&lt;p&gt;15. Demonstrate and promote to other workers excellent communication skills including confirmation of understanding to individuals, their families, carers and professionals&lt;/p&gt;\n&lt;p&gt;16. Use and facilitate methods of communication preferred by the individual they support according to the individual’s language, cultural and sensory needs, wishes and preferences&lt;/p&gt;\n&lt;p&gt;17. Take the initiative and reduce environmental barriers to communication&lt;/p&gt;\n&lt;p&gt;18. Demonstrate and ensure that records and reports are written clearly and concisely&lt;/p&gt;\n&lt;p&gt;19. Lead and support others to keep information safe, preserve confidentiality in accordance with agreed ways of working&lt;/p&gt;\n&lt;h4&gt;D. Support individuals to remain safe from harm (Safeguarding)&lt;/h4&gt;\n&lt;p&gt;20. Support others, to recognise and respond to potential signs of abuse according to agreed ways of working&lt;/p&gt;\n&lt;p&gt;21. Work in partnership with external agencies to respond to concerns of abuse&lt;/p&gt;\n&lt;p&gt;22. Lead and support others to address conflicts or dilemmas that may arise between an individual’s rights and duty of care&lt;/p&gt;\n&lt;p&gt;23. Recognise, report, respond to and record unsafe practices and encourage others to do so&lt;/p&gt;\n&lt;h4&gt;E. Champion health and wellbeing for the individuals they support&lt;/h4&gt;\n&lt;p&gt;24. Lead and mentor others where appropriate to promote the wellbeing of the individuals they support&lt;/p&gt;\n&lt;p&gt;25. Demonstrate the management of the reduction of infection, including use of best practice in hand hygiene&lt;/p&gt;\n&lt;p&gt;26. Promote healthy eating and wellbeing by supporting individuals to have access to fluids, food and nutrition&lt;/p&gt;\n&lt;p&gt;27. Carry out fire safety procedures and manage others to do so&lt;/p&gt;\n&lt;p&gt;28. Develop risk assessments and use in a person centred way to support individuals safely including moving and assisting people and objects&lt;/p&gt;\n&lt;p&gt;29. Manage, monitor, report and respond to changes in the health and wellbeing of the individuals they support&lt;/p&gt;\n&lt;h4&gt;F. Work professionally and seek to develop their own professional development&lt;/h4&gt;\n&lt;p&gt;30. Take the initiative to identify and form professional relationships with other people and organisations&lt;/p&gt;\n&lt;p&gt;31. Demonstrate, manage and support self and others to work within safe, clear professional boundaries&lt;/p&gt;\n&lt;p&gt;32. Take the initiative to evaluate and improve own skills and knowledge through reflective practice, supervision, feedback and learning opportunities&lt;/p&gt;\n&lt;p&gt;33. Demonstrate continuous professional development&lt;/p&gt;\n&lt;p&gt;34. Carry out research relevant to individuals’ support needs and share with others&lt;/p&gt;\n&lt;p&gt;35. Demonstrate where necessary mentoring and supervision to others in the workplace&lt;/p&gt;\n&lt;p&gt;36. Demonstrate good team/partnership working skills&lt;/p&gt;\n&lt;p&gt;37. Demonstrate their contribution to robust recruitment and induction processes&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;Level 3 Diploma in Adult Care.&lt;/p&gt;\n&lt;p&gt;Individuals without level 2 English and maths will need to achieve this level prior to taking the end-point assessment.&lt;/p&gt;\n&lt;p&gt;For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&lt;/p&gt;\n&lt;h3&gt;Industry-specific requirements&lt;/h3&gt;\n&lt;p&gt;Undertake the Enhanced Disclosure and Barring Service process and provide the result prior to starting.&lt;/p&gt;\n&lt;p&gt;The individual must meet the 15 standards as set out in the Care Certificate. The Care Quality Commission expect that providers that employ healthcare assistants and social care support workers follow these standards to make sure new staff are supported, skilled and assessed as competent to carry out their roles.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in settings where adults require support and care to live as independently as possible, often involving complex needs, rehabilitation, or long-term care. These include residential or nursing homes, domiciliary care, supported living services, rehabilitation and reablement services, hospices or palliative care settings, NHS and community health services, adult day and respite services.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is hands-on and supervisory, combining direct care with leadership role modelling and directing junior staff to foster a caring, safe, nurturing, and empowering environment for individuals and team members alike, and promoting best practices amongst colleagues. The lead adult care worker may support and supervise junior staff, ensuring adherence to care plans and health and safety standards.&lt;/p&gt;\n&lt;p&gt;Lead adult care workers may work on their own or as part of a team. The twenty-four-hour nature of the adult care sector often demands overnight, flexible or shift working patterns. They may work weekends or public holidays and may be on call to respond to emergencies or staffing shortages. They may be a supervisor or shift team leader and will usually report to a team leader or care manager.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with the wider team in the organisation to ensure comprehensive and high-quality care for the individuals they support. They may also work with external professionals, care assistants, support workers, healthcare professionals, social workers, safeguarding officers, multi-disciplinary agencies and families or advocates.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation is responsible for providing person centred care in a way that ensures the physical and emotional needs of individuals are met. They can work with minimal supervision, exercising responsibility, autonomy and judgement within guidance and policy. In doing this, they follow health, safety and environmental regulations and guidelines, and accurately record and report on care activities in compliance with such regulations.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "93ec908f-9e89-47a4-b08a-1f8b4dff9456",
+      "detail": "Theories of leadership styles and the impact these can have on individuals and the organisation."
+    },
+    {
+      "knowledgeId": "6c5534a4-96ce-4bdd-a517-8b462fa3df2f",
+      "detail": "Techniques and strategies to support team performance and resolve conflicts or issues."
+    },
+    {
+      "knowledgeId": "6616d359-abe8-4c2e-a7fe-0387ea44b29d",
+      "detail": "The importance of developing and sustaining collaborative relationships with internal and external stakeholders to support effective service delivery."
+    },
+    {
+      "knowledgeId": "efcf370c-ffbc-4a75-a141-fad4dbcf4b66",
+      "detail": "The importance of an inclusive working environment that supports team learning and development to deliver a quality service."
+    },
+    {
+      "knowledgeId": "24023ce5-7b40-4e8e-92e4-875c6b371b30",
+      "detail": "How maintaining personal and team wellbeing and resilience impacts performance and workplace relationships."
+    },
+    {
+      "knowledgeId": "0a71e3f6-16f0-445b-8e57-61d3eecd0317",
+      "detail": "Principles of person-centred care or support plans and how to develop and review care."
+    },
+    {
+      "knowledgeId": "fe5c10c6-a4b6-4e08-97d5-f6422cdc2155",
+      "detail": "Person-centred approaches to ensure individuals can make informed choices and maintain independence."
+    },
+    {
+      "knowledgeId": "15807301-3ed1-4a78-b768-d140eb69dce3",
+      "detail": "Principles of positive behaviour support and restrictive practices in line with organisational policy, legal requirements and mental capacity principles."
+    },
+    {
+      "knowledgeId": "bb4ae91f-1f41-4a0e-bad0-59eab408c2a3",
+      "detail": "Different complex needs, levels of acuity and how to co-ordinate and monitor support for individuals."
+    },
+    {
+      "knowledgeId": "4e5e7bc1-1fc7-44bb-8600-96803927c630",
+      "detail": "How to identify and respond to changes to the mental or physical conditions or overall wellbeing of individuals, and the impact that these changes have."
+    },
+    {
+      "knowledgeId": "ace518f9-e31e-4b85-a647-e676879a2dd7",
+      "detail": "Agencies and support services available and how to co-ordinate access to improve health and wellbeing for individuals."
+    },
+    {
+      "knowledgeId": "24b0e03d-0563-42d4-a7a6-2dc038331eb6",
+      "detail": "Principles of safeguarding, local safeguarding board policies, procedures and how to escalate, including disclosures involving children and young people within own scope of practice and organisational protocols."
+    },
+    {
+      "knowledgeId": "9a648f7f-5ac9-46bb-8fca-443b0a8fc5f3",
+      "detail": "Health and safety policy, national legislation, guidance and risk assessment procedures relevant to own role."
+    },
+    {
+      "knowledgeId": "5f1f940b-61ec-4bae-bde8-4ac93ca059a0",
+      "detail": "How to use, record and store data and information securely, in line with General Data Protection Regulation (GDPR), and local and national policies, including the safe use of digital technology."
+    },
+    {
+      "knowledgeId": "3bfcdd18-82a3-4ea1-97a0-d0ee1903287c",
+      "detail": "Legislation, regulations, ethical guidelines, and codes of conduct within scope of own role."
+    },
+    {
+      "knowledgeId": "86e74b99-75dd-461d-83dd-30c3b871865b",
+      "detail": "The importance of identifying and evaluating own learning and development needs."
+    },
+    {
+      "knowledgeId": "db3ce236-0a23-4ac1-907d-67a26595195a",
+      "detail": "Principles of reflective practice and peer support, and how they contribute to improving the wellbeing of individuals and fostering co-production, within the scope of own role."
+    },
+    {
+      "knowledgeId": "55d5aaa3-158f-43e3-8490-42ec48ef8a99",
+      "detail": "Communication methods, technology and interventions to maximise understanding for individuals. "
+    },
+    {
+      "knowledgeId": "d8a495eb-7776-48db-ad5d-516c4c6b9a39",
+      "detail": "How to maintain professional boundaries and take individual responsibility and accountability, within scope of own role."
+    },
+    {
+      "knowledgeId": "34a5c062-c898-46e4-bef6-fbf82fb76a46",
+      "detail": "Principles of duty of care and duty of candour within own scope of practice and how to identify and respond to concerns."
+    },
+    {
+      "knowledgeId": "18860cb8-026d-4796-95aa-89c0a506d1d0",
+      "detail": "How to ensure that dignity is at the centre of all work with individuals and recognise and uphold their rights and choices."
+    },
+    {
+      "knowledgeId": "9eebae8e-ea7a-4d0a-a45d-8ae51b64fd01",
+      "detail": "Digital health solutions, care tools, and assistive technologies that are used to support the comprehensive care of individuals, both directly and indirectly."
+    },
+    {
+      "knowledgeId": "325f97c6-a956-406c-9b96-9a5d71627ce4",
+      "detail": "How inclusive practice supports organisational policies, legislation, human rights, equality, equity and diversity."
+    },
+    {
+      "knowledgeId": "cdcad586-5474-47e2-a2be-8cf638a0d544",
+      "detail": "Techniques to support preventative, proactive and sustainable care approaches and practices that promote health and wellbeing."
+    },
+    {
+      "knowledgeId": "ec165947-b16b-473d-977f-cff9baf15518",
+      "detail": "Current and developing sustainability principles."
+    },
+    {
+      "knowledgeId": "69e7cd69-7d65-4a05-a869-1d233294cd7f",
+      "detail": "Principles of safe and effective medication administration."
+    },
+    {
+      "knowledgeId": "058f8955-87da-47d5-8206-4b43489d3142",
+      "detail": "Principles of infection prevention and control, the chain of infection, modes of transmission, and standard precautions."
+    },
+    {
+      "knowledgeId": "976f2a52-9ae3-47a9-a740-9c678dc2babd",
+      "detail": "How to deliver dignified, personal care that respects preferences and promotes active participation and independence."
+    },
+    {
+      "knowledgeId": "1216e1c4-2b65-4008-94f9-6d53e6d20d78",
+      "detail": "Safe moving and handling techniques and how to encourage independence in mobility."
+    },
+    {
+      "knowledgeId": "d6f576ee-14ec-497c-a69f-721d2b914e91",
+      "detail": "How to support nutrition and hydration to ensure individual preferences and wellbeing are met."
+    },
+    {
+      "knowledgeId": "0d0278fb-e92b-4213-8533-8374377dd11a",
+      "detail": "Principles of trauma informed practice to health and care interventions."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "6f8bb0eb-5033-41ac-8e85-30d651e4a99c",
+      "detail": "Treat others with dignity."
+    },
+    {
+      "behaviourId": "251859c4-de81-4b29-be8a-5d8b7363cefa",
+      "detail": "Self-reflective.\u00A0"
+    },
+    {
+      "behaviourId": "68d246a4-67cc-42cf-9023-114411318bed",
+      "detail": "Caring and compassionate.\u00A0"
+    },
+    {
+      "behaviourId": "15540383-0d43-4d31-85d2-e2326e4787ac",
+      "detail": "Adaptable, reliable, resilient and consistent.\u00A0"
+    },
+    {
+      "behaviourId": "25200aec-0d98-4d4b-9a59-257886327901",
+      "detail": "Act as an advocate. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "4d98e1b0-2bd2-4f52-a1e9-ef5889b8e683",
+      "detail": "Use leadership techniques to support individuals and the organisation."
+    },
+    {
+      "skillId": "650734c6-578b-4dde-9495-d096f70b8446",
+      "detail": "Apply techniques to support team performance and resolve conflicts or issues."
+    },
+    {
+      "skillId": "52d280d7-12c3-45f0-bcd6-08101682d37b",
+      "detail": "Develop and sustain collaborative relationships with internal and external stakeholders to support service delivery."
+    },
+    {
+      "skillId": "9f4e3117-a5d2-463a-a338-ee062a6d9e5c",
+      "detail": "Identify and enable learning and development opportunities for team members to support inclusion and deliver a quality service."
+    },
+    {
+      "skillId": "fe4280d3-def7-400b-a64b-6f568a1f6fb7",
+      "detail": "Apply strategies to maintain own wellbeing and resilience and support team using available resources."
+    },
+    {
+      "skillId": "aef3ba5c-b395-4842-928d-52ec381b832f",
+      "detail": "Participate in the development and review of person-centred care or support plans."
+    },
+    {
+      "skillId": "c3200643-4f40-44e6-88b4-499e4784c33a",
+      "detail": "Apply person-centred approaches to ensure that individuals can maintain independence and make informed choices."
+    },
+    {
+      "skillId": "f03a1d1f-0d29-40e8-941a-94629f81d9c0",
+      "detail": "Use positive behaviour support and restrictive practices in line with organisational policy, legal requirements and mental capacity principles, ensuring they are proportionate, the least restrictive option, and  appropriate to own role. "
+    },
+    {
+      "skillId": "773eb75b-c816-4460-8d9c-a6d8976316c6",
+      "detail": " Co-ordinate and monitor support required for individuals with complex needs and different levels of acuity."
+    },
+    {
+      "skillId": "ae93f4db-8006-43a6-b57b-e2459ad5e3e8",
+      "detail": "Identify and respond to any changes to the mental or physical condition, or overall wellbeing, of individuals."
+    },
+    {
+      "skillId": "f868c37a-4efc-4a2b-8024-c9fa56a42378",
+      "detail": "Refer and signpost individuals to relevant agencies and services and co-ordinate access to support the health and wellbeing of individuals."
+    },
+    {
+      "skillId": "34ce07c6-70e1-47db-bcb1-2d3522eed4aa",
+      "detail": "Identify, escalate or respond to safeguarding concerns within the scope of own role."
+    },
+    {
+      "skillId": "3419b808-028d-4d41-92df-79db8d50dd9c",
+      "detail": "Comply with Health and Safety policy, national legislation, guidance  and risk assessment procedures."
+    },
+    {
+      "skillId": "e1614ec7-c3f1-4338-a57e-6e987c351ba2",
+      "detail": "Record and store data and information securely, in line with General Data Protection Regulation (GDPR) and local and national policies, including the safe use of digital technology."
+    },
+    {
+      "skillId": "95871c8d-ed2d-44e7-8e3c-3e764ee988a4",
+      "detail": "Work in line with legislation, regulations, ethical guidelines, and codes of conduct within scope of own role."
+    },
+    {
+      "skillId": "89cfe636-e354-4b44-949f-5f5c4910536c",
+      "detail": "Participate in training and development activities and evaluate the impact of learning on own practice."
+    },
+    {
+      "skillId": "85995603-bd9b-4c44-b86d-3135895f17a3",
+      "detail": "Use reflective practice to improve wellbeing and encourage co-production within scope of own role."
+    },
+    {
+      "skillId": "ace8b4fe-78f2-4988-b706-0b613bd61d3c",
+      "detail": "Communicate with individuals, stakeholders and family members using their preferred methods of communication to facilitate clear understanding."
+    },
+    {
+      "skillId": "38fe3145-2e87-4865-bdbc-fad93ec55d86",
+      "detail": "Maintain professional boundaries within own scope of practice. "
+    },
+    {
+      "skillId": "da04783f-7f42-4ca3-a1de-889893dbe94f",
+      "detail": "Identify and respond to duty of care and duty of candour concerns within scope of own role."
+    },
+    {
+      "skillId": "ca01e8f7-0b7d-40c3-aa3a-92a40909bc90",
+      "detail": "Maintain the dignity of individuals they support, by recognising and upholding their rights, and choices in all interactions."
+    },
+    {
+      "skillId": "bbc1dd7f-c85f-434b-b0fb-93219e51c3af",
+      "detail": "Champion the use of digital health solutions, digital care tools or assistive technology within scope of own role to support the care of individuals."
+    },
+    {
+      "skillId": "f2316f99-7d0a-489b-b53f-3834355326a7",
+      "detail": "Promote organisational policies, legislation, human rights, inclusion, equality, equity and diversity in practice. "
+    },
+    {
+      "skillId": "af77aaac-6357-4bd4-af39-3faa4ad49934",
+      "detail": "Use preventative, proactive and sustainable care approaches to promote health and wellbeing."
+    },
+    {
+      "skillId": "9f8a528e-7b75-4590-9cdd-a1ab2317a140",
+      "detail": "Apply sustainability principles to own work."
+    },
+    {
+      "skillId": "a1555679-3e2e-4fe1-a8a9-188fbd49d06d",
+      "detail": "Use safe medication administration in accordance with national and organisational policies relevant to own role. "
+    },
+    {
+      "skillId": "d4dc46dd-fd15-4571-abcc-7ed1a5d57db3",
+      "detail": "Apply infection prevention and control measures by following standard precautions, breaking the chain of infection, and reducing transmission risks in practice."
+    },
+    {
+      "skillId": "2f88afc1-163c-495b-aeea-4236257cb16e",
+      "detail": "Provide personal care that upholds preferences and promotes active participation and independence."
+    },
+    {
+      "skillId": "1717651c-09b9-401a-a8a8-6bf92e920061",
+      "detail": "Use agreed methods and equipment to support individuals to move safely."
+    },
+    {
+      "skillId": "e380f291-6f6e-41a1-94dc-1e50014313f6",
+      "detail": "Apply nutrition and hydration needs for individuals to ensure preferences are met."
+    },
+    {
+      "skillId": "cff9d173-bb6d-4bf6-b200-b47e7a165f37",
+      "detail": "Use trauma informed approaches, to support individuals within the scope of own role."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification with apprenticeship assessment",
+  "integratedDegree": "",
+  "tbReference": "TB0067",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Salutem Care, Anchor, Barchester Healthcare, CareTech, Central Bedfordshire Council, Creative Support, Hand in Hands, Hendra Healthcare (Ludlow) Limited, Hertfordshire County Council, Surrey County Council, London Borough of Tower Hamlets, West of England Centre for Inclusive Living and Education, Ivolve care, Cand Healthcare , Leeds City Council, Voyage Care, Hertfordshire County council, Cambridge County Council , Mencap ,New Cross Health Care ,Walnut care, Housing 21, HC-One Ltd ",
+  "otherInvolvedStakeholders": "Q Care group, Training Qualifications UK, Open Awards, NQUAL, Eastern Education group, Keys group, Edge works, Knovia, Inspiro learning, Solent, Hit training, Open Awards, Pearson, Skills for Care, Aspiration Training ltd, Innovate Awarding, BCE LEARN, NCFE, Ivolve, NOCN, Aspiration learning, City and Guilds Limited , JS consultants, Lifetime Training, Connect2care, tend™, Advance EPA, Highfield",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Care supervisor",
+    "Care team leader",
+    "Day care officer",
+    "Domiciliary care supervisor",
+    "Home care senior",
+    "Key worker",
+    "Lead adult care worker",
+    "Lead adult carers",
+    "Lead carer",
+    "Lead personal assistant",
+    "Lead personal support worker",
+    "Reablement officer",
+    "Residential senior support worker",
+    "Senior care assistant",
+    "Senior care worker",
+    "Senior community care worker",
+    "Senior personal care assistant",
+    "Senior support worker",
+    "Senior supported living worker",
+    "Team leader"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Care Services",
+  "cluster": "Adult care worker",
+  "clusterId": "146",
+  "clusterDescription": "Assess, review and deliver support services to meet the needs of clients under the direct guidance of professional leadership",
+  "createdDate": "2026-05-07T11:20:57 +00:00",
+  "lastUpdated": "2026-10-07T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-07-21T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0006",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0006-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0006-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "0b1a7cfc-cfc6-468d-a1f3-4e598014f297",
+      "title": "Diploma in Adult Care Approved by Skills for Care",
+      "level": "3",
+      "anyAdditionalInformation": "Level 3 Diploma in Adult Care approved by Skills for Care 1st April 2026.  Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "41a0aa73-c931-4478-99e2-08e033b088fd",
+      "dutyDetail": "Work as part of a  team of care workers to deliver high-quality care, person- centred care, providing supervision and feedback where appropriate, while promoting effective teamwork.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "15540383-0d43-4d31-85d2-e2326e4787ac"
+      ],
+      "mappedKnowledge": [
+        "93ec908f-9e89-47a4-b08a-1f8b4dff9456",
+        "6c5534a4-96ce-4bdd-a517-8b462fa3df2f",
+        "efcf370c-ffbc-4a75-a141-fad4dbcf4b66",
+        "24023ce5-7b40-4e8e-92e4-875c6b371b30",
+        "15807301-3ed1-4a78-b768-d140eb69dce3",
+        "ace518f9-e31e-4b85-a647-e676879a2dd7",
+        "d8a495eb-7776-48db-ad5d-516c4c6b9a39",
+        "cdcad586-5474-47e2-a2be-8cf638a0d544",
+        "ec165947-b16b-473d-977f-cff9baf15518",
+        "69e7cd69-7d65-4a05-a869-1d233294cd7f",
+        "058f8955-87da-47d5-8206-4b43489d3142",
+        "0d0278fb-e92b-4213-8533-8374377dd11a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4d98e1b0-2bd2-4f52-a1e9-ef5889b8e683",
+        "650734c6-578b-4dde-9495-d096f70b8446",
+        "9f4e3117-a5d2-463a-a338-ee062a6d9e5c",
+        "fe4280d3-def7-400b-a64b-6f568a1f6fb7",
+        "f03a1d1f-0d29-40e8-941a-94629f81d9c0",
+        "f868c37a-4efc-4a2b-8024-c9fa56a42378",
+        "38fe3145-2e87-4865-bdbc-fad93ec55d86",
+        "af77aaac-6357-4bd4-af39-3faa4ad49934",
+        "9f8a528e-7b75-4590-9cdd-a1ab2317a140",
+        "a1555679-3e2e-4fe1-a8a9-188fbd49d06d",
+        "d4dc46dd-fd15-4571-abcc-7ed1a5d57db3",
+        "cff9d173-bb6d-4bf6-b200-b47e7a165f37"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e48a04ec-0432-4930-b152-73ddbcbc2fb3",
+      "dutyDetail": "Anticipate challenges and address them constructively and collaboratively within the care team, contributing to a supportive and positive working environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "251859c4-de81-4b29-be8a-5d8b7363cefa",
+        "68d246a4-67cc-42cf-9023-114411318bed",
+        "15540383-0d43-4d31-85d2-e2326e4787ac"
+      ],
+      "mappedKnowledge": [
+        "93ec908f-9e89-47a4-b08a-1f8b4dff9456",
+        "6c5534a4-96ce-4bdd-a517-8b462fa3df2f",
+        "24023ce5-7b40-4e8e-92e4-875c6b371b30"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4d98e1b0-2bd2-4f52-a1e9-ef5889b8e683",
+        "650734c6-578b-4dde-9495-d096f70b8446",
+        "fe4280d3-def7-400b-a64b-6f568a1f6fb7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "17f7f034-11ea-4cb2-84a9-26c48277eb33",
+      "dutyDetail": "Contribute to the development and review of individualised care or support plans, ensuring they reflect person-centred care principles.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "15540383-0d43-4d31-85d2-e2326e4787ac",
+        "25200aec-0d98-4d4b-9a59-257886327901"
+      ],
+      "mappedKnowledge": [
+        "0a71e3f6-16f0-445b-8e57-61d3eecd0317",
+        "bb4ae91f-1f41-4a0e-bad0-59eab408c2a3",
+        "ace518f9-e31e-4b85-a647-e676879a2dd7",
+        "325f97c6-a956-406c-9b96-9a5d71627ce4",
+        "69e7cd69-7d65-4a05-a869-1d233294cd7f",
+        "976f2a52-9ae3-47a9-a740-9c678dc2babd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aef3ba5c-b395-4842-928d-52ec381b832f",
+        "773eb75b-c816-4460-8d9c-a6d8976316c6",
+        "f868c37a-4efc-4a2b-8024-c9fa56a42378",
+        "f2316f99-7d0a-489b-b53f-3834355326a7",
+        "a1555679-3e2e-4fe1-a8a9-188fbd49d06d",
+        "2f88afc1-163c-495b-aeea-4236257cb16e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f0245acb-aaf7-45b2-9819-d12fad0e527f",
+      "dutyDetail": "Support individuals to maintain independence and control over their lives, ensuring their dignity, rights,  choices and mental capacity are respected.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6f8bb0eb-5033-41ac-8e85-30d651e4a99c",
+        "251859c4-de81-4b29-be8a-5d8b7363cefa",
+        "68d246a4-67cc-42cf-9023-114411318bed",
+        "15540383-0d43-4d31-85d2-e2326e4787ac"
+      ],
+      "mappedKnowledge": [
+        "6616d359-abe8-4c2e-a7fe-0387ea44b29d",
+        "0a71e3f6-16f0-445b-8e57-61d3eecd0317",
+        "15807301-3ed1-4a78-b768-d140eb69dce3",
+        "bb4ae91f-1f41-4a0e-bad0-59eab408c2a3",
+        "4e5e7bc1-1fc7-44bb-8600-96803927c630",
+        "34a5c062-c898-46e4-bef6-fbf82fb76a46",
+        "69e7cd69-7d65-4a05-a869-1d233294cd7f",
+        "058f8955-87da-47d5-8206-4b43489d3142",
+        "976f2a52-9ae3-47a9-a740-9c678dc2babd",
+        "1216e1c4-2b65-4008-94f9-6d53e6d20d78",
+        "0d0278fb-e92b-4213-8533-8374377dd11a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "52d280d7-12c3-45f0-bcd6-08101682d37b",
+        "aef3ba5c-b395-4842-928d-52ec381b832f",
+        "f03a1d1f-0d29-40e8-941a-94629f81d9c0",
+        "773eb75b-c816-4460-8d9c-a6d8976316c6",
+        "ae93f4db-8006-43a6-b57b-e2459ad5e3e8",
+        "da04783f-7f42-4ca3-a1de-889893dbe94f",
+        "a1555679-3e2e-4fe1-a8a9-188fbd49d06d",
+        "d4dc46dd-fd15-4571-abcc-7ed1a5d57db3",
+        "2f88afc1-163c-495b-aeea-4236257cb16e",
+        "1717651c-09b9-401a-a8a8-6bf92e920061",
+        "cff9d173-bb6d-4bf6-b200-b47e7a165f37"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "aa3ceda6-5b4c-4c96-888a-92077b1b4367",
+      "dutyDetail": "Foster and support others to maintain professional relationships with external stakeholders, individuals, and those important to them, ensuring effective communication and collaboration with families and healthcare professionals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "251859c4-de81-4b29-be8a-5d8b7363cefa"
+      ],
+      "mappedKnowledge": [
+        "6616d359-abe8-4c2e-a7fe-0387ea44b29d",
+        "bb4ae91f-1f41-4a0e-bad0-59eab408c2a3",
+        "4e5e7bc1-1fc7-44bb-8600-96803927c630",
+        "ace518f9-e31e-4b85-a647-e676879a2dd7",
+        "325f97c6-a956-406c-9b96-9a5d71627ce4",
+        "cdcad586-5474-47e2-a2be-8cf638a0d544"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "52d280d7-12c3-45f0-bcd6-08101682d37b",
+        "773eb75b-c816-4460-8d9c-a6d8976316c6",
+        "ae93f4db-8006-43a6-b57b-e2459ad5e3e8",
+        "f868c37a-4efc-4a2b-8024-c9fa56a42378",
+        "f2316f99-7d0a-489b-b53f-3834355326a7",
+        "af77aaac-6357-4bd4-af39-3faa4ad49934"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "41d7959b-b1d9-4827-adab-e4cdc80d5405",
+      "dutyDetail": "Monitor and support individual's physical, emotional, and mental wellbeing, taking appropriate action based on their conditions, and advocate on their behalf to ensure their needs are met.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6f8bb0eb-5033-41ac-8e85-30d651e4a99c",
+        "251859c4-de81-4b29-be8a-5d8b7363cefa",
+        "68d246a4-67cc-42cf-9023-114411318bed",
+        "15540383-0d43-4d31-85d2-e2326e4787ac"
+      ],
+      "mappedKnowledge": [
+        "0a71e3f6-16f0-445b-8e57-61d3eecd0317",
+        "fe5c10c6-a4b6-4e08-97d5-f6422cdc2155",
+        "55d5aaa3-158f-43e3-8490-42ec48ef8a99",
+        "34a5c062-c898-46e4-bef6-fbf82fb76a46",
+        "18860cb8-026d-4796-95aa-89c0a506d1d0",
+        "9eebae8e-ea7a-4d0a-a45d-8ae51b64fd01",
+        "1216e1c4-2b65-4008-94f9-6d53e6d20d78",
+        "d6f576ee-14ec-497c-a69f-721d2b914e91"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aef3ba5c-b395-4842-928d-52ec381b832f",
+        "c3200643-4f40-44e6-88b4-499e4784c33a",
+        "ace8b4fe-78f2-4988-b706-0b613bd61d3c",
+        "da04783f-7f42-4ca3-a1de-889893dbe94f",
+        "ca01e8f7-0b7d-40c3-aa3a-92a40909bc90",
+        "bbc1dd7f-c85f-434b-b0fb-93219e51c3af",
+        "1717651c-09b9-401a-a8a8-6bf92e920061",
+        "e380f291-6f6e-41a1-94dc-1e50014313f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9a646050-dc49-4279-8b35-2ab932d45db8",
+      "dutyDetail": "Co-ordinate and support individual's access to health services, such as therapy or medical appointments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6616d359-abe8-4c2e-a7fe-0387ea44b29d",
+        "0a71e3f6-16f0-445b-8e57-61d3eecd0317",
+        "4e5e7bc1-1fc7-44bb-8600-96803927c630",
+        "55d5aaa3-158f-43e3-8490-42ec48ef8a99",
+        "18860cb8-026d-4796-95aa-89c0a506d1d0",
+        "9eebae8e-ea7a-4d0a-a45d-8ae51b64fd01",
+        "325f97c6-a956-406c-9b96-9a5d71627ce4",
+        "976f2a52-9ae3-47a9-a740-9c678dc2babd",
+        "1216e1c4-2b65-4008-94f9-6d53e6d20d78",
+        "d6f576ee-14ec-497c-a69f-721d2b914e91"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "52d280d7-12c3-45f0-bcd6-08101682d37b",
+        "aef3ba5c-b395-4842-928d-52ec381b832f",
+        "ae93f4db-8006-43a6-b57b-e2459ad5e3e8",
+        "ace8b4fe-78f2-4988-b706-0b613bd61d3c",
+        "ca01e8f7-0b7d-40c3-aa3a-92a40909bc90",
+        "bbc1dd7f-c85f-434b-b0fb-93219e51c3af",
+        "f2316f99-7d0a-489b-b53f-3834355326a7",
+        "2f88afc1-163c-495b-aeea-4236257cb16e",
+        "1717651c-09b9-401a-a8a8-6bf92e920061",
+        "e380f291-6f6e-41a1-94dc-1e50014313f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6f9fa50c-497d-430e-ab11-57fc4f71f7fc",
+      "dutyDetail": "Implement safeguarding practices to ensure the safety and protection of individuals in care, including reporting concerns and following organisational procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "93ec908f-9e89-47a4-b08a-1f8b4dff9456",
+        "6616d359-abe8-4c2e-a7fe-0387ea44b29d",
+        "fe5c10c6-a4b6-4e08-97d5-f6422cdc2155",
+        "15807301-3ed1-4a78-b768-d140eb69dce3",
+        "24b0e03d-0563-42d4-a7a6-2dc038331eb6",
+        "5f1f940b-61ec-4bae-bde8-4ac93ca059a0",
+        "3bfcdd18-82a3-4ea1-97a0-d0ee1903287c",
+        "325f97c6-a956-406c-9b96-9a5d71627ce4",
+        "cdcad586-5474-47e2-a2be-8cf638a0d544",
+        "976f2a52-9ae3-47a9-a740-9c678dc2babd",
+        "0d0278fb-e92b-4213-8533-8374377dd11a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4d98e1b0-2bd2-4f52-a1e9-ef5889b8e683",
+        "52d280d7-12c3-45f0-bcd6-08101682d37b",
+        "c3200643-4f40-44e6-88b4-499e4784c33a",
+        "f03a1d1f-0d29-40e8-941a-94629f81d9c0",
+        "34ce07c6-70e1-47db-bcb1-2d3522eed4aa",
+        "e1614ec7-c3f1-4338-a57e-6e987c351ba2",
+        "95871c8d-ed2d-44e7-8e3c-3e764ee988a4",
+        "f2316f99-7d0a-489b-b53f-3834355326a7",
+        "af77aaac-6357-4bd4-af39-3faa4ad49934",
+        "2f88afc1-163c-495b-aeea-4236257cb16e",
+        "cff9d173-bb6d-4bf6-b200-b47e7a165f37"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3d560ebd-b7df-4338-b5ec-2e2fc3774c7b",
+      "dutyDetail": "Apply and follow organisational procedures related to health and safety, infection control, and risk assessments to ensure compliance and maintain a safe care environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "24b0e03d-0563-42d4-a7a6-2dc038331eb6",
+        "9a648f7f-5ac9-46bb-8fca-443b0a8fc5f3",
+        "3bfcdd18-82a3-4ea1-97a0-d0ee1903287c",
+        "18860cb8-026d-4796-95aa-89c0a506d1d0",
+        "325f97c6-a956-406c-9b96-9a5d71627ce4",
+        "cdcad586-5474-47e2-a2be-8cf638a0d544",
+        "ec165947-b16b-473d-977f-cff9baf15518",
+        "69e7cd69-7d65-4a05-a869-1d233294cd7f",
+        "058f8955-87da-47d5-8206-4b43489d3142"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "34ce07c6-70e1-47db-bcb1-2d3522eed4aa",
+        "3419b808-028d-4d41-92df-79db8d50dd9c",
+        "95871c8d-ed2d-44e7-8e3c-3e764ee988a4",
+        "ca01e8f7-0b7d-40c3-aa3a-92a40909bc90",
+        "af77aaac-6357-4bd4-af39-3faa4ad49934",
+        "9f8a528e-7b75-4590-9cdd-a1ab2317a140",
+        "a1555679-3e2e-4fe1-a8a9-188fbd49d06d",
+        "d4dc46dd-fd15-4571-abcc-7ed1a5d57db3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6b49f5e1-85a5-4201-8a7b-896dbee75ae2",
+      "dutyDetail": "Document and maintain accurate care plans, progress reports, and incident records, ensuring that all care provided and any incidents or concerns are recorded appropriately.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "4e5e7bc1-1fc7-44bb-8600-96803927c630",
+        "24b0e03d-0563-42d4-a7a6-2dc038331eb6",
+        "5f1f940b-61ec-4bae-bde8-4ac93ca059a0",
+        "3bfcdd18-82a3-4ea1-97a0-d0ee1903287c",
+        "34a5c062-c898-46e4-bef6-fbf82fb76a46",
+        "1216e1c4-2b65-4008-94f9-6d53e6d20d78"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ae93f4db-8006-43a6-b57b-e2459ad5e3e8",
+        "34ce07c6-70e1-47db-bcb1-2d3522eed4aa",
+        "e1614ec7-c3f1-4338-a57e-6e987c351ba2",
+        "95871c8d-ed2d-44e7-8e3c-3e764ee988a4",
+        "da04783f-7f42-4ca3-a1de-889893dbe94f",
+        "1717651c-09b9-401a-a8a8-6bf92e920061"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "42842403-cf79-4757-8c9d-4b4602a6918d",
+      "dutyDetail": "Follow current regulatory standards, ethical guidelines, and legal requirements, ensuring care practices protect individual's rights, safety, and wellbeing.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "93ec908f-9e89-47a4-b08a-1f8b4dff9456",
+        "24b0e03d-0563-42d4-a7a6-2dc038331eb6",
+        "9a648f7f-5ac9-46bb-8fca-443b0a8fc5f3",
+        "5f1f940b-61ec-4bae-bde8-4ac93ca059a0",
+        "3bfcdd18-82a3-4ea1-97a0-d0ee1903287c",
+        "325f97c6-a956-406c-9b96-9a5d71627ce4",
+        "69e7cd69-7d65-4a05-a869-1d233294cd7f",
+        "1216e1c4-2b65-4008-94f9-6d53e6d20d78"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4d98e1b0-2bd2-4f52-a1e9-ef5889b8e683",
+        "34ce07c6-70e1-47db-bcb1-2d3522eed4aa",
+        "3419b808-028d-4d41-92df-79db8d50dd9c",
+        "e1614ec7-c3f1-4338-a57e-6e987c351ba2",
+        "95871c8d-ed2d-44e7-8e3c-3e764ee988a4",
+        "f2316f99-7d0a-489b-b53f-3834355326a7",
+        "a1555679-3e2e-4fe1-a8a9-188fbd49d06d",
+        "1717651c-09b9-401a-a8a8-6bf92e920061"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "392da832-e90a-46e8-81d6-f243276cbb81",
+      "dutyDetail": "Maintain personal continuous professional development and reflect on own practices, ensuring up to date knowledge of social care legislation and policies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "93ec908f-9e89-47a4-b08a-1f8b4dff9456",
+        "efcf370c-ffbc-4a75-a141-fad4dbcf4b66",
+        "24023ce5-7b40-4e8e-92e4-875c6b371b30",
+        "86e74b99-75dd-461d-83dd-30c3b871865b",
+        "db3ce236-0a23-4ac1-907d-67a26595195a",
+        "d8a495eb-7776-48db-ad5d-516c4c6b9a39",
+        "9eebae8e-ea7a-4d0a-a45d-8ae51b64fd01",
+        "ec165947-b16b-473d-977f-cff9baf15518"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4d98e1b0-2bd2-4f52-a1e9-ef5889b8e683",
+        "9f4e3117-a5d2-463a-a338-ee062a6d9e5c",
+        "fe4280d3-def7-400b-a64b-6f568a1f6fb7",
+        "89cfe636-e354-4b44-949f-5f5c4910536c",
+        "85995603-bd9b-4c44-b86d-3135895f17a3",
+        "38fe3145-2e87-4865-bdbc-fad93ec55d86",
+        "bbc1dd7f-c85f-434b-b0fb-93219e51c3af",
+        "9f8a528e-7b75-4590-9cdd-a1ab2317a140"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "06c42da8-2624-4339-9ea8-9f3e911c108a",
+      "dutyDetail": "Adopt an inclusive working environment in the team. Assist in providing team members with appropriate training, mentoring and development opportunities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "93ec908f-9e89-47a4-b08a-1f8b4dff9456",
+        "efcf370c-ffbc-4a75-a141-fad4dbcf4b66",
+        "24023ce5-7b40-4e8e-92e4-875c6b371b30",
+        "9a648f7f-5ac9-46bb-8fca-443b0a8fc5f3",
+        "5f1f940b-61ec-4bae-bde8-4ac93ca059a0",
+        "db3ce236-0a23-4ac1-907d-67a26595195a",
+        "55d5aaa3-158f-43e3-8490-42ec48ef8a99"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4d98e1b0-2bd2-4f52-a1e9-ef5889b8e683",
+        "9f4e3117-a5d2-463a-a338-ee062a6d9e5c",
+        "fe4280d3-def7-400b-a64b-6f568a1f6fb7",
+        "3419b808-028d-4d41-92df-79db8d50dd9c",
+        "e1614ec7-c3f1-4338-a57e-6e987c351ba2",
+        "85995603-bd9b-4c44-b86d-3135895f17a3",
+        "ace8b4fe-78f2-4988-b706-0b613bd61d3c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b7826881-4c17-4e6c-b399-48b993fac3a8",
+      "dutyDetail": "Apply person centred and strength based approaches to ensure individual's care plan needs and aspirations are delivered to a high standard, monitoring and reviewing with the individual and appropriate others.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "251859c4-de81-4b29-be8a-5d8b7363cefa"
+      ],
+      "mappedKnowledge": [
+        "6616d359-abe8-4c2e-a7fe-0387ea44b29d",
+        "fe5c10c6-a4b6-4e08-97d5-f6422cdc2155",
+        "bb4ae91f-1f41-4a0e-bad0-59eab408c2a3",
+        "9a648f7f-5ac9-46bb-8fca-443b0a8fc5f3",
+        "5f1f940b-61ec-4bae-bde8-4ac93ca059a0",
+        "1216e1c4-2b65-4008-94f9-6d53e6d20d78"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c3200643-4f40-44e6-88b4-499e4784c33a",
+        "773eb75b-c816-4460-8d9c-a6d8976316c6",
+        "3419b808-028d-4d41-92df-79db8d50dd9c",
+        "e1614ec7-c3f1-4338-a57e-6e987c351ba2",
+        "1717651c-09b9-401a-a8a8-6bf92e920061",
+        "e380f291-6f6e-41a1-94dc-1e50014313f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-10-07T00:00:00"
+}
