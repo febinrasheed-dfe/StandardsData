@@ -1,0 +1,752 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 0,
+  "referenceNumber": "ST1509",
+  "learningAimClassCode": "",
+  "title": "Electrical power network control engineer",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1509",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "2026-10-08T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Control engineers carry out engineering operations to ensure the security and continuity of electricity supply.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 30,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "Electrical power network control engineer",
+    "engineer",
+    "electricity",
+    "Control Engineer"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1509?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the electrical supply industry. This industry is made up of mainly large employers who are responsible for the transmission and distribution of electricity around the country, through networks of overhead lines, underground cables and substations, delivering electricity from where it is generated to where it is used.&amp;nbsp; Electrical power network control engineers may work on the high voltage or the extra high voltage network. Different parts of the network have their own role, procedures and equipment.&lt;/p&gt;\n&lt;p&gt;This is a core and options apprenticeship.&amp;nbsp; An apprentice must be trained and assessed on the core and one option relevant to their role. The options are: distribution network control engineer, system control engineer or transmission control engineer.&lt;/p&gt;\n&lt;p&gt;The electrical supply industry operates seven days a week, 365 days a year to make sure that homes and businesses always have the electricity they need, as a result, control engineers usually work shifts, carrying out planned work and responding to faults or incidents such as storms or fires to restore power quickly.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to to manage and control the network to ensure a safe, secure and reliable supply. Electrical power network control engineers work in a network control room and are responsible for monitoring network security and availability on the high voltage and extra high voltage networks. They manage safe access to the network to enable planned and unplanned work to take place. This could include maintenance, replacement work, new connections and fault management for network equipment. They coordinate work between site engineers and the control room. Control engineers must provide an immediate response to losses of supply to ensure that they comply with their licence obligations and that customer interruptions and customer minutes lost targets are met. They also carry out analysis to identify faults where interventions are needed and carry out emergency procedures to manage incidents safely. New innovations mean more connections being made into the network and the control engineer has an important role to make sure that work and power flow is coordinated safely.&lt;/p&gt;\n&lt;p&gt;System control engineers oversee the real-time flow of electricity across the transmission network. They continuously balance supply and demand to maintain stability, security, and compliance with technical limits. By utilising advanced tools and live data, they make decisions to ensure uninterrupted power supply and facilitate the transition to a low-carbon energy system.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation a wide range of stakeholders such as distribution network operators, transmission network operator, contractors, planning departments, regulators and customers to give operational information and therefore must be able to maintain complex relationships through excellent communication and negotiation skills. Electrical power network control engineers typically report to a control room manager or shift supervisor.&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "d57b4336-0051-4a84-a8f3-b19a906d30f0",
+      "detail": "Core - The whole energy system and the electrical power network. Types of organisations, how they interact, structure, role, function and influence on the transmission, distribution and generation system. Regulators. Stakeholders and customer requirements. "
+    },
+    {
+      "knowledgeId": "f00cc26b-412e-4a50-9118-751aa66c074a",
+      "detail": "Core - Engineer's role, responsibilities limits of autonomy and coordination with other business functions. Reporting channels within the power sector."
+    },
+    {
+      "knowledgeId": "c0227222-693e-4b37-980c-74b6178fc358",
+      "detail": "Core - Work organisation, planning, prioritisation and time management techniques."
+    },
+    {
+      "knowledgeId": "ae152e27-4387-4543-93b7-4abd19f4ec34",
+      "detail": "Core - Awareness of health and safety policies, procedures, safe systems of work and regulations relevant to the engineer's role. Display Screen Equipment. Fire regulations. Health and Safety at Work Act – responsibilities. Managing Health and Safety at Work Regulations. Electricity at Work Regulations. "
+    },
+    {
+      "knowledgeId": "a0fa85d2-393c-49d5-91a1-1599c2269a2a",
+      "detail": "Core -– Awareness of risk assessments, risk management techniques and approaches."
+    },
+    {
+      "knowledgeId": "4b0c8dc3-4fd5-46b3-82fc-47d348f049a8",
+      "detail": "Core - Environmental regulations and standards, what they are and why they are important: Environmental Protection Act and Hazardous Waste Regulations. Environmental impact of equipment, sustainability principles."
+    },
+    {
+      "knowledgeId": "fd9ff114-cc0f-4774-9882-725d98ff7776",
+      "detail": "Core - Awareness of regulatory frameworks, regulatory measures and reporting requirements relevant to role. For example: Electricity Safety, Quality and Continuity Regulations (ESQCR). Security and Quality of Supply Standard (SQSS)."
+    },
+    {
+      "knowledgeId": "f399da80-f585-4d46-9259-17439a025de0",
+      "detail": "Core - Electrical power principles: three phase alternating current and direct current theories; voltage; dynamic and static engineering systems; application of electrical  circuit theory."
+    },
+    {
+      "knowledgeId": "1944ad1a-2acc-469c-981e-c9bf53c28b5f",
+      "detail": "Core - The system voltage boundaries of different stakeholders, including transmission operators, distribution network operators, generators and National Energy System Operator (NESO)."
+    },
+    {
+      "knowledgeId": "843a19a5-be4f-4623-9b70-2ea97f779ac9",
+      "detail": "Core - Operational diagrams, purpose, symbols. "
+    },
+    {
+      "knowledgeId": "3f62f2e8-ed2e-489e-83c2-33c3ad5054bd",
+      "detail": "Core - Principles of electricity network design, capabilities, complexities, operations and topologies."
+    },
+    {
+      "knowledgeId": "ad5b40bd-fd3f-41b9-a91a-f1cfef40e763",
+      "detail": "Core - Principles of transmission or distribution network configuration."
+    },
+    {
+      "knowledgeId": "cfb7630e-f1c5-4748-bd91-0f1f7fbd16e1",
+      "detail": "Core - Electricity network principles of operation in normal and fault conditions. Overhead network, underground network and associated protective devices. "
+    },
+    {
+      "knowledgeId": "a0dd60f3-61ad-433b-9a7a-bbe34d897a75",
+      "detail": "Core - Behaviour and functionality of protection systems. "
+    },
+    {
+      "knowledgeId": "63c087e5-eabe-44ad-9b9c-8b61429c9db0",
+      "detail": "Core - Engineering technical specifications, policies and engineering  standards relevant to role and organisation. What they are and how to use them. "
+    },
+    {
+      "knowledgeId": "386583e8-7d83-40c1-bcb8-b2eaed5ba15a",
+      "detail": "Core - Automation and control systems, awareness of what they do and their impact on the network."
+    },
+    {
+      "knowledgeId": "9913cca0-e34c-454f-8134-8e78bafdde6d",
+      "detail": "Core - System control and monitoring procedures. Supervisory Control and Data Acquisition (SCADA) purpose, navigation, interrogation, operation and resilience. Alarms and indications, response procedures. How to remotely identify assets on the system. "
+    },
+    {
+      "knowledgeId": "f08a6025-7b4d-45ab-9c48-852463f2bb7f",
+      "detail": "Core - Problem solving and fault analysis finding techniques. "
+    },
+    {
+      "knowledgeId": "944a369a-cde6-464a-afcd-37e2a5687450",
+      "detail": "Core - Documentation methods and requirements - electronic and paper."
+    },
+    {
+      "knowledgeId": "467924e6-4b3f-4132-be9e-cc689f3c5e61",
+      "detail": "Core - Continuous improvement principles and techniques."
+    },
+    {
+      "knowledgeId": "8678745c-f7e8-4d7d-8d0a-dbeca614cee7",
+      "detail": "Core - Team working principles."
+    },
+    {
+      "knowledgeId": "08ecdaa9-6925-49c0-b4dd-b3911690ebcb",
+      "detail": "Core - Communication techniques: verbal and written. "
+    },
+    {
+      "knowledgeId": "2f8d6be5-ea1f-4a5a-99ae-dae646aaeb5a",
+      "detail": "Core - Information technology and digital systems. General Data Protection Regulation (GDPR). Awareness of network operational cyber security and impact. Network Information Systems Regulations."
+    },
+    {
+      "knowledgeId": "fc9dc4bc-660d-48e1-b2f7-98744d74480a",
+      "detail": "Core - Data analysis techniques."
+    },
+    {
+      "knowledgeId": "431b2cb5-f050-466e-a454-fdb48ffff48b",
+      "detail": "Core - Appreciation of emerging technologies and their impact on projected future load. "
+    },
+    {
+      "knowledgeId": "c8fdab2f-7138-4b4e-9095-959052ccd9f8",
+      "detail": "Core - Future impact of shifting generation and demand on network topography."
+    },
+    {
+      "knowledgeId": "409ff5ad-231b-4dce-97bd-8724a99c44a7",
+      "detail": "Core - Network incident management and emergency procedures. "
+    },
+    {
+      "knowledgeId": "12ca7359-289f-4d4c-9daa-c697c1ca35a0",
+      "detail": "Core - Awareness of restoration policy and process."
+    },
+    {
+      "knowledgeId": "22b25e47-f469-4e88-903b-a16244d18121",
+      "detail": "Distribution control engineer - Operation, function and limitations of distribution plant and equipment. Substations, transformers, switchgear and auxiliary equipment. Overhead lines. Components that make up the distribution network. Loads, capabilities of assets and demand."
+    },
+    {
+      "knowledgeId": "5e161585-1b6b-423b-99af-37de4af1b590",
+      "detail": "Distribution control engineer - Impact that the integration of new technologies has on the network, demand response and load management."
+    },
+    {
+      "knowledgeId": "9e51e5b3-c0e1-4382-8d90-26b7511c3684",
+      "detail": "Distribution control engineer - Switching schedules, industry process for developing switching schedules, checking and approval processes. Switching procedures and planned switching principles."
+    },
+    {
+      "knowledgeId": "0c4e237f-37f9-4f0b-a6f4-7cefc164233d",
+      "detail": "Distribution control engineer - Control process for commissioning and decommissioning assets."
+    },
+    {
+      "knowledgeId": "2f4cb383-6e8f-40f3-9a8a-ddd06dbdde26",
+      "detail": "Distribution control engineer - Fault and reactive switching principles, including fault reporting procedures."
+    },
+    {
+      "knowledgeId": "0e96cd6d-db0d-4bc3-98f7-cbc87cc2236a",
+      "detail": "Distribution control engineer - Restoration strategies."
+    },
+    {
+      "knowledgeId": "5044b585-8701-46cb-8aaa-b9b3afb56f2e",
+      "detail": "System control engineer – Transmission constraints."
+    },
+    {
+      "knowledgeId": "a5f97dd5-2cb1-4469-81eb-d85926f42040",
+      "detail": "System control engineer – Purpose and use of operational systems."
+    },
+    {
+      "knowledgeId": "f412c3b5-d816-425b-adb3-f88179d9c255",
+      "detail": "System control engineer – Energy market structure and energy balancing in real time."
+    },
+    {
+      "knowledgeId": "6dc57bb6-95aa-4f89-bd57-2daa3bf6384b",
+      "detail": "System control engineer - Grid stability and control, frequency control, voltage or reactive power management, generator stability - transient and dynamic."
+    },
+    {
+      "knowledgeId": "bed404be-12f6-44b6-8a18-c06c04e46a00",
+      "detail": "Transmission control engineer - Switching procedures, switching principles, trapped charge dissipation, ferro resonance management, reactive switching management."
+    },
+    {
+      "knowledgeId": "3e1c339a-6542-4370-8266-e1acdf06d995",
+      "detail": "Transmission control engineer - Awareness of the control process for commissioning and decommissioning assets."
+    },
+    {
+      "knowledgeId": "cda40a1a-0d35-46d1-847c-f2a9a90a90f8",
+      "detail": "Transmission control engineer - Awareness of system fault principles."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "bf181205-0a44-4de5-8c46-31de81c26a71",
+      "detail": "Take responsibility for and promote health and safety."
+    },
+    {
+      "behaviourId": "c24e948c-2f94-4983-ba54-41aaabf2df0f",
+      "detail": "Collaborate with others for example, within teams and across disciplines,  promoting inclusion."
+    },
+    {
+      "behaviourId": "a8d502ea-1cee-46be-9999-2133f9f16404",
+      "detail": "Take responsibility for the quality of work and enable others to work to high standards. For example, decisive, self-reliant, and motivated."
+    },
+    {
+      "behaviourId": "91a8de62-f83e-4aeb-b1b2-2037e8a730b5",
+      "detail": "Respond and adapt to work demands and situations."
+    },
+    {
+      "behaviourId": "bd763a66-6259-486e-b7ba-e8a4dd671b49",
+      "detail": "Committed to maintaining and enhancing competence of self and others through Continued Professional Development (CPD)."
+    },
+    {
+      "behaviourId": "99595259-fa7f-462c-ba17-9cf273211f42",
+      "detail": "Considers the environment and sustainability."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "4c4fee2c-fe54-42e3-be72-03c1adb9d7e7",
+      "detail": "Core - Organise and prioritise work. Manage own time. "
+    },
+    {
+      "skillId": "eb020a51-476b-4c7a-af7b-5afdbaa3ac05",
+      "detail": "Core - Identify limits of capability and responsibility and escalate issues beyond them."
+    },
+    {
+      "skillId": "bcb4dac4-06cd-4a45-ac42-42c197ec608d",
+      "detail": "Core - Apply workplace health and safety policies, procedures and relevant safe systems of work. "
+    },
+    {
+      "skillId": "32f0465b-f8d9-450c-8501-b36613282bd2",
+      "detail": "Core - Comply with regulations and manage work to meet regulatory and legislative requirements. "
+    },
+    {
+      "skillId": "90523d8b-72e8-4229-827d-754b1c2fcb11",
+      "detail": "Core - Apply electrical power principles to work tasks. Apply principles of electrical power and electric power networks to work tasks."
+    },
+    {
+      "skillId": "85c2e072-051e-4ca1-a577-2b04f245d3f6",
+      "detail": "Core - Interpret and use network operational diagrams. "
+    },
+    {
+      "skillId": "1ac01cc5-7176-4b73-ab59-cf1bd0796e7b",
+      "detail": "Core - Review, capabilities of assets and demand, take action to secure the network where necessary. "
+    },
+    {
+      "skillId": "c1167a07-942f-4240-935b-26dc463fe6e3",
+      "detail": "Core - Read, interpret and apply technical specifications, policies and engineering standards. "
+    },
+    {
+      "skillId": "04555c26-02d3-436d-b14a-f86dd9073918",
+      "detail": "Core - Identify assets and their names and numbers from SCADA and Operational Diagram Symbology. "
+    },
+    {
+      "skillId": "f1494130-b077-404d-869e-c9cd0723f779",
+      "detail": "Core - Apply system control and monitoring procedure. "
+    },
+    {
+      "skillId": "1d560660-8589-46dd-84e1-a12f8c8fe912",
+      "detail": "Core - Navigate, interrogate and operate SCADA System or real time system operations."
+    },
+    {
+      "skillId": "3ef8fde8-b05f-4292-809e-edb1c9a2c4cf",
+      "detail": "Core - Interpret and respond to alarms and indications from the network management system. "
+    },
+    {
+      "skillId": "7ba59086-9a49-4c62-af03-e2c21c992b9a",
+      "detail": "Core - Complete documentation for the work activity and issue where required. "
+    },
+    {
+      "skillId": "61460e18-dad2-4d5c-873c-b678709e4869",
+      "detail": "Core - Apply problem solving or fault analysis techniques. "
+    },
+    {
+      "skillId": "8e96e31a-fc14-4dff-bfc9-17dd41bc4d5b",
+      "detail": "Core - Use continuous improvement and make recommendations for the optimisation of systems or processes."
+    },
+    {
+      "skillId": "1ed077f9-bdb1-4625-87d2-1efc25ce0d8b",
+      "detail": "Core - Apply team working principles."
+    },
+    {
+      "skillId": "f99a02cc-630a-46fa-b5d8-3fd81c64748e",
+      "detail": "Core - Communicate verbally and in writing with others for example, colleagues, contractors customers and stakeholders. Matching technique to audience. "
+    },
+    {
+      "skillId": "b3cb7e7c-8b45-4ad0-b111-dfd3c307c7b3",
+      "detail": "Core - Establish and maintain productive working relationships, for example with colleagues, contractors or stakeholders."
+    },
+    {
+      "skillId": "e0bc3b89-52e1-48ff-9f90-72dac1be7bde",
+      "detail": "Core - Interpret data and information to inform decisions."
+    },
+    {
+      "skillId": "e6447c0c-384e-4394-8d38-72a5b9e2fe8b",
+      "detail": "Core - Use information technology and digital systems. Comply with GDPR and cyber security regulations and policies. "
+    },
+    {
+      "skillId": "fb0b6d46-a06e-445a-8bc4-0444677f7dd5",
+      "detail": "Distribution control engineer - Build, check and approve switching schedules. "
+    },
+    {
+      "skillId": "c26084d5-6c40-4e8c-bc2c-f1fee20bf2cd",
+      "detail": "Distribution control engineer - Carry out planned switching activities and escalate issues where necessary. "
+    },
+    {
+      "skillId": "d5d522c2-a80c-4a7e-ae75-230f06b50ec1",
+      "detail": "Distribution control engineer - Follow procedures for outages for example outage and network access requests. "
+    },
+    {
+      "skillId": "6c97740a-4da8-4f06-98c1-1b1aa9eff729",
+      "detail": "Distribution control engineer - Carry out fault and reactive switching activities to secure the network and restore supplies. "
+    },
+    {
+      "skillId": "12820c7a-4c0b-4d7b-bd65-18ef012cb373",
+      "detail": "Distribution control engineer - Follow procedures for fault reporting."
+    },
+    {
+      "skillId": "8ef99a0c-0a00-460b-adee-ebfdf96ba95e",
+      "detail": "Distribution control engineer - Review and update restoration strategies where applicable. "
+    },
+    {
+      "skillId": "c7cf397a-e1a7-453e-9350-d8cd9eb6c5b2",
+      "detail": "System control engineer - Monitor transmission constraints to ensure system security, communicate constraints and the reasons for them and take action where necessary."
+    },
+    {
+      "skillId": "72a36ae7-0845-42ba-ba8c-7e3b35cc2f1f",
+      "detail": "System control engineer - Use network operational systems."
+    },
+    {
+      "skillId": "2dadc228-bd71-47ed-874b-4dc565eadf2a",
+      "detail": "System control engineer - Monitor system stability."
+    },
+    {
+      "skillId": "9eaa363d-dde0-4bf8-9611-708cb940e83f",
+      "detail": "Transmission control engineer - Build and execute a switching plan."
+    },
+    {
+      "skillId": "60ed0a1e-5690-42dd-ba78-635ecf571d3f",
+      "detail": "Transmission control engineer - Carry out planned switching activities and escalate issues where necessary."
+    },
+    {
+      "skillId": "47a6caa0-fa0f-49f0-b667-0886435a7347",
+      "detail": "Transmission control engineer - Follow procedures for outages, for example outage and network access requests."
+    },
+    {
+      "skillId": "fecd9cf2-d955-44d7-bad5-5dce089548c2",
+      "detail": "Transmission control engineer - Operate assets or provide instructions on how to do so."
+    },
+    {
+      "skillId": "936c3375-cded-4e6e-a32a-fcecdb5362d5",
+      "detail": "Transmission control engineer - Create strategic plans for trapped charge and ferro resonance management."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0164",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Balfour Beatty, Electricity North West Limited (ENWL), Energy and Utility Skills, EUIAS, Loughborough College, National Grid, RWE, Scottish Power, UK Power Networks",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [],
+  "greenJobTitles": [
+    "Electricity distribution - control engineer",
+    "Network control engineer",
+    "Power system engineer",
+    "System operations control engineer"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Quality improvement and project control manager",
+  "clusterId": "258",
+  "clusterDescription": "Maintain and improve the integrity and quality of complex products and processes, improve whole production and process technologies, and the overall health and safety of the working environment",
+  "createdDate": "2026-10-08T12:05:21 +00:00",
+  "lastUpdated": "2026-10-08T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1509?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1509",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institution of Engineering and Technology (TBC)",
+      "level": "Engineering Technician (TBC)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "19217d94-7d14-4758-b076-c50da6ff1e73",
+      "dutyDetail": "Communicate complex information and manage relationships with internal and external stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c24e948c-2f94-4983-ba54-41aaabf2df0f"
+      ],
+      "mappedKnowledge": [
+        "d57b4336-0051-4a84-a8f3-b19a906d30f0",
+        "f00cc26b-412e-4a50-9118-751aa66c074a",
+        "c0227222-693e-4b37-980c-74b6178fc358",
+        "1944ad1a-2acc-469c-981e-c9bf53c28b5f",
+        "843a19a5-be4f-4623-9b70-2ea97f779ac9",
+        "3f62f2e8-ed2e-489e-83c2-33c3ad5054bd",
+        "944a369a-cde6-464a-afcd-37e2a5687450",
+        "8678745c-f7e8-4d7d-8d0a-dbeca614cee7",
+        "08ecdaa9-6925-49c0-b4dd-b3911690ebcb",
+        "2f8d6be5-ea1f-4a5a-99ae-dae646aaeb5a",
+        "bed404be-12f6-44b6-8a18-c06c04e46a00",
+        "3e1c339a-6542-4370-8266-e1acdf06d995",
+        "cda40a1a-0d35-46d1-847c-f2a9a90a90f8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c4fee2c-fe54-42e3-be72-03c1adb9d7e7",
+        "eb020a51-476b-4c7a-af7b-5afdbaa3ac05",
+        "7ba59086-9a49-4c62-af03-e2c21c992b9a",
+        "1ed077f9-bdb1-4625-87d2-1efc25ce0d8b",
+        "f99a02cc-630a-46fa-b5d8-3fd81c64748e",
+        "b3cb7e7c-8b45-4ad0-b111-dfd3c307c7b3",
+        "e0bc3b89-52e1-48ff-9f90-72dac1be7bde",
+        "e6447c0c-384e-4394-8d38-72a5b9e2fe8b",
+        "12820c7a-4c0b-4d7b-bd65-18ef012cb373",
+        "9eaa363d-dde0-4bf8-9611-708cb940e83f",
+        "60ed0a1e-5690-42dd-ba78-635ecf571d3f",
+        "47a6caa0-fa0f-49f0-b667-0886435a7347",
+        "fecd9cf2-d955-44d7-bad5-5dce089548c2",
+        "936c3375-cded-4e6e-a32a-fcecdb5362d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4c5e27cc-ae64-4cea-ba92-b313f8b849d1",
+      "dutyDetail": "Ensure the health and safety of those working on or near the electrical power network.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bf181205-0a44-4de5-8c46-31de81c26a71"
+      ],
+      "mappedKnowledge": [
+        "f00cc26b-412e-4a50-9118-751aa66c074a",
+        "ae152e27-4387-4543-93b7-4abd19f4ec34",
+        "f399da80-f585-4d46-9259-17439a025de0",
+        "1944ad1a-2acc-469c-981e-c9bf53c28b5f",
+        "409ff5ad-231b-4dce-97bd-8724a99c44a7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "eb020a51-476b-4c7a-af7b-5afdbaa3ac05",
+        "bcb4dac4-06cd-4a45-ac42-42c197ec608d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "efa9e437-6ba5-4fbe-a00b-aae66851e5e0",
+      "dutyDetail": "Complete work tasks to meet regulatory, environmental and legislative requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8d502ea-1cee-46be-9999-2133f9f16404",
+        "99595259-fa7f-462c-ba17-9cf273211f42"
+      ],
+      "mappedKnowledge": [
+        "d57b4336-0051-4a84-a8f3-b19a906d30f0",
+        "f00cc26b-412e-4a50-9118-751aa66c074a",
+        "c0227222-693e-4b37-980c-74b6178fc358",
+        "4b0c8dc3-4fd5-46b3-82fc-47d348f049a8",
+        "fd9ff114-cc0f-4774-9882-725d98ff7776",
+        "f399da80-f585-4d46-9259-17439a025de0",
+        "1944ad1a-2acc-469c-981e-c9bf53c28b5f",
+        "843a19a5-be4f-4623-9b70-2ea97f779ac9",
+        "3f62f2e8-ed2e-489e-83c2-33c3ad5054bd",
+        "ad5b40bd-fd3f-41b9-a91a-f1cfef40e763",
+        "cfb7630e-f1c5-4748-bd91-0f1f7fbd16e1",
+        "a0dd60f3-61ad-433b-9a7a-bbe34d897a75",
+        "63c087e5-eabe-44ad-9b9c-8b61429c9db0",
+        "386583e8-7d83-40c1-bcb8-b2eaed5ba15a",
+        "9913cca0-e34c-454f-8134-8e78bafdde6d",
+        "f08a6025-7b4d-45ab-9c48-852463f2bb7f",
+        "944a369a-cde6-464a-afcd-37e2a5687450",
+        "2f8d6be5-ea1f-4a5a-99ae-dae646aaeb5a",
+        "fc9dc4bc-660d-48e1-b2f7-98744d74480a",
+        "431b2cb5-f050-466e-a454-fdb48ffff48b",
+        "409ff5ad-231b-4dce-97bd-8724a99c44a7",
+        "12ca7359-289f-4d4c-9daa-c697c1ca35a0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c4fee2c-fe54-42e3-be72-03c1adb9d7e7",
+        "eb020a51-476b-4c7a-af7b-5afdbaa3ac05",
+        "32f0465b-f8d9-450c-8501-b36613282bd2",
+        "90523d8b-72e8-4229-827d-754b1c2fcb11",
+        "85c2e072-051e-4ca1-a577-2b04f245d3f6",
+        "c1167a07-942f-4240-935b-26dc463fe6e3",
+        "04555c26-02d3-436d-b14a-f86dd9073918",
+        "1d560660-8589-46dd-84e1-a12f8c8fe912",
+        "7ba59086-9a49-4c62-af03-e2c21c992b9a",
+        "61460e18-dad2-4d5c-873c-b678709e4869",
+        "1ed077f9-bdb1-4625-87d2-1efc25ce0d8b",
+        "e0bc3b89-52e1-48ff-9f90-72dac1be7bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "12db783f-cc69-41cc-8ec9-a4927c01ea27",
+      "dutyDetail": "Manage risks to the network and implement control measures or contingency planning where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "91a8de62-f83e-4aeb-b1b2-2037e8a730b5"
+      ],
+      "mappedKnowledge": [
+        "d57b4336-0051-4a84-a8f3-b19a906d30f0",
+        "f00cc26b-412e-4a50-9118-751aa66c074a",
+        "c0227222-693e-4b37-980c-74b6178fc358",
+        "a0fa85d2-393c-49d5-91a1-1599c2269a2a",
+        "fd9ff114-cc0f-4774-9882-725d98ff7776",
+        "f399da80-f585-4d46-9259-17439a025de0",
+        "1944ad1a-2acc-469c-981e-c9bf53c28b5f",
+        "a0dd60f3-61ad-433b-9a7a-bbe34d897a75",
+        "f08a6025-7b4d-45ab-9c48-852463f2bb7f",
+        "2f8d6be5-ea1f-4a5a-99ae-dae646aaeb5a",
+        "fc9dc4bc-660d-48e1-b2f7-98744d74480a",
+        "409ff5ad-231b-4dce-97bd-8724a99c44a7",
+        "12ca7359-289f-4d4c-9daa-c697c1ca35a0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c4fee2c-fe54-42e3-be72-03c1adb9d7e7",
+        "1d560660-8589-46dd-84e1-a12f8c8fe912",
+        "61460e18-dad2-4d5c-873c-b678709e4869",
+        "e0bc3b89-52e1-48ff-9f90-72dac1be7bde",
+        "e6447c0c-384e-4394-8d38-72a5b9e2fe8b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "12f9d4a8-d344-43c5-a239-3b0b3004024b",
+      "dutyDetail": "Contribute to the continuous improvement of processes or systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bd763a66-6259-486e-b7ba-e8a4dd671b49"
+      ],
+      "mappedKnowledge": [
+        "c0227222-693e-4b37-980c-74b6178fc358",
+        "467924e6-4b3f-4132-be9e-cc689f3c5e61",
+        "2f8d6be5-ea1f-4a5a-99ae-dae646aaeb5a",
+        "fc9dc4bc-660d-48e1-b2f7-98744d74480a",
+        "431b2cb5-f050-466e-a454-fdb48ffff48b",
+        "c8fdab2f-7138-4b4e-9095-959052ccd9f8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c4fee2c-fe54-42e3-be72-03c1adb9d7e7",
+        "8e96e31a-fc14-4dff-bfc9-17dd41bc4d5b",
+        "e0bc3b89-52e1-48ff-9f90-72dac1be7bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ba076dc1-c25c-493c-a65c-caec0f730772",
+      "dutyDetail": "Monitor the electrical network for security and availability.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f1494130-b077-404d-869e-c9cd0723f779"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c0847c23-d6e4-4534-b087-ff82052381cd",
+      "dutyDetail": "Manage the electrical network.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "85c2e072-051e-4ca1-a577-2b04f245d3f6",
+        "3ef8fde8-b05f-4292-809e-edb1c9a2c4cf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "73b7e0e1-788c-49e6-a8f2-8559ff158e28",
+      "dutyDetail": "Maintain a safe and reliable electrical network.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1ac01cc5-7176-4b73-ab59-cf1bd0796e7b",
+        "d5d522c2-a80c-4a7e-ae75-230f06b50ec1",
+        "6c97740a-4da8-4f06-98c1-1b1aa9eff729",
+        "8ef99a0c-0a00-460b-adee-ebfdf96ba95e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b1004eb8-3e34-4167-bf23-624ce1aabb46",
+      "dutyDetail": "Manage system access requests and outages.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "5e161585-1b6b-423b-99af-37de4af1b590",
+        "0c4e237f-37f9-4f0b-a6f4-7cefc164233d",
+        "0e96cd6d-db0d-4bc3-98f7-cbc87cc2236a"
+      ],
+      "mappedOptions": [
+        "fa1a3ee0-0899-423c-83a4-08ab7cbfc2aa"
+      ],
+      "mappedSkills": [
+        "d5d522c2-a80c-4a7e-ae75-230f06b50ec1",
+        "12820c7a-4c0b-4d7b-bd65-18ef012cb373"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3aa24515-de86-420e-a6a5-1f5865aa577c",
+      "dutyDetail": "Carry out switching activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "22b25e47-f469-4e88-903b-a16244d18121",
+        "9e51e5b3-c0e1-4382-8d90-26b7511c3684",
+        "2f4cb383-6e8f-40f3-9a8a-ddd06dbdde26"
+      ],
+      "mappedOptions": [
+        "fa1a3ee0-0899-423c-83a4-08ab7cbfc2aa"
+      ],
+      "mappedSkills": [
+        "fb0b6d46-a06e-445a-8bc4-0444677f7dd5",
+        "c26084d5-6c40-4e8c-bc2c-f1fee20bf2cd",
+        "6c97740a-4da8-4f06-98c1-1b1aa9eff729"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ff29415f-9e04-44f4-adf0-2e2ca947d3d1",
+      "dutyDetail": "Monitor system stability and constraints.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "5044b585-8701-46cb-8aaa-b9b3afb56f2e"
+      ],
+      "mappedOptions": [
+        "b5df9db2-6faa-4cf7-b6e5-a46e66d84ce4"
+      ],
+      "mappedSkills": [
+        "c7cf397a-e1a7-453e-9350-d8cd9eb6c5b2",
+        "2dadc228-bd71-47ed-874b-4dc565eadf2a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1d94dba6-5d91-4453-858c-040a922288f9",
+      "dutyDetail": "Manage system operations.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a5f97dd5-2cb1-4469-81eb-d85926f42040",
+        "f412c3b5-d816-425b-adb3-f88179d9c255",
+        "6dc57bb6-95aa-4f89-bd57-2daa3bf6384b"
+      ],
+      "mappedOptions": [
+        "b5df9db2-6faa-4cf7-b6e5-a46e66d84ce4"
+      ],
+      "mappedSkills": [
+        "72a36ae7-0845-42ba-ba8c-7e3b35cc2f1f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9effd803-e1cc-4973-ad1c-85d1474a27b0",
+      "dutyDetail": "Carry out switching activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "d2d53c24-884a-4b59-96ca-8e0be32d0447"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7d10a36e-f942-40de-8a69-f64bf7c5e798",
+      "dutyDetail": "Follow outage procedures",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "d2d53c24-884a-4b59-96ca-8e0be32d0447"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "fa1a3ee0-0899-423c-83a4-08ab7cbfc2aa",
+      "title": "Distribution network control engineer",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "b5df9db2-6faa-4cf7-b6e5-a46e66d84ce4",
+      "title": "System control engineer",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "d2d53c24-884a-4b59-96ca-8e0be32d0447",
+      "title": "Transmission control engineer",
+      "occupationCode": ""
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-10-08T00:00:00"
+}
