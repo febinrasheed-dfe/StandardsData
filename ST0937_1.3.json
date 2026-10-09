@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
   "change": "Funding band revised.",
-  "changedDate": "2025-07-25T00:00:00",
+  "changedDate": "2026-09-18T00:00:00",
   "earliestStartDate": "2025-07-25T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-21T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Support the operation of a farm.",
   "level": 2,
@@ -256,7 +256,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0083",
-  "tbMainContact": "rlongthorp@longthorp.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Agriculture and Horticulture Development Board (AHDB)\r\nCharollais Sheep Society\r\nFishguard farm\r\nG and A Speed\r\nG's Fresh\r\nHawthorns farm\r\nLKL Farming\r\nMenadews farm\r\nFU\r\nRed Tractor Assurance\r\nTrentithen Farm\r\nTrevear Farm\r\nUpper Booth farm\r\nYeatman and Sons Ltd",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -277,7 +277,7 @@
   "clusterId": "143",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2025-07-25T10:17:14 +00:00",
-  "lastUpdated": "2025-07-25T00:00:00 +00:00",
+  "lastUpdated": "2026-09-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-05-17T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0937",
@@ -733,5 +733,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-25T00:00:00"
+  "publishDate": "2027-03-21T00:00:00"
 }
