@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-07-14T00:00:00",
+  "changedDate": "2026-10-01T00:00:00",
   "earliestStartDate": "2025-06-23T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Conducting maintenance of engineering plant and equipment ",
   "level": 3,
@@ -657,7 +657,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0863",
-  "tbMainContact": "engineering.manufacturing@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Alpek Polyester, Conoco Phillips, Digital Realty, Drax, EDF Energy, Enfinium, Enva, Evo Energy, Exxon Mobil, Finning, Green Energy, Exxon Mobil, Husqvarna, Ineos, Jaguar Land Rover, MoD, National Grid, NHS, Orsted, RWE, Sellafield Sites, Siemens, SSE, Sterling PSL, Swizzels Matlow, Tesco, Tronox, Veolia, Westinghouse.\n",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -683,7 +683,7 @@
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2025-05-09T16:38:35 +00:00",
-  "lastUpdated": "2025-07-14T00:00:00 +00:00",
+  "lastUpdated": "2026-10-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-06-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1443",
@@ -1497,5 +1497,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-14T00:00:00"
+  "publishDate": "2027-04-12T00:00:00"
 }
