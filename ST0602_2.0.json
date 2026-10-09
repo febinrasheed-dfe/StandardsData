@@ -1,0 +1,895 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 320,
+  "referenceNumber": "ST0602",
+  "learningAimClassCode": "",
+  "title": "Revenues and welfare benefits specialist",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0602",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-07-22T00:00:00",
+  "earliestStartDate": "2027-02-11T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Determining liability for local taxation, calculating entitlement to welfare support and advising customers of their rights and responsibilities.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "minimumHoursForCompliance": "326",
+  "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Business and administration",
+  "keywords": [
+    "Revenues and welfare benefits practitioner",
+    "revenue",
+    "public",
+    "customers",
+    "business",
+    "tax"
+  ],
+  "jobRoles": [
+    "Benefits advisor",
+    "Benefits assessor",
+    "Benefits officer",
+    "Business rates officer",
+    "Council tax officer",
+    "Revenues and benefits officer",
+    "Welfare officer",
+    "Welfare support worker/advisors"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0602-in-revision?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.4 Public services",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupation&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Revenues and Welfare Benefits Practitioner&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Occupational Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Revenues and Welfare Benefits Practitioners perform various roles in local authorities or their contractors, software companies that provide processing services to authorities (such as benefit assessment, revenues calculation or customer service), housing associations or organisations supporting people in their dealings with local authorities. These organisations can range in size and employ from 10 to over 1,000 staff. They deal with many aspects of Council Tax, Business Rates, Housing Benefit, Local Council Tax Support and related matters. Organisations have different structures, with some officers only dealing with one of these aspects and others dealing with multiple aspects. Consequently, the exact responsibilities of the role will vary depending on the employer and exact role in which the individual is employed.&lt;/p&gt;\n&lt;p&gt;All roles will include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Dealing with customers appropriately to gather information and provide explanations of often complex matters&lt;/li&gt;\n&lt;li&gt;Maintaining records in accord with legal requirements&lt;/li&gt;\n&lt;li&gt;Advising customers to maximise their income and ensure they are receiving all help to which they are entitled&lt;/li&gt;\n&lt;li&gt;Understanding the issues customers face and the potential solutions to those issues&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;A role focused on the Revenues aspects typically includes:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Establishing liability for Council Tax and/or Business Rates&lt;/li&gt;\n&lt;li&gt;Setting up and updating accounts&lt;/li&gt;\n&lt;li&gt;Calculating the tax due, including eligibility for discounts, exemptions or other reliefs&lt;/li&gt;\n&lt;li&gt;Arranging for customers to pay the local tax&lt;/li&gt;\n&lt;li&gt;Taking recovery action as required and appropriate, from issuing a reminder through to submitting a case to court for committal&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;A role focused on the Welfare aspects typically includes:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Assessing eligibility for Housing Benefit and/or Local Council Tax Support&lt;/li&gt;\n&lt;li&gt;Calculating benefit entitlement in line with current legislation&lt;/li&gt;\n&lt;li&gt;Arranging payments of benefits to customers&lt;/li&gt;\n&lt;li&gt;Re-calculate benefits following changes in circumstances&lt;/li&gt;\n&lt;li&gt;Taking action to recover overpaid amounts&lt;/li&gt;\n&lt;li&gt;Finding and reporting suspected fraud&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Individuals appointed in a main role in Revenues will also need a practical and technical knowledge of Welfare Benefits and those appointed in a main role in Welfare Benefits will need a practical and technical knowledge of Revenues.&lt;/p&gt;\n&lt;p&gt;Whether acting on behalf of the local authority or supporting customers in their dealings with the local authority, Revenues and Welfare Officers provide essential support to local residents in dealing with complex matters which affect their daily life.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Potential roles&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Council Tax Officer, Business Rates Officer, Benefits Officer, Benefits Assessor, Welfare Officer, Revenues and Benefits Officer, Benefit Advisor, Welfare Support Worker/Advisors.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements; Knowledge, Skills and Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;126&quot; style=&quot;width: 126px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;630&quot; style=&quot;width: 630px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Legislation, policies and procedures&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Practical and technical knowledge of the relevant legislation to ensure accuracy and legality of actions taken, including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Local Government Finance Act 1988, Local Government Finance Act 1992, Social Security Contributions and Benefits Act 1992, Welfare Reform Act 2012 and other relevant acts&lt;/li&gt;\n&lt;li&gt;Current regulations that provide details of how the role must be performed&lt;/li&gt;\n&lt;li&gt;Other relevant legislation, such as Data Protection and Freedom of Information&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Understanding of organisational policies and procedures that must be followed in the role, including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Policies that affect how tasks are undertaken, such as Codes of Conduct, anti-fraud strategy or customer service standards&lt;/li&gt;\n&lt;li&gt;Procedures that affect how specific tasks must be undertaken and the reasons these are essential&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Systems and processes&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Understanding of the way tasks are completed, including gathering required information, setting up records following initial contact with customers, updating records following changes in circumstances, calculating amounts due, arranging payments, explaining the reasons for actions taken to customers, follow up actions to recover amounts due, court proceedings&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Understanding of the systems used to complete tasks&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Understanding of the interactivity with other parts of the organisation, such as between revenues and benefits&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Dispute and appeal process&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Understanding of the relevant appeal process, including timescales for each stage of the process&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Understanding of the way dispute and appeal tasks are completed&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Detailed knowledge of the relevant legislation that determines how disputes and appeals must be dealt with&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;Customers&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Understanding of who your customers are, their circumstances and why they need the support of your department&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Financial support available&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Knowledge of how to help and support customers to deal with their financial circumstances. Assist with personal budgeting, providing guidance to the customer to be able to manage this themselves.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Knowledge of the wider welfare benefit system, including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;What benefits / credits are available and who is eligible for them&lt;/li&gt;\n&lt;li&gt;The relationship between benefits / credits (e.g. if one affects calculation of another)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Quality service delivery&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Consistently deal with customers politely and considerately, adapting your approach to meet customer and employer needs&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Achieve outcomes that the customer wants where possible. Where this is not possible, explain the reasons why. Evaluate and recommend alternative options.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;5&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Gather and analyse&amp;nbsp; information&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Obtain all required information in the most effective way to allow tasks to be completed, considering each customer’s individual circumstances&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Interpret and evaluate all information to determine the relevant details for the required task&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Interpret and evaluate information to judge whether there is potential fraud indicated. Refer to the appropriate department where required.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Determine whether a dispute should lead to a change of decision and explain the reasons, using appropriate legislation&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Handle sensitive information securely and in line with current legislative requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;5&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Apply knowledge to achieve outcomes&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Analyse and use information and legislation to calculate amounts due when a customer first contacts your department (e.g. new claims or new accounts)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Analyse and use information and legislation to correctly deal with changes in customers’ circumstances, recalculating amounts due where required&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Provide justification for any inferences drawn from available information&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Decide on the best method of recovery by evaluating the customer’s circumstances. Act on this judgment to start recovery of amounts due.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Use judgement to deal correctly with non-routine situations that arise&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Adapt your communication style and method to meet the individual’s needs&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Communicate confidently by being personable, asking insightful questions and being able to negotiate effectively and respectfully&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;Personal development&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Undertake activities to ensure knowledge stays current&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Problem solving and decision making&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Take appropriate action within the limits of your authority to solve problems or make relevant colleagues aware of them&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Make accurate decisions based on the information available&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Team working and collaboration&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Support team members to achieve the best outcome for the team&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Request assistance or authorisation when required&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Communicate with other departments to achieve required outcomes&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Using systems and procedures&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Proficiently use the systems available to achieve tasks&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Refer to processes to determine the action to be taken&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;Financial Support&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Evaluate the customers financial position, assisting with personal budgeting where appropriate, or directing the customer to appropriate support&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Accountability&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Take responsibility for your actions, including admitting mistakes&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Take appropriate action to correct any mistakes made&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;Change and improvement&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Be open to change. Amend your working practices in response to changes in processes with a positive attitude.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;Collaborating and partnering&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Work with colleagues, other departments or other organisations to achieve outcomes for your customers and organisation&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;Delivering at pace&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Complete your tasks at a pace that ensures that you maintain accuracy, meet expectations and play your part in your team’s performance&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;Dependability&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Meet personal commitments, including attendance, punctuality and completing tasks assigned to you&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Honesty and integrity&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Be truthful and sincere in your speech and actions&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Do the right thing even when this may seem difficult&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;Professional scepticism&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Understand that there are people who try to abuse the system&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;630&quot;&gt;\n&lt;p&gt;Be cautious about information received where needed and check its accuracy where possible&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship will typically take 12 -18 months&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Level 4&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualification&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Apprentices without level 2 English and Maths (or equivalent) will need to achieve this prior to the end point assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and Maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review Date&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;This should take place 3 years after approval&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in local authorities, revenue and benefits services, housing services, advice organisations, and a range of public- and community-based settings that support residents and businesses.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to ensure customers are correctly assessed for local taxation liabilities, benefits, and reductions, and to manage accurate billing, payment arrangements, and recovery actions in line with legislation and organisational policies.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Revenues roles ensure that taxpayers for council tax and non-domestic rates are billed, collected, and administered accurately, providing clear information and support to residents, businesses, and other stakeholders.&lt;/p&gt;\n&lt;p&gt;Welfare Benefits roles provide specialist advice or assessment, and support to individuals and families to help them access welfare benefits, financial assistance, and support services to which they are entitled.&lt;/p&gt;\n&lt;p&gt;In their daily work an employee in this occupation interacts with members of the public, businesses, colleagues within their organisation, and external stakeholders such as enforcement agents, welfare support agencies, debt advice services, services that support local taxation or welfare provision and government departments. Communication may occur face-to-face, by phone, or through digital channels.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Revenues Specialist&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the assessment, collection, and enforcement of local taxation and associated charges, ensuring compliance with relevant legislation and maintaining accurate records.&lt;/p&gt;\n&lt;p class=&quot;pf0&quot;&gt;&lt;strong&gt;&lt;span class=&quot;cf0&quot;&gt;Welfare Benefits Specialist&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf1&quot;&gt;An employee in this occupation will be responsible for&lt;/span&gt; &lt;span class=&quot;cf1&quot;&gt;providing support, guidance, and assistance to individuals or groups, assessing needs, administering welfare services or benefits, where appropriate, and promoting financial wellbeing in accordance with relevant policies and legislation&lt;/span&gt;&lt;span class=&quot;cf0&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "72af5e12-cd39-4be5-8cb7-52143ac8fea8",
+      "detail": "Principles of local taxation, including liability, discounts or reliefs, and exemptions."
+    },
+    {
+      "knowledgeId": "8bb978c6-31f9-4410-8f80-1e5c1d9e0985",
+      "detail": "Types of available benefits, credits and reductions."
+    },
+    {
+      "knowledgeId": "1e5ae204-11d0-49f4-9148-63167c8cad97",
+      "detail": "Types of customers and their needs."
+    },
+    {
+      "knowledgeId": "927b6fbc-d100-4b7d-b1cd-fd90dd7e1f9a",
+      "detail": "Indications of customer vulnerability and methods to support vulnerable customers."
+    },
+    {
+      "knowledgeId": "0c54a6b5-2af6-4dbd-a6ed-af1de1aaecb2",
+      "detail": "Communication tools and methods, including digital, verbal and written."
+    },
+    {
+      "knowledgeId": "bd7295b0-6969-4817-9b74-44a5ae2f7b75",
+      "detail": "Techniques to manage challenging or sensitive communications for example active listening, empathy, and de-escalation."
+    },
+    {
+      "knowledgeId": "60dccc7f-a69d-4000-bcf6-ec4633028040",
+      "detail": "Support available for budgeting, debt or other welfare issues."
+    },
+    {
+      "knowledgeId": "c99c3400-bfd8-4dc6-9dab-16cc3e89f4d5",
+      "detail": "Legislation, policies and procedures on rights of dispute or appeal against decisions."
+    },
+    {
+      "knowledgeId": "d83bc429-8cf0-461d-9e04-85192cce44ca",
+      "detail": "Sources of support, feedback or guidance available to individuals within the organisation."
+    },
+    {
+      "knowledgeId": "16baa615-e642-4afa-940f-85bcbb8b94b9",
+      "detail": "Methods of obtaining, analysing and validating information and evidence required to support decision making."
+    },
+    {
+      "knowledgeId": "638dc80e-ff0c-417a-ab1d-ab595f08df0a",
+      "detail": "Methods to use, record and store personal data securely and in line with relevant data protection requirements."
+    },
+    {
+      "knowledgeId": "1312bfeb-664c-4a99-b33f-20a38004ee84",
+      "detail": "Key internal and external stakeholders and methods of building and maintaining relationships."
+    },
+    {
+      "knowledgeId": "21ec91d9-9ac6-4164-8592-988bd71e47a4",
+      "detail": "Key performance indicators and own responsibility for contributing to them."
+    },
+    {
+      "knowledgeId": "85280260-3e6b-4b0a-af9d-2c6d8c969d32",
+      "detail": "Organisational procedures for service improvement."
+    },
+    {
+      "knowledgeId": "95f7f5e5-f2aa-4186-86a4-64dc2b5ab7cd",
+      "detail": "Professional development available to align with agreed objectives."
+    },
+    {
+      "knowledgeId": "bf79ca6c-ecd0-4a54-b382-51c7abafd2c1",
+      "detail": "Benefits and value of a diverse and inclusive environment and how legislation and organisational policies support this."
+    },
+    {
+      "knowledgeId": "c34b3105-4deb-46b0-89f4-18132162e0c0",
+      "detail": "Health and safety legislation and policies relevant to role."
+    },
+    {
+      "knowledgeId": "b0a09e4e-35d7-4d1a-8b61-6a4c37719f41",
+      "detail": "Approaches to sustainability and the efficient use of resources."
+    },
+    {
+      "knowledgeId": "b3ec2bf0-b4a4-4314-92d1-e3a495d77d49",
+      "detail": "Digital applications, tools and systems relevant to role, including the safe use of technology."
+    },
+    {
+      "knowledgeId": "f65990da-eb3c-4864-b255-b27e9fdb093c",
+      "detail": "The capabilities and benefits, limitations and risks of using AI and digital tools within the role, including organisational policy for appropriate use."
+    },
+    {
+      "knowledgeId": "a9fd5968-cf3b-4a1a-9a92-660c823cdf4d",
+      "detail": "Requirements relating to valuation lists, including relevant legislation, policies, and procedures."
+    },
+    {
+      "knowledgeId": "55178c23-f78e-4520-9aa6-8674c6e844d9",
+      "detail": "Principles governing liability for local taxation, for example the hierarchy of liability, and associated legislation, policies, and procedures."
+    },
+    {
+      "knowledgeId": "2da2b89a-2c7c-477d-a7cc-64982a1147b3",
+      "detail": "Local taxation exemptions, discounts, and reliefs, including applicable legislation, policies, and procedures."
+    },
+    {
+      "knowledgeId": "97d60bfb-a8f7-4b0b-bab2-07d6580d020a",
+      "detail": "Regulations on additional local taxation charges, including property premiums and court costs, and relevant policies and procedures."
+    },
+    {
+      "knowledgeId": "1650117f-4c32-44ce-98a5-501c51eda421",
+      "detail": "Methods and frequency of local taxation payments, including relevant legislation and procedural guidance."
+    },
+    {
+      "knowledgeId": "b06ce973-6b78-4e05-bfe2-01147b7a15d7",
+      "detail": "Processes for local taxation billing, reminders, summons, recovery, and enforcement, including associated legislation and policies."
+    },
+    {
+      "knowledgeId": "bd123214-64c4-4403-aa3b-08d2dc8cadca",
+      "detail": "Eligibility conditions for benefits or reductions, including exclusions from entitlement and claim requirements, as set out in legislation, policies and procedures."
+    },
+    {
+      "knowledgeId": "1af257ea-dc99-4ac1-a4e0-cf5a4b0678df",
+      "detail": "Methods for calculating and commencing benefits or reductions in line with applicable legislation, policies and procedures."
+    },
+    {
+      "knowledgeId": "bb3f9204-157e-4598-b4d1-d8d2ee91c71e",
+      "detail": "Rules for assessing income and capital within benefit or reduction calculations, as specified in legislation, policies and procedures."
+    },
+    {
+      "knowledgeId": "c479e987-79bb-4b0d-aa01-be121a508aeb",
+      "detail": "Impact of other household members on the calculation of benefits or reductions, in accordance with legislation, policies and procedures."
+    },
+    {
+      "knowledgeId": "f03c3863-7d53-4d4b-84ad-2eadd9a7be68",
+      "detail": "Treatment of rent or council tax within benefit or reduction calculations, based on relevant legislation, policies and procedures."
+    },
+    {
+      "knowledgeId": "83c6e75e-f1de-4023-acd1-22e5e3ecc86f",
+      "detail": "Principles and rules governing effective dates for changes in circumstances and how these affect benefit or reduction calculations, as detailed in legislation, policies and procedures."
+    },
+    {
+      "knowledgeId": "1a8f978f-558f-47ba-aa08-adff485dad06",
+      "detail": "Requirements for ensuring entitlement is paid to the correct person using the appropriate method and frequency, in line with legislation, policies and procedures."
+    },
+    {
+      "knowledgeId": "59d52e28-f84f-4966-be1b-7b0c874878cf",
+      "detail": "Principles for managing overpayments, including determining recoverability, choosing appropriate recovery methods and identifying the correct liable party, as governed by legislation, policies and procedures."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "e494864d-30b9-480b-a59c-119620576385",
+      "detail": "Take responsibility for actions, including acknowledging mistakes and taking steps to correct them."
+    },
+    {
+      "behaviourId": "ff165f21-51bd-41e5-b4f5-ff861291b4ed",
+      "detail": "Act with honesty, integrity, professionalism, and impartiality, treating colleagues, service users, and stakeholders fairly and with respect."
+    },
+    {
+      "behaviourId": "f0635622-bb6c-4135-b5e7-9ac9a83a0bb9",
+      "detail": "Work collaboratively with others, sharing knowledge and contributing positively to team outcomes."
+    },
+    {
+      "behaviourId": "3c4f75cf-a023-45ab-807c-34fda97cf0f3",
+      "detail": "Deliver work efficiently and at pace, managing time effectively to meet expectations while maintaining accuracy and reliability."
+    },
+    {
+      "behaviourId": "2d807b70-7771-4446-9049-fb41d157480d",
+      "detail": "Demonstrate dependability, meeting commitments such as attendance, punctuality, and completing assigned tasks."
+    },
+    {
+      "behaviourId": "a1c53251-79d9-4b17-8b9c-2629752ed926",
+      "detail": "Show flexibility and resilience, remaining calm and patient in challenging situations and adapting positively to change."
+    },
+    {
+      "behaviourId": "8d7a654c-1ba2-42f4-895c-e3b645b00237",
+      "detail": "Support an inclusive and respectful environment, valuing different perspectives and encouraging understanding among colleagues and stakeholders."
+    },
+    {
+      "behaviourId": "76eccee8-3888-42ad-ae55-e95946a113ff",
+      "detail": "Apply professional scepticism, recognising potential misuse of systems and verifying information appropriately."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "c7b3a249-1129-4ee3-96dd-a525a5e657af",
+      "detail": "Provide information to customers using a range of communication tools and methods."
+    },
+    {
+      "skillId": "927edd1c-05bb-4997-8777-76017d09e007",
+      "detail": "Navigate and manage challenging or sensitive communications."
+    },
+    {
+      "skillId": "9fd32a87-3c7a-47f4-a040-efb7a59ce9f4",
+      "detail": "Assist customers with income maximisation, welfare support or budgeting, by signposting or referral."
+    },
+    {
+      "skillId": "9d57e269-228a-4814-a49c-66d73329b697",
+      "detail": "Notify customers of how they can dispute or appeal decisions as appropriate."
+    },
+    {
+      "skillId": "50f4845a-8470-49d9-b6bd-4998b9c5113b",
+      "detail": "Proactively seek support, feedback, or guidance from colleagues or supervisors where appropriate."
+    },
+    {
+      "skillId": "b2238352-a048-4179-9409-340b26811629",
+      "detail": "Determine missing, inaccurate or incomplete information and evidence."
+    },
+    {
+      "skillId": "1ef7321b-8249-4acd-8ccc-7a2b77cc21ba",
+      "detail": "Obtain, analyse and validate information and evidence from appropriate sources to support decision making."
+    },
+    {
+      "skillId": "d760c353-174f-4507-b655-ad032cceadda",
+      "detail": "Utilise relevant information systems accurately and appropriately, taking account of confidentiality, reputational risks and data security."
+    },
+    {
+      "skillId": "042aeea1-aed6-416d-8432-70bdb5cac02e",
+      "detail": "Manage internal or external stakeholder relationships"
+    },
+    {
+      "skillId": "b5351ec7-bdca-45a9-8bbb-2ae2e57e95ec",
+      "detail": "Contribute to the achievement of key performance indicators."
+    },
+    {
+      "skillId": "d3014264-9d3f-4de8-8d3b-01491e75cde8",
+      "detail": "Contribute to service improvement."
+    },
+    {
+      "skillId": "3c589d0f-791d-4ca5-8301-3ddd20fde147",
+      "detail": "Proactively identify and undertake professional development that aligns with agreed objectives."
+    },
+    {
+      "skillId": "d2bee572-0642-4d70-a956-454375cc7562",
+      "detail": "Comply with equality, diversity and inclusion rules and procedures."
+    },
+    {
+      "skillId": "e77d0c9c-b784-44df-81d3-46e8626c4c6b",
+      "detail": "Comply with health and safety requirements in work environment."
+    },
+    {
+      "skillId": "7703442b-82dd-4a69-acba-cc406c8ddb37",
+      "detail": "Select and appropriately use organisationally relevant digital applications, tools or systems to complete tasks."
+    },
+    {
+      "skillId": "724ef916-ff93-4d83-bfe1-fae89e908779",
+      "detail": "Support sustainable methods of working and consider the environmental impact of actions."
+    },
+    {
+      "skillId": "63e9137a-a719-489e-9023-f80531a964eb",
+      "detail": "Determine local taxation liabilities."
+    },
+    {
+      "skillId": "a98b9ed5-3e97-4f7d-8425-c827675d642c",
+      "detail": "Determine and apply local taxation discounts, exemptions or reliefs."
+    },
+    {
+      "skillId": "8f8c72c8-7d2b-4720-bfd5-f7ac51ffff12",
+      "detail": "Establish local taxation additional charges or costs, either applying or withdrawing them."
+    },
+    {
+      "skillId": "6c8ab52a-d57f-460c-817c-6fbebef9ac99",
+      "detail": "Arrange local taxation payment methods and frequencies."
+    },
+    {
+      "skillId": "2eea1828-a544-4c90-a526-bcc4e0eb592f",
+      "detail": "Negotiate payment arrangements."
+    },
+    {
+      "skillId": "2489c755-f130-43cb-bf35-4dd1e4e78173",
+      "detail": "Take actions to recover or enforce debt."
+    },
+    {
+      "skillId": "cf642510-aad1-4d94-b193-3a12b1126b25",
+      "detail": "Establish whether customers are eligible for a benefit or reduction and inform them of the decision."
+    },
+    {
+      "skillId": "a0d15afb-6d9f-4078-b887-7f9bca9ae5b8",
+      "detail": "Establish the commencement date for a benefit or reduction."
+    },
+    {
+      "skillId": "cb882461-44d5-4240-a81c-fb10be81b96d",
+      "detail": "Assess the impact of income and capital on the calculation of benefits or reductions."
+    },
+    {
+      "skillId": "e71238a0-a91f-414b-b347-44dab7a7c5a1",
+      "detail": "Evaluate the impact of household members on the calculation of benefits or reductions."
+    },
+    {
+      "skillId": "b1d9eec0-cbd5-49e0-9e9b-5358a7cf9917",
+      "detail": "Determine how rent or Council Tax affect the calculation of benefits or reductions."
+    },
+    {
+      "skillId": "f5a52024-414b-40e9-be06-6d8d9e4e9e2e",
+      "detail": "Assess the impact of changes in circumstances on benefit entitlements or reductions."
+    },
+    {
+      "skillId": "5064a755-a00c-4b7e-a4cd-8e0896e76573",
+      "detail": "Determine correct payment or transfer of entitlement to benefits or reductions."
+    },
+    {
+      "skillId": "d272a5a5-9023-44f7-b8f9-aeefde8d7da4",
+      "detail": "Take action on overpaid benefits or reductions."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0319",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Bolton Council, Cambridge City Council, City of Doncaster Council, Dorset Council, Greater Manchester Combined Authority, Institute of Revenues, Rating and Valuation, Isle of Wight Council, Leicester City Council, Mighty Oak Training Ltd, Milton Keynes City Council, Oldham Council, Peterborough Council, Reigate-Banstead Council, Salford City Council, Salford Council, South West Councils, Tameside Metropolitan Borough Council, Tandridge District Council, Wakefield Metropolitan Council",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Benefits advisor",
+    "Benefits assessor",
+    "Benefits officer",
+    "Business rates officer",
+    "Council tax officer",
+    "Revenues and benefits officer",
+    "Welfare officer",
+    "Welfare support worker/advisors"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Management and Administration",
+  "cluster": "Business manager",
+  "clusterId": "25",
+  "clusterDescription": "Lead and manage a project (business/process improvement), business support services and/or run a practice using the full range of business systems, procedures and accounting practice. Includes the ability to set-up and develop a new business",
+  "createdDate": "2026-09-25T08:46:51 +00:00",
+  "lastUpdated": "2026-07-22T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0602",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0602-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0602-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "aae5a416-42a5-4259-b10c-1851f6d70faa",
+      "dutyDetail": "Consider statutory and non-statutory frameworks and legislation and apply these as appropriate for the organisation and sector.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ff165f21-51bd-41e5-b4f5-ff861291b4ed",
+        "76eccee8-3888-42ad-ae55-e95946a113ff"
+      ],
+      "mappedKnowledge": [
+        "72af5e12-cd39-4be5-8cb7-52143ac8fea8",
+        "c99c3400-bfd8-4dc6-9dab-16cc3e89f4d5",
+        "638dc80e-ff0c-417a-ab1d-ab595f08df0a",
+        "bf79ca6c-ecd0-4a54-b382-51c7abafd2c1",
+        "c34b3105-4deb-46b0-89f4-18132162e0c0",
+        "b0a09e4e-35d7-4d1a-8b61-6a4c37719f41"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d2bee572-0642-4d70-a956-454375cc7562",
+        "e77d0c9c-b784-44df-81d3-46e8626c4c6b",
+        "7703442b-82dd-4a69-acba-cc406c8ddb37",
+        "724ef916-ff93-4d83-bfe1-fae89e908779"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "912e6504-dee4-42f1-bf37-5e4f106afb14",
+      "dutyDetail": "Engage with customers, stakeholders and service users through appropriate communication, for example, face to face, digital channels or phone.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ff165f21-51bd-41e5-b4f5-ff861291b4ed",
+        "a1c53251-79d9-4b17-8b9c-2629752ed926"
+      ],
+      "mappedKnowledge": [
+        "1e5ae204-11d0-49f4-9148-63167c8cad97",
+        "927b6fbc-d100-4b7d-b1cd-fd90dd7e1f9a",
+        "0c54a6b5-2af6-4dbd-a6ed-af1de1aaecb2",
+        "bd7295b0-6969-4817-9b74-44a5ae2f7b75",
+        "1312bfeb-664c-4a99-b33f-20a38004ee84",
+        "b3ec2bf0-b4a4-4314-92d1-e3a495d77d49",
+        "f65990da-eb3c-4864-b255-b27e9fdb093c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c7b3a249-1129-4ee3-96dd-a525a5e657af",
+        "927edd1c-05bb-4997-8777-76017d09e007",
+        "d2bee572-0642-4d70-a956-454375cc7562"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "48111cbb-5ab9-455b-a5f2-37039a2fb846",
+      "dutyDetail": "Provide accurate information to address and resolve customer enquiries considering their specific needs in a timely and concise manner.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3c4f75cf-a023-45ab-807c-34fda97cf0f3"
+      ],
+      "mappedKnowledge": [
+        "72af5e12-cd39-4be5-8cb7-52143ac8fea8",
+        "8bb978c6-31f9-4410-8f80-1e5c1d9e0985",
+        "1e5ae204-11d0-49f4-9148-63167c8cad97",
+        "927b6fbc-d100-4b7d-b1cd-fd90dd7e1f9a",
+        "0c54a6b5-2af6-4dbd-a6ed-af1de1aaecb2",
+        "bd7295b0-6969-4817-9b74-44a5ae2f7b75",
+        "60dccc7f-a69d-4000-bcf6-ec4633028040",
+        "c99c3400-bfd8-4dc6-9dab-16cc3e89f4d5",
+        "16baa615-e642-4afa-940f-85bcbb8b94b9",
+        "638dc80e-ff0c-417a-ab1d-ab595f08df0a",
+        "b3ec2bf0-b4a4-4314-92d1-e3a495d77d49"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c7b3a249-1129-4ee3-96dd-a525a5e657af",
+        "9fd32a87-3c7a-47f4-a040-efb7a59ce9f4",
+        "9d57e269-228a-4814-a49c-66d73329b697"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8590f7ea-9002-4976-a556-f96e5d05b7dd",
+      "dutyDetail": "Access and update relevant information systems accurately and appropriately, taking account of confidentiality, reputational risks and data security.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3c4f75cf-a023-45ab-807c-34fda97cf0f3"
+      ],
+      "mappedKnowledge": [
+        "638dc80e-ff0c-417a-ab1d-ab595f08df0a",
+        "b3ec2bf0-b4a4-4314-92d1-e3a495d77d49",
+        "f65990da-eb3c-4864-b255-b27e9fdb093c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d760c353-174f-4507-b655-ad032cceadda",
+        "7703442b-82dd-4a69-acba-cc406c8ddb37"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "279f9e1c-c82b-45b0-a833-d5e3779b2d74",
+      "dutyDetail": "Support the continuous improvement of service delivery using best practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0635622-bb6c-4135-b5e7-9ac9a83a0bb9",
+        "a1c53251-79d9-4b17-8b9c-2629752ed926"
+      ],
+      "mappedKnowledge": [
+        "21ec91d9-9ac6-4164-8592-988bd71e47a4",
+        "85280260-3e6b-4b0a-af9d-2c6d8c969d32",
+        "95f7f5e5-f2aa-4186-86a4-64dc2b5ab7cd",
+        "b0a09e4e-35d7-4d1a-8b61-6a4c37719f41"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b5351ec7-bdca-45a9-8bbb-2ae2e57e95ec",
+        "d3014264-9d3f-4de8-8d3b-01491e75cde8",
+        "724ef916-ff93-4d83-bfe1-fae89e908779"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f933b311-c2ef-44df-bd40-0f11aa89d49c",
+      "dutyDetail": "Identify opportunities to assist the customer with income maximisation, welfare support or budgeting, whether personal or business related, signposting where appropriate. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a1c53251-79d9-4b17-8b9c-2629752ed926"
+      ],
+      "mappedKnowledge": [
+        "72af5e12-cd39-4be5-8cb7-52143ac8fea8",
+        "8bb978c6-31f9-4410-8f80-1e5c1d9e0985",
+        "927b6fbc-d100-4b7d-b1cd-fd90dd7e1f9a",
+        "60dccc7f-a69d-4000-bcf6-ec4633028040"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9fd32a87-3c7a-47f4-a040-efb7a59ce9f4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4c2289dc-bee8-40ef-a0d9-e36384476c76",
+      "dutyDetail": "Effectively navigate and manage challenging or sensitive communications using skills such as active listening, empathy, and clear communication.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ff165f21-51bd-41e5-b4f5-ff861291b4ed",
+        "a1c53251-79d9-4b17-8b9c-2629752ed926"
+      ],
+      "mappedKnowledge": [
+        "1e5ae204-11d0-49f4-9148-63167c8cad97",
+        "927b6fbc-d100-4b7d-b1cd-fd90dd7e1f9a",
+        "0c54a6b5-2af6-4dbd-a6ed-af1de1aaecb2",
+        "bd7295b0-6969-4817-9b74-44a5ae2f7b75"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "927edd1c-05bb-4997-8777-76017d09e007",
+        "d2bee572-0642-4d70-a956-454375cc7562"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "630402fe-0590-4ab2-9ff6-61256518c2fb",
+      "dutyDetail": "Proactively seek support, feedback, or guidance from colleagues or supervisors when necessary to deal with customer enquiries.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e494864d-30b9-480b-a59c-119620576385",
+        "f0635622-bb6c-4135-b5e7-9ac9a83a0bb9"
+      ],
+      "mappedKnowledge": [
+        "d83bc429-8cf0-461d-9e04-85192cce44ca",
+        "1312bfeb-664c-4a99-b33f-20a38004ee84"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "50f4845a-8470-49d9-b6bd-4998b9c5113b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d989fedf-1c6e-42fc-92ef-cf25f9165293",
+      "dutyDetail": "Take ownership of complex and challenging issues, making timely and well-informed decisions in accordance with statutory and non-statutory frameworks and legislation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e494864d-30b9-480b-a59c-119620576385",
+        "2d807b70-7771-4446-9049-fb41d157480d",
+        "76eccee8-3888-42ad-ae55-e95946a113ff"
+      ],
+      "mappedKnowledge": [
+        "72af5e12-cd39-4be5-8cb7-52143ac8fea8",
+        "8bb978c6-31f9-4410-8f80-1e5c1d9e0985",
+        "927b6fbc-d100-4b7d-b1cd-fd90dd7e1f9a",
+        "c99c3400-bfd8-4dc6-9dab-16cc3e89f4d5",
+        "16baa615-e642-4afa-940f-85bcbb8b94b9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1ef7321b-8249-4acd-8ccc-7a2b77cc21ba"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a7209a25-4e7e-4488-a587-6024112b0dda",
+      "dutyDetail": "Demonstrate personal and professional growth by proactively identifying and undertaking development opportunities that align with agreed objectives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e494864d-30b9-480b-a59c-119620576385",
+        "a1c53251-79d9-4b17-8b9c-2629752ed926"
+      ],
+      "mappedKnowledge": [
+        "21ec91d9-9ac6-4164-8592-988bd71e47a4",
+        "95f7f5e5-f2aa-4186-86a4-64dc2b5ab7cd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b5351ec7-bdca-45a9-8bbb-2ae2e57e95ec",
+        "d3014264-9d3f-4de8-8d3b-01491e75cde8",
+        "3c589d0f-791d-4ca5-8301-3ddd20fde147"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed1f1c29-3aa2-47ec-a82f-ed582e4b01f5",
+      "dutyDetail": "Apply professional analysis to identify and evaluate missing, inaccurate or incomplete information. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76eccee8-3888-42ad-ae55-e95946a113ff"
+      ],
+      "mappedKnowledge": [
+        "16baa615-e642-4afa-940f-85bcbb8b94b9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b2238352-a048-4179-9409-340b26811629",
+        "7703442b-82dd-4a69-acba-cc406c8ddb37"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ac1dc7d7-3c5e-44f4-b4c9-4aca8f1de46d",
+      "dutyDetail": "Obtain evidence from appropriate sources, evaluating its validity and relevance and making decisions based on it.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3c4f75cf-a023-45ab-807c-34fda97cf0f3",
+        "76eccee8-3888-42ad-ae55-e95946a113ff"
+      ],
+      "mappedKnowledge": [
+        "16baa615-e642-4afa-940f-85bcbb8b94b9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1ef7321b-8249-4acd-8ccc-7a2b77cc21ba",
+        "7703442b-82dd-4a69-acba-cc406c8ddb37"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d1d3505a-09b0-420c-813e-cb0c8c8f2eba",
+      "dutyDetail": "Build and maintain strong stakeholder relationships, including other departments within the organisation and external contacts where appropriate.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ff165f21-51bd-41e5-b4f5-ff861291b4ed",
+        "f0635622-bb6c-4135-b5e7-9ac9a83a0bb9",
+        "8d7a654c-1ba2-42f4-895c-e3b645b00237"
+      ],
+      "mappedKnowledge": [
+        "0c54a6b5-2af6-4dbd-a6ed-af1de1aaecb2",
+        "60dccc7f-a69d-4000-bcf6-ec4633028040",
+        "d83bc429-8cf0-461d-9e04-85192cce44ca",
+        "638dc80e-ff0c-417a-ab1d-ab595f08df0a",
+        "1312bfeb-664c-4a99-b33f-20a38004ee84",
+        "bf79ca6c-ecd0-4a54-b382-51c7abafd2c1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9fd32a87-3c7a-47f4-a040-efb7a59ce9f4",
+        "50f4845a-8470-49d9-b6bd-4998b9c5113b",
+        "042aeea1-aed6-416d-8432-70bdb5cac02e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6cd5f396-3638-44d1-b3f2-3348a74a2edd",
+      "dutyDetail": "Notify customers of how they can dispute or appeal decisions as appropriate.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c99c3400-bfd8-4dc6-9dab-16cc3e89f4d5",
+        "638dc80e-ff0c-417a-ab1d-ab595f08df0a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9d57e269-228a-4814-a49c-66d73329b697"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d8175f7d-2701-48b5-8453-d29fcee42c0b",
+      "dutyDetail": "Support your team by sharing information and offering support to others.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0635622-bb6c-4135-b5e7-9ac9a83a0bb9",
+        "2d807b70-7771-4446-9049-fb41d157480d",
+        "8d7a654c-1ba2-42f4-895c-e3b645b00237"
+      ],
+      "mappedKnowledge": [
+        "0c54a6b5-2af6-4dbd-a6ed-af1de1aaecb2",
+        "d83bc429-8cf0-461d-9e04-85192cce44ca",
+        "85280260-3e6b-4b0a-af9d-2c6d8c969d32",
+        "95f7f5e5-f2aa-4186-86a4-64dc2b5ab7cd",
+        "bf79ca6c-ecd0-4a54-b382-51c7abafd2c1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d3014264-9d3f-4de8-8d3b-01491e75cde8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0c66dc89-efca-41f5-b091-1e9a19088755",
+      "dutyDetail": " Establish the correct start and end of liability for taxation in line with legislation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a9fd5968-cf3b-4a1a-9a92-660c823cdf4d",
+        "55178c23-f78e-4520-9aa6-8674c6e844d9"
+      ],
+      "mappedOptions": [
+        "a665fcfe-ba6b-4683-bdf9-af48a7078610"
+      ],
+      "mappedSkills": [
+        "63e9137a-a719-489e-9023-f80531a964eb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0d9a94f0-2db4-4e32-a6b6-4c993a68d50e",
+      "dutyDetail": "Establish eligibility for reductions or liability to additional charges in local taxation in line with legislation and policies.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a9fd5968-cf3b-4a1a-9a92-660c823cdf4d",
+        "55178c23-f78e-4520-9aa6-8674c6e844d9",
+        "2da2b89a-2c7c-477d-a7cc-64982a1147b3",
+        "97d60bfb-a8f7-4b0b-bab2-07d6580d020a"
+      ],
+      "mappedOptions": [
+        "a665fcfe-ba6b-4683-bdf9-af48a7078610"
+      ],
+      "mappedSkills": [
+        "a98b9ed5-3e97-4f7d-8425-c827675d642c",
+        "8f8c72c8-7d2b-4720-bfd5-f7ac51ffff12"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "472f31d2-a68f-49cb-89fb-6ca5afa5b7d5",
+      "dutyDetail": "Negotiate and arrange payments and payment plans in line with legislation and procedures.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "2da2b89a-2c7c-477d-a7cc-64982a1147b3",
+        "97d60bfb-a8f7-4b0b-bab2-07d6580d020a",
+        "1650117f-4c32-44ce-98a5-501c51eda421",
+        "b06ce973-6b78-4e05-bfe2-01147b7a15d7"
+      ],
+      "mappedOptions": [
+        "a665fcfe-ba6b-4683-bdf9-af48a7078610"
+      ],
+      "mappedSkills": [
+        "6c8ab52a-d57f-460c-817c-6fbebef9ac99",
+        "2eea1828-a544-4c90-a526-bcc4e0eb592f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3d7c8693-4e8e-44aa-9f02-523e3eaafa9b",
+      "dutyDetail": "Take appropriate action in relation to collection, recovery and enforcement in line with legislation, policies and procedures.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "97d60bfb-a8f7-4b0b-bab2-07d6580d020a",
+        "b06ce973-6b78-4e05-bfe2-01147b7a15d7"
+      ],
+      "mappedOptions": [
+        "a665fcfe-ba6b-4683-bdf9-af48a7078610"
+      ],
+      "mappedSkills": [
+        "2489c755-f130-43cb-bf35-4dd1e4e78173"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ee820eab-89ed-4fb7-9fef-c879a1fa05a9",
+      "dutyDetail": "Assist customers with identifying and accessing financial support (such as national and local benefits, credits or reductions) and calculate entitlement.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bd123214-64c4-4403-aa3b-08d2dc8cadca",
+        "1af257ea-dc99-4ac1-a4e0-cf5a4b0678df",
+        "bb3f9204-157e-4598-b4d1-d8d2ee91c71e",
+        "c479e987-79bb-4b0d-aa01-be121a508aeb",
+        "f03c3863-7d53-4d4b-84ad-2eadd9a7be68"
+      ],
+      "mappedOptions": [
+        "034e3053-8708-4835-8434-bc641e4f0848"
+      ],
+      "mappedSkills": [
+        "cf642510-aad1-4d94-b193-3a12b1126b25",
+        "cb882461-44d5-4240-a81c-fb10be81b96d",
+        "e71238a0-a91f-414b-b347-44dab7a7c5a1",
+        "b1d9eec0-cbd5-49e0-9e9b-5358a7cf9917"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9cd59821-a556-4b17-a42b-5e34ba662ead",
+      "dutyDetail": "Take appropriate action to ensure changes to entitlement are dealt with in line with legislation and within their area of responsibility.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bd123214-64c4-4403-aa3b-08d2dc8cadca",
+        "bb3f9204-157e-4598-b4d1-d8d2ee91c71e",
+        "c479e987-79bb-4b0d-aa01-be121a508aeb",
+        "f03c3863-7d53-4d4b-84ad-2eadd9a7be68",
+        "83c6e75e-f1de-4023-acd1-22e5e3ecc86f"
+      ],
+      "mappedOptions": [
+        "034e3053-8708-4835-8434-bc641e4f0848"
+      ],
+      "mappedSkills": [
+        "cf642510-aad1-4d94-b193-3a12b1126b25",
+        "a0d15afb-6d9f-4078-b887-7f9bca9ae5b8",
+        "cb882461-44d5-4240-a81c-fb10be81b96d",
+        "e71238a0-a91f-414b-b347-44dab7a7c5a1",
+        "b1d9eec0-cbd5-49e0-9e9b-5358a7cf9917",
+        "f5a52024-414b-40e9-be06-6d8d9e4e9e2e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "81d74ac7-021b-4dea-a63d-fa3943b68a74",
+      "dutyDetail": "Ensure entitlement has been applied correctly in line with legislation and procedures and within their area of responsibility.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1af257ea-dc99-4ac1-a4e0-cf5a4b0678df",
+        "bb3f9204-157e-4598-b4d1-d8d2ee91c71e",
+        "c479e987-79bb-4b0d-aa01-be121a508aeb",
+        "f03c3863-7d53-4d4b-84ad-2eadd9a7be68",
+        "83c6e75e-f1de-4023-acd1-22e5e3ecc86f",
+        "1a8f978f-558f-47ba-aa08-adff485dad06"
+      ],
+      "mappedOptions": [
+        "034e3053-8708-4835-8434-bc641e4f0848"
+      ],
+      "mappedSkills": [
+        "a0d15afb-6d9f-4078-b887-7f9bca9ae5b8",
+        "cb882461-44d5-4240-a81c-fb10be81b96d",
+        "e71238a0-a91f-414b-b347-44dab7a7c5a1",
+        "b1d9eec0-cbd5-49e0-9e9b-5358a7cf9917",
+        "f5a52024-414b-40e9-be06-6d8d9e4e9e2e",
+        "5064a755-a00c-4b7e-a4cd-8e0896e76573"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "691ecee9-d696-4d3e-b5dd-de9fc942034b",
+      "dutyDetail": "Check overpayments and explain these to customers in line with legislation, policies and procedures.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "59d52e28-f84f-4966-be1b-7b0c874878cf"
+      ],
+      "mappedOptions": [
+        "034e3053-8708-4835-8434-bc641e4f0848"
+      ],
+      "mappedSkills": [
+        "d272a5a5-9023-44f7-b8f9-aeefde8d7da4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "a665fcfe-ba6b-4683-bdf9-af48a7078610",
+      "title": "Revenues specialist",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "034e3053-8708-4835-8434-bc641e4f0848",
+      "title": "Welfare benefits specialist",
+      "occupationCode": ""
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-02-11T00:00:00"
+}
