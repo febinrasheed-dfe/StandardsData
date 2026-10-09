@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2024-10-18T00:00:00",
+  "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": "2024-09-04T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Operating the signals and electrical controls needed to keep trains running safely and on time.",
   "level": 3,
@@ -272,7 +272,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0276",
-  "tbMainContact": "Barry.Smith@nsar.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Crossrail, Network Rail, HS1, Transport for London , GWR",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -296,7 +296,7 @@
   "clusterId": "16",
   "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2025-01-09T08:52:38 +00:00",
-  "lastUpdated": "2024-10-18T00:00:00 +00:00",
+  "lastUpdated": "2026-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-09-21T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1378",
@@ -1087,5 +1087,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-10-18T00:00:00"
+  "publishDate": "2026-12-17T00:00:00"
 }
