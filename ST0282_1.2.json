@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Updated SSA",
-  "changedDate": "2025-12-08T00:00:00",
+  "changedDate": "2026-06-18T00:00:00",
   "earliestStartDate": "2025-12-08T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-13T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Using, designing and repairing equipment for taking measurements.",
   "level": 3,
@@ -301,7 +301,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0039",
-  "tbMainContact": "claire.hutchinson@npl.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Agusta Westland, BAE Systems, BMTA (Abacus), BSI, Comech Metrology, Coventry University, Dupont Teijin Polyester Films, GTMA, Hexagon Metrology, Institute of Measurement & Control, Institute of Physics, Jaguar Land Rover, LGC Group, London Borough of Havering, Manufacturing Technologies Association, Manufacturing Technology Centre, Mitutoyo, National Measurement & Regulation Office, National Physics Laboratory, Physical Digital, Reliance Precision, Renishaw, Rhopoint Metrology, Rolls-Royce, Science Council, Semta, SGS Emics, Taylor Hobson, TUV SUD, UKAS, UKWF, University College London, Waters Corporation",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -336,7 +336,7 @@
   "clusterId": "102",
   "clusterDescription": "Provide routine and non-routine laboratory testing, experimenting and support to a research brief",
   "createdDate": "2025-12-08T09:39:12 +00:00",
-  "lastUpdated": "2025-12-08T00:00:00 +00:00",
+  "lastUpdated": "2026-06-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-08-17T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0282",
@@ -778,5 +778,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-08T00:00:00"
+  "publishDate": "2027-01-13T00:00:00"
 }
