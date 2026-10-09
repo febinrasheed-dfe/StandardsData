@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
   "change": "Funding band revised",
-  "changedDate": "2026-02-19T00:00:00",
+  "changedDate": "2026-09-01T00:00:00",
   "earliestStartDate": "2026-02-19T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing high-quality and compassionate healthcare. \n",
   "level": 2,
@@ -303,7 +303,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0052",
-  "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Adams Consulting Partners\nAnchor Hanover\nBerkshire Healthcare NHS Foundation Trust\nCareTech Community Services Ltd \nClinical Advisor and Project Lead\nFreshney Green Primary Care Training Hub\nHull University Teaching Hospital\nJ S Consultants UK Ltd \nKineton Manor Nursing Home\nLeeds Council\nLincolnshire Community Health Services NHS Trust\nMersey Care NHS Foundation Trust\nMidlands Partnership NHS Foundation Trust\nPortsmouth Hospitals University NHS Trust\nRCB Healthcare\nRoyal Free London NHS Foundation Trust\nSouth Warwickshire NHS Foundation Trust\nSouthern Health NHS Foundation Trust\nSpire Healthcare\nUniversity Hospital Dorset NHS Foundation Trust\n",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -325,7 +325,7 @@
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2026-02-19T10:36:49 +00:00",
-  "lastUpdated": "2026-02-19T00:00:00 +00:00",
+  "lastUpdated": "2026-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-05-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0216",
@@ -554,5 +554,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2026-02-19T00:00:00"
+  "publishDate": "2027-03-10T00:00:00"
 }
