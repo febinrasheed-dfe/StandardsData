@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-28T00:00:00",
+  "changedDate": "2026-06-18T00:00:00",
   "earliestStartDate": "2023-02-28T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Discuss the scenic art requirements with the designer or scenic manager to translate their vision into the reality of what the audience sees.",
   "level": 3,
@@ -274,7 +274,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0640",
-  "tbMainContact": "Lynne.LADA@gmail.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Belgrade Theatre, Birmingham Repertory Theatre, Cardiff Theatrical Services, Disney, LADA/CC Skills, Maya Kazmarski (Freelance), National Theatre, Royal Exchange, Royal Opera House, Royal Shakespeare Company, Souvenir, The Really Useful Group, Welsh National Opera",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -295,7 +295,7 @@
   "clusterId": "232",
   "clusterDescription": "Apply creative skills and crafting techniques to the design and development of products and graphics.",
   "createdDate": "2022-12-05T15:30:28 +00:00",
-  "lastUpdated": "2023-02-28T00:00:00 +00:00",
+  "lastUpdated": "2026-06-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-02-28T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0916",
@@ -626,5 +626,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-28T00:00:00"
+  "publishDate": "2026-12-09T00:00:00"
 }
