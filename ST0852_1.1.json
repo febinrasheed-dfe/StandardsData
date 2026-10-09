@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2024-06-14T00:00:00",
+  "changedDate": "2026-09-02T00:00:00",
   "earliestStartDate": "2024-06-14T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manually weld plates and structural components to high standards of quality.",
   "level": 3,
@@ -250,7 +250,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0368",
-  "tbMainContact": "michael.skyrme@baesystems.com",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "BAE Systems, Hutchinson Engineering, Severfield, TEI, Doosan Babcock, GE, Rolls Royce, Pall UK, Hudson Swan, Graham Engineering, QA Weld Tech",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -270,7 +270,7 @@
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
   "createdDate": "2024-06-14T07:53:41 +00:00",
-  "lastUpdated": "2024-06-14T00:00:00 +00:00",
+  "lastUpdated": "2026-09-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0852",
@@ -933,5 +933,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-06-14T00:00:00"
+  "publishDate": "2027-03-10T00:00:00"
 }
