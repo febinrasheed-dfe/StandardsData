@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-06-26T00:00:00",
+  "changedDate": "2026-09-24T00:00:00",
   "earliestStartDate": "2025-06-26T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Repair, maintenance, installation and commissioning of plant and equipment used for water recycling or water treatment.",
   "level": 3,
@@ -617,7 +617,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0876",
-  "tbMainContact": "",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Severn Trent, Wessex Water, Thames Water, Yorkshire Water, Anglian Water, Southern Water, United Utilities, Southeast Water, Severn Trent Water",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -638,7 +638,7 @@
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2025-03-19T11:41:05 +00:00",
-  "lastUpdated": "2025-06-26T00:00:00 +00:00",
+  "lastUpdated": "2026-09-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-06-26T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1404",
@@ -1574,5 +1574,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-26T00:00:00"
+  "publishDate": "2027-03-24T00:00:00"
 }
