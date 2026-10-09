@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-23T00:00:00",
+  "changedDate": "2026-09-11T00:00:00",
   "earliestStartDate": "2023-02-21T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-08-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manage and implement accounting, finance systems and processes.",
   "level": 6,
@@ -379,7 +379,7 @@
   "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0840",
-  "tbMainContact": "Jonathan@phoenixaccountancy.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "5 Star Estate Planning, Acc-Unique Solutions Ltd, Azets, BBC, BDT Group, Birmingham City University, Birmingham Community Healthcare NHS Foundation Trust, Central England Co-operative Limited, Certax, Coventry University, Devonports, Ernst and Young, Exeter University, Forest Phoenix Accountancy Ltd, Gloucestershire County Council, Golden Intelligence Ltd, HBBA Care Ltd, IBM, IBM UK Foundation Manager IBM UK Early Professional Programmes, Institute of Financial Accountants, Jaguar Land Rover, Kingsley Maybrook Ltd, Longhurst Group, Manex Accountancy, Morgan Reach Chartered Certified Accountants, Paton Turberfield Accountants, Right Check, Sage (UK) Limited, TaxWhizz, The Education and Skills Partnership Ltd, Thomson Reuters Professional (UK) Ltd, UK Dies Group Ltd, University of Portsmouth, University of West of England, Watts Accountancy, Wellbeing Residential Care Group, Xero",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -406,7 +406,7 @@
   "clusterId": "237",
   "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
   "createdDate": "2024-12-09T15:02:50 +00:00",
-  "lastUpdated": "2023-02-23T00:00:00 +00:00",
+  "lastUpdated": "2026-09-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-02-21T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1303",
@@ -791,5 +791,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-23T00:00:00"
+  "publishDate": "2027-08-26T00:00:00"
 }
