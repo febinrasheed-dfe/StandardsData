@@ -1,0 +1,558 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 543,
+  "referenceNumber": "ST0408",
+  "learningAimClassCode": "",
+  "title": "Countryside worker",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0408",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-07-23T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Carry out specific environmental and conservation tasks.",
+  "level": 2,
+  "ePALength": 4,
+  "typicalDuration": 18,
+  "minimumHoursForCompliance": "278",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Agriculture, environmental and animal care",
+  "keywords": [
+    "countryside",
+    "environment",
+    "conservation",
+    "country",
+    "landscape",
+    "country side worker"
+  ],
+  "jobRoles": [
+    "Access ranger",
+    "Assistant ranger",
+    "Estate worker",
+    "Field operative",
+    "Maintenance ranger",
+    "Site warden",
+    "Volunteer leader",
+    "Countryside worker"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0408-in-revision?view=epa",
+  "ssa1": "3 Agriculture, Horticulture and Animal Care",
+  "ssa2": "3.4 Environmental conservation",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupational Profile&lt;/strong&gt;:&lt;/h3&gt;\n&lt;p&gt;Countryside Workers are the custodians of our rural outdoor scenery. They conserve the environment that makes the English countryside both distinctive and special. They take care of our protected landscapes - National Parks, Areas of Outstanding Natural Beauty (AONB), National Nature Reserves as well as private landed estates, country and, to a degree, urban parks.&amp;nbsp; These cover huge amounts of our country, for example 25% of England is covered by National Parks and AONBs while National Nature Reserves cover an additional 60,000 hectares across 143 separate sites.&amp;nbsp; Wildlife Trusts and Rivers Trusts also employ Countryside Workers in their environmental and conservation work.&lt;/p&gt;\n&lt;p&gt;Typical job titles of roles that successful Countryside Worker apprentices undertake include;&amp;nbsp; Estate Worker, Access Ranger, Maintenance Ranger, Site Warden, Assistant Ranger, Field Operative and Volunteer Leader&lt;/p&gt;\n&lt;p&gt;Green job titles: &lt;img src=&quot;/media/6054/picture1.png?width=19&amp;amp;height=18&amp;amp;mode=max&quot; alt=&quot;&quot;&gt;Countryside worker&lt;/p&gt;\n&lt;p&gt;Countryside Workers carry out specific environmental and conservation tasks and they will also be clear about how practical conservation work interacts with the productive and recreational use of the countryside, including allied farming (livestock and crop production) and sporting activities (most commonly fishing and shooting) and how these relate to countryside management practices. For example, a Countryside Worker would know that work on paths on upland farms should avoid lambing season and that work on grouse habitat should be done in the winter.&lt;/p&gt;\n&lt;p&gt;Countryside Workers will be able and willing to do challenging work outdoors, in a variety of locations, which may be remote, including moorland, heathland, woodland and coast, interact with the public and explain their work as well as undertaking their role all year round in a variety of weathers, both on their own and as part of a team.&amp;nbsp; Their day to day work will include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Building and repairing a variety of field boundaries including fences, walls and hedging. The type and techniques used will depend on the use of the boundary, for example, controlling livestock to maintaining geographical location specific landscape features such as stone walls and hedging.&lt;/li&gt;\n&lt;li&gt;Maintaining public rights of way for walkers, cyclists and horse riders. The type of surface and associated gates, stiles and bridges varying depending on the use, terrain and landscape.&lt;/li&gt;\n&lt;li&gt;Improving habitats and woodland to get them in good condition by using a variety of appropriate techniques, including pruning, felling or planting so native flora and fauna (plants and animals) can thrive. This varies depending upon the local area. For example, in the North York Moors native wildlife includes freshwater salmon, golden plover, merlin, hen harrier, turtle dove and freshwater pearl mussels while native plants include oaks, ash and a wide variety of cornfield flowers. Countryside Workers control invasive species, such as Himalayan Balsam, and use the right technique for each species – this could be cutting back, pulling out, spraying or injecting with pesticide.&lt;/li&gt;\n&lt;li&gt;Surveying/monitoring habitats and flora and fauna to understand species numbers and relate this to relevant habitat management practices. For example, monitoring of the numbers of merlin (native bird of prey) has resulted in areas of moorland being left unburned (burning is a common management technique to encourage new heather growth) and the establishment of single trees encouraged as these are attractive to Merlin in a moorland landscape.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&amp;nbsp;Knowledge&lt;/strong&gt; – Countryside Workers will have an understanding of;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Conservation; &lt;/strong&gt;how habitats and vegetation are managed to promote conservation. The different types of management used and which is appropriate depending on the location, for example, woodland/wetland/hedgerow management.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ecology;&lt;/strong&gt; the principles behind how our flora and fauna (both native and non-native) live and survive and how this knowledge is used practically when carrying out habitat management work effectively.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The principles of boundary management; &lt;/strong&gt;how the different types of boundaries (hedges, fences, walls) relate to their location and usage; how their management varies depending on the area and their function.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The principles of access management;&lt;/strong&gt; the legal status of a Right of Way and Open Access to the Countryside legislation. The different types of surfaces (aggregate, paving, woodchip, pitching) and furniture/structures (such as gates, bridges, boardwalks, benches, bins) and their suitability for different areas and usage such as multi user access paths.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Common farming practices;&lt;/strong&gt; practical conservation work and farming support each other. A knowledge of the farming calendar, for example, lambing and harvest affects both the timing and the nature of conservation work that is carried out.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Land management;&lt;/strong&gt; how conservation work complements/interacts with other land management uses such as recreation, game keeping, tourism and estate management.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Surveys;&lt;/strong&gt; the common techniques which can be used to carry out a range of surveys to help determine the nature of work on habitat or access management in a particular location.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Countryside legislation;&lt;/strong&gt; the major pieces of legislation that govern the use of the countryside, such as the Wildlife and Countryside Act, Environmental Protection Act and the Countryside Rights of Way Act.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Designations;&lt;/strong&gt; conservation designations in the UK, for example, National Nature Reserves, National Parks, Sites of Special Scientific Interest and Areas of Outstanding Natural Beauty.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Climate change; &lt;/strong&gt;the way increased rainfall and higher temperatures impact upon the countryside, conservation practices, habitats, flora, fauna and water levels and how we can go about managing these changes at local/national level.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Sustainability;&lt;/strong&gt; understanding environmental best practice and the importance of using products from the local area or from sustainable sources such as wood from Forest Stewardship Council woodlands&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Map reading;&lt;/strong&gt; navigating in the countryside using a map and compass in areas where satellite navigation is unreliable.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Health and safety;&lt;/strong&gt; understanding clearly the risks inherent in carrying out tasks such as building a fence, surfacing a footpath and cutting back vegetation. This should be complemented by knowing how to write risk assessments, carry out manual handling safely and when personal protective equipment should be worn. Equally as important is recognising the potential risks to the public and knowing how to mitigate these.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;First Aid;&lt;/strong&gt; practical first aid techniques for use in outdoor situations.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Pollution;&lt;/strong&gt; the environmental impact of conservation work, for example, the use of vehicles, fuel for machinery, dealing with waste materials and how to improve working practices to benefit the environment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; – Countryside Workers will be able to;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Manage habitats&lt;/strong&gt; using a range of specialist techniques such as coppicing, hedge laying, river/stream bank stabilisation and establishing native plants, using appropriate tools and equipment. This could also include new and developing sustainable practices such as using natural materials to manage excessive rainfall (in constructing leaky dams and bale dams) and subsequently manage erosion and flood damage.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Construct or repair boundaries&lt;/strong&gt; including different fencing types (such as post and rail, stock fencing), hedging (establishing a new hedge or laying an existing hedge) and dry stone walling depending on the geographic location/landscape and local natural materials.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Construct or maintain access ways, for example a path surface&lt;/strong&gt; using aggregate, stone pitching, slabs, bark, concrete or tarmac. This will include the skills to ensure that the path surface drains properly.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Manage vegetation&lt;/strong&gt; in a range of different situations, for example strimming pathways, using pesticides, managing trees and hedgerows, eradicating invasive species in order to conserve native flora and fauna.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Construct and /or maintain site furniture&lt;/strong&gt; for access and interpretation. For example, bridges, gates, stiles, boardwalks, signs/waymarks or information boards using sustainable materials where possible. This will involve both following standard methods and also undertaking site specific design. For example, installing a gate on a sloping field will involve modifying the standard method, while every river or stream crossing while require a different design.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Use a range of hand tools and powered tools&lt;/strong&gt; safely such as hammers, panel saws, levels, drills, strimmers or chainsaws, hold the relevant certification for powered equipment and undertake the routine maintenance of the tools used.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Problem solving&lt;/strong&gt;; be resourceful in finding solutions to problems that may arise in day to day work and know when to ask a supervisor for advice.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Identify a range of British flora and fauna&lt;/strong&gt; native to the specific local area e.g. commonly seen birds, mammals, insects, herbs, flowers, trees or fungi to determine the appropriate habitat management needed.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Undertake surveys&lt;/strong&gt; which feed in to site management plans and work plans, for example, survey habitats and species, numbers of visitors, the condition of Rights of Way or structures/furniture.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Write a simple dynamic risk assessment&lt;/strong&gt; and be able to use it on site. Use the risk assessment as the basis of working safely; understanding the hazards on the site and involved in the wide range of practical tasks undertaken by Countryside Workers. Know how to reduce these risks to an acceptable level for themselves, the public and colleagues through using safe working practices and wearing personal protective equipment.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communicate effectively&lt;/strong&gt; in a range of situations e.g. through face to face interaction, electronic communication, telephoning or presenting to members of the public, contractors, colleagues or landowners.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours - &lt;/strong&gt;Countryside Workers can be expected to have the following behaviours;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Enthusiasm for the countryside and environment&lt;/strong&gt;; a positive approach to working outdoors, and undertaking practical tasks in all weathers;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Work ethic&lt;/strong&gt;; reliability and punctuality, commitment, diligence and a pride in doing a job well;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Work constructively&lt;/strong&gt;; both within a team environment and be self-motivated as a lone worker; be comfortable working both with other paid colleagues as well as unpaid volunteers;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Flexibility and adaptability&lt;/strong&gt;; to working locations, hours and requirements, including changes in weather conditions, situations and working environment;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Skills development&lt;/strong&gt;; responsibility for continual personal skills development;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communication and behaviour&lt;/strong&gt;; appropriate behaviour with a wide range of people including colleagues, landowners, contractors and other professionals and the public;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Safety conscious&lt;/strong&gt;; promoting safe working practices for themselves and others.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Typical duration for this apprenticeship is 12-18 months with a minimum term of 12 months.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Core Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Apprentices without Level 1 English and Maths will need to achieve this level and take level 2 tests prior to the end point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’ English and maths minimum requirement is Entry Level 3. British Sign Language qualification is an alternative to English qualifications for those whom this is their primary language.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;Level 2.&amp;nbsp; The knowledge aligns to a level 2 qualification in Environmental Conservation.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review Date&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;p&gt;After 3 years&lt;/p&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;This occupation is found in places like National Parks, nature reserves, and private estates. Countryside Workers also work for organisations like Wildlife Trusts and the National Trust.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;The broad purpose of the occupation is to perform environmental and conservation tasks to protect, conserve and restore landscapes, habitats and ecosystems. Countryside Workers carry out sustainable practices and engage with users of the countryside and enhance the experience of the public using it. Daily tasks include building and fixing fences, walls, and hedges, maintaining access routes, and managing land for wildlife by managing native and invasive species.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;Countryside Workers monitor habitats and wildlife to understand species numbers and adjust management practices accordingly.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;In their daily work, an employee in this occupation interacts with team members, volunteers, and the public, usually reporting to a supervisor like a ranger or site manager.&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0; line-height: normal&quot;&gt;Countryside Workers will be responsible for ensuring conservation efforts align with farming, landscape and historic environment interests, recreational activities like fishing and shooting, and public access to the countryside. They work outdoors in various locations and weather conditions, both alone and in teams, throughout the year.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "a48fedee-9a57-497a-b91f-72290ff1eed7",
+      "detail": "How the different types of boundaries, including hedges, fences, walls, relate to their location and usage."
+    },
+    {
+      "knowledgeId": "21d13ce0-16e0-4440-ad05-6fafcdbae183",
+      "detail": "How the management of boundaries varies depending on their function and on local and regional factors for example geology, soil type, climate change and traditional style. "
+    },
+    {
+      "knowledgeId": "f2edf7e2-95f2-487c-9122-2ef089a46ba4",
+      "detail": "The legal status of access, including Public Rights of Way and land designated as Open Access. "
+    },
+    {
+      "knowledgeId": "f35ad521-225f-4dec-8e0a-7764440a9457",
+      "detail": "The different types of path surfaces and structures and the suitability of these for different areas and usage. "
+    },
+    {
+      "knowledgeId": "556fac47-74e1-4b83-8122-d0a180944a4b",
+      "detail": "How to identify British native and non-native flora and fauna including invasive plants, their lifecycle and how they are considered during habitat management work."
+    },
+    {
+      "knowledgeId": "9529ed04-232e-4786-bb6b-25c443557465",
+      "detail": "Techniques used to carry out surveys and how they are used to inform decisions on habitat, species, or access management in a specific location."
+    },
+    {
+      "knowledgeId": "df7f6acc-2a05-490b-8c74-72880ecdfcd3",
+      "detail": "Habitat and vegetation management techniques, how their suitability varies depending on the locality and how they are used to promote conservation."
+    },
+    {
+      "knowledgeId": "ce1b3589-a2ea-4a5f-922e-561bc8e9591f",
+      "detail": "British standards that apply to constructing site furniture locally and how appropriate adaptations might be made depending on the topography, the geographical location and local style."
+    },
+    {
+      "knowledgeId": "52dfe61e-754c-425c-a577-6c4df0f86ca4",
+      "detail": "How to construct or maintain site furniture using sustainable materials where possible."
+    },
+    {
+      "knowledgeId": "adbd7fb9-dc78-4488-8286-d5dded4e87d2",
+      "detail": "How to maintain and use hand tools and powered tools for example chainsaws and brushcutters. "
+    },
+    {
+      "knowledgeId": "303c7891-4763-4294-a840-1ddab058eaf3",
+      "detail": "How to safely handle and apply pesticides and the alternative methods for pest control that minimise environmental impact."
+    },
+    {
+      "knowledgeId": "95d50fd9-f38b-491a-8742-9b2b004020e1",
+      "detail": "How to identify a health and safety or environmental issue and how to report it in accordance with organisational and legal procedures.  "
+    },
+    {
+      "knowledgeId": "10be80a4-85f6-4f39-8765-6956d376f754",
+      "detail": "Ways of communicating with the public through social media to promote work."
+    },
+    {
+      "knowledgeId": "cc64dec5-158b-4574-b89d-545f1afd93ec",
+      "detail": "Styles and methods of communicating with colleagues, volunteers and visitors using site interpretation, face to face interaction, electronic communication and telephone."
+    },
+    {
+      "knowledgeId": "12d9e9bf-1d03-4bc3-9a43-1067e10431a4",
+      "detail": "Safe manual handling practices, when personal protective equipment should be worn."
+    },
+    {
+      "knowledgeId": "9dec7a29-f0a4-4dc1-ac35-a6a198345e7a",
+      "detail": "How to write risk assessments to mitigate risks to the public and themselves."
+    },
+    {
+      "knowledgeId": "c069bc03-cdb1-49bc-b277-5681afd83bb8",
+      "detail": "Practical first aid techniques for use in outdoor situations. "
+    },
+    {
+      "knowledgeId": "cb61231d-ad21-412f-bf24-fa50311c0a29",
+      "detail": "How to construct water control measures to slow the flow of water to reduce erosional impact from increased rainfall, for example water deflector, sluice or leaky dam, using local sustainable materials."
+    },
+    {
+      "knowledgeId": "e0d5c47f-ec5b-40f4-8995-c2fdee1f95c7",
+      "detail": "How to navigate in the countryside using a map and compass, satellite navigation and global positioning systems and how to use digital maps in a work context."
+    },
+    {
+      "knowledgeId": "06560c9a-668f-4a1d-8ae6-86427cdbedb5",
+      "detail": "How severe and frequent weather events, including those caused by climate change, impact the countryside, including habitats, flora, fauna, and water levels, and how management practices can be adapted to lessen the impact at local and national levels."
+    },
+    {
+      "knowledgeId": "bcf57640-3aec-4258-90d8-0c70f60f0d11",
+      "detail": "Environmental best practice and the importance of using products from the local area or from sustainable sources. "
+    },
+    {
+      "knowledgeId": "487eb644-e44f-4034-88d0-8c8d57dd4bc6",
+      "detail": "How conservation work complements and interacts with other land management uses and interests, for example recreation, archaeology and historic environment, game keeping, tourism, estate management, farming or forestry. "
+    },
+    {
+      "knowledgeId": "01c28a2f-0cc8-4efa-92ea-b94d108db0f8",
+      "detail": "How legislation governs the use and protection of the countryside and ecosystems, and how to apply this legislation in practice at both local and national levels."
+    },
+    {
+      "knowledgeId": "8cd00a1d-b255-4f41-ab35-83a91a547dc8",
+      "detail": "The environmental impact of conservation work, including, the use of vehicles, fuel for machinery and dealing with waste materials, and how to sustainably improve working practices to benefit the environment."
+    },
+    {
+      "knowledgeId": "218d8ea5-d627-486f-9d29-c4b651e57be2",
+      "detail": "Digital technology and digital systems and associated GDPR and cyber security policies and procedures."
+    },
+    {
+      "knowledgeId": "862afc32-96ba-4210-a8cf-b271b5d9f09b",
+      "detail": "Methods to identify and undertake learning and continuing professional development opportunities."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+      "detail": "Positively embraces working outdoors in the countryside and environment, undertaking practical tasks in all weathers."
+    },
+    {
+      "behaviourId": "fce737c3-13e8-42c0-bec7-66f08d108671",
+      "detail": "Demonstrates a strong work ethic including commitment, diligence and pride in doing a job well."
+    },
+    {
+      "behaviourId": "70cfc8e4-8b8a-4f64-8a91-9d8250626303",
+      "detail": "Works independently and in a team environment, building positive relationships with colleagues and volunteers."
+    },
+    {
+      "behaviourId": "f96bdc4a-0b81-49c2-9023-2e8c297067ee",
+      "detail": "Promotes safe working practices for themselves and others."
+    },
+    {
+      "behaviourId": "107259f1-0114-4e83-8c50-ba188e3658bc",
+      "detail": "Respectful of others and promotes equity, diversity and inclusion with the team."
+    },
+    {
+      "behaviourId": "361e0b6e-dd8d-4c41-811d-9f0a7e0fb64e",
+      "detail": "Considers the impact on the environment when using resources and carrying out work."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "2afeab69-f54f-4c52-828a-ef4f647966ae",
+      "detail": "Construct or repair boundaries using different fencing types, for example post and rail, stock fencing or walls using local and natural materials."
+    },
+    {
+      "skillId": "8b8d49ec-54a7-4f5a-b3e5-2a710e70798d",
+      "detail": "Establish new hedging or manage existing hedging. "
+    },
+    {
+      "skillId": "0bee0c0a-3b6c-4d4c-baff-f3fc6ccad39e",
+      "detail": "Construct or maintain suitably drained access ways using appropriate materials."
+    },
+    {
+      "skillId": "a0a529b9-db5e-4ba4-bb56-ff9bbc6dd884",
+      "detail": "Identify British flora and fauna both native and non-native to the specific local area, for example, commonly seen birds, mammals, insects, herbs, flowers, trees or fungi, to determine the appropriate habitat management needed."
+    },
+    {
+      "skillId": "5f72fa59-43b9-4606-aae5-3bee954484f4",
+      "detail": "Carry out surveys which inform site management plans and work plans."
+    },
+    {
+      "skillId": "59154416-942e-423e-bfa1-bc8c00ff4ccf",
+      "detail": "Use of brushcutters to clear vegetation."
+    },
+    {
+      "skillId": "1f97d9d9-400e-421c-8395-c1c6587c5325",
+      "detail": "Manage habitats and vegetation using specialist techniques and tools appropriate to the task and conservation requirements, dependant on seasonality, for example, strimming pathways, using pesticides, managing trees and hedgerows, and eradicating invasive species."
+    },
+    {
+      "skillId": "2cfaa3e7-47a1-4f33-b3e9-b00af5285821",
+      "detail": "Use chainsaws for felling trees up 380mm and cross-cut timber."
+    },
+    {
+      "skillId": "18188c75-9fbf-49df-a967-9fdf15ae6d27",
+      "detail": "Construct or maintain site furniture for access and interpretation, for example, bridges, gates, stiles, boardwalks, signs/waymarks or information boards using sustainable materials where possible.  "
+    },
+    {
+      "skillId": "4a373fbd-15e8-4990-b17c-1be9fb61c7bf",
+      "detail": "Carry out pre use safety checks of hand tools and powered tools."
+    },
+    {
+      "skillId": "ed2fd29f-2cd7-4924-b239-11f2cfe73cf6",
+      "detail": "Produce and apply dynamic risk assessments."
+    },
+    {
+      "skillId": "829dd22c-94e9-45c6-a47c-212529a951ab",
+      "detail": "Identify and apply safe working practices, including manual handling, and use personal protective equipment in accordance with manufacturer guidelines."
+    },
+    {
+      "skillId": "adcde960-aa7d-4159-b65e-310f67d63aaa",
+      "detail": "Apply practical first aid techniques in outdoor situations."
+    },
+    {
+      "skillId": "44f8c0f1-1e70-431d-a860-4ba70e353b61",
+      "detail": "Construct water control measures to slow the flow of water to reduce erosional impact from increased rainfall, for example water deflector, sluice or leaky dam, using local sustainable materials."
+    },
+    {
+      "skillId": "5f546e1c-1254-4c2a-ae1c-c5183bfae03c",
+      "detail": "Minimise negative environmental impact by following workplace policies when selecting and using vehicles, fuelling machinery and dealing with waste materials."
+    },
+    {
+      "skillId": "626b22fd-e206-4d4b-aa9a-92f3185443db",
+      "detail": "Use digital technology and systems in accordance with GDPR and cyber security policies and procedures."
+    },
+    {
+      "skillId": "47320349-e326-43f2-9b72-7a1b8ca01e89",
+      "detail": "Adapts behaviour and communication style to suit the audience for example colleagues, volunteers, visitors, landowners, other professionals and the public."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification with apprenticeship assessment",
+  "integratedDegree": "",
+  "tbReference": "TB0177",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Birmingham City Council, Cannington College, Chartered Institute of Ecology and Environmental Management (CIEEM), Kingston Maurward College, Lantra, National Trust, Natural England, North York Moors National Park, Redcar and Cleveland Council, RSPB, Sparsholt College, Yorkshire Dales Millennium Trust, Yorkshire Wildlife Trust",
+  "otherInvolvedStakeholders": "Cannington College, Kingston Maurward College, Chartered Institute of Ecology and Environmental Management (CIEEM), Lantra, Sparsholt College.",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Access ranger",
+    "Assistant ranger",
+    "Estate worker",
+    "Field operative",
+    "Maintenance ranger",
+    "Site warden",
+    "Volunteer leader",
+    "Countryside worker"
+  ],
+  "greenJobTitles": [
+    "Countryside worker"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Agriculture, Land Management and Production",
+  "cluster": "Environment technician",
+  "clusterId": "81",
+  "clusterDescription": "Manage diverse environments, providing technical support in a range of specialist areas",
+  "createdDate": "2026-07-23T09:03:16 +00:00",
+  "lastUpdated": "2026-07-23T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0408",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0408-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0408-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "6abd80a8-4e2f-4ddf-b974-a4f7179ea834",
+      "title": "an award or training and assessment in first aid at work +F or forestry first aid +F or forestry first aid minimum 1 day course (face-to-face), carried out by either an awarding organisation, a UKAS accredited trade body or voluntary aid society recognised by government as specified in HSE document GEIS 3.",
+      "level": "2",
+      "anyAdditionalInformation": "Please refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "85047122-f7c2-4c20-b6d0-089698e57e60",
+      "title": "a level 2 qualification in chainsaw maintenance and cross cutting",
+      "level": "2",
+      "anyAdditionalInformation": "Lantra awards Level 2 Award In chainsaw Maintenance and Cross Cutting (600/5701/4) or City & Guilds NPTC Level 2 Award in Chainsaw Maintenance and Cross Cutting (600/6161/3). \nPlease refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "c53282ea-4dab-449b-847e-17569e3e1234",
+      "title": "a level 2 qualification in felling",
+      "level": "2",
+      "anyAdditionalInformation": "Lantra awards Level 2 Awards in Felling and Processing trees up to 380mm (600/5703/8) or City and Guilds NPTC Level 2 Certificate of Competence in felling small trees up to 380mm (603/7354/4). \nPlease refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "5fe5ba92-1e13-4737-b3c8-c25ad6621fea",
+      "title": "a level 2 qualification in the safe use of brushcutters and trimmers qualification",
+      "level": "2",
+      "anyAdditionalInformation": "Lantra Awards Technical Award in Brushcutters/Trimmers –  (training with assessment) or City & Guilds NPTC Level 2 Award in the Safe Use of Brush-cutters and Trimmers (601/1299/2). \nPlease refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "6c68a812-f7f5-4aae-bd42-c8c47a12ec7e",
+      "title": "a level 2 qualification in the use of pesticides",
+      "level": "2",
+      "anyAdditionalInformation": "Lantra Awards Level 2 Award in the Safe Application of Pesticide using Hand Held Equipment  (601/6562/5) (PA1 and PA6a combined)  Or Lantra awards Level 2 Award in the Safe Use of Pesticides (PA1) (601/5977/7) and Lantra Level 2 Safe Use of Pesticides and Hand Held Applicators (without safe use) (601/6562/5) (PA6a) or City & Guilds NPTC Level 2 Principles of Safe Handling and Application of Pesticides (PA1) and City & Guilds NPTC Level 2 Award in the Safe Application of Pesticides Using Pedestrian Hand Held Equipment (PA6a). \nPlease refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "6aa5437f-0a62-425e-abb0-9e2a58e03124",
+      "dutyDetail": "Build and repair field boundaries including fences, walls and hedging.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671",
+        "361e0b6e-dd8d-4c41-811d-9f0a7e0fb64e"
+      ],
+      "mappedKnowledge": [
+        "a48fedee-9a57-497a-b91f-72290ff1eed7",
+        "21d13ce0-16e0-4440-ad05-6fafcdbae183"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2afeab69-f54f-4c52-828a-ef4f647966ae",
+        "8b8d49ec-54a7-4f5a-b3e5-2a710e70798d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dc569039-fe4a-4e92-a009-7475b998742b",
+      "dutyDetail": "Maintain pathways or public access for walkers, cyclists and horse riders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671",
+        "361e0b6e-dd8d-4c41-811d-9f0a7e0fb64e"
+      ],
+      "mappedKnowledge": [
+        "f2edf7e2-95f2-487c-9122-2ef089a46ba4",
+        "f35ad521-225f-4dec-8e0a-7764440a9457"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0bee0c0a-3b6c-4d4c-baff-f3fc6ccad39e",
+        "1f97d9d9-400e-421c-8395-c1c6587c5325"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6a34c393-4787-4d64-8587-d63318c05700",
+      "dutyDetail": "Use surveys to monitor flora, fauna and habitats and to assist in determining approaches to access management.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671",
+        "361e0b6e-dd8d-4c41-811d-9f0a7e0fb64e"
+      ],
+      "mappedKnowledge": [
+        "556fac47-74e1-4b83-8122-d0a180944a4b",
+        "9529ed04-232e-4786-bb6b-25c443557465"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a0a529b9-db5e-4ba4-bb56-ff9bbc6dd884",
+        "5f72fa59-43b9-4606-aae5-3bee954484f4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "328e2a1c-9966-4346-bea6-4e3187e4679b",
+      "dutyDetail": "Identify and manage habitats and vegetation in accordance with management plans.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671",
+        "361e0b6e-dd8d-4c41-811d-9f0a7e0fb64e"
+      ],
+      "mappedKnowledge": [
+        "df7f6acc-2a05-490b-8c74-72880ecdfcd3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "59154416-942e-423e-bfa1-bc8c00ff4ccf",
+        "2cfaa3e7-47a1-4f33-b3e9-b00af5285821"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "abe0c622-ff11-4984-a5ff-615cacc56325",
+      "dutyDetail": "Maintain and construct site furniture. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671"
+      ],
+      "mappedKnowledge": [
+        "ce1b3589-a2ea-4a5f-922e-561bc8e9591f",
+        "52dfe61e-754c-425c-a577-6c4df0f86ca4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "18188c75-9fbf-49df-a967-9fdf15ae6d27"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "97785d05-8ff3-4750-9986-b746bea76a3f",
+      "dutyDetail": "Select and perform maintenance on tools and equipment in accordance with manufacturer recommendations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671"
+      ],
+      "mappedKnowledge": [
+        "adbd7fb9-dc78-4488-8286-d5dded4e87d2",
+        "303c7891-4763-4294-a840-1ddab058eaf3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4a373fbd-15e8-4990-b17c-1be9fb61c7bf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2f5902f1-f716-4d97-a723-fc75e42218e8",
+      "dutyDetail": "Liaise with the internal and external stakeholders using face to face interaction, electronic communication and telephone.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671",
+        "70cfc8e4-8b8a-4f64-8a91-9d8250626303",
+        "107259f1-0114-4e83-8c50-ba188e3658bc"
+      ],
+      "mappedKnowledge": [
+        "95d50fd9-f38b-491a-8742-9b2b004020e1",
+        "10be80a4-85f6-4f39-8765-6956d376f754",
+        "cc64dec5-158b-4574-b89d-545f1afd93ec",
+        "e0d5c47f-ec5b-40f4-8995-c2fdee1f95c7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "47320349-e326-43f2-9b72-7a1b8ca01e89"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "38cfdb9f-3c1a-4007-b2eb-ea7f98244b0b",
+      "dutyDetail": "Work safely, following rules and regulations to protect self, colleagues and the public.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671",
+        "f96bdc4a-0b81-49c2-9023-2e8c297067ee"
+      ],
+      "mappedKnowledge": [
+        "12d9e9bf-1d03-4bc3-9a43-1067e10431a4",
+        "9dec7a29-f0a4-4dc1-ac35-a6a198345e7a",
+        "c069bc03-cdb1-49bc-b277-5681afd83bb8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ed2fd29f-2cd7-4924-b239-11f2cfe73cf6",
+        "829dd22c-94e9-45c6-a47c-212529a951ab",
+        "adcde960-aa7d-4159-b65e-310f67d63aaa"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1e4a75fc-55d0-43f9-8aeb-94e86d550fe4",
+      "dutyDetail": "Keep up to date with advances in working practices and technologies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671",
+        "361e0b6e-dd8d-4c41-811d-9f0a7e0fb64e"
+      ],
+      "mappedKnowledge": [
+        "cb61231d-ad21-412f-bf24-fa50311c0a29",
+        "e0d5c47f-ec5b-40f4-8995-c2fdee1f95c7",
+        "06560c9a-668f-4a1d-8ae6-86427cdbedb5",
+        "bcf57640-3aec-4258-90d8-0c70f60f0d11",
+        "218d8ea5-d627-486f-9d29-c4b651e57be2",
+        "862afc32-96ba-4210-a8cf-b271b5d9f09b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44f8c0f1-1e70-431d-a860-4ba70e353b61"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "87437d57-73b8-4728-a07f-c939b3830fd1",
+      "dutyDetail": "Identify how to integrate environmental conservation with other land use interests and the legislation that applies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf0f673a-a3bf-4ee5-ae5f-d606d21f9507",
+        "fce737c3-13e8-42c0-bec7-66f08d108671",
+        "361e0b6e-dd8d-4c41-811d-9f0a7e0fb64e"
+      ],
+      "mappedKnowledge": [
+        "487eb644-e44f-4034-88d0-8c8d57dd4bc6",
+        "01c28a2f-0cc8-4efa-92ea-b94d108db0f8",
+        "8cd00a1d-b255-4f41-ab35-83a91a547dc8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5f546e1c-1254-4c2a-ae1c-c5183bfae03c",
+        "626b22fd-e206-4d4b-aa9a-92f3185443db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": true,
+  "publishDate": "2026-07-23T00:00:00"
+}
