@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-04-30T00:00:00",
+  "changedDate": "2026-09-22T00:00:00",
   "earliestStartDate": "2024-04-30T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-21T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Plan, prepare and produce complex, refined patisserie in a variety of establishments.",
   "level": 3,
@@ -43,7 +43,7 @@
   "ssa2": "7.4 Hospitality and catering",
   "version": "1.0",
   "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the hospitality industry, largely in fine dining restaurants and hotels in the pastry section and in artisan patisseries.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to plan, prepare and produce complex, refined patisserie in a variety of establishments. Pastry Chefs will plan, prepare, cook and finish advanced patisserie, using a range of refined techniques, tools and specialist equipment. Patisserie includes; dough, batters, confectionery, chocolates, biscuits, pastes, pastry, decorative work including sugar, chocolate, nougatine and pastillage and hot, cold and frozen desserts. Pastry Chefs will demonstrate expertise in a range of pastry activities producing a wide range of refined products and will be required to have excellent skills in following recipes, attention to detail, and knowledge of food production methods They will work, largely, indoors and usually operate varying shifts, including early mornings and some evenings. &lt;br /&gt;&lt;br /&gt;In their daily work, a pastry chef interacts with internal customers, such as staff from across the wider organisation, other chefs, pastry chefs, bakers, junior members of the kitchen and people from other teams and functions. Other teams and functions may include front of house, maintenance, quality, warehousing, distribution and retail sections. They will have direct and indirect contact with a wide range of customers and may interact with stakeholders such as suppliers, auditors and regulators.&#160;&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for planning and producing a range of patisserie to organisational specifications using specialist equipment, meeting quality, deadlines, productivity, hygiene, financial and environmental requirements, ensuring customer complaints and compliments are handled correctly and contributing to contingency planning and new product ideas. They will ensure safe production of food and a safe working environment for themselves and colleagues. Typically, they report to a senior/line manager or head chef but often work alone or head up a section and will contribute to product development, improvement, adapting and contingency planning. They must also apply legislation to their workplaces related to food safety as well as general Health and Safety. They may take a supervisory role for other staff on their section.&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the hospitality industry, largely in fine dining restaurants and hotels in the pastry section and in artisan patisseries.&lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to plan, prepare and produce complex, refined patisserie in a variety of establishments. Pastry Chefs will plan, prepare, cook and finish advanced patisserie, using a range of refined techniques, tools and specialist equipment. Patisserie includes; dough, batters, confectionery, chocolates, biscuits, pastes, pastry, decorative work including sugar, chocolate, nougatine and pastillage and hot, cold and frozen desserts. Pastry Chefs will demonstrate expertise in a range of pastry activities producing a wide range of refined products and will be required to have excellent skills in following recipes, attention to detail, and knowledge of food production methods They will work, largely, indoors and usually operate varying shifts, including early mornings and some evenings. &lt;br&gt;&lt;br&gt;In their daily work, a pastry chef interacts with internal customers, such as staff from across the wider organisation, other chefs, pastry chefs, bakers, junior members of the kitchen and people from other teams and functions. Other teams and functions may include front of house, maintenance, quality, warehousing, distribution and retail sections. They will have direct and indirect contact with a wide range of customers and may interact with stakeholders such as suppliers, auditors and regulators.&amp;nbsp;&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for planning and producing a range of patisserie to organisational specifications using specialist equipment, meeting quality, deadlines, productivity, hygiene, financial and environmental requirements, ensuring customer complaints and compliments are handled correctly and contributing to contingency planning and new product ideas. They will ensure safe production of food and a safe working environment for themselves and colleagues. Typically, they report to a senior/line manager or head chef but often work alone or head up a section and will contribute to product development, improvement, adapting and contingency planning. They must also apply legislation to their workplaces related to food safety as well as general Health and Safety. They may take a supervisory role for other staff on their section.&amp;nbsp;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "d3bb517b-ac39-4b5d-ae0b-46b3298ee66a",
@@ -317,7 +317,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0224",
-  "tbMainContact": "catering.hospitality@education.gov.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -337,7 +337,7 @@
   "clusterId": "18",
   "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2024-01-16T10:50:05 +00:00",
-  "lastUpdated": "2024-04-30T00:00:00 +00:00",
+  "lastUpdated": "2026-09-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-04-30T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0929",
@@ -660,5 +660,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-04-30T00:00:00"
+  "publishDate": "2027-03-21T00:00:00"
 }
