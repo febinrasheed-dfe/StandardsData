@@ -1,0 +1,647 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 453,
+  "referenceNumber": "ST0694",
+  "learningAimClassCode": "",
+  "title": "Career development professional",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0694",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-07-14T00:00:00",
+  "earliestStartDate": "2027-01-28T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Assisting individuals or organisations before or during career transitions to develop long and short term career strategies.",
+  "level": 6,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "509",
+  "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Business and administration",
+  "keywords": [
+    "business management",
+    "career",
+    "HR",
+    "career development",
+    "professional",
+    "Human resources"
+  ],
+  "jobRoles": [
+    "Career adviser",
+    "Career co-ordinator",
+    "Career coach",
+    "Career consultant",
+    "Career development practitioner",
+    "Career guidance counsellor",
+    "Career leader",
+    "Iag adviser",
+    "Personal adviser",
+    "Senior employability adviser"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0694-in-revision?view=epa",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.3 Business management",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;Occupation summary&lt;/h3&gt;\n&lt;p&gt;Career Development Professionals are typically found in educational settings, training organisations, careers and employment services and human resource/learning and development departments in both the public and the private sector.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to assist individuals and/or organisations before or during career transitions to develop long and short term career strategies. Transitions could include from learning to work, returning to the labour market, returning to learning, sector/organisation/management change, redundancy and pre-retirement choices.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for helping individuals assess their own strengths, values, beliefs, and situation and connect them meaningfully to the labour market and the education system.&amp;nbsp; They are responsible for making professional judgments in the best interest of the client whilst adhering to the ethical practice required by the organisation or profession, and acting in accordance with organisational policy and relevant legislation.&amp;nbsp; A career development professional is required to act with autonomy, working independently, often on their own and in collaboration with other professionals, for example careers leaders, senior academics, social workers, course tutors, managers and HR professionals.&lt;/p&gt;\n&lt;p&gt;In their daily work, Career&amp;nbsp; Development Professionals will provide activities and services on an individual or group basis and these may be face-to-face or via on-line technology.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They will interact with: clients with a range of needs and at different stages of career awareness; training providers who support the development of skills and vocational training; schools, colleges and universities to support educational/occupational choices and labour market entry/progression; employers to broker employment opportunities including work experience and internships; and other support organisations, such as housing associations and social services to address the client&#39;s wider needs, e.g. accommodation and financial support.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They will exercise their responsibility thorough the provision of information,&amp;nbsp; ideas, tools and resources, administration of assessment and self-assessment tools, career guidance interviews,&amp;nbsp; career education programmes, career coaching, taster programmes, work-search programmes, outplacement, redundancy and transition services, retention and talent assessment reviews, career progression or promotion training, and other forms of career development related consultancy, research and professional development.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Typical job titles&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Typical job titles include career adviser, career coach, career guidance counsellor, career leader, career co-ordinator, career consultant, career development practitioner, IAG adviser, senior employability adviser, personal adviser.&lt;/p&gt;\n&lt;h3&gt;Entry requirements&lt;/h3&gt;\n&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved level two English and maths on entry.&amp;nbsp; Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&lt;/p&gt;\n&lt;p&gt;Apprentices working with young people and vulnerable adults would be required to hold a DBS clearance&lt;/p&gt;\n&lt;h3&gt;Occupation duties&lt;/h3&gt;\n&lt;table width=&quot;100%&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;h4&gt;Duty&lt;/h4&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;h4&gt;Criteria for measuring performance&lt;/h4&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;h4&gt;KSBs&lt;/h4&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D1 Reflect critically on their career development practice and service delivery, evaluating it against relevant theories, models, research and appropriate professional ethical standards in order to facilitate continuing professional development and ongoing service improvement&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should be able to demonstrate that they are able to:&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Critically evaluate own values, beliefs and their impact on practice&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Apply equality legislation and related codes of practice within career development to professional practice&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Demonstrate commitment continue to advance their knowledge and understanding , and to develop new skills to a high level&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Critically appraise own professional practice and identify and use means of support for own development&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Advocate for the career development profession&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Demonstrate an appreciation of the uncertainty, ambiguity and limits of personal knowledge&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;, K2, K6, K9, K17, K18, K19, K20, K21 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1, S4, S5, S9, S11, S17&lt;/p&gt;\n&lt;p&gt;B1, B4, B5 &lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Collaborate with colleagues, internal and external stakeholders, employers and other service providers to negotiate, design, develop, organise and evaluate programmes of activities that equip clients with the career management skills, knowledge and resources they need for their career development&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should be able to demonstrate:&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; An ability to apply the methods and techniques they have learned to review, plan and deliver activities/projects with clearly defined and measurable learning outcomes that use and blend relevant resources, client-focused techniques and approaches that best meet the needs of individuals and enable them to fully engage in their career development.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; An ability to communicate information, ideas, problems and solutions to both specialists and non-specialists&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K3, K4, K7, K12, K14, K15, K18&lt;span&gt;, K19, K20, K21, K22 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2, S3, S4&lt;span&gt;, S5, S6, S7, S8, S9, S13, S14, S17, S19 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2, B4&lt;span&gt;, B7 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D3 Prioritise and manage workloads, making effective use of management information systems and wider technology&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should be able to:&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Demonstrate a systematic&amp;nbsp; understanding of, and an ability to adhere to, the organisation’s systems and procedures,&amp;nbsp; in particular in relation to referrals and the disclosure of information&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Keep accurate and timely records in accordance with the requirements of the organisation&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Manage a caseload in accordance with the organisation’s service level agreements&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Critically evaluate policies, research and professional practice, and where appropriate propose new ways of working&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K6&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt;, S10, S13, S14&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B8 &lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D4 Motivate and equip clients to identify their short-term and long-term career development objectives and to develop plans to make progress in those objectives&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should be able to:&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Demonstrate that they are able to explain the value of lifelong learning to specialist and non-specialist audiences&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Evidence their support of the development of career management skills in others through a range of established career intervention techniques e.g. one-to-one, group work, presentations.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Identify, access, develop, maintain and critically evaluate interventions&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K11, K18&lt;/p&gt;\n&lt;p&gt;S5&lt;span&gt;, S6, S15 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3, B6 &lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D5.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Enable clients to assess their strengths, values, beliefs, situation and preferences, and to connect them to the requirements and rewards of opportunities within the education system and the labour market, inclusive of training, voluntary work and self-employment.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should be able to:&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Demonstrate that they are able to support others in assessing their strengths and connect them in a meaningful way to the labour market and education system&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Critically evaluate arguments, assumptions, abstract concepts and data (that may be incomplete), to make judgements, and to frame appropriate questions to achieve a solution - or identify a range of solutions - to a problem&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K7&lt;span&gt;, K11, K13 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S5&lt;span&gt;, S16 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt;, B6&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D6.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Design, plan, deliver and evaluate career-related learning activities using pedagogical approaches appropriate to the clients’ educational level and the organisational context&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should be able to demonstrate a systematic understanding of career related theories, models and frameworks and pedagogic approaches, and to deploy their learning in professional practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt;, K4, K5 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt;, S3, S4, S6&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B6&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D7 Prepare, conduct and evaluate structured career development interactions with clients using career counselling, guidance, coaching and advice work approaches appropriate to the clients’ needs and the organisational context&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should be able to demonstrate:&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; A critical awareness of selection and recruitment processes, combined with a systematic understanding of the world of work, and the ability to work collaboratively and advocate on behalf of others&lt;/p&gt;\n&lt;p&gt;•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The ability to deal with complex issues and make sound judgements in the absence of complete data&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K4&lt;/p&gt;\n&lt;p&gt;S4&lt;span&gt;, S6, S9, S7&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B5&lt;span&gt;, B6&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D8.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Research, assess, organise, interpret and disseminate careers-related and service delivery information, including labour market information (LMI) to meet the needs of clients, colleagues and other stakeholders&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should demonstrate a systematic understanding of, and ability to deploy established and emerging techniques of analysis and enquiry to obtain, interpret and tailor information to meet the needs of clients and others&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;, K2, K4, K6, K15, K16, K19, K21&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S11&lt;span&gt;, S12, S13, S18, S20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B4&lt;span&gt;, B7&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; D9.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Promote informed engagement with the career development service offer and enable clients to access wider career development and other support services&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;40%&quot;&gt;\n&lt;p&gt;A CDP should demonstrate a practical understanding of the policy framework,&amp;nbsp; current research, and expectations of clients and organisations, that enables them to critically evaluate and promote wider career development services&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;20%&quot;&gt;\n&lt;p&gt;K2&lt;span&gt;, K7, K8, K10, K14, K19, K22&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S7&lt;span&gt;, S8, S9, S11&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;, B4, B5, B8&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h2&gt;&lt;br&gt;KSBs&lt;/h2&gt;\n&lt;h3&gt;Knowledge&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;K1&lt;/strong&gt;&lt;span&gt; What constitutes being a professional in the career development sector and own role in influencing and informing policy; methods for recognising the impact of own values, beliefs, prejudices, bias and attitudes on own work practice, learning and development, why it is important to do so and the effective use of supervision in developing practice&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K2&lt;/strong&gt; The rationale of equality legislation and its major provisions, relevant ethical principles and codes of ethical practice and the consequences of not adhering to them&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K3&lt;/strong&gt;&lt;span&gt; Theories, models, frameworks and pedagogic approaches for the design and delivery of effective career learning curriculum that supports the development of career management skills, employability and entrepreneurialism&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K4&lt;/strong&gt;&lt;span&gt; Resources available to support the delivery of career-related learning, how they can be applied to enhance career learning within organisations and methods of validation and evaluation&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K5 &lt;/strong&gt;How people learn the different learning styles, group dynamics and interpersonal communication&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K6 &lt;/strong&gt;The purpose of caseload management and the provision of a holistic career offer, and the need for short and medium term tracking of client destinations to verify the impact of the service provider and a range of methods that can be used to monitor, evaluate and report on service effectiveness including, where appropriate the use of quality awards or standard&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K7&lt;/strong&gt;&lt;span&gt; The composition of the community network and partnerships, including the role of employers, statutory and voluntary agencies and how to use and access them&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K8&lt;/strong&gt;&lt;span&gt; How to make an appropriate referral within the organisation and to agencies external to the organisation&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K9&lt;/strong&gt;&lt;span&gt; Measures to safeguard young people and vulnerable adult, including the boundaries of confidentiality, when it is appropriate to disclose confidential information to others and the processes required&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K10 &lt;/strong&gt;How to identify, access, maintain and evaluate networks and support systems that are beneficial to the client and own personal support and developmental needs&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K11 &lt;/strong&gt;How to enable individuals to analyse their needs, aspirations and expectations&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K12 &lt;/strong&gt;Have a knowledge and understanding of career management and the related skills&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K13&lt;/strong&gt;&lt;span&gt; Basic employment rights,&amp;nbsp; the selection and recruitment processes, and tools used in the current labour market&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K14&lt;/strong&gt;&lt;span&gt; The principles and roles of brokerage and advocacy, and different approaches to influencing, negotiation, co-ordination and persuasion&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K15&lt;/strong&gt;&lt;span&gt; The meaning of career related information, including LMI and its use in career education and career guidance counselling and developmental contexts&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K16&lt;/strong&gt;&lt;span&gt; How to ensure career development information is managed and organised in a way that meets organisational requirements and is accessible to individuals&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K17&lt;/strong&gt;&lt;span&gt; The contribution of research to the body of knowledge in the profession and the concept and value of evidence-based practice&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K18&lt;/strong&gt;&lt;span&gt; How the local, regional, national and international public policy framework, variations in external drivers (political, economic, legal, social and technological) and responses of learning organisations to changes in government policy can affect the context and provision of career learning and development&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K19&lt;/strong&gt;&lt;span&gt; The different societal expectations related to career development (e.g. from the perspective of individual clients, policy-makers and employers) and ways in which career development providers incorporate legislation and guidance relating to equality, diversity, British values (where relevant), social justice and data protection into their policies and practice&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K20&lt;/strong&gt;&lt;span&gt; The current policy and implications for practice with some awareness of the history and development of career development policy and practice in the U.K.; its purpose and the social and economic benefits, in particular its role in social mobility and raising aspirations&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K21 &lt;/strong&gt;The changing context and range of employment, education and training provision available to clients and the relationships between the organisations within the sector in which the CDP is working&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;K22&lt;/strong&gt;&lt;span&gt; Methods of raising awareness of interested parties about the evolving labour market and organisational career structure&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Skills&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;S1&lt;/strong&gt;&lt;span&gt; Reflection and self-evaluation: set and achieve target and objectives for professional development, based on self-assessment and feedback from line-management, peers and clients, and identify strategies to manage the effects of change on self and the development of a positive mental attitude&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S2 &lt;/strong&gt;Organise and deliver activities with clearly defined and measurable learning outcomes that use and blend relevant resources, client-focused techniques and approaches that best meet the needs of individuals and enable them to fully engage in their career development&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S3 &lt;/strong&gt;Critically analyse and compare the major models of career-related curricula within the organisation, evaluate activities in relation to defined outcomes and plan how to improve them and their own performance&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S4 &lt;/strong&gt;Select, tailor and apply theory, concepts and effective practice relevant to the role and client base&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S5&lt;/strong&gt;&lt;span&gt; Provide critical insight in the contemporary world of work and learning, and analyse the implications of these for clients&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S6&lt;/strong&gt;&lt;span&gt; Explore and clarify expectations and agree the aim, purpose and scope of the career development activities with the client&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S7 &lt;/strong&gt;Build and sustain positive and constructive working relationships, resolve conflicts constructively in ways that do not undermine confidence&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S8&lt;/strong&gt;&lt;span&gt; Engage and sustain relationships with employers and opportunity providers, individually or as part of organisational networks&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S9&lt;/strong&gt;&lt;span&gt; Adapt activities and collaborate with other professionals to ensure that activities support and do not discriminate against clients with additional needs or who experience disadvantage&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S10 &lt;/strong&gt;Prioritise the needs of all clients and workloads in order to provide fair and balanced provision whilst maintaining personal well-being&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S11&lt;/strong&gt;&lt;span&gt; Record and analyse the outcomes of referrals so that examples of success and failure can be monitored and shared&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S12&lt;/strong&gt;&lt;span&gt; Maintain appropriate records of client interaction, to explain their use in helping clients to effect change and to satisfy organisational monitoring arrangements&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S13 &lt;/strong&gt;Use information technology and web-based resources with confidence in the support of career development activities (digital literacy)&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S14&lt;/strong&gt;&lt;span&gt; Prioritise need and provide on-going support to clients through a variety of different types of intervention and media&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S15&lt;/strong&gt;&lt;span&gt; Raise client awareness of options and broaden horizons by introducing them to unfamiliar new ideas and sources of information, challenge and support them in reframing their thinking and encouraging their career adaptability&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S16&lt;/strong&gt;&lt;span&gt; Equip, empower and encourage clients to undertake an assessment of their knowledge, skills, abilities and characteristics&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S17&lt;/strong&gt;&lt;span&gt; Apply a knowledge and understanding of theories, models, frameworks and pedagogic approaches to support the development of an individual’s career management skills&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S18&lt;/strong&gt;&lt;span&gt; Understand and make effective use of occupational information and local regional, national am international labour market intelligence, including its relationship to societal developments, e.g. technological trends, policy-making, potential bias or partiality&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S19 &lt;/strong&gt;Equip clients to use technology effectively in their career management (digital literacy)&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;S20 &lt;/strong&gt;Understand and apply appropriate research strategies to obtain, interpret and tailor information to meet the needs of clients and others, including the appropriate use of&amp;nbsp; primary, and secondary sources, and information technology, e.g. social media and web-based information sources&lt;/p&gt;\n&lt;h3&gt;Behaviours&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;B1&lt;/strong&gt;&lt;span&gt; Equality – Act in ways that are just and fair, promote access and inclusion, adhere to any legal requirements and obligations and to address and challenge inequities where encountered&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B2 &lt;/strong&gt;Integrity&amp;nbsp; –&amp;nbsp; Exercise integrity, honesty and diligence – act with trustworthiness and transparency in the provision of services, management of expectations and the honouring of promises and arrangements&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B3&lt;/strong&gt;&lt;span&gt; Impartiality – Embed the principle of impartiality into the design and delivery of career development services so that advice is based on the best interests and potential of the client, and giving them the freedom to develop their own career paths.&amp;nbsp; Where impartiality is not possible this must be disclosed at the outset&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B4 &lt;/strong&gt;Competence – Recognise the limits of own professional expertise and act within the boundaries of training and experience, and adhere at all times to the ethical practice required by the organisation or profession. To participate in continuous professional development informed by reflective practice&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B5&lt;/strong&gt;&lt;span&gt; Confidentiality - Maintain confidentiality and security of individual and organisational information that meets relevant legal requirements and organisational policy&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B6&lt;/strong&gt;&lt;span&gt; Duty of care to clients – Act in the best interest of the client and establish a purposeful and professional relationship.&amp;nbsp; Communicate in ways that are appropriate for each individual, encouraging active engagement in the process and enabling individuals to be autonomous where possible. Agree and record a realistic achievable course of action that will help individuals to progress to meet their short, medium and long-term objectives.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B7&lt;/strong&gt;&lt;span&gt; Duty of Care to colleagues&amp;nbsp; – Foster good practice across the profession by maintaining professional and supportive relationships, and being&amp;nbsp; respectful&amp;nbsp; of the contribution others make to the services and activities provided&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;B8 &lt;/strong&gt;Duty of care to organisations – Act in accordance with the organisation’s policy and procedures when prioritising the workload, creating and maintaining records and making referrals&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;English and Maths qualifications&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&amp;nbsp;&amp;nbsp;For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose&amp;nbsp;primary language is BSL.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Mandatory Qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;A level 6 or higher career-related qualification (minimum of 60 credits) approved by the Career Development Institute as giving eligibility to the Register of Career Development Professionals &lt;span&gt;&lt;a href=&quot;https://www.thecdi.net/write/Documents/CDI_UK_Register_Brochure-Feb_2018.pdf&quot;&gt;https://www.thecdi.net/write/Documents/CDI_UK_Register_Brochure-Feb_2018.pdf&lt;/a&gt;&lt;/span&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Additional details&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Occupational Level:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; 6&lt;br&gt;&lt;/span&gt;&lt;strong&gt;Duration (months):&lt;/strong&gt; 24&lt;/p&gt;\n&lt;h3&gt;Review&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Career development professionals are typically found in educational settings, training organisations, careers and employment services and human resource or learning and development departments in both the public and the private sector.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to assist individuals as well as organisations before or during career transitions to develop long and short term career strategies. Transitions could include moving from education to employment, re-entering the labour market, resuming education, changing sectors, organisations or management roles, facing redundancy, and making pre-retirement decisions.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for helping individuals assess their own strengths, values, beliefs, and situation and connect them meaningfully to the labour market and the education system. They are responsible for making professional judgements in the best interest of the client whilst adhering to the ethical practice required by the organisation or profession and acting in accordance with organisational policy and relevant legislation. A career development professional is required to act with autonomy, working independently, often on their own and in collaboration with other professionals, for example careers leaders, senior academics, social workers, course tutors, managers and HR professionals.&lt;/p&gt;\n&lt;p&gt;In their daily work, career development professionals will provide activities and services on an individual or group basis and these may be face-to-face or via on-line technology. They will help people make informed occupational choices, access decent work and facilitate sustainable development. They will interact with: clients with a range of needs and at different stages of their careers; training providers who support the development of skills and vocational training including those needed for sustainable development and the green economy; schools, colleges and universities to support educational or occupational choices and labour market entry and progression; employers to broker employment opportunities including work experience and internships; and other support organisations, such as housing associations, health care providers and social services to address the client&#39;s wider needs, for example, accommodation and financial support.&lt;/p&gt;\n&lt;p&gt;They will exercise their responsibility thorough the provision of information, ideas, tools and resources, administration of assessment and self-assessment tools, career guidance interviews, career education programmes, career coaching, taster programmes, work-search programmes, outplacement, redundancy and transition services, retention and talent assessment reviews, career progression or promotion training, and other forms of career development related consultancy, research and professional development.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "61f4fe12-a99e-4e3f-94de-b605b45077b0",
+      "detail": "Methods of reflective practice for recognising the impact of own values, beliefs, prejudices, bias and attitudes on own professional practice and continuing development."
+    },
+    {
+      "knowledgeId": "4de49743-3752-43ee-8516-725e67e187c1",
+      "detail": "Key policies, trends and developments related to career development in the UK and its role in raising aspirations and facilitating social mobility."
+    },
+    {
+      "knowledgeId": "bfb9367f-a24e-4422-9435-4538c949778f",
+      "detail": "The competing drivers that underpin careers policy and practice and how organisations manage them."
+    },
+    {
+      "knowledgeId": "747de321-3d57-407a-8bf4-84334d912c35",
+      "detail": "Own role in influencing and informing organisational, local and national policy and procedures that impact on the careers sector and professional practice."
+    },
+    {
+      "knowledgeId": "f1abb559-6a09-497a-a516-e466fd5efb99",
+      "detail": "Equality legislation, codes of practice and British values, their purpose and the consequences of not adhering to them."
+    },
+    {
+      "knowledgeId": "5c3bdeac-afa2-4991-9eff-76a1b7d86507",
+      "detail": "Measures to safeguard including young people and vulnerable adults."
+    },
+    {
+      "knowledgeId": "9681a8f5-74b4-489c-beea-835efadcec11",
+      "detail": "Policies and processes for the disclosure of confidential information, including adherence to data protection regulations."
+    },
+    {
+      "knowledgeId": "9d434a55-af3c-44e0-b830-cb2f611d860c",
+      "detail": "The needs of stakeholders, for example clients, employers and policy makers, and how their expectations can be met."
+    },
+    {
+      "knowledgeId": "c1b17cfe-504f-4a82-8818-6a7cf345e191",
+      "detail": "Community networks and partnerships, employers, statutory and voluntary agencies that are beneficial to the client as well as for own  personal support and developmental needs."
+    },
+    {
+      "knowledgeId": "b80b9b22-dd95-4f7a-8c89-c66805aa6649",
+      "detail": "Communication methods and strategies to build and sustain positive relationships, resolve conflict, and facilitate the client’s understanding."
+    },
+    {
+      "knowledgeId": "a473548d-0c4f-4d3c-8b39-878d9ebc9928",
+      "detail": "The principles and roles of brokerage and advocacy, including approaches to influencing, negotiation, co-ordination and persuasion."
+    },
+    {
+      "knowledgeId": "3f850da6-3115-4aa2-a3d6-3f061c27ee87",
+      "detail": "Referral and recording procedures within the organisation and to external agencies."
+    },
+    {
+      "knowledgeId": "5e6c676c-92c3-4797-9df9-392abaffaa8a",
+      "detail": "Alternative approaches employed in clarifying expectations and agreeing the aim of the careers interaction, and how to prepare for the interaction."
+    },
+    {
+      "knowledgeId": "ec9eb885-a87f-436b-adef-2811b13b50de",
+      "detail": "Theories, models, frameworks and delivery methods for career learning and career management."
+    },
+    {
+      "knowledgeId": "909a9a93-6a25-43d3-a91c-232816031ce1",
+      "detail": "Key concepts and processes of group dynamics and how this may this influence their practice."
+    },
+    {
+      "knowledgeId": "c9f0f9ba-9e91-4804-8e5e-e1ccec3e9122",
+      "detail": "Techniques to help clients evaluate their knowledge, skills, abilities, and personal attributes, and to reflect on their needs, goals, and expectations."
+    },
+    {
+      "knowledgeId": "e25a8e28-ca28-49a2-ab4d-7c9777045ac4",
+      "detail": "Employment rights and responsibilities including pay, hours, leave, working conditions and discrimination."
+    },
+    {
+      "knowledgeId": "61c4a687-10e6-434f-9cfb-b1ef8760fac0",
+      "detail": "The selection and recruitment processes and tools used in the labour market."
+    },
+    {
+      "knowledgeId": "34e3a19d-961d-4866-8f3a-415e8bd5a490",
+      "detail": "Caseload management and methods for short-and medium-term tracking of client destinations."
+    },
+    {
+      "knowledgeId": "f93c3b61-15fb-4c15-97c8-234758b59985",
+      "detail": "Resources, including digital, to support the delivery of career learning and career management. How they can be applied and methods of validation and evaluation."
+    },
+    {
+      "knowledgeId": "32054f57-8503-4e59-8d0d-d7292b8c403c",
+      "detail": "Education and training provision available to clients and the relationships between the organisations and within own organisation."
+    },
+    {
+      "knowledgeId": "ecbacae0-6ae0-4061-9826-f2e0c283a8f0",
+      "detail": "Career related information, including the evolving labour market and labour market information, and its use in careers education and careers guidance counselling."
+    },
+    {
+      "knowledgeId": "5dd113bd-13b6-47fb-b5a8-4dca473b824b",
+      "detail": "Career paths and skills needed for sustainable development and the green economy and how careers services can facilitate sustainable development."
+    },
+    {
+      "knowledgeId": "94427fb5-a482-4806-9e83-65c858b782ce",
+      "detail": "Quality assurance practices and why they are important.  For example, supervision, sampling and observation."
+    },
+    {
+      "knowledgeId": "21a512c3-09e6-40eb-ab33-867a1acaea32",
+      "detail": "Research methods techniques, tools, and procedures used to collect, analyse, and interpret data  and the contribution of research to the body of knowledge in the profession, including the concept and value of evidence-based practice."
+    },
+    {
+      "knowledgeId": "84fae8e0-3101-4ce0-b13d-205e36982069",
+      "detail": "Organisational requirements for the management of careers information."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "9985b09c-8826-4999-9d52-e8616545373c",
+      "detail": "Equity, Diversity and Inclusion – Act in ways that are just and fair, promote equity and diversity,  adhere to any statutory requirements and work towards the removal of barriers to personal achievement resulting from prejudice, stereotyping and discrimination."
+    },
+    {
+      "behaviourId": "45132887-0bca-4b79-97ed-dd4f678ab7a8",
+      "detail": "Integrity – Exercise integrity, honesty and diligence – act with trustworthiness and transparency in the provision of services, management of expectations and the honouring of promises and arrangements."
+    },
+    {
+      "behaviourId": "bc421d6f-58b3-4197-ace9-3fe0ac7de3e8",
+      "detail": "Impartiality – Embed the principle of impartiality into the design and delivery of career development services activities so that advice is based on the best interests and potential of the client, and giving them the freedom to develop their own career paths. Where impartiality is not possible this must be disclosed at the outset."
+    },
+    {
+      "behaviourId": "b122e580-ee79-41fa-9fa6-acec800a24fd",
+      "detail": "Competence – Act within the boundaries of training and professional expertise adhering at all times to the ethical practice required by the organisation or profession. Take personal responsibility for continuous professional development informed by reflective practice and a critical understanding of the application of emerging research, theories and technologies."
+    },
+    {
+      "behaviourId": "45ee7a26-ba46-4708-8322-e47801cc1a1e",
+      "detail": "Confidentiality – Maintain confidentiality and security of individual and organisational information that meets relevant legal requirements and organisational policy."
+    },
+    {
+      "behaviourId": "11ca6b00-9922-4b2c-950e-cc30105541be",
+      "detail": "Duty of care to clients – Act in the best interest of the client and establish a purposeful and professional relationship. Communicate in ways that are appropriate for each individual, encouraging active engagement in the process and enabling individuals to be autonomous where possible."
+    },
+    {
+      "behaviourId": "1219fdfc-2166-468d-957d-9ab2f7df49ba",
+      "detail": "Duty of Care to colleagues – Foster good practice across the profession by maintaining professional and supportive relationships, and being respectful of the contribution others make to the services and activities provided."
+    },
+    {
+      "behaviourId": "4b405c7d-6906-48e8-b8f4-fc420ad87bca",
+      "detail": "Duty of care to organisations – Act in accordance with the organisation’s policy and procedures when prioritising the workload, creating and maintaining records and making referrals."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "712eb554-f4df-4921-aea4-e4b60371eba7",
+      "detail": "Set and work towards SMART targets and objectives for enhancing professional practice using models for reflective practice."
+    },
+    {
+      "skillId": "13c247c5-a602-4de6-9572-71626379a64e",
+      "detail": "Interpret and apply the contexts, key policies, emerging trends and social, personal and economic benefits that inform and shape the delivery of career development activities."
+    },
+    {
+      "skillId": "a332ffe4-1374-42a1-8431-ad1d935be5b7",
+      "detail": "Take action to enhance quality and effectiveness as a professional, providing justification."
+    },
+    {
+      "skillId": "09d24eaa-b711-45b9-925f-f9c9606a8232",
+      "detail": "Adhere to equality legislation, codes of practice and British values, and support and promote adherence within education, training and employment."
+    },
+    {
+      "skillId": "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
+      "detail": "Build and sustain positive and constructive working relationships with clients, employers and providers, resolve conflicts protecting confidence."
+    },
+    {
+      "skillId": "f379fe21-b83b-4dbd-8179-e92333716721",
+      "detail": "Support the client to adapt their behaviour to economic and environmental changes and  recognise the scope for sustainable outcomes in their actions and approaches."
+    },
+    {
+      "skillId": "c73f2b82-a3cb-42d8-b172-27e657ee7ff3",
+      "detail": "Make, record and analyse the outcomes of referrals so that examples of success and failure can be monitored and shared."
+    },
+    {
+      "skillId": "3bfab8c5-b71b-437d-aa80-91ceb59469ff",
+      "detail": "Organise and deliver interactions with a client centred approach, including one-to-one careers interviews, with clearly defined and measurable outcomes. "
+    },
+    {
+      "skillId": "719fe850-1fd7-44ee-853f-30655dc639e0",
+      "detail": "Select, tailor and apply theory, concepts and delivery methods to support the needs of clients."
+    },
+    {
+      "skillId": "255b1ee5-d73a-4924-98f6-3f210ad28854",
+      "detail": "Adapt activities and collaborate with other professionals to support clients in ways that best meet their needs."
+    },
+    {
+      "skillId": "54b09ff5-1244-4853-a402-e97d5ddd7f21",
+      "detail": "Use information technology and digital resources to support career learning activities."
+    },
+    {
+      "skillId": "15a62551-90e8-4f23-b096-9ba6bc306f22",
+      "detail": "Explore and clarify expectations and agree the aim, purpose and scope of the careers intervention with the client."
+    },
+    {
+      "skillId": "9c9005a3-3f79-4fa9-94a2-9a8565cea66e",
+      "detail": "Raise awareness of options by introducing clients to new ideas and sources of information."
+    },
+    {
+      "skillId": "6fba98f8-e02f-497a-b8b0-c09297a0edf6",
+      "detail": "Encourage career adaptability by challenging and supporting clients to consider new ideas and opportunities."
+    },
+    {
+      "skillId": "35236068-adf1-4e4a-86e6-d125d7715529",
+      "detail": "Support the client to use diagnostic tools or methods to assess their knowledge, skills, abilities and characteristics and assessment methods."
+    },
+    {
+      "skillId": "9a6b78de-1bca-47a0-a20a-71506b4bc11b",
+      "detail": "Support the client to use technology effectively in their career management."
+    },
+    {
+      "skillId": "511612b3-7322-42fd-9b27-17f14579283e",
+      "detail": "Utilise occupational information and local regional, national and international labour market intelligence, including awareness of its potential bias or partiality."
+    },
+    {
+      "skillId": "129d444f-c843-401c-8fbe-b2c958a723d5",
+      "detail": "Utilise research strategies and techniques to obtain, interpret, tailor and present information to meet the needs of clients and others."
+    },
+    {
+      "skillId": "0be9faa8-702a-403f-b17d-2cec9d51ff25",
+      "detail": "Manage workloads and maintain records of client interaction in order to provide fair and balanced provision whilst maintaining personal well-being."
+    },
+    {
+      "skillId": "ede4073e-d2c3-494c-aefc-a50b702ac386",
+      "detail": "Prioritise need and provide on-going support to the client through a variety of interventions and media, including the use of artificial intelligence."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification with apprenticeship assessment",
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "TB0926",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Hertfordshire County Council, Complete Careers, Education Development Trust, Progress Careers, Careers England, Pathway CTM, Birmingham Metropolitan College, Progress Careers, Priory Federation of Academies Trust, University of Lancaster, Inspiration Trust, Futures Advice (Nottingham), Arden University, CareerWave, Chailey School, Arden University\n",
+  "otherInvolvedStakeholders": "The CDI, Suffolk County Council, Progress Minded, AC Training, Warwick University, Ixion Holdings, Prospects, Careers and Enterprise Company, Association of Graduate Careers Advisory Services (AGCAS), Bishop Grosseteste University",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Career adviser",
+    "Career co-ordinator",
+    "Career coach",
+    "Career consultant",
+    "Career development practitioner",
+    "Career guidance counsellor",
+    "Career leader",
+    "Iag adviser",
+    "Personal adviser",
+    "Senior employability adviser"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Human Resources",
+  "cluster": "Human resources professional",
+  "clusterId": "7",
+  "clusterDescription": "Provision of high level human resource advice and leadership across an organisation combined with the ability to define strategic and operational organisation-wide human resource challenges and to develop lasting solutions",
+  "createdDate": "2026-07-14T09:45:42 +00:00",
+  "lastUpdated": "2026-07-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-05-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0694",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0694-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0694-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "11d1d46f-0319-4376-bc45-9872ea2c36e5",
+      "title": "Cambridge OCR L6 Career Guidance and Development",
+      "level": "6 (non-degree qualification)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Career Development Institute",
+      "level": "UK Register of Career Development Professionals ",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "3a3844d3-7758-4654-96fe-411cc1b3b0c2",
+      "dutyDetail": "Reflect critically on their career development practice and service delivery, evaluating it against relevant theories, models, research and appropriate professional ethical standards in order to facilitate continuing professional development and ongoing service improvement",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9985b09c-8826-4999-9d52-e8616545373c",
+        "45132887-0bca-4b79-97ed-dd4f678ab7a8",
+        "bc421d6f-58b3-4197-ace9-3fe0ac7de3e8",
+        "b122e580-ee79-41fa-9fa6-acec800a24fd",
+        "45ee7a26-ba46-4708-8322-e47801cc1a1e"
+      ],
+      "mappedKnowledge": [
+        "61f4fe12-a99e-4e3f-94de-b605b45077b0",
+        "bfb9367f-a24e-4422-9435-4538c949778f",
+        "747de321-3d57-407a-8bf4-84334d912c35",
+        "f1abb559-6a09-497a-a516-e466fd5efb99",
+        "5c3bdeac-afa2-4991-9eff-76a1b7d86507",
+        "9d434a55-af3c-44e0-b830-cb2f611d860c",
+        "c9f0f9ba-9e91-4804-8e5e-e1ccec3e9122",
+        "e25a8e28-ca28-49a2-ab4d-7c9777045ac4",
+        "21a512c3-09e6-40eb-ab33-867a1acaea32",
+        "84fae8e0-3101-4ce0-b13d-205e36982069"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "712eb554-f4df-4921-aea4-e4b60371eba7",
+        "13c247c5-a602-4de6-9572-71626379a64e",
+        "a332ffe4-1374-42a1-8431-ad1d935be5b7",
+        "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
+        "719fe850-1fd7-44ee-853f-30655dc639e0",
+        "129d444f-c843-401c-8fbe-b2c958a723d5",
+        "0be9faa8-702a-403f-b17d-2cec9d51ff25"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9e3b0360-8bb6-48d3-ae4e-507a9e6fec77",
+      "dutyDetail": "Collaborate with colleagues, internal and external stakeholders, employers and other service providers to negotiate, design, develop, organise and evaluate programmes of activities that equip clients with the career management skills, knowledge and resources they need for their career development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9985b09c-8826-4999-9d52-e8616545373c",
+        "45132887-0bca-4b79-97ed-dd4f678ab7a8",
+        "bc421d6f-58b3-4197-ace9-3fe0ac7de3e8",
+        "b122e580-ee79-41fa-9fa6-acec800a24fd",
+        "45ee7a26-ba46-4708-8322-e47801cc1a1e",
+        "11ca6b00-9922-4b2c-950e-cc30105541be",
+        "1219fdfc-2166-468d-957d-9ab2f7df49ba",
+        "4b405c7d-6906-48e8-b8f4-fc420ad87bca"
+      ],
+      "mappedKnowledge": [
+        "4de49743-3752-43ee-8516-725e67e187c1",
+        "9681a8f5-74b4-489c-beea-835efadcec11",
+        "9d434a55-af3c-44e0-b830-cb2f611d860c",
+        "c1b17cfe-504f-4a82-8818-6a7cf345e191",
+        "b80b9b22-dd95-4f7a-8c89-c66805aa6649",
+        "a473548d-0c4f-4d3c-8b39-878d9ebc9928",
+        "ec9eb885-a87f-436b-adef-2811b13b50de",
+        "ecbacae0-6ae0-4061-9826-f2e0c283a8f0",
+        "5dd113bd-13b6-47fb-b5a8-4dca473b824b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
+        "f379fe21-b83b-4dbd-8179-e92333716721",
+        "3bfab8c5-b71b-437d-aa80-91ceb59469ff",
+        "719fe850-1fd7-44ee-853f-30655dc639e0",
+        "255b1ee5-d73a-4924-98f6-3f210ad28854",
+        "54b09ff5-1244-4853-a402-e97d5ddd7f21",
+        "15a62551-90e8-4f23-b096-9ba6bc306f22",
+        "9a6b78de-1bca-47a0-a20a-71506b4bc11b",
+        "129d444f-c843-401c-8fbe-b2c958a723d5",
+        "ede4073e-d2c3-494c-aefc-a50b702ac386"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ee6f63b5-41ae-4dcb-bf1e-65bf5c47614f",
+      "dutyDetail": "Prioritise and manage workloads, making effective use of management information systems and wider technology",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4b405c7d-6906-48e8-b8f4-fc420ad87bca"
+      ],
+      "mappedKnowledge": [
+        "61f4fe12-a99e-4e3f-94de-b605b45077b0",
+        "bfb9367f-a24e-4422-9435-4538c949778f",
+        "3f850da6-3115-4aa2-a3d6-3f061c27ee87",
+        "909a9a93-6a25-43d3-a91c-232816031ce1",
+        "e25a8e28-ca28-49a2-ab4d-7c9777045ac4",
+        "34e3a19d-961d-4866-8f3a-415e8bd5a490",
+        "94427fb5-a482-4806-9e83-65c858b782ce",
+        "21a512c3-09e6-40eb-ab33-867a1acaea32"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "09d24eaa-b711-45b9-925f-f9c9606a8232",
+        "c73f2b82-a3cb-42d8-b172-27e657ee7ff3",
+        "3bfab8c5-b71b-437d-aa80-91ceb59469ff",
+        "129d444f-c843-401c-8fbe-b2c958a723d5",
+        "0be9faa8-702a-403f-b17d-2cec9d51ff25",
+        "ede4073e-d2c3-494c-aefc-a50b702ac386"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0a528c9a-93d6-4323-ba15-80d58bbba362",
+      "dutyDetail": "Motivate and equip clients to identify their short-term and long-term career development objectives and to develop plans to make progress in those objectives",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9985b09c-8826-4999-9d52-e8616545373c",
+        "45132887-0bca-4b79-97ed-dd4f678ab7a8",
+        "bc421d6f-58b3-4197-ace9-3fe0ac7de3e8",
+        "11ca6b00-9922-4b2c-950e-cc30105541be"
+      ],
+      "mappedKnowledge": [
+        "5e6c676c-92c3-4797-9df9-392abaffaa8a",
+        "ec9eb885-a87f-436b-adef-2811b13b50de",
+        "909a9a93-6a25-43d3-a91c-232816031ce1",
+        "c9f0f9ba-9e91-4804-8e5e-e1ccec3e9122",
+        "f93c3b61-15fb-4c15-97c8-234758b59985",
+        "32054f57-8503-4e59-8d0d-d7292b8c403c",
+        "ecbacae0-6ae0-4061-9826-f2e0c283a8f0",
+        "5dd113bd-13b6-47fb-b5a8-4dca473b824b",
+        "94427fb5-a482-4806-9e83-65c858b782ce"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f379fe21-b83b-4dbd-8179-e92333716721",
+        "719fe850-1fd7-44ee-853f-30655dc639e0",
+        "54b09ff5-1244-4853-a402-e97d5ddd7f21",
+        "15a62551-90e8-4f23-b096-9ba6bc306f22",
+        "9c9005a3-3f79-4fa9-94a2-9a8565cea66e",
+        "6fba98f8-e02f-497a-b8b0-c09297a0edf6",
+        "35236068-adf1-4e4a-86e6-d125d7715529",
+        "511612b3-7322-42fd-9b27-17f14579283e",
+        "ede4073e-d2c3-494c-aefc-a50b702ac386"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "829a0988-3038-46cd-8dc8-294e924379ad",
+      "dutyDetail": "Enable clients to assess their strengths, values, beliefs, situation and preferences, and to connect them to the requirements and rewards of opportunities within the education system and the labour market, inclusive of training, voluntary work and self-employment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9985b09c-8826-4999-9d52-e8616545373c",
+        "45132887-0bca-4b79-97ed-dd4f678ab7a8",
+        "bc421d6f-58b3-4197-ace9-3fe0ac7de3e8",
+        "b122e580-ee79-41fa-9fa6-acec800a24fd",
+        "11ca6b00-9922-4b2c-950e-cc30105541be"
+      ],
+      "mappedKnowledge": [
+        "b80b9b22-dd95-4f7a-8c89-c66805aa6649",
+        "ec9eb885-a87f-436b-adef-2811b13b50de",
+        "c9f0f9ba-9e91-4804-8e5e-e1ccec3e9122",
+        "f93c3b61-15fb-4c15-97c8-234758b59985",
+        "ecbacae0-6ae0-4061-9826-f2e0c283a8f0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
+        "f379fe21-b83b-4dbd-8179-e92333716721",
+        "54b09ff5-1244-4853-a402-e97d5ddd7f21",
+        "15a62551-90e8-4f23-b096-9ba6bc306f22",
+        "9c9005a3-3f79-4fa9-94a2-9a8565cea66e",
+        "6fba98f8-e02f-497a-b8b0-c09297a0edf6",
+        "35236068-adf1-4e4a-86e6-d125d7715529",
+        "9a6b78de-1bca-47a0-a20a-71506b4bc11b",
+        "511612b3-7322-42fd-9b27-17f14579283e",
+        "129d444f-c843-401c-8fbe-b2c958a723d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e33a410a-7aea-4cb0-a78c-34f13b8905da",
+      "dutyDetail": "Design, plan, deliver and evaluate career-related learning activities using pedagogical approaches appropriate to the clients’ educational level and the organisational context",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9985b09c-8826-4999-9d52-e8616545373c",
+        "45132887-0bca-4b79-97ed-dd4f678ab7a8",
+        "bc421d6f-58b3-4197-ace9-3fe0ac7de3e8",
+        "45ee7a26-ba46-4708-8322-e47801cc1a1e"
+      ],
+      "mappedKnowledge": [
+        "5e6c676c-92c3-4797-9df9-392abaffaa8a",
+        "ec9eb885-a87f-436b-adef-2811b13b50de",
+        "909a9a93-6a25-43d3-a91c-232816031ce1",
+        "f93c3b61-15fb-4c15-97c8-234758b59985",
+        "ecbacae0-6ae0-4061-9826-f2e0c283a8f0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f379fe21-b83b-4dbd-8179-e92333716721",
+        "3bfab8c5-b71b-437d-aa80-91ceb59469ff",
+        "719fe850-1fd7-44ee-853f-30655dc639e0",
+        "255b1ee5-d73a-4924-98f6-3f210ad28854",
+        "54b09ff5-1244-4853-a402-e97d5ddd7f21",
+        "511612b3-7322-42fd-9b27-17f14579283e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "de18642b-c17d-4944-a1ec-781c24e15aa5",
+      "dutyDetail": "Prepare, conduct and evaluate structured career development interactions with clients using career counselling, guidance, coaching and advice work approaches appropriate to the clients’ needs and the organisational context",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "45ee7a26-ba46-4708-8322-e47801cc1a1e",
+        "11ca6b00-9922-4b2c-950e-cc30105541be",
+        "4b405c7d-6906-48e8-b8f4-fc420ad87bca"
+      ],
+      "mappedKnowledge": [
+        "f1abb559-6a09-497a-a516-e466fd5efb99",
+        "5c3bdeac-afa2-4991-9eff-76a1b7d86507",
+        "9681a8f5-74b4-489c-beea-835efadcec11",
+        "a473548d-0c4f-4d3c-8b39-878d9ebc9928",
+        "5e6c676c-92c3-4797-9df9-392abaffaa8a",
+        "ec9eb885-a87f-436b-adef-2811b13b50de",
+        "e25a8e28-ca28-49a2-ab4d-7c9777045ac4",
+        "61c4a687-10e6-434f-9cfb-b1ef8760fac0",
+        "ecbacae0-6ae0-4061-9826-f2e0c283a8f0",
+        "94427fb5-a482-4806-9e83-65c858b782ce",
+        "21a512c3-09e6-40eb-ab33-867a1acaea32"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "09d24eaa-b711-45b9-925f-f9c9606a8232",
+        "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
+        "f379fe21-b83b-4dbd-8179-e92333716721",
+        "3bfab8c5-b71b-437d-aa80-91ceb59469ff",
+        "719fe850-1fd7-44ee-853f-30655dc639e0",
+        "255b1ee5-d73a-4924-98f6-3f210ad28854",
+        "54b09ff5-1244-4853-a402-e97d5ddd7f21",
+        "9c9005a3-3f79-4fa9-94a2-9a8565cea66e",
+        "6fba98f8-e02f-497a-b8b0-c09297a0edf6",
+        "35236068-adf1-4e4a-86e6-d125d7715529",
+        "9a6b78de-1bca-47a0-a20a-71506b4bc11b",
+        "511612b3-7322-42fd-9b27-17f14579283e",
+        "129d444f-c843-401c-8fbe-b2c958a723d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "de323421-874d-4d21-ba00-6c2142e36ee8",
+      "dutyDetail": "Research, assess, organise, interpret and disseminate careers-related and service delivery information, including labour market information (LMI) to meet the needs of clients, colleagues and other stakeholders",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b122e580-ee79-41fa-9fa6-acec800a24fd",
+        "45ee7a26-ba46-4708-8322-e47801cc1a1e",
+        "1219fdfc-2166-468d-957d-9ab2f7df49ba"
+      ],
+      "mappedKnowledge": [
+        "9681a8f5-74b4-489c-beea-835efadcec11",
+        "f93c3b61-15fb-4c15-97c8-234758b59985",
+        "ecbacae0-6ae0-4061-9826-f2e0c283a8f0",
+        "94427fb5-a482-4806-9e83-65c858b782ce",
+        "21a512c3-09e6-40eb-ab33-867a1acaea32",
+        "84fae8e0-3101-4ce0-b13d-205e36982069"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "09d24eaa-b711-45b9-925f-f9c9606a8232",
+        "54b09ff5-1244-4853-a402-e97d5ddd7f21",
+        "129d444f-c843-401c-8fbe-b2c958a723d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "05163e95-62cf-41eb-8262-144bea45f339",
+      "dutyDetail": "Promote informed engagement with the career development service offer and enable clients to access wider career development and other support services",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9985b09c-8826-4999-9d52-e8616545373c",
+        "45132887-0bca-4b79-97ed-dd4f678ab7a8",
+        "bc421d6f-58b3-4197-ace9-3fe0ac7de3e8",
+        "b122e580-ee79-41fa-9fa6-acec800a24fd",
+        "45ee7a26-ba46-4708-8322-e47801cc1a1e"
+      ],
+      "mappedKnowledge": [
+        "bfb9367f-a24e-4422-9435-4538c949778f",
+        "747de321-3d57-407a-8bf4-84334d912c35",
+        "9d434a55-af3c-44e0-b830-cb2f611d860c",
+        "c1b17cfe-504f-4a82-8818-6a7cf345e191",
+        "a473548d-0c4f-4d3c-8b39-878d9ebc9928",
+        "32054f57-8503-4e59-8d0d-d7292b8c403c",
+        "ecbacae0-6ae0-4061-9826-f2e0c283a8f0",
+        "5dd113bd-13b6-47fb-b5a8-4dca473b824b",
+        "94427fb5-a482-4806-9e83-65c858b782ce"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13c247c5-a602-4de6-9572-71626379a64e",
+        "a332ffe4-1374-42a1-8431-ad1d935be5b7",
+        "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
+        "129d444f-c843-401c-8fbe-b2c958a723d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-01-28T00:00:00"
+}
