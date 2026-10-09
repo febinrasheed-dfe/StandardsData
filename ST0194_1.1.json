@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2025-03-19T00:00:00",
+  "changedDate": "2026-10-09T00:00:00",
   "earliestStartDate": "2025-03-19T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-08T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Selling fish and seafood products, and advising customers on how to prepare them.",
   "level": 2,
@@ -308,7 +308,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0199",
-  "tbMainContact": "crossofyork@yahoo.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "Cross of York, Seafoods (Burnham on Sea), Wellgate Fisheries, Hodgson Fish, Jenkins and Sons, Morrisons Produce Ltd, Booths Supermarket, Bidfresh, Steins Seafood Bar & Fishmongers, Off the hook, Flying fish, Bells Seafoods, Latimers Seafoods, Marr Fish, Cooper Foods, Stickleback fish, Sofina Fine Foods, Passionate about fish, Solent Seafoods",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -330,7 +330,7 @@
   "clusterId": "93",
   "clusterDescription": "Meet customer needs through making a product or service sale and dealing with domestic and commercial customers. Create displays, layouts and operations in the sales environment. Also covers craft trades in retail",
   "createdDate": "2026-01-14T10:07:47 +00:00",
-  "lastUpdated": "2025-03-19T00:00:00 +00:00",
+  "lastUpdated": "2026-10-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-05-16T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0194",
@@ -970,5 +970,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-03-19T00:00:00"
+  "publishDate": "2027-04-08T00:00:00"
 }
