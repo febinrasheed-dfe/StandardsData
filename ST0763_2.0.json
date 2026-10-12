@@ -1,0 +1,723 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 561,
+  "referenceNumber": "ST0763",
+  "learningAimClassCode": "",
+  "title": "Artificial intelligence (AI) technologist",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0763",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-10-09T00:00:00",
+  "earliestStartDate": "2027-04-27T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Discover new artificial intelligence solutions that use data to improve and automate business processes.",
+  "level": 7,
+  "ePALength": 6,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "466",
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "AI",
+    "data",
+    "Artifical",
+    "intelligence",
+    "digital",
+    "ICT",
+    "business"
+  ],
+  "jobRoles": [
+    "Ai scientist",
+    "Ai strategy manager",
+    "Ai technologist",
+    "Artificial intelligence engineer",
+    "Artificial intelligence specialist",
+    "Director ai",
+    "Machine learning engineer",
+    "Machine learning specialist"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0763-in-revision?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;Legacy&amp;nbsp;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p class=&quot;MsoBodyText&quot; style=&quot;line-height: 102%; margin: 12.55pt 12.8pt 0.0001pt 0&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 70, 1)&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; letter-spacing: -0.4px&quot;&gt;This occupation is found in any sector or organisation that uses data research, machine learning (ML) computer algorithms and embed Artificial Intelligence (AI) computer models within its business including industries such as Government departments, agriculture and animal care, accommodation and food, education, public health, health and social care, financial, legal and other professional services, engineering, technology, manufacturing, retail, sales and marketing, the arts, creative media, journalism and media production transport and recreation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoBodyText&quot; style=&quot;line-height: 102%; margin: 12.55pt 12.8pt 0.0001pt 0&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 70, 1)&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; letter-spacing: -0.4px&quot;&gt;The broad purpose of the occupation is to discover, devise validate, and enhance AI solutions to add value to the business or customers by developing the AI models to increase productivity through automation and increase business competitiveness, they drive industry advancements in AI to support, upscale and enhance human decision-making with the use of trained AI models.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoBodyText&quot; style=&quot;line-height: 102%; margin: 12.55pt 12.8pt 0.0001pt 0&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 70, 1)&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; letter-spacing: -0.4px&quot;&gt;On qualification AI technologists can lead, support and carry out applied research and conduct horizon scanning, monitoring the present and future trends, to predict and create innovative impactful data-driven AI solutions and new AI projects. They work in often dynamic environments, but within the constraints of a specific business context and company strategies such as to create, support or replace human decision making and tasks. They develop robust, safe, and secure AI solutions using large datasets, computer vision, natural language processing, algorithms, or AI-driven systems. These technologies enhance precision, reduce human workload, and enable strategic automation - allowing people to focus on tasks where human insight adds the greatest value.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoBodyText&quot; style=&quot;line-height: 102%; margin: 12.55pt 12.8pt 0.0001pt 0&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 70, 1)&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; letter-spacing: -0.4px&quot;&gt;AI technologists champion and adopt the uses of computational machine learning (ML) and AI and its applications within their organisation, to assure the business investment in developing and improving AI solutions including AI products, tools, systems and operational infrastructure. They consider and embed into their AI solutions, AI safety measures that are informed by known potential or predicted risks or threats by assessment. Applying current legislation, regulations, data &amp;amp; AI frameworks and ethical best practice, to ensure transparency, explainability, fairness, and accountability - while recognising psychological, societal, and cultural factors that influence bias, trust, and risk in AI systems.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoBodyText&quot; style=&quot;line-height: 102%; margin: 12.55pt 12.8pt 0.0001pt 0&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 70, 1)&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; letter-spacing: -0.4px&quot;&gt;In their daily work, an employee in this occupation interacts with a broad spectrum of people and collaborates with, and provides technical authority and insight to, a diverse business community of Clients, Customers, Senior Leaders, Data Scientists, ML Engineers, Data Engineers, AI Automation Engineers, Statisticians, Analysts, Research and Development Scientists.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;MsoBodyText&quot; style=&quot;line-height: 102%; margin: 12.55pt 12.8pt 0.0001pt 0&quot;&gt;&lt;span style=&quot;color: rgba(51, 64, 70, 1)&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; letter-spacing: -0.4px&quot;&gt;They typically interact internally by business partnering, or externally with other organisations, such as local and international governments, businesses, policy regulators, academic research scientists and non-technical audiences to plan, implement, support and review AI strategies, policies and solutions. They work independently and collaboratively, they typically report to Heads of AI, Heads of Data, Chief AI Architects, Company Directors, AI Product Managers and senior decision makers within the organisation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
+      "detail": "Differences and applications of machine learning methods and models such as supervised learning; semi supervised learning; unsupervised learning; natural language processing; reinforcement learning; ensemble learning; predictive, generative AI. "
+    },
+    {
+      "knowledgeId": "afd0d63b-2c1c-4c69-b24b-7605e79e4bd8",
+      "detail": "The distinction between AI and Machine Learning including their conceptual (foundational/structural), functional and ethical differences; and how these distinctions influence system design, transparency, bias, trust and human impact."
+    },
+    {
+      "knowledgeId": "f39caf66-8d68-49fb-b28e-66d62ecfe989",
+      "detail": "The purpose, methodologies and applications for AI solutions used to model, stimulate, predict, and optimise digital and physical systems. Such as Machine Learning, Computer Machine Vision, Robotics, Generative Transformer Models and Natural and Large Language Processing NLP, LLMs Models. "
+    },
+    {
+      "knowledgeId": "e80c841c-5e6a-4b99-b218-892f7bc9563a",
+      "detail": "Methods and techniques used to assess and select storage and AI platform solutions, processing technologies and machine learning methods to maximise the impact to the organisation by drawing conclusions from applied research."
+    },
+    {
+      "knowledgeId": "ad248012-df5c-4587-bf2e-ca662161d132",
+      "detail": "Statistical and mathematical methods that underpin commercial AI solutions."
+    },
+    {
+      "knowledgeId": "c2fa6d17-3560-459c-a777-26837a2c0194",
+      "detail": "Methods to extract and link data from multiple systems to meet organisational objectives such as applying web scraping, API integration or data ingestion pipelines."
+    },
+    {
+      "knowledgeId": "e6515e01-1e1b-4726-b005-bb8167ffc0ef",
+      "detail": "Techniques and processes used to evaluate the data for inclusion into AI solutions or systems. "
+    },
+    {
+      "knowledgeId": "c765e904-d945-4582-a03b-2788a29d01af",
+      "detail": "The evaluation evidence and processes used to test solutions such as test data and results from research, feasibility, acceptance and usability testing. "
+    },
+    {
+      "knowledgeId": "58f29795-b4ef-49e3-ab62-181eb84d6061",
+      "detail": "The legal, organisational, industry standards such as ISO 42001, and regulatory frameworks which affect the development, launch, delivery and iterations of AI data products and services."
+    },
+    {
+      "knowledgeId": "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+      "detail": "How own role fits within technical teams and aligns with the organisational AI strategy and objectives. "
+    },
+    {
+      "knowledgeId": "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
+      "detail": "The impact of AI solutions within the organisation including influence on decision-making, human roles, bias, trust, strategic outcomes, and the ethical, and cultural considerations required for responsible and controlled development."
+    },
+    {
+      "knowledgeId": "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
+      "detail": "The compromises and trade-offs to consider when translating AI theory into practice in the organisation."
+    },
+    {
+      "knowledgeId": "eb7585c0-df69-4819-bc91-02fc06b8a01e",
+      "detail": "Techniques for conducting risk assessments specific to AI usage, including potential reputational, operational, and legal risks. "
+    },
+    {
+      "knowledgeId": "98179ea5-5eb6-403b-aa51-126f878701f1",
+      "detail": "The value to the business of an AI solution that addresses business need, supports strategic objectives and delivers measurable outcomes in line with quality standards and restraints such as budget and timescales. "
+    },
+    {
+      "knowledgeId": "64b2d47b-d821-413f-80cf-e0e13ee0b5b8",
+      "detail": "The implementation principles for AI, including quality, security, efficiency, validity, training, testing and tuning to validate AI software components using best practice approaches such  as software testing frameworks, unit testing or test-driven development."
+    },
+    {
+      "knowledgeId": "a7116c39-3c38-4f56-8de9-982a5bc0d5f0",
+      "detail": "Techniques used to integrate AI solutions within existing systems, databases, and applications. "
+    },
+    {
+      "knowledgeId": "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+      "detail": "System architectures, scalable AI platforms, integrated infrastructures, enterprise capability, support models and service management required to develop, deploy and operate enterprise AI solutions. "
+    },
+    {
+      "knowledgeId": "9585a9aa-9d43-48c2-8c18-ff703fc5e54f",
+      "detail": "How to identify trends and emerging technologies to ensure knowledge is up to date with developments in AI. "
+    },
+    {
+      "knowledgeId": "7f0fe277-c963-4310-ac4f-f5e14a2a5ddf",
+      "detail": "The programming languages, integrated development environments and modern machine learning libraries for AI solutions. "
+    },
+    {
+      "knowledgeId": "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
+      "detail": "Best practice approaches to evaluate AI products for accuracy and performance to deliver the service and meet organisational strategy."
+    },
+    {
+      "knowledgeId": "60a6105c-4152-4434-8ed1-8319898bb6d9",
+      "detail": "The different performance and accuracy metrics for model validation in AI projects."
+    },
+    {
+      "knowledgeId": "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf",
+      "detail": "Error, bias, and limitations of datasets and methodologies applied using practices such as interpretability and Explainable AI (XAI)."
+    },
+    {
+      "knowledgeId": "f20dd211-17b1-49c0-9e79-58bf1a9d2177",
+      "detail": "The scientific method and its application in organisational and research contexts, including experimental design, hypothesis testing and evidence based decision making."
+    },
+    {
+      "knowledgeId": "7b873130-625e-4113-ab1d-b216a6b01d63",
+      "detail": "The organisational workflows and management tools to lead and architect, adapt, manage, resource, verify, validate and secure AI solutions. "
+    },
+    {
+      "knowledgeId": "7a702923-8557-4478-ae26-fc75d4066dc9",
+      "detail": "The methods and techniques used to communicate concepts and messages to meet the needs of different audiences."
+    },
+    {
+      "knowledgeId": "e4c665ac-0a47-4055-ad8d-582f5debfe85",
+      "detail": "Techniques used to engage stakeholders to develop comprehensive and inclusive AI policy creation and implementation. "
+    },
+    {
+      "knowledgeId": "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
+      "detail": "The need for accessible technology and industry standards to serve all users and diversity of user needs such as visual, auditory or mobility impairments. "
+    },
+    {
+      "knowledgeId": "3abc8cf9-ddd6-4886-b936-4dda7522279b",
+      "detail": "Principles of environmental impact assessment, AI efficiency improvement, energy systems, life-cycle assessment, and regulatory requirements to contribute to sustainable and efficient AI systems or solutions."
+    },
+    {
+      "knowledgeId": "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
+      "detail": "Principles of data governance in AI implementation ensuring ethical development, transparency, accountability, inclusivity, and regulatory compliance to promote responsible and beneficial use of AI solutions."
+    },
+    {
+      "knowledgeId": "0eccf570-8342-4d69-95f7-c78e05b34765",
+      "detail": "The fundamental principles governing the ethical utilisation of data, analytics, machine learning and AI, and their application in workplace data processing contexts."
+    },
+    {
+      "knowledgeId": "42b3169f-5814-4e84-bcb3-e98ee0f073ca",
+      "detail": "Principles of human-computer interaction, cognitive psychology, and user-centred design as applied to AI solutions."
+    },
+    {
+      "knowledgeId": "25d2faae-170e-472f-9658-3329edd7a586",
+      "detail": "Techniques for extracting, transforming and loading (ETL) data from web sources and Application Programming Interfaces (APIs), including ethical and legal considerations."
+    },
+    {
+      "knowledgeId": "4fda9129-3865-49e3-9c5e-2879c782a8ce",
+      "detail": "Techniques used to assess the societal impact of data and digital technologies, including the broader impacts on communities and stakeholders. "
+    },
+    {
+      "knowledgeId": "c37f615f-1700-49d0-a935-8b3bcf39f1b8",
+      "detail": "Privacy, data sovereignty, and intellectual property issues specifically related to Generative AI outputs and their usage."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "19bed421-3a3a-4068-a225-11f9d5fda6db",
+      "detail": "Uses initiative and innovation concerning new and emerging technologies and global trends through self-directed learning and horizon scanning."
+    },
+    {
+      "behaviourId": "ad13f254-63c8-4449-ae19-3b750ba5b30e",
+      "detail": "Prioritise ethical considerations in AI, ensuring fairness, transparency, and accountability."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
+      "detail": "Evaluate and recommend AI infrastructure, using vendor management and procurement practices to ensure compliance with technical and budgetary requirements to support AI solutions."
+    },
+    {
+      "skillId": "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
+      "detail": "Analyse test data, interpret results and evaluate the suitability of proposed solutions, considering current and future organisational requirements."
+    },
+    {
+      "skillId": "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
+      "detail": "Critically evaluate data, arguments, assumptions, abstract concepts that may be incomplete, to develop recommendations and determine AI solutions. "
+    },
+    {
+      "skillId": "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+      "detail": "Work with cross-functional teams, such as data professionals, technologists, and business stakeholders, communicating concepts and presenting in a manner appropriate to diverse audiences, adapting communication techniques accordingly such as presenting user research insight."
+    },
+    {
+      "skillId": "5fb38e34-8148-4275-8ddb-40d9e8133473",
+      "detail": "Provide specialist AI and data science expertise to evaluate organisational needs, recommending solutions to enhance strategic decision making. "
+    },
+    {
+      "skillId": "ad387712-a735-46f1-b37f-6ed049c65d3b",
+      "detail": "Provide technical advice and support to AI Product Owners, data engineers, and ML Engineers in line with organisational requirements."
+    },
+    {
+      "skillId": "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+      "detail": "Coordinate, negotiate and manage expectations of stakeholders or suppliers with conflicting priorities, interests and timescales."
+    },
+    {
+      "skillId": "075cfa31-144d-4187-98e8-4c19ea1afc3e",
+      "detail": "Select, manipulate and analyse datasets and ML models to address the operational needs and performance. "
+    },
+    {
+      "skillId": "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
+      "detail": "Apply aspects of maths and statistics to AI and data science that deliver organisational outcomes."
+    },
+    {
+      "skillId": "6dcbfa82-81f5-4990-b978-28306d8cad4d",
+      "detail": "Apply AI, machine learning and data science techniques to solve complex business problems."
+    },
+    {
+      "skillId": "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
+      "detail": "Consider the associated regulatory, legal, ethical and governance issues when evaluating choices at each stage of the lifecycle for the AI solution."
+    },
+    {
+      "skillId": "27651021-35d7-4415-a845-bbf4c6a12c47",
+      "detail": "Identify the AI framework and specific architecture and models required within the workplace including enterprise, private and public cloud resources and services."
+    },
+    {
+      "skillId": "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+      "detail": "Ensure workflow and documentation processes and management tools are implemented."
+    },
+    {
+      "skillId": "51eb9d2d-e37e-40b9-9b0f-19fd0ac2bcf3",
+      "detail": "Develop efficient, scalable, and reusable scripts to automate Business Intelligence (BI) tasks, including data extraction, transformation, loading (ETL), statistical modelling, and predictive analytics."
+    },
+    {
+      "skillId": "77934870-0074-47b2-b00b-6e6bde3b8db1",
+      "detail": "Reverse-engineer AI models from operational systems to enhance understanding and inform new modelling activities."
+    },
+    {
+      "skillId": "1347b48c-23b0-4740-ae2f-22bd81e62bb3",
+      "detail": "Create digital entities (agents) capable of autonomous action, decision-making, and learning within their environment."
+    },
+    {
+      "skillId": "e7a898fd-6c7e-4dae-937a-459533913645",
+      "detail": "Lead the development and monitoring of AI solutions and their performance. "
+    },
+    {
+      "skillId": "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+      "detail": "Apply decisions and actions to monitor, maintain and optimise AI solutions for high performance and security."
+    },
+    {
+      "skillId": "5c6bfb03-923a-473c-90b6-5483022b9d6d",
+      "detail": "Consistently implement data curation and data quality controls."
+    },
+    {
+      "skillId": "1611ed65-fb6d-40ee-a3dc-85b2f61b6d84",
+      "detail": "Apply software testing methodologies and tools to validate AI software components and ensure quality assurance."
+    },
+    {
+      "skillId": "3fe49cc8-4999-40b5-9081-a501db9ecd9e",
+      "detail": "Develop tools that visualise data systems and structures for monitoring and performance of AI solutions."
+    },
+    {
+      "skillId": "5a876141-cc26-44cc-a978-3cba7fbbfc96",
+      "detail": "Identify and quantify different kinds of uncertainty in the outputs of data collection, AI models and AI solutions."
+    },
+    {
+      "skillId": "a56bbb66-dd52-4030-93d1-bf19d08492a6",
+      "detail": "Apply scientific methods in a systematic process through experimental design, exploratory data analysis and hypothesis testing to facilitate organisational decision making."
+    },
+    {
+      "skillId": "dd0da3e4-e9c0-4654-b315-c116af9d72be",
+      "detail": "Prioritise ethical considerations when developing AI solutions, ensuring fairness, transparency, and accountability."
+    },
+    {
+      "skillId": "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
+      "detail": "Apply leadership and project management techniques to deliver AI solutions."
+    },
+    {
+      "skillId": "d90179e6-7715-4552-95c4-46942738129c",
+      "detail": "Advise and guide on the selection and use of programming languages and tools and follow software development practices."
+    },
+    {
+      "skillId": "e246397c-d210-4c62-8ccd-06a79d252ac6",
+      "detail": "Evaluate information, frame questions and conduct discussions with subject matter experts and assess existing data to scope new AI and data science requirements."
+    },
+    {
+      "skillId": "1b158e62-fba3-429a-ba1d-899e2535764e",
+      "detail": "Undertake independent, evidence-based decision-making respecting the opinions and views of others in complex, unpredictable and changing circumstances."
+    },
+    {
+      "skillId": "f00fe691-98bb-4107-88b6-d3237ebd7b21",
+      "detail": "Identify and embed changes to AI processes to deliver sustainable outcomes."
+    },
+    {
+      "skillId": "9c512181-d57b-4979-80cc-394febe54979",
+      "detail": "Comply with equality, diversity, and inclusion policies and procedures in the workplace."
+    },
+    {
+      "skillId": "eef85a95-60bf-4fc6-9f8f-754d3657da4f",
+      "detail": "Participate and share best practice for example in own organisation, or the wider community around aspects of AI data science; contributing to the development and implementation of robust AI ethics policies, procedures, and best practices framework."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "TB0521",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "British Broadcasting Corporation, Public Health England, Bank of England, Royal Mail Group, Unilever, TUI, Aviva, Shop Direct, Defence Science Technology Laboratory – MOD, Ericsson, First Response Finance LTD, GlaxoSmithKline, AstraZeneca, EasyJet, BT, Barclays, Machinable, Office of National Statistics, UBS",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Ai scientist",
+    "Ai strategy manager",
+    "Ai technologist",
+    "Artificial intelligence engineer",
+    "Artificial intelligence specialist",
+    "Director ai",
+    "Machine learning engineer",
+    "Machine learning specialist"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Business Services",
+  "cluster": "Digital solutions professional",
+  "clusterId": "235",
+  "clusterDescription": "Provide and implement technology enabled solutions to internal and external customers",
+  "createdDate": "2026-10-09T12:44:40 +00:00",
+  "lastUpdated": "2026-10-09T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-05-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0763",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0763-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0763-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "089c3251-0e7b-4c66-86b8-13681f8848b3",
+      "dutyDetail": "Lead or support on the development of innovative, scalable, data-driven AI solutions complying with organisational and stakeholder requirements in line with industry standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db"
+      ],
+      "mappedKnowledge": [
+        "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
+        "afd0d63b-2c1c-4c69-b24b-7605e79e4bd8",
+        "e80c841c-5e6a-4b99-b218-892f7bc9563a",
+        "eb7585c0-df69-4819-bc91-02fc06b8a01e",
+        "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "7a702923-8557-4478-ae26-fc75d4066dc9",
+        "e4c665ac-0a47-4055-ad8d-582f5debfe85"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "ad387712-a735-46f1-b37f-6ed049c65d3b",
+        "e7a898fd-6c7e-4dae-937a-459533913645",
+        "e246397c-d210-4c62-8ccd-06a79d252ac6",
+        "1b158e62-fba3-429a-ba1d-899e2535764e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "90143327-e308-487c-8554-e395fca880ea",
+      "dutyDetail": "Champion and perform the application of research by applying rigorous scientific methodology at all stages of research activity, including communication of the benefits and potential limitations in the results found, to ensure reliability, transparency, and trust in the outcomes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "f39caf66-8d68-49fb-b28e-66d62ecfe989",
+        "ad248012-df5c-4587-bf2e-ca662161d132",
+        "e6515e01-1e1b-4726-b005-bb8167ffc0ef",
+        "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+        "9585a9aa-9d43-48c2-8c18-ff703fc5e54f",
+        "7f0fe277-c963-4310-ac4f-f5e14a2a5ddf",
+        "f20dd211-17b1-49c0-9e79-58bf1a9d2177"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
+        "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
+        "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
+        "e7a898fd-6c7e-4dae-937a-459533913645"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "33eed38e-1e27-4a2f-ae75-4a64f36f4f3b",
+      "dutyDetail": "Lead or support on the delivery of AI in a safe, trusted and responsible manner through activities such as AI assurance, and validation, ensuring the appropriate solution for the domain.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c765e904-d945-4582-a03b-2788a29d01af",
+        "58f29795-b4ef-49e3-ab62-181eb84d6061",
+        "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+        "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
+        "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
+        "7b873130-625e-4113-ab1d-b216a6b01d63",
+        "bd0cbd73-4bf9-4f91-b018-a4dba20274d9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
+        "ad387712-a735-46f1-b37f-6ed049c65d3b",
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "075cfa31-144d-4187-98e8-4c19ea1afc3e",
+        "27651021-35d7-4415-a845-bbf4c6a12c47",
+        "e7a898fd-6c7e-4dae-937a-459533913645",
+        "3fe49cc8-4999-40b5-9081-a501db9ecd9e",
+        "5a876141-cc26-44cc-a978-3cba7fbbfc96"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "087f982e-deed-458c-bc9d-5dee46d08ac7",
+      "dutyDetail": "Enable and maximise the use and impact of AI solutions for the organisation through using appropriate AI architectures and software engineering practices including design, implementation, testing scalable AI systems using AI development frameworks and programming languages.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "afd0d63b-2c1c-4c69-b24b-7605e79e4bd8",
+        "c765e904-d945-4582-a03b-2788a29d01af",
+        "eb7585c0-df69-4819-bc91-02fc06b8a01e",
+        "64b2d47b-d821-413f-80cf-e0e13ee0b5b8",
+        "a7116c39-3c38-4f56-8de9-982a5bc0d5f0",
+        "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+        "7f0fe277-c963-4310-ac4f-f5e14a2a5ddf",
+        "25d2faae-170e-472f-9658-3329edd7a586"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
+        "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+        "51eb9d2d-e37e-40b9-9b0f-19fd0ac2bcf3",
+        "77934870-0074-47b2-b00b-6e6bde3b8db1",
+        "1347b48c-23b0-4740-ae2f-22bd81e62bb3",
+        "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+        "5c6bfb03-923a-473c-90b6-5483022b9d6d",
+        "1611ed65-fb6d-40ee-a3dc-85b2f61b6d84",
+        "d90179e6-7715-4552-95c4-46942738129c",
+        "f00fe691-98bb-4107-88b6-d3237ebd7b21"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1a936f6a-215f-4232-a274-4a54748ead71",
+      "dutyDetail": "Contribute to AI strategies and business cases that align with objectives, visions and resources, utilising a full range of AI augmented, automated and generative technologies to create and define solutions that can be integrated into products, tools, systems and infrastructure.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "58f29795-b4ef-49e3-ab62-181eb84d6061",
+        "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+        "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
+        "98179ea5-5eb6-403b-aa51-126f878701f1",
+        "7b873130-625e-4113-ab1d-b216a6b01d63"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "ad387712-a735-46f1-b37f-6ed049c65d3b",
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "6dcbfa82-81f5-4990-b978-28306d8cad4d",
+        "a56bbb66-dd52-4030-93d1-bf19d08492a6",
+        "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
+        "1b158e62-fba3-429a-ba1d-899e2535764e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "daadc633-732b-4797-bde9-b6c8e7ee489e",
+      "dutyDetail": "Lead or support the implementation of sustainable AI models, working with data sources and foundational AI techniques. Collaborate with data and domain experts to access and apply curated datasets, using suitable ML techniques and statistical approaches to ensure AI model robustness, fair decision making and relevance in early-stage AI development. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "ad248012-df5c-4587-bf2e-ca662161d132",
+        "c2fa6d17-3560-459c-a777-26837a2c0194",
+        "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+        "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf",
+        "f20dd211-17b1-49c0-9e79-58bf1a9d2177",
+        "3abc8cf9-ddd6-4886-b936-4dda7522279b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
+        "27651021-35d7-4415-a845-bbf4c6a12c47",
+        "51eb9d2d-e37e-40b9-9b0f-19fd0ac2bcf3",
+        "77934870-0074-47b2-b00b-6e6bde3b8db1",
+        "5c6bfb03-923a-473c-90b6-5483022b9d6d",
+        "a56bbb66-dd52-4030-93d1-bf19d08492a6",
+        "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
+        "d90179e6-7715-4552-95c4-46942738129c",
+        "e246397c-d210-4c62-8ccd-06a79d252ac6",
+        "f00fe691-98bb-4107-88b6-d3237ebd7b21"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e8d52fcb-3140-4cb4-92a3-5e371550b320",
+      "dutyDetail": "Lead or support on the development and maintenance of technical roadmaps for AI life- cycles ensuring clear plans for the evolution of technologies, and the relevant support and business processes, are in place.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db"
+      ],
+      "mappedKnowledge": [
+        "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+        "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
+        "64b2d47b-d821-413f-80cf-e0e13ee0b5b8",
+        "a7116c39-3c38-4f56-8de9-982a5bc0d5f0",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "7b873130-625e-4113-ab1d-b216a6b01d63"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "075cfa31-144d-4187-98e8-4c19ea1afc3e",
+        "d90179e6-7715-4552-95c4-46942738129c",
+        "1b158e62-fba3-429a-ba1d-899e2535764e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7e6d4383-b1c7-416f-9977-d9349fb2c27c",
+      "dutyDetail": "Evaluate and continuously monitor risks associated with AI decision making, such as bias, reputational, commercial, financial and legislative, applying mitigation when required. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "afd0d63b-2c1c-4c69-b24b-7605e79e4bd8",
+        "e80c841c-5e6a-4b99-b218-892f7bc9563a",
+        "e6515e01-1e1b-4726-b005-bb8167ffc0ef",
+        "58f29795-b4ef-49e3-ab62-181eb84d6061",
+        "eb7585c0-df69-4819-bc91-02fc06b8a01e",
+        "98179ea5-5eb6-403b-aa51-126f878701f1",
+        "a7116c39-3c38-4f56-8de9-982a5bc0d5f0",
+        "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+        "5c6bfb03-923a-473c-90b6-5483022b9d6d",
+        "1611ed65-fb6d-40ee-a3dc-85b2f61b6d84",
+        "3fe49cc8-4999-40b5-9081-a501db9ecd9e",
+        "5a876141-cc26-44cc-a978-3cba7fbbfc96",
+        "f00fe691-98bb-4107-88b6-d3237ebd7b21"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e3291715-6c64-4116-ac4e-563654afa0b0",
+      "dutyDetail": "Drive availability, performance and resilience of AI solutions within the organisation and support services including oversight of third-party services such as IT vendor(s) and outsourcing management where appropriate. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "a7116c39-3c38-4f56-8de9-982a5bc0d5f0",
+        "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+        "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
+        "7b873130-625e-4113-ab1d-b216a6b01d63",
+        "3abc8cf9-ddd6-4886-b936-4dda7522279b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ad387712-a735-46f1-b37f-6ed049c65d3b",
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
+        "27651021-35d7-4415-a845-bbf4c6a12c47",
+        "e7a898fd-6c7e-4dae-937a-459533913645",
+        "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
+        "e246397c-d210-4c62-8ccd-06a79d252ac6",
+        "9c512181-d57b-4979-80cc-394febe54979"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4fffac2c-fa7f-47b3-854d-5352a080071f",
+      "dutyDetail": "Practice continuous self-learning to keep up to date with technological, ethical, psychological and cultural developments in AI, enhancing relevant skills and taking responsibility for ongoing professional development and responsible innovation. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+        "9585a9aa-9d43-48c2-8c18-ff703fc5e54f",
+        "7b873130-625e-4113-ab1d-b216a6b01d63"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "eef85a95-60bf-4fc6-9f8f-754d3657da4f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1ba5741b-99bb-4aff-b15a-23fe3687c520",
+      "dutyDetail": "Explore how human psychology interacts with AI systems, understanding human-AI interaction principles to design interpretable and trustworthy solutions. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
+        "42b3169f-5814-4e84-bcb3-e98ee0f073ca",
+        "4fda9129-3865-49e3-9c5e-2879c782a8ce",
+        "c37f615f-1700-49d0-a935-8b3bcf39f1b8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dd0da3e4-e9c0-4654-b315-c116af9d72be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "42ef0031-a877-481d-9ad2-26a9d0690f49",
+      "dutyDetail": "Apply advanced machine learning techniques to solve complex problems and support AI model development including the use of large language models (LLMs), deep learning architectures, and advanced learning algorithms. Ensuring the validation, optimisation and AI models align with product, performance and ethical requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
+        "f39caf66-8d68-49fb-b28e-66d62ecfe989",
+        "7f0fe277-c963-4310-ac4f-f5e14a2a5ddf",
+        "3189ca18-4e48-41b8-a9d2-6e8adcd145c1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "075cfa31-144d-4187-98e8-4c19ea1afc3e",
+        "6dcbfa82-81f5-4990-b978-28306d8cad4d",
+        "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+        "1611ed65-fb6d-40ee-a3dc-85b2f61b6d84"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b8ecdaa7-e637-4734-b999-15b051a06547",
+      "dutyDetail": "Apply human-centric design in AI systems. Embed psychological and user-centred design principles into AI development to ensure systems are inclusive, ethical, and aligned with user needs. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf",
+        "e4c665ac-0a47-4055-ad8d-582f5debfe85",
+        "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
+        "0eccf570-8342-4d69-95f7-c78e05b34765",
+        "42b3169f-5814-4e84-bcb3-e98ee0f073ca",
+        "4fda9129-3865-49e3-9c5e-2879c782a8ce",
+        "c37f615f-1700-49d0-a935-8b3bcf39f1b8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "ad387712-a735-46f1-b37f-6ed049c65d3b",
+        "dd0da3e4-e9c0-4654-b315-c116af9d72be",
+        "9c512181-d57b-4979-80cc-394febe54979"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-04-27T00:00:00"
+}
